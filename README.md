@@ -9,7 +9,7 @@
 
 ```bash
 # Сделайте скрипты исполняемыми
-chmod +x setup.sh build.sh split_only.sh
+chmod +x setup.sh build.sh split_only.sh deploy_ghpages.sh
 
 # Запустите скрипт установки и запуска сервера
 ./setup.sh
@@ -31,7 +31,51 @@ chmod +x setup.sh build.sh split_only.sh
 
 # Собрать статический сайт
 ./build.sh
+
+# Опубликовать на GitHub Pages
+./deploy_ghpages.sh
+
+# Опубликовать на GitHub Pages
+./deploy_ghpages.sh
 ```
+
+## Публикация на GitHub Pages
+
+Для публикации сайта на GitHub Pages:
+
+1. Убедитесь, что ваш проект находится в репозитории GitHub
+2. Выполните команду:
+
+```bash
+chmod +x deploy_ghpages.sh
+./deploy_ghpages.sh
+```
+
+Скрипт автоматически:
+- Сохранит изменения в текущей ветке
+- Создаст и настроит ветку gh-pages
+- Опубликует сайт на GitHub Pages
+
+После выполнения скрипта ваш сайт будет доступен по адресу: `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
+
+## Публикация на GitHub Pages
+
+Для публикации сайта на GitHub Pages:
+
+1. Убедитесь, что ваш проект находится в репозитории GitHub
+2. Выполните команду:
+
+```bash
+chmod +x deploy_ghpages.sh
+./deploy_ghpages.sh
+```
+
+Скрипт автоматически:
+- Сохранит изменения в текущей ветке
+- Создаст и настроит ветку gh-pages
+- Опубликует сайт на GitHub Pages
+
+После выполнения скрипта ваш сайт будет доступен по адресу: `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
 
 ## Структура проекта
 
@@ -42,6 +86,7 @@ chmod +x setup.sh build.sh split_only.sh
 - `split_book.py` - скрипт для разделения большого файла на отдельные страницы
 - `venv/` - виртуальное окружение Python (создается автоматически)
 - `requirements.txt` - список зависимостей проекта
+- `deploy_ghpages.sh` - скрипт для публикации сайта на GitHub Pages
 
 ## Особенности реализации
 
@@ -78,4 +123,7 @@ mkdocs serve
 
 # ИЛИ сборка статического сайта
 mkdocs build
+
+# ИЛИ публикация на GitHub Pages
+mkdocs gh-deploy --force
 ```
