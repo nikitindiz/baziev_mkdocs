@@ -1,0 +1,33 @@
+{
+  "id": "41f668cb5b60",
+  "type": "svg",
+  "svg_content": "<svg id=\"uuid-10adc92c-baf3-40fe-82e8-08fbdd97423d\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 553.2 289.4\">   <circle cx=\"141.95\" cy=\"140.91\" r=\"128\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <circle cx=\"397.96\" cy=\"140.91\" r=\"128\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <g>     <circle cx=\"269.96\" cy=\"69.05\" r=\"18.51\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(262.74 74.88)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"269.96\" cy=\"212.32\" r=\"18.51\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(262.74 218.16)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <line x1=\"4.09\" y1=\"140.91\" x2=\"549.59\" y2=\"140.91\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"2.82\" x2=\"269.96\" y2=\"50.54\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"87.55\" x2=\"269.96\" y2=\"193.81\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"230.83\" x2=\"269.96\" y2=\"285.74\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/> </svg>",
+  "caption": "Рис. 17. Двухмостиковое соединение атомов в молекуле {{formula:db4b10b72496}} и радикале {{formula:9181f9dcfef1}}.",
+  "metadata": {
+    "db_key": "3528",
+    "src": "images/illustration_219_3.webp",
+    "svg_id": "uuid-10adc92c-baf3-40fe-82e8-08fbdd97423d",
+    "svg_viewbox": "0 0 553.2 289.4",
+    "element_counts": {
+      "path": 0,
+      "text": 2,
+      "line": 4,
+      "circle": 4,
+      "rect": 0,
+      "g": 2,
+      "polygon": 0,
+      "polyline": 0
+    },
+    "has_caption": true,
+    "caption_has_formulas": true,
+    "caption_formula_refs": [
+      "{{formula:db4b10b72496}}",
+      "{{formula:9181f9dcfef1}}"
+    ]
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 18211
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%; flex-direction: column; margin-bottom: 1em;\">\n<div style=\"width: 100%;\">\n\n<div data-db-key=\"3528\" data-src=\"images/illustration_219_3.webp\"> <svg id=\"uuid-10adc92c-baf3-40fe-82e8-08fbdd97423d\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 553.2 289.4\">   <circle cx=\"141.95\" cy=\"140.91\" r=\"128\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <circle cx=\"397.96\" cy=\"140.91\" r=\"128\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <g>     <circle cx=\"269.96\" cy=\"69.05\" r=\"18.51\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(262.74 74.88)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"269.96\" cy=\"212.32\" r=\"18.51\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(262.74 218.16)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <line x1=\"4.09\" y1=\"140.91\" x2=\"549.59\" y2=\"140.91\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"2.82\" x2=\"269.96\" y2=\"50.54\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"87.55\" x2=\"269.96\" y2=\"193.81\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <line x1=\"269.96\" y1=\"230.83\" x2=\"269.96\" y2=\"285.74\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/> </svg> </div>\n\n</div>\n<div style=\"font-style: italic; padding: 10px\">\n\nРис. 17. Двухмостиковое соединение атомов в молекуле {{formula:db4b10b72496}} и радикале {{formula:9181f9dcfef1}}.\n\n</div>\n</div>"
+}

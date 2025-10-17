@@ -1,0 +1,30 @@
+{
+  "id": "9448c156ac60",
+  "type": "svg",
+  "svg_content": "<svg id=\"uuid-ad60614d-60b7-4722-afd1-be745c09212c\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 422.4 208.4\">   <circle cx=\"211.2\" cy=\"104.2\" r=\"96.19\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <circle cx=\"211.2\" cy=\"104.2\" r=\"1.24\" style=\"fill: currentColor;\"/>   <g>     <circle cx=\"328.4\" cy=\"104.2\" r=\"21.01\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(318.52 110.19)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"94\" cy=\"104.2\" r=\"21.01\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(84.13 110.19)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"382.07\" cy=\"104.2\" r=\"32.66\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(369.41 112.75)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   </g>   <g>     <circle cx=\"40.33\" cy=\"104.2\" r=\"32.66\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(27.67 112.75)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   </g>   <text transform=\"translate(201.94 96.62)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">O</tspan></text> </svg>",
+  "caption": "Рис. 24. Отрицательная молекула воды.",
+  "metadata": {
+    "db_key": "4485",
+    "src": "images/illustration_274_0.webp",
+    "svg_id": "uuid-ad60614d-60b7-4722-afd1-be745c09212c",
+    "svg_viewbox": "0 0 422.4 208.4",
+    "element_counts": {
+      "path": 0,
+      "text": 5,
+      "line": 0,
+      "circle": 6,
+      "rect": 0,
+      "g": 4,
+      "polygon": 0,
+      "polyline": 0
+    },
+    "has_caption": true,
+    "caption_has_formulas": false,
+    "caption_formula_refs": []
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 25849
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%; flex-direction: column; margin-bottom: 1em;\">\n<div style=\"width: 100%;\">\n\n<div data-db-key=\"4485\" data-src=\"images/illustration_274_0.webp\"> <svg id=\"uuid-ad60614d-60b7-4722-afd1-be745c09212c\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 422.4 208.4\">   <circle cx=\"211.2\" cy=\"104.2\" r=\"96.19\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>   <circle cx=\"211.2\" cy=\"104.2\" r=\"1.24\" style=\"fill: currentColor;\"/>   <g>     <circle cx=\"328.4\" cy=\"104.2\" r=\"21.01\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(318.52 110.19)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"94\" cy=\"104.2\" r=\"21.01\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(84.13 110.19)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   </g>   <g>     <circle cx=\"382.07\" cy=\"104.2\" r=\"32.66\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(369.41 112.75)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   </g>   <g>     <circle cx=\"40.33\" cy=\"104.2\" r=\"32.66\" style=\"fill: none; stroke: currentColor; stroke-miterlimit: 10;\"/>     <text transform=\"translate(27.67 112.75)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   </g>   <text transform=\"translate(201.94 96.62)\" style=\"fill: currentColor; font-family: 'KaTeX_Main-Italic', KaTeX_Main; font-size: 26.76px; font-style: italic;\"><tspan x=\"0\" y=\"0\">O</tspan></text> </svg> </div>\n\n</div>\n<div style=\"font-style: italic; padding: 10px\">\n\nРис. 24. Отрицательная молекула воды.\n\n</div>\n</div>"
+}
