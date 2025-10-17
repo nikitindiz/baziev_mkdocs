@@ -1,0 +1,15 @@
+{
+  "id": "ac07a0caf270",
+  "type": "inline",
+  "latex": "b = 5,04098 \\cdot 10^{-2}",
+  "metadata": {
+    "db_key": "371",
+    "src": "images/formula_inline_26_6_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 14878
+  },
+  "wrapper_html": "<span data-db-key=\"371\" data-src=\"images/formula_inline_26_6_0.webp\"> $b = 5,04098 \\cdot 10^{-2}$ </span>"
+}

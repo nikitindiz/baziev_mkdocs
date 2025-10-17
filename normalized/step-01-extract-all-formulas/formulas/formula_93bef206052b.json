@@ -1,0 +1,15 @@
+{
+  "id": "93bef206052b",
+  "type": "display",
+  "latex": "v_i = \\frac{u_1 a_1 \\cdot k_1}{c_1} = \\frac{u_2 \\cdot a_2 \\cdot k_2}{c_2} = \\dots = \\frac{u_n a_n \\cdot k_n}{c_n} = \\text{Const}",
+  "metadata": {
+    "db_key": "2175",
+    "src": "images/formula_full_142_6.webp",
+    "equation_number": "(12.22)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 29073
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2175\" data-src=\"images/formula_full_142_6.webp\">\n<div style=\"width: 100%;\">\n\n$$v_i = \\frac{u_1 a_1 \\cdot k_1}{c_1} = \\frac{u_2 \\cdot a_2 \\cdot k_2}{c_2} = \\dots = \\frac{u_n a_n \\cdot k_n}{c_n} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.22)\n</div>\n</div>"
+}

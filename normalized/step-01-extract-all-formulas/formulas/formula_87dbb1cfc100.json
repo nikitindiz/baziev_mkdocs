@@ -1,0 +1,15 @@
+{
+  "id": "87dbb1cfc100",
+  "type": "display",
+  "latex": "w_1 = \\frac{Q_1}{w_{\\text{ед}}} = \\frac{2Q_1}{|e|} = -2,1373583",
+  "metadata": {
+    "db_key": "6352",
+    "src": "images/formula_full_393_12.webp",
+    "equation_number": "(21.1.4)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 3850
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6352\" data-src=\"images/formula_full_393_12.webp\">\n<div style=\"width: 100%;\">\n\n$$w_1 = \\frac{Q_1}{w_{\\text{ед}}} = \\frac{2Q_1}{|e|} = -2,1373583$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.4)\n</div>\n</div>"
+}

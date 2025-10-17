@@ -1,0 +1,15 @@
+{
+  "id": "ccc19374f4ed",
+  "type": "inline",
+  "latex": "H_i h_i^2",
+  "metadata": {
+    "db_key": "5422",
+    "src": "images/formula_inline_334_11_104.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 31843
+  },
+  "wrapper_html": "<span data-db-key=\"5422\" data-src=\"images/formula_inline_334_11_104.webp\"> $H_i h_i^2$ </span>"
+}

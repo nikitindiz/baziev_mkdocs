@@ -1,0 +1,15 @@
+{
+  "id": "4d1783dc5ba3",
+  "type": "inline",
+  "latex": "\\rho_3 = 346 \\text{ г/л}",
+  "metadata": {
+    "db_key": "6500",
+    "src": "images/formula_inline_402_3_15.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 41086
+  },
+  "wrapper_html": "<span data-db-key=\"6500\" data-src=\"images/formula_inline_402_3_15.webp\"> $\\rho_3 = 346 \\text{ г/л}$ </span>"
+}

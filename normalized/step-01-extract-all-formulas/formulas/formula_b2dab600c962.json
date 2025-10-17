@@ -1,0 +1,15 @@
+{
+  "id": "b2dab600c962",
+  "type": "display",
+  "latex": "m (T_{\\odot}) = m' (T_{\\odot}) + m_{f} (T_{\\odot}) = 3,1116975 \\cdot 10^{29} кг",
+  "metadata": {
+    "db_key": "7825",
+    "src": "images/formula_full_522_2_0.webp",
+    "equation_number": "(32.15)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 12701
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7825\" data-src=\"images/formula_full_522_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m (T_{\\odot}) = m' (T_{\\odot}) + m_{f} (T_{\\odot}) = 3,1116975 \\cdot 10^{29} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.15)\n</div>\n</div>"
+}

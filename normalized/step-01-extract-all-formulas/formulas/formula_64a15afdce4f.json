@@ -1,0 +1,15 @@
+{
+  "id": "64a15afdce4f",
+  "type": "inline",
+  "latex": "t = 0\\degree \\text{C} \\text{ и } P = P_0^п",
+  "metadata": {
+    "db_key": "5119",
+    "src": "images/formula_inline_314_10_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 43836
+  },
+  "wrapper_html": "<span data-db-key=\"5119\" data-src=\"images/formula_inline_314_10_4.webp\"> $t = 0\\degree \\text{C} \\text{ и } P = P_0^п$ </span>"
+}

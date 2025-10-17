@@ -1,0 +1,15 @@
+{
+  "id": "71c4edafee21",
+  "type": "display",
+  "latex": "O' + e = (O' - e)^{-} = O^{-} \\\\\nq_O = (Z_O' + e) = -1,3176489 \\cdot 10^{-19} \\text{ Кл}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 44275
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7b69ac9c55c4",
+  "type": "display",
+  "latex": "I_\\odot = \\frac{16 E^2 (e_\\oplus) \\cdot A_0^3}{T_\\oplus^2} = 1,2001975 \\cdot 10^{20} \\, \\text{м}^3 \\cdot \\text{с}^{-2} = \\text{Const}",
+  "metadata": {
+    "db_key": "2204",
+    "src": "images/formula_full_144_5.webp",
+    "equation_number": "(12.40)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 37904
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2204\" data-src=\"images/formula_full_144_5.webp\">\n<div style=\"width: 100%;\">\n\n$$I_\\odot = \\frac{16 E^2 (e_\\oplus) \\cdot A_0^3}{T_\\oplus^2} = 1,2001975 \\cdot 10^{20} \\, \\text{м}^3 \\cdot \\text{с}^{-2} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.40)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "200acdf70fdd",
+  "type": "inline",
+  "latex": "\\tau_1 = 24 \\text{ часам} = 8,64 \\cdot 10^4 \\text{ с}",
+  "metadata": {
+    "db_key": "6572",
+    "src": "images/formula_inline_409_10_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 82557
+  },
+  "wrapper_html": "<span data-db-key=\"6572\" data-src=\"images/formula_inline_409_10_0.webp\"> $\\tau_1 = 24 \\text{ часам} = 8,64 \\cdot 10^4 \\text{ с}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "63a10549b47e",
+  "type": "display",
+  "latex": "P_i = n_i \\cdot \\left( \\frac{E_{1i}}{V_{\\rho i}} + \\frac{E_{2i}}{V_{\\rho i}} \\right) + \\frac{E_{3i}}{S_i \\cdot r_i} = \\frac{n_i (E_{1i} + E_{2i})}{V_{\\rho i}} + \\frac{E_{3i}}{S_i \\cdot r_i} , \\text{Па}",
+  "metadata": {
+    "db_key": "4197",
+    "src": "images/formula_full_257_7_0.webp",
+    "equation_number": "(15.50)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 58609
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4197\" data-src=\"images/formula_full_257_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_i = n_i \\cdot \\left( \\frac{E_{1i}}{V_{\\rho i}} + \\frac{E_{2i}}{V_{\\rho i}} \\right) + \\frac{E_{3i}}{S_i \\cdot r_i} = \\frac{n_i (E_{1i} + E_{2i})}{V_{\\rho i}} + \\frac{E_{3i}}{S_i \\cdot r_i} , \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.50)\n</div>\n</div>"
+}

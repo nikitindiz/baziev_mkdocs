@@ -1,0 +1,15 @@
+{
+  "id": "679bfa4ae6bc",
+  "type": "inline",
+  "latex": "\\sigma_{p} = 1,2 \\cdot 10^{6} - 3 \\cdot 10^{6} Па",
+  "metadata": {
+    "db_key": "4941",
+    "src": "images/formula_inline_302_11_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 20589
+  },
+  "wrapper_html": "<span data-db-key=\"4941\" data-src=\"images/formula_inline_302_11_0.webp\"> $\\sigma_{p} = 1,2 \\cdot 10^{6} - 3 \\cdot 10^{6} Па$ </span>"
+}

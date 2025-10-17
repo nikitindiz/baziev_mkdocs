@@ -1,0 +1,15 @@
+{
+  "id": "5d89215c25cf",
+  "type": "display",
+  "latex": "\\gamma_{i} = \\frac{k_{i}}{\\varepsilon_{0i} \\cdot \\beta(n)} = \\frac{k_{i}t}{\\varepsilon_{0i}(n-1)}",
+  "metadata": {
+    "db_key": "1766",
+    "src": "images/formula_full_121_14_0.webp",
+    "equation_number": "(11.14)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 14767
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1766\" data-src=\"images/formula_full_121_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_{i} = \\frac{k_{i}}{\\varepsilon_{0i} \\cdot \\beta(n)} = \\frac{k_{i}t}{\\varepsilon_{0i}(n-1)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.14)\n</div>\n</div>"
+}

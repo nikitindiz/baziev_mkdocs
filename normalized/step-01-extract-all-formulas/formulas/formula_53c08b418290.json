@@ -1,0 +1,15 @@
+{
+  "id": "53c08b418290",
+  "type": "display",
+  "latex": "Z_{BN} = Z_B + Z_N + 2e = 6,83888 \\cdot 10^{-21} \\, \\text{Кл}",
+  "metadata": {
+    "db_key": "7010",
+    "src": "images/formula_inline_446_8_0.webp",
+    "equation_number": "(23.162)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 190349
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7010\" data-src=\"images/formula_inline_446_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{BN} = Z_B + Z_N + 2e = 6,83888 \\cdot 10^{-21} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.162)\n</div>\n</div>"
+}

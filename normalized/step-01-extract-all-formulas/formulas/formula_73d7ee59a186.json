@@ -1,0 +1,15 @@
+{
+  "id": "73d7ee59a186",
+  "type": "display",
+  "latex": "F_{\\omega s} = \\frac{k_{\\omega s} \\cdot G \\cdot m_s^2}{\\pi R_s^2} = 1,4371356 \\cdot 10^{34} Н",
+  "metadata": {
+    "db_key": "8160",
+    "src": "images/formula_full_546_18_0.webp",
+    "equation_number": "(34.72)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 66120
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8160\" data-src=\"images/formula_full_546_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\omega s} = \\frac{k_{\\omega s} \\cdot G \\cdot m_s^2}{\\pi R_s^2} = 1,4371356 \\cdot 10^{34} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.72)\n</div>\n</div>"
+}

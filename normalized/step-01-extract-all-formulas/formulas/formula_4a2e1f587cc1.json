@@ -1,0 +1,15 @@
+{
+  "id": "4a2e1f587cc1",
+  "type": "display",
+  "latex": "V_{n ♇}' = V_{n ♇} / (k_{n} + 1) = 5,1875247 \\cdot 10^{8} \\text{ м}^{3}",
+  "metadata": {
+    "db_key": "8718",
+    "src": "images/formula_full_585_9.webp",
+    "equation_number": "(38.98)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 55498
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8718\" data-src=\"images/formula_full_585_9.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{n ♇}' = V_{n ♇} / (k_{n} + 1) = 5,1875247 \\cdot 10^{8} \\text{ м}^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.98)\n</div>\n</div>"
+}

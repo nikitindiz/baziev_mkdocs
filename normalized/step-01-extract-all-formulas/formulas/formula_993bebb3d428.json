@@ -1,0 +1,15 @@
+{
+  "id": "993bebb3d428",
+  "type": "display",
+  "latex": "V_{n♇}' = m_{n♇}'/\\rho_n = 5,1875246 \\cdot 10^8 \\text{м}^3",
+  "metadata": {
+    "db_key": "8891",
+    "src": "images/formula_full_595_12_0.webp",
+    "equation_number": "(39.89)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 47015
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8891\" data-src=\"images/formula_full_595_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{n♇}' = m_{n♇}'/\\rho_n = 5,1875246 \\cdot 10^8 \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.89)\n</div>\n</div>"
+}

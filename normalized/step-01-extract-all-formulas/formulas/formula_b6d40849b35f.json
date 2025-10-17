@@ -1,0 +1,15 @@
+{
+  "id": "b6d40849b35f",
+  "type": "display",
+  "latex": "Q = (n_\\lambda \\cdot q_\\lambda + e/2) = -2,1755959 \\cdot 10^{-19} Кл",
+  "metadata": {
+    "db_key": "6942",
+    "src": "images/formula_full_441_12_0.webp",
+    "equation_number": "(23.142)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 172224
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6942\" data-src=\"images/formula_full_441_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q = (n_\\lambda \\cdot q_\\lambda + e/2) = -2,1755959 \\cdot 10^{-19} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.142)\n</div>\n</div>"
+}

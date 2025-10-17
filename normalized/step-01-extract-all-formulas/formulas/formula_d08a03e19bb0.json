@@ -1,0 +1,15 @@
+{
+  "id": "d08a03e19bb0",
+  "type": "inline",
+  "latex": "\\text{Дж} \\cdot K^{-1}",
+  "metadata": {
+    "db_key": "1996",
+    "src": "images/formula_inline_131_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 36872
+  },
+  "wrapper_html": "<span data-db-key=\"1996\" data-src=\"images/formula_inline_131_3_0.webp\"> $\\text{Дж} \\cdot K^{-1}$ </span>"
+}

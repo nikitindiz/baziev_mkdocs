@@ -1,0 +1,15 @@
+{
+  "id": "0af7ac677dd1",
+  "type": "display",
+  "latex": "A_i = d_{gi} - r_i - s_i",
+  "metadata": {
+    "db_key": "1513",
+    "src": "images/formula_full_107_2_0.webp",
+    "equation_number": "(10.12)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 7362
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1513\" data-src=\"images/formula_full_107_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i = d_{gi} - r_i - s_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.12)\n</div>\n</div>"
+}

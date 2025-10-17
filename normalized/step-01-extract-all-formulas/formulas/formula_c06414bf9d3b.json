@@ -1,0 +1,15 @@
+{
+  "id": "c06414bf9d3b",
+  "type": "inline",
+  "latex": "S = 4 \\pi A_0^2",
+  "metadata": {
+    "db_key": "7605",
+    "src": "images/formula_inline_503_3_54.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 13256
+  },
+  "wrapper_html": "<span data-db-key=\"7605\" data-src=\"images/formula_inline_503_3_54.webp\"> $S = 4 \\pi A_0^2$ </span>"
+}

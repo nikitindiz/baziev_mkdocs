@@ -1,0 +1,15 @@
+{
+  "id": "378b24936d4a",
+  "type": "display",
+  "latex": "W = h \\cdot \\omega \\left(S_{\\text {ед }}\\right) \\cdot \\sqrt{f_{0} v_{1}} \\cdot \\delta_{i}, \\quad \\text { Вт }",
+  "metadata": {
+    "db_key": "613",
+    "src": "images/formula_full_45_5_0.webp",
+    "equation_number": "(6.23)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 32238
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"613\" data-src=\"images/formula_full_45_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W = h \\cdot \\omega \\left(S_{\\text {ед }}\\right) \\cdot \\sqrt{f_{0} v_{1}} \\cdot \\delta_{i}, \\quad \\text { Вт }$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.23)\n</div>\n</div>"
+}

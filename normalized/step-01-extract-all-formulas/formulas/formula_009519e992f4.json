@@ -1,0 +1,15 @@
+{
+  "id": "009519e992f4",
+  "type": "display",
+  "latex": "d_g(\\alpha, n) = d_{d0i} \\cdot \\alpha_i \\cdot \\sqrt[3]{n_{si}}",
+  "metadata": {
+    "db_key": "1908",
+    "src": "images/formula_full_127_5.webp",
+    "equation_number": "(11.53)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 42247
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1908\" data-src=\"images/formula_full_127_5.webp\">\n    <div style=\"width: 100%;\">\n\n$$d_g(\\alpha, n) = d_{d0i} \\cdot \\alpha_i \\cdot \\sqrt[3]{n_{si}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.53)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82044e3dec7c",
+  "type": "display",
+  "latex": "\\frac{2\\gamma \\cdot Q_{g \\odot} \\cdot Z_{g ☾} \\cdot n}{A_0^2} - \\frac{\\gamma \\left( 2Q_{g \\oplus} + \\Delta Q_{g \\oplus} \\right) \\cdot Z_{g ☾}}{a_{☾}^2} > 0",
+  "metadata": {
+    "db_key": "6198",
+    "src": "images/formula_full_379_8_0.webp",
+    "equation_number": "(20.151)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 133086
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6198\" data-src=\"images/formula_full_379_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{2\\gamma \\cdot Q_{g \\odot} \\cdot Z_{g ☾} \\cdot n}{A_0^2} - \\frac{\\gamma \\left( 2Q_{g \\oplus} + \\Delta Q_{g \\oplus} \\right) \\cdot Z_{g ☾}}{a_{☾}^2} > 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.151)\n</div>\n</div>"
+}

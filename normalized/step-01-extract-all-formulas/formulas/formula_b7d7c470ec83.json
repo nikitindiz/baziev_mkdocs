@@ -1,0 +1,15 @@
+{
+  "id": "b7d7c470ec83",
+  "type": "inline",
+  "latex": "S_{ед} = 1 \\ м^2",
+  "metadata": {
+    "db_key": "6271",
+    "src": "images/formula_inline_385_11_10.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 3893
+  },
+  "wrapper_html": "<span data-db-key=\"6271\" data-src=\"images/formula_inline_385_11_10.webp\"> $S_{ед} = 1 \\ м^2$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f2bc53817cdd",
+  "type": "inline",
+  "latex": "\\alpha_1 = -5.884 \\cdot 10^{-2} \\, \\text{Н} \\cdot \\text{м}^{-1}",
+  "metadata": {
+    "db_key": "4742",
+    "src": "images/formula_inline_290_16_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 32856
+  },
+  "wrapper_html": "<span data-db-key=\"4742\" data-src=\"images/formula_inline_290_16_0.webp\"> $\\alpha_1 = -5.884 \\cdot 10^{-2} \\, \\text{Н} \\cdot \\text{м}^{-1}$ </span>"
+}

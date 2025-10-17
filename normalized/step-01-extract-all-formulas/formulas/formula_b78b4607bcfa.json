@@ -1,0 +1,15 @@
+{
+  "id": "b78b4607bcfa",
+  "type": "display",
+  "latex": "\\rho_{\\mu} = n(\\mu) \\cdot m_{\\mu} = \\frac{M \\cdot n_e^2 \\cdot n_{э}}{V_{\\text{ед}}} \\cdot \\frac{m_{n}}{n_e} = \\frac{M \\cdot n_e \\cdot n_{э} \\cdot m_{n}}{V_{\\text{ед}}} =",
+  "metadata": {
+    "db_key": "2924",
+    "src": "images/formula_full_186_3.webp",
+    "equation_number": "(13.118)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 187158
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2924\" data-src=\"images/formula_full_186_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{\\mu} = n(\\mu) \\cdot m_{\\mu} = \\frac{M \\cdot n_e^2 \\cdot n_{э}}{V_{\\text{ед}}} \\cdot \\frac{m_{n}}{n_e} = \\frac{M \\cdot n_e \\cdot n_{э} \\cdot m_{n}}{V_{\\text{ед}}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.118)\n</div>\n</div>"
+}

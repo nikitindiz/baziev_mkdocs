@@ -1,0 +1,15 @@
+{
+  "id": "0518e4574e13",
+  "type": "display",
+  "latex": "d_i = d_n \\cdot \\sqrt[3]{\\frac{6 A_i}{k \\cdot \\pi}}, \\text{м}",
+  "metadata": {
+    "db_key": "4177",
+    "src": "images/formula_full_256_9_0.webp",
+    "equation_number": "(15.42a)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 54532
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4177\" data-src=\"images/formula_full_256_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_i = d_n \\cdot \\sqrt[3]{\\frac{6 A_i}{k \\cdot \\pi}}, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.42a)\n</div>\n</div>"
+}

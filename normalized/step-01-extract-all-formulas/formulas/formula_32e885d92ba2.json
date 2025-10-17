@@ -1,0 +1,15 @@
+{
+  "id": "32e885d92ba2",
+  "type": "display",
+  "latex": "V_0 = \\frac{4 \\pi R_0^3}{3} - \\sum_{1}^{71} V = 1,547456 \\cdot 10^{26} \\, м^3",
+  "metadata": {
+    "db_key": "7238",
+    "src": "images/formula_full_464_5_0.webp",
+    "equation_number": "(26.6)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 5363
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7238\" data-src=\"images/formula_full_464_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_0 = \\frac{4 \\pi R_0^3}{3} - \\sum_{1}^{71} V = 1,547456 \\cdot 10^{26} \\, м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.6)\n</div>\n</div>"
+}

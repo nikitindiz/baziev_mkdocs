@@ -1,0 +1,15 @@
+{
+  "id": "7f1945753f91",
+  "type": "display",
+  "latex": "\\varepsilon_i = \\frac{E_i}{N_i} = \\frac{E_i}{M_{\\text{ед}}/m_i} = \\frac{E_i \\cdot m_i}{m_{\\text{ед}}} = \\frac{E_i \\cdot A_i \\cdot m_n}{m_{\\text{ед}}} = m_i \\cdot C_i \\cdot T_i",
+  "metadata": {
+    "db_key": "4087",
+    "src": "images/formula_full_252_5_0.webp",
+    "equation_number": "(15.19)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 33238
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4087\" data-src=\"images/formula_full_252_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_i = \\frac{E_i}{N_i} = \\frac{E_i}{M_{\\text{ед}}/m_i} = \\frac{E_i \\cdot m_i}{m_{\\text{ед}}} = \\frac{E_i \\cdot A_i \\cdot m_n}{m_{\\text{ед}}} = m_i \\cdot C_i \\cdot T_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.19)\n</div>\n</div>"
+}

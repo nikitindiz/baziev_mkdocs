@@ -1,0 +1,15 @@
+{
+  "id": "41943805212d",
+  "type": "inline",
+  "latex": "a = 2,52 \\cdot 10^{-10} \\, \\text{м}",
+  "metadata": {
+    "db_key": "2671",
+    "src": "images/formula_inline_169_6_124.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 93546
+  },
+  "wrapper_html": "<span data-db-key=\"2671\" data-src=\"images/formula_inline_169_6_124.webp\"> $a = 2,52 \\cdot 10^{-10} \\, \\text{м}$ </span>"
+}

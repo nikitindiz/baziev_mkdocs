@@ -1,0 +1,15 @@
+{
+  "id": "9ad6b50ac8e8",
+  "type": "inline",
+  "latex": "m_O = 2,6568148 \\cdot 10^{26} \\text{ KG}.",
+  "metadata": {
+    "db_key": "6546",
+    "src": "images/formula_inline_405_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 51669
+  },
+  "wrapper_html": "<span data-db-key=\"6546\" data-src=\"images/formula_inline_405_8_0.webp\"> $m_O = 2,6568148 \\cdot 10^{26} \\text{ KG}.$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9491c61645ca",
+  "type": "display",
+  "latex": "\\omega_s^2 = \\frac{F_{\\omega s} \\cdot \\pi R_s^2}{m_s \\cdot R_s^2} = \\frac{\\pi F_{\\omega s}}{m_s \\cdot R_s}",
+  "metadata": {
+    "db_key": "8162",
+    "src": "images/formula_full_546_7_0.webp",
+    "equation_number": "(34.68)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 63056
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8162\" data-src=\"images/formula_full_546_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_s^2 = \\frac{F_{\\omega s} \\cdot \\pi R_s^2}{m_s \\cdot R_s^2} = \\frac{\\pi F_{\\omega s}}{m_s \\cdot R_s}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.68)\n</div>\n</div>"
+}

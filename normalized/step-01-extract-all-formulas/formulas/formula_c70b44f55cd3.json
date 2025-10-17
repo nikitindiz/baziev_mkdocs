@@ -1,0 +1,15 @@
+{
+  "id": "c70b44f55cd3",
+  "type": "display",
+  "latex": "n_{ge} = \\sqrt{(g_e + \\omega_{\\oplus}^2 R_e) / g_e} = 1,0017323 \\,-",
+  "metadata": {
+    "db_key": "2220",
+    "src": "images/formula_full_145_18_0.webp",
+    "equation_number": "(12.50)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 43561
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2220\" data-src=\"images/formula_full_145_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{ge} = \\sqrt{(g_e + \\omega_{\\oplus}^2 R_e) / g_e} = 1,0017323 \\,-$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.50)\n</div>\n</div>"
+}

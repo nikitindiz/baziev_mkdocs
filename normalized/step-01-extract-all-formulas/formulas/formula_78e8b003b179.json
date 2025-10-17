@@ -1,0 +1,15 @@
+{
+  "id": "78e8b003b179",
+  "type": "inline",
+  "latex": "S_0' = 46\\% \\cdot S_0 = 625,6 \\text{ Вт} \\cdot \\text{м}^{-2}",
+  "metadata": {
+    "db_key": "3042",
+    "src": "images/formula_inline_194_2_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 193482
+  },
+  "wrapper_html": "<span data-db-key=\"3042\" data-src=\"images/formula_inline_194_2_3.webp\"> $S_0' = 46\\% \\cdot S_0 = 625,6 \\text{ Вт} \\cdot \\text{м}^{-2}$ </span>"
+}

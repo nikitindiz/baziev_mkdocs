@@ -1,0 +1,15 @@
+{
+  "id": "bea89491f992",
+  "type": "display",
+  "latex": "\\frac{l_{\\lambda 0 i}}{K_{0 i}^{2}} = d_n = \\text{Const}",
+  "metadata": {
+    "db_key": "3191",
+    "src": "images/formula_full_202_9_0.webp",
+    "equation_number": "(13.178)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 292797
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3191\" data-src=\"images/formula_full_202_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{l_{\\lambda 0 i}}{K_{0 i}^{2}} = d_n = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.178)\n</div>\n</div>"
+}

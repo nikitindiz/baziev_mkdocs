@@ -1,0 +1,15 @@
+{
+  "id": "adcedfb3f8d1",
+  "type": "display",
+  "latex": "\\begin{aligned}\n& T_{\\text{max}} \\approx 70\\degree \\text{C} \\approx 343 \\text{ К} \\\\\n& f_{\\text{max}} = \\psi \\cdot T_{\\text{max}} = 7,14126 \\cdot 10^{12} \\, \\text{с}^{-1}\n\\end{aligned}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 12053
+  },
+  "wrapper_html": null
+}

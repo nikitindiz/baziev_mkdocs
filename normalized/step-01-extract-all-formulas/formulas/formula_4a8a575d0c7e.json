@@ -1,0 +1,15 @@
+{
+  "id": "4a8a575d0c7e",
+  "type": "inline",
+  "latex": "\\omega_i",
+  "metadata": {
+    "db_key": "9224",
+    "src": "images/formula_inline_626_1_68.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 8217
+  },
+  "wrapper_html": "<span data-db-key=\"9224\" data-src=\"images/formula_inline_626_1_68.webp\"> $\\omega_i$ </span>"
+}

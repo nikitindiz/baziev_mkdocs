@@ -1,0 +1,15 @@
+{
+  "id": "dc8aca5fcb1e",
+  "type": "inline",
+  "latex": "C_2 = 2 \\psi_в^2 \\cdot T_c \\cdot \\sin \\alpha_c = \\text{Const}",
+  "metadata": {
+    "db_key": "6076",
+    "src": "images/formula_inline_371_8_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 74292
+  },
+  "wrapper_html": "<span data-db-key=\"6076\" data-src=\"images/formula_inline_371_8_23.webp\"> $C_2 = 2 \\psi_в^2 \\cdot T_c \\cdot \\sin \\alpha_c = \\text{Const}$ </span>"
+}

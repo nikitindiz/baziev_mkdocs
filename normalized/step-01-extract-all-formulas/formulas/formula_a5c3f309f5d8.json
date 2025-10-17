@@ -1,0 +1,15 @@
+{
+  "id": "a5c3f309f5d8",
+  "type": "display",
+  "latex": "mc^2 = h\\nu = \\frac{h \\cdot c}{\\lambda}",
+  "metadata": {
+    "db_key": "1367",
+    "src": "images/formula_full_95_2_0.webp",
+    "equation_number": "(9.62)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 48181
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1367\" data-src=\"images/formula_full_95_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$mc^2 = h\\nu = \\frac{h \\cdot c}{\\lambda}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.62)\n</div>\n</div>"
+}

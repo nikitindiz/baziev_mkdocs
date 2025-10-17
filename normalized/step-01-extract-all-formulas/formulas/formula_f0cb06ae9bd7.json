@@ -1,0 +1,15 @@
+{
+  "id": "f0cb06ae9bd7",
+  "type": "inline",
+  "latex": "n_э",
+  "metadata": {
+    "db_key": "6642",
+    "src": "images/formula_inline_416_2_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 15718
+  },
+  "wrapper_html": "<span data-db-key=\"6642\" data-src=\"images/formula_inline_416_2_0.webp\"> $n_э$ </span>"
+}

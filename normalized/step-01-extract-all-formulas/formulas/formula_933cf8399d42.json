@@ -1,0 +1,15 @@
+{
+  "id": "933cf8399d42",
+  "type": "display",
+  "latex": "F_a = F_{n, \\min} = \\gamma \\cdot \\frac{2 \\cdot q_\\lambda \\cdot э}{(R_n + R_e)^2} = \\text{Const}",
+  "metadata": {
+    "db_key": "1260",
+    "src": "images/formula_full_88_11.webp",
+    "equation_number": "(9.29)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 22705
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1260\" data-src=\"images/formula_full_88_11.webp\">\n<div style=\"width: 100%;\">\n\n$$F_a = F_{n, \\min} = \\gamma \\cdot \\frac{2 \\cdot q_\\lambda \\cdot э}{(R_n + R_e)^2} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.29)\n</div>\n</div>"
+}

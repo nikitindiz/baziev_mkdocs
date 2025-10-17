@@ -1,0 +1,15 @@
+{
+  "id": "8e032844b1cc",
+  "type": "inline",
+  "latex": "\\hbar",
+  "metadata": {
+    "db_key": "9279",
+    "src": "images/formula_inline_627_1_227.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 19618
+  },
+  "wrapper_html": "<span data-db-key=\"9279\" data-src=\"images/formula_inline_627_1_227.webp\"> $\\hbar$ </span>"
+}

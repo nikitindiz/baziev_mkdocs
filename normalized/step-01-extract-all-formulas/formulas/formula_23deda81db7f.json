@@ -1,0 +1,15 @@
+{
+  "id": "23deda81db7f",
+  "type": "display",
+  "latex": "E_{s1} = \\frac{\\varphi_{H_2O} \\cdot (q+z) + 2k_0^ж \\cdot T_1}{2V_1} = \\frac{-11.501936 \\cdot 10^{-20} + 3.3848226 \\cdot 10^{-22}}{5.7135052 \\cdot 10^{-29} \\text{ м}^3} =",
+  "metadata": {
+    "db_key": "5019",
+    "src": "images/formula_full_308_8.webp",
+    "equation_number": "(18.96)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 56165
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5019\" data-src=\"images/formula_full_308_8.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s1} = \\frac{\\varphi_{H_2O} \\cdot (q+z) + 2k_0^ж \\cdot T_1}{2V_1} = \\frac{-11.501936 \\cdot 10^{-20} + 3.3848226 \\cdot 10^{-22}}{5.7135052 \\cdot 10^{-29} \\text{ м}^3} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.96)\n</div>\n</div>"
+}

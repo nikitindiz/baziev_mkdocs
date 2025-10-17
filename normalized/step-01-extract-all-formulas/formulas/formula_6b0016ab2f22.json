@@ -1,0 +1,15 @@
+{
+  "id": "6b0016ab2f22",
+  "type": "display",
+  "latex": "\\overline{m}_s = \\frac{18,38 \\cdot m_s (H_2SO_4) + 81,62 \\cdot m_s}{100} = 1,3798319 \\cdot 10^{-22} кг",
+  "metadata": {
+    "db_key": "6465",
+    "src": "images/formula_full_401_2.webp",
+    "equation_number": "(21.1.48)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 47343
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6465\" data-src=\"images/formula_full_401_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\overline{m}_s = \\frac{18,38 \\cdot m_s (H_2SO_4) + 81,62 \\cdot m_s}{100} = 1,3798319 \\cdot 10^{-22} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.48)\n</div>\n</div>"
+}

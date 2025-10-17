@@ -1,0 +1,15 @@
+{
+  "id": "a0c7df6d3dec",
+  "type": "inline",
+  "latex": "N_{ek} \\cdot f_{ek}",
+  "metadata": {
+    "db_key": "7323",
+    "src": "images/formula_inline_472_4_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 27729
+  },
+  "wrapper_html": "<span data-db-key=\"7323\" data-src=\"images/formula_inline_472_4_9.webp\"> $N_{ek} \\cdot f_{ek}$ </span>"
+}

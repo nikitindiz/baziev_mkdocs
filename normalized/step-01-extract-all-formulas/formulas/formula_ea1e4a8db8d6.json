@@ -1,0 +1,15 @@
+{
+  "id": "ea1e4a8db8d6",
+  "type": "display",
+  "latex": "k_{\\rho} = \\rho_n / \\rho_{N\\odot} = 424,14896 = \\text{Const}",
+  "metadata": {
+    "db_key": "7469",
+    "src": "images/formula_full_483_24_0.webp",
+    "equation_number": "(27.21)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
+    "position": 16359
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7469\" data-src=\"images/formula_full_483_24_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{\\rho} = \\rho_n / \\rho_{N\\odot} = 424,14896 = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.21)\n</div>\n</div>"
+}

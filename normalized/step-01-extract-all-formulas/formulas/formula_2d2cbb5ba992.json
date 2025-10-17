@@ -1,0 +1,15 @@
+{
+  "id": "2d2cbb5ba992",
+  "type": "display",
+  "latex": "F_3' = -2 \\cdot \\frac{\\text{э} \\cdot \\varphi_s}{O_2 B} = -\\frac{4\\text{э} \\cdot \\varphi_s}{a \\sqrt{5}}",
+  "metadata": {
+    "db_key": "3271",
+    "src": "images/formula_full_206_21_0.webp",
+    "equation_number": "(13.194)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 339108
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3271\" data-src=\"images/formula_full_206_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_3' = -2 \\cdot \\frac{\\text{э} \\cdot \\varphi_s}{O_2 B} = -\\frac{4\\text{э} \\cdot \\varphi_s}{a \\sqrt{5}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.194)\n</div>\n</div>"
+}

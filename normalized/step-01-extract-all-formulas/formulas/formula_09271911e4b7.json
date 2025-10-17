@@ -1,0 +1,15 @@
+{
+  "id": "09271911e4b7",
+  "type": "inline",
+  "latex": "\\Delta l = \\Delta \\tau \\cdot v_0 = 5,7985 \\cdot 10^6 \\, \\text{м}",
+  "metadata": {
+    "db_key": "5506",
+    "src": "images/formula_inline_339_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 55066
+  },
+  "wrapper_html": "<span data-db-key=\"5506\" data-src=\"images/formula_inline_339_8_0.webp\"> $\\Delta l = \\Delta \\tau \\cdot v_0 = 5,7985 \\cdot 10^6 \\, \\text{м}$ </span>"
+}

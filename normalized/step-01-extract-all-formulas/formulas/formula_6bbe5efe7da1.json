@@ -1,0 +1,15 @@
+{
+  "id": "6bbe5efe7da1",
+  "type": "inline",
+  "latex": "\\alpha_i",
+  "metadata": {
+    "db_key": "7613",
+    "src": "images/formula_inline_504_6_33.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 15037
+  },
+  "wrapper_html": "<span data-db-key=\"7613\" data-src=\"images/formula_inline_504_6_33.webp\"> $\\alpha_i$ </span>"
+}

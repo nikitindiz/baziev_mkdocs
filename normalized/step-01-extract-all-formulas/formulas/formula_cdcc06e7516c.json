@@ -1,0 +1,15 @@
+{
+  "id": "cdcc06e7516c",
+  "type": "inline",
+  "latex": "\\omega_\\odot",
+  "metadata": {
+    "db_key": "7198",
+    "src": "images/formula_inline_461_8_10.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 5179
+  },
+  "wrapper_html": "<span data-db-key=\"7198\" data-src=\"images/formula_inline_461_8_10.webp\"> $\\omega_\\odot$ </span>"
+}

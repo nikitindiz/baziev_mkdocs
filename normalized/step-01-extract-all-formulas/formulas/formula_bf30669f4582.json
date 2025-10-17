@@ -1,0 +1,15 @@
+{
+  "id": "bf30669f4582",
+  "type": "display",
+  "latex": "n_i = n^ж \\cdot \\frac{\\rho_i}{\\rho^ж} \\cdot \\frac{m_0}{m_i}",
+  "metadata": {
+    "db_key": "6402",
+    "src": "images/formula_full_397_15_0.webp",
+    "equation_number": "(21.1.31)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 34703
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6402\" data-src=\"images/formula_full_397_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_i = n^ж \\cdot \\frac{\\rho_i}{\\rho^ж} \\cdot \\frac{m_0}{m_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.31)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dbd85a1ae4b7",
+  "type": "inline",
+  "latex": "M_{H_2O} = 832 \\text{ кг}",
+  "metadata": {
+    "db_key": "6436",
+    "src": "images/formula_inline_399_11_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 34885
+  },
+  "wrapper_html": "<span data-db-key=\"6436\" data-src=\"images/formula_inline_399_11_0.webp\"> $M_{H_2O} = 832 \\text{ кг}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60398dddce43",
+  "type": "display",
+  "latex": "m_\\odot = I_\\odot / G = 1,7988565 \\cdot 10^{30} \\text{ кг}",
+  "metadata": {
+    "db_key": "7925",
+    "src": "images/formula_full_528_24_0.webp",
+    "equation_number": "(33.21)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/index.md",
+    "position": 17185
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7925\" data-src=\"images/formula_full_528_24_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_\\odot = I_\\odot / G = 1,7988565 \\cdot 10^{30} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.21)\n</div>\n</div>"
+}

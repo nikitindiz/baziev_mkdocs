@@ -1,0 +1,15 @@
+{
+  "id": "5ec4c4616fe8",
+  "type": "display",
+  "latex": "P_n + P_\\nu = 0",
+  "metadata": {
+    "db_key": "7358",
+    "src": "images/formula_inline_474_3_0.webp",
+    "equation_number": "(26.50)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 47025
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7358\" data-src=\"images/formula_inline_474_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_n + P_\\nu = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.50)\n</div>\n</div>"
+}

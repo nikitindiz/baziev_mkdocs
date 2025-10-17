@@ -1,0 +1,15 @@
+{
+  "id": "896f4eb13b69",
+  "type": "display",
+  "latex": "d_c = \\sqrt[3]{d_{\\text{max}} \\cdot d_{\\text{min}} \\cdot d_{\\text{med}}} = \\sqrt[3]{64,22094 \\cdot 10^{-30}} = 4,0045977 \\cdot 10^{-10} \\, \\text{м}",
+  "metadata": {
+    "db_key": "5188",
+    "src": "images/formula_full_319_16_0.webp",
+    "equation_number": "(18.181)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 103726
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5188\" data-src=\"images/formula_full_319_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_c = \\sqrt[3]{d_{\\text{max}} \\cdot d_{\\text{min}} \\cdot d_{\\text{med}}} = \\sqrt[3]{64,22094 \\cdot 10^{-30}} = 4,0045977 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.181)\n</div>\n</div>"
+}

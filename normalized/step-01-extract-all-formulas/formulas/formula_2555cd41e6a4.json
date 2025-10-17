@@ -1,0 +1,15 @@
+{
+  "id": "2555cd41e6a4",
+  "type": "display",
+  "latex": "P_1 = \\frac{K_1 \\cdot E_1}{V_1} = \\frac{-9,9260123 \\cdot 10^{-18}}{1,1893568 \\cdot 10^{-29}} = -8,3456976 \\cdot 10^{11} \\, \\text{Па}",
+  "metadata": {
+    "db_key": "7019",
+    "src": "images/formula_full_447_21.webp",
+    "equation_number": "(23.176)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 195803
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7019\" data-src=\"images/formula_full_447_21.webp\">\n<div style=\"width: 100%;\">\n\n$$P_1 = \\frac{K_1 \\cdot E_1}{V_1} = \\frac{-9,9260123 \\cdot 10^{-18}}{1,1893568 \\cdot 10^{-29}} = -8,3456976 \\cdot 10^{11} \\, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.176)\n</div>\n</div>"
+}

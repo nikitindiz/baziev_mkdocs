@@ -1,0 +1,15 @@
+{
+  "id": "b2b1d76af35c",
+  "type": "display",
+  "latex": "r_{H_2} = \\frac{э \\cdot \\varphi}{m_{H_2} \\cdot v_{H_2} \\cdot \\nu_{\\text{ед}}} = 2,6037968 \\cdot 10^{-12} \\, \\text{м}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 10328
+  },
+  "wrapper_html": null
+}

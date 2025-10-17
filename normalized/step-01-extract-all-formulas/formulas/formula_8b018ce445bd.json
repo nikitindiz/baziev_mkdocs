@@ -1,0 +1,15 @@
+{
+  "id": "8b018ce445bd",
+  "type": "inline",
+  "latex": "R_n",
+  "metadata": {
+    "db_key": "9151",
+    "src": "images/formula_inline_625_0_147.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 3516
+  },
+  "wrapper_html": "<span data-db-key=\"9151\" data-src=\"images/formula_inline_625_0_147.webp\"> $R_n$ </span>"
+}

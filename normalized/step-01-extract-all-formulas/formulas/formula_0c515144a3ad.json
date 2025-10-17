@@ -1,0 +1,15 @@
+{
+  "id": "0c515144a3ad",
+  "type": "display",
+  "latex": "\\bar{q}_2 = (4L_1 + bq_2)/10 = -8,85855 \\cdot 10^{-20} \\text{ Кл}",
+  "metadata": {
+    "db_key": "6667",
+    "src": "images/formula_full_419_14_0.webp",
+    "equation_number": "(23.12)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 11387
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6667\" data-src=\"images/formula_full_419_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\bar{q}_2 = (4L_1 + bq_2)/10 = -8,85855 \\cdot 10^{-20} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.12)\n</div>\n</div>"
+}

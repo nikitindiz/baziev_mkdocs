@@ -1,0 +1,15 @@
+{
+  "id": "0e4de762af1d",
+  "type": "display",
+  "latex": "u_{ki} = \\frac{u_i}{3} \\cdot \\frac{P_2}{P_1} = \\frac{u_i}{3} \\cdot \\frac{\\rho_1}{\\rho_2} = \\frac{u_i}{3} \\cdot \\frac{V_{g2}}{V_{g1}} = \\frac{u_i}{3} \\cdot \\frac{d_{g2}^3}{d_{g1}^3} = \\frac{r_i f_i \\cdot d_{g2}^3}{3d_{g1}^3} , м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "670",
+    "src": "images/formula_full_48_5.webp",
+    "equation_number": "(6.37)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 45655
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"670\" data-src=\"images/formula_full_48_5.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{ki} = \\frac{u_i}{3} \\cdot \\frac{P_2}{P_1} = \\frac{u_i}{3} \\cdot \\frac{\\rho_1}{\\rho_2} = \\frac{u_i}{3} \\cdot \\frac{V_{g2}}{V_{g1}} = \\frac{u_i}{3} \\cdot \\frac{d_{g2}^3}{d_{g1}^3} = \\frac{r_i f_i \\cdot d_{g2}^3}{3d_{g1}^3} , м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.37)\n</div>\n</div>"
+}

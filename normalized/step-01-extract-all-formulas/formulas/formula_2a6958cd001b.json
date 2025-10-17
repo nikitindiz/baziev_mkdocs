@@ -1,0 +1,15 @@
+{
+  "id": "2a6958cd001b",
+  "type": "inline",
+  "latex": "m_{э} = 6,8557572 \\cdot 10^{-36}",
+  "metadata": {
+    "db_key": "6618",
+    "src": "images/formula_inline_413_1_26.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 6324
+  },
+  "wrapper_html": "<span data-db-key=\"6618\" data-src=\"images/formula_inline_413_1_26.webp\"> $m_{э} = 6,8557572 \\cdot 10^{-36}$ </span>"
+}

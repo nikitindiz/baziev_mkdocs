@@ -1,0 +1,15 @@
+{
+  "id": "625bd8bba548",
+  "type": "inline",
+  "latex": "T_1 = 293,15 \\text{ K}",
+  "metadata": {
+    "db_key": "4018",
+    "src": "images/formula_inline_248_9_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 7771
+  },
+  "wrapper_html": "<span data-db-key=\"4018\" data-src=\"images/formula_inline_248_9_4.webp\"> $T_1 = 293,15 \\text{ K}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fdf379162094",
+  "type": "display",
+  "latex": "\\Delta E = \\hbar \\cdot \\nu_{\\text{ед}} \\cdot 0,611992 = 2,5156595 \\cdot 10^{-34} \\text{ Дж}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(8.26)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 17181
+  },
+  "wrapper_html": null
+}

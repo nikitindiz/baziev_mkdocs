@@ -1,0 +1,15 @@
+{
+  "id": "7779ef819a87",
+  "type": "display",
+  "latex": "t_c = 2\\pi / \\omega_c = 1,2906096 \\cdot 10^{-10} с",
+  "metadata": {
+    "db_key": "5203",
+    "src": "images/formula_full_320_9_0.webp",
+    "equation_number": "(18.189)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 106465
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5203\" data-src=\"images/formula_full_320_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_c = 2\\pi / \\omega_c = 1,2906096 \\cdot 10^{-10} с$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.189)\n</div>\n</div>"
+}

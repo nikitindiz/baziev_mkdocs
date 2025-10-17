@@ -1,0 +1,15 @@
+{
+  "id": "122bcdbd1313",
+  "type": "display",
+  "latex": "\\rho_1^п = (\\rho_0^п)'/\\Delta n = 4.8071695 \\cdot 10^{-3} \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "4351",
+    "src": "images/formula_full_267_3_0.webp",
+    "equation_number": "(16.13)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 18944
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4351\" data-src=\"images/formula_full_267_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_1^п = (\\rho_0^п)'/\\Delta n = 4.8071695 \\cdot 10^{-3} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.13)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "07995a80644f",
+  "type": "display",
+  "latex": "P_i = \\frac{\\varepsilon (\\alpha, n) R (\\gamma)}{V (\\alpha, n)} = \\frac{[\\varepsilon_s (\\gamma) + \\varepsilon (f) + \\varepsilon (u)] R_{0i} \\gamma_i}{V_{ед} \\alpha_i^3 / \\gamma_i} =",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(11.105)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 31030
+  },
+  "wrapper_html": null
+}

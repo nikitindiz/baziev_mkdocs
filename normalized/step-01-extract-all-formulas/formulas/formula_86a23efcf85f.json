@@ -1,0 +1,15 @@
+{
+  "id": "86a23efcf85f",
+  "type": "inline",
+  "latex": "N = 5 \\cdot 10^6 \\, \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "2642",
+    "src": "images/formula_inline_168_1_38.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 87162
+  },
+  "wrapper_html": "<span data-db-key=\"2642\" data-src=\"images/formula_inline_168_1_38.webp\"> $N = 5 \\cdot 10^6 \\, \\text{м}^{-3}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4329f9cdf516",
+  "type": "display",
+  "latex": "\\Delta E_2 = \\gamma h f_{1c} - h f_{1c} = h \\psi_в T_{1c} (\\gamma - 1) = 6,4518919 \\cdot 10^{-18} \\text{ Дж}",
+  "metadata": {
+    "db_key": "5100",
+    "src": "images/formula_full_313_1_0.webp",
+    "equation_number": "(18.133)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 74519
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5100\" data-src=\"images/formula_full_313_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_2 = \\gamma h f_{1c} - h f_{1c} = h \\psi_в T_{1c} (\\gamma - 1) = 6,4518919 \\cdot 10^{-18} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.133)\n</div>\n</div>"
+}

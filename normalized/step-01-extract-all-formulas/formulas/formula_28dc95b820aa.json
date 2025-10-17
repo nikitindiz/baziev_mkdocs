@@ -1,0 +1,15 @@
+{
+  "id": "28dc95b820aa",
+  "type": "display",
+  "latex": "r_{(H - H)} = \\frac{\\gamma \\cdot Z_H \\cdot q_H}{\\varepsilon} = \\frac{-21,805934 \\cdot 10^{-34}}{-7,2400852 \\cdot 10^{-19}} = 3,0118338 \\cdot 10^{-15}  \\text{м}",
+  "metadata": {
+    "db_key": "3593",
+    "src": "images/formula_full_224_1.webp",
+    "equation_number": "(14.53)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 54133
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3593\" data-src=\"images/formula_full_224_1.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{(H - H)} = \\frac{\\gamma \\cdot Z_H \\cdot q_H}{\\varepsilon} = \\frac{-21,805934 \\cdot 10^{-34}}{-7,2400852 \\cdot 10^{-19}} = 3,0118338 \\cdot 10^{-15}  \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.53)\n</div>\n</div>"
+}

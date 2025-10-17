@@ -1,0 +1,15 @@
+{
+  "id": "5a79ef26b5f8",
+  "type": "display",
+  "latex": "V_{n♃} = \\frac{m_{♃}}{\\rho_n} = 1,9976648 \\cdot 10^{14} \\ м^3",
+  "metadata": {
+    "db_key": "8670",
+    "src": "images/formula_full_582_12.webp",
+    "equation_number": "(38.81)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 45691
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8670\" data-src=\"images/formula_full_582_12.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{n♃} = \\frac{m_{♃}}{\\rho_n} = 1,9976648 \\cdot 10^{14} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.81)\n</div>\n</div>"
+}

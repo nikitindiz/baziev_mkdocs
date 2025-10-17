@@ -1,0 +1,15 @@
+{
+  "id": "e1129a7a42fb",
+  "type": "display",
+  "latex": "C = m_{\\odot} / B = 3,0151844 \\cdot 10^5 \\, с = 3,489 \\text{ сут.}",
+  "metadata": {
+    "db_key": "7261",
+    "src": "images/formula_full_468_6_0.webp",
+    "equation_number": "(26.19)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 21315
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7261\" data-src=\"images/formula_full_468_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C = m_{\\odot} / B = 3,0151844 \\cdot 10^5 \\, с = 3,489 \\text{ сут.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.19)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7dcdf6d78ab5",
+  "type": "display",
+  "latex": "I_{ед} = э \\cdot \\nu_0 = 1A",
+  "metadata": {
+    "db_key": "5437",
+    "src": "images/formula_full_335_2_0.webp",
+    "equation_number": "(19.53)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 45743
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5437\" data-src=\"images/formula_full_335_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{ед} = э \\cdot \\nu_0 = 1A$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.53)\n</div>\n</div>"
+}

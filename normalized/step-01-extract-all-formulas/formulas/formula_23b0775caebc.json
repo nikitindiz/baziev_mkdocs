@@ -1,0 +1,15 @@
+{
+  "id": "23b0775caebc",
+  "type": "display",
+  "latex": "n_{gi} = \\frac{S_{gei}}{\\pi r_{gi}^2} = \\frac{\\pi \\cdot \\lambda_i^2}{\\pi (d_{gi}/2)^2} = \\frac{4 \\cdot \\lambda_i^2}{d_{gi}^2}",
+  "metadata": {
+    "db_key": "3625",
+    "src": "images/formula_full_226_2_0.webp",
+    "equation_number": "(14.62)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 75756
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3625\" data-src=\"images/formula_full_226_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{gi} = \\frac{S_{gei}}{\\pi r_{gi}^2} = \\frac{\\pi \\cdot \\lambda_i^2}{\\pi (d_{gi}/2)^2} = \\frac{4 \\cdot \\lambda_i^2}{d_{gi}^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.62)\n</div>\n</div>"
+}

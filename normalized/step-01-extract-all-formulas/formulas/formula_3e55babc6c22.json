@@ -1,0 +1,15 @@
+{
+  "id": "3e55babc6c22",
+  "type": "inline",
+  "latex": "\\Delta t = (t_c - t_2) = 0,01",
+  "metadata": {
+    "db_key": "6033",
+    "src": "images/formula_inline_369_7_117.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 68538
+  },
+  "wrapper_html": "<span data-db-key=\"6033\" data-src=\"images/formula_inline_369_7_117.webp\"> $\\Delta t = (t_c - t_2) = 0,01$ </span>"
+}

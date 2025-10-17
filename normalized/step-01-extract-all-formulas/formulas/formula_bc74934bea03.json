@@ -1,0 +1,15 @@
+{
+  "id": "bc74934bea03",
+  "type": "inline",
+  "latex": "T_{1} = 373,15 \\text{ K}; \\quad \\rho_{1} = 9,5838 \\cdot 10^{2} \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "4741",
+    "src": "images/formula_inline_290_15_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 32678
+  },
+  "wrapper_html": "<span data-db-key=\"4741\" data-src=\"images/formula_inline_290_15_4.webp\"> $T_{1} = 373,15 \\text{ K}; \\quad \\rho_{1} = 9,5838 \\cdot 10^{2} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+}

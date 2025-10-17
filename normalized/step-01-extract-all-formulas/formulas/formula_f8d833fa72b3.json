@@ -1,0 +1,15 @@
+{
+  "id": "f8d833fa72b3",
+  "type": "inline",
+  "latex": "\\beta_i = \\frac{V_2 - V_1}{V_i \\cdot \\Delta t}",
+  "metadata": {
+    "db_key": "416",
+    "src": "images/formula_inline_30_6_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 2789
+  },
+  "wrapper_html": "<span data-db-key=\"416\" data-src=\"images/formula_inline_30_6_4.webp\"> $\\beta_i = \\frac{V_2 - V_1}{V_i \\cdot \\Delta t}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "19afff8ddbdc",
+  "type": "display",
+  "latex": "H_{max} = \\frac{э \\cdot \\omega_{max}}{h_{min}} = \\frac{12,296959 \\cdot 10^{-5}}{h_{min}} = 2,624006 \\cdot 10^{10} \\text{ A} \\cdot \\text{м}^{-1}",
+  "metadata": {
+    "db_key": "5647",
+    "src": "images/formula_full_347_20.webp",
+    "equation_number": "(19.127)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 106583
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5647\" data-src=\"images/formula_full_347_20.webp\">\n<div style=\"width: 100%;\">\n\n$$H_{max} = \\frac{э \\cdot \\omega_{max}}{h_{min}} = \\frac{12,296959 \\cdot 10^{-5}}{h_{min}} = 2,624006 \\cdot 10^{10} \\text{ A} \\cdot \\text{м}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.127)\n</div>\n</div>"
+}

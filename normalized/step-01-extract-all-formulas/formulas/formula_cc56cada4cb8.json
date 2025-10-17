@@ -1,0 +1,15 @@
+{
+  "id": "cc56cada4cb8",
+  "type": "display",
+  "latex": "\\varphi = \\frac{m_n \\cdot \\tau}{n_э \\cdot э} = \\frac{m_n \\cdot \\tau}{n_e \\cdot e}, В",
+  "metadata": {
+    "db_key": "965",
+    "src": "images/formula_full_66_5_0.webp",
+    "equation_number": "(7.10)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 11568
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"965\" data-src=\"images/formula_full_66_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi = \\frac{m_n \\cdot \\tau}{n_э \\cdot э} = \\frac{m_n \\cdot \\tau}{n_e \\cdot e}, В$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.10)\n</div>\n</div>"
+}

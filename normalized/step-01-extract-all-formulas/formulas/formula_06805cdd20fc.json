@@ -1,0 +1,15 @@
+{
+  "id": "06805cdd20fc",
+  "type": "display",
+  "latex": "V_{g1} = \\pi \\cdot d_g^3 / 6 = 3,5710566 \\cdot 10^{-30} \\text{м}^3",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 33751
+  },
+  "wrapper_html": null
+}

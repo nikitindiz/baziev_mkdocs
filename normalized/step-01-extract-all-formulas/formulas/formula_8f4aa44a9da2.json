@@ -1,0 +1,15 @@
+{
+  "id": "8f4aa44a9da2",
+  "type": "inline",
+  "latex": "v_i = 2 A_i f_i",
+  "metadata": {
+    "db_key": "4148",
+    "src": "images/formula_inline_254_0_78.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 37802
+  },
+  "wrapper_html": "<span data-db-key=\"4148\" data-src=\"images/formula_inline_254_0_78.webp\"> $v_i = 2 A_i f_i$ </span>"
+}

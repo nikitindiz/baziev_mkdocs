@@ -1,0 +1,15 @@
+{
+  "id": "833e0a2e2878",
+  "type": "inline",
+  "latex": "E_1 = 1,7591764 \\cdot 10^{-16} \\text{Дж}",
+  "metadata": {
+    "db_key": "5088",
+    "src": "images/formula_inline_312_10_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 39688
+  },
+  "wrapper_html": "<span data-db-key=\"5088\" data-src=\"images/formula_inline_312_10_0.webp\"> $E_1 = 1,7591764 \\cdot 10^{-16} \\text{Дж}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "efc41c921147",
+  "type": "display",
+  "latex": "F_s = \\frac{F_{\\lambda \\max} + F_{\\lambda \\min}}{2} = -1,286741 \\cdot 10^{-20} \\, \\text{Н}",
+  "metadata": {
+    "db_key": "3742",
+    "src": "images/formula_full_233_7_0.webp",
+    "equation_number": "(14.98)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 108096
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3742\" data-src=\"images/formula_full_233_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_s = \\frac{F_{\\lambda \\max} + F_{\\lambda \\min}}{2} = -1,286741 \\cdot 10^{-20} \\, \\text{Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.98)\n</div>\n</div>"
+}

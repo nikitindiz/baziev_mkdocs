@@ -1,0 +1,15 @@
+{
+  "id": "a5227dc430c5",
+  "type": "display",
+  "latex": "N_i = n_x n_y = n_x \\cdot n_z = n_y n_z",
+  "metadata": {
+    "db_key": "4910",
+    "src": "images/formula_inline_300_13_0.webp",
+    "equation_number": "(18.40)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 25542
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4910\" data-src=\"images/formula_inline_300_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_i = n_x n_y = n_x \\cdot n_z = n_y n_z$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.40)\n</div>\n</div>"
+}

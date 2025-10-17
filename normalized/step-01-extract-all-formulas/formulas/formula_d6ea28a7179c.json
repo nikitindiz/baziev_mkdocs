@@ -1,0 +1,15 @@
+{
+  "id": "d6ea28a7179c",
+  "type": "inline",
+  "latex": "a_k^5 = \\lambda_{ok}^5",
+  "metadata": {
+    "db_key": "7315",
+    "src": "images/formula_full_472_8_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 27954
+  },
+  "wrapper_html": "<span data-db-key=\"7315\" data-src=\"images/formula_full_472_8_12.webp\"> $a_k^5 = \\lambda_{ok}^5$ </span>"
+}

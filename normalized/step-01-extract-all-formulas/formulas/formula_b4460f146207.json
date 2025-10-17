@@ -1,0 +1,15 @@
+{
+  "id": "b4460f146207",
+  "type": "inline",
+  "latex": "S_i = \\pi b_i^2",
+  "metadata": {
+    "db_key": "5795",
+    "src": "images/formula_inline_356_9_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 17808
+  },
+  "wrapper_html": "<span data-db-key=\"5795\" data-src=\"images/formula_inline_356_9_3.webp\"> $S_i = \\pi b_i^2$ </span>"
+}

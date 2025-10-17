@@ -1,0 +1,15 @@
+{
+  "id": "fe54b44936a6",
+  "type": "display",
+  "latex": "h = \\frac{m_i v_i u_i a}{f_i} = 2 m A_i u_i \\cdot a",
+  "metadata": {
+    "db_key": "94",
+    "src": "images/formula_full_7_6.webp",
+    "equation_number": "(2.5)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 2658
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"94\" data-src=\"images/formula_full_7_6.webp\">\n<div style=\"width: 100%;\">\n\n$$h = \\frac{m_i v_i u_i a}{f_i} = 2 m A_i u_i \\cdot a$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.5)\n</div>\n</div>"
+}

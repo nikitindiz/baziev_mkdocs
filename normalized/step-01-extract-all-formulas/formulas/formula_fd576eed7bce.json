@@ -1,0 +1,15 @@
+{
+  "id": "fd576eed7bce",
+  "type": "inline",
+  "latex": "\\rho_{Al} = 0",
+  "metadata": {
+    "db_key": "5687",
+    "src": "images/formula_inline_350_3_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 1416
+  },
+  "wrapper_html": "<span data-db-key=\"5687\" data-src=\"images/formula_inline_350_3_23.webp\"> $\\rho_{Al} = 0$ </span>"
+}

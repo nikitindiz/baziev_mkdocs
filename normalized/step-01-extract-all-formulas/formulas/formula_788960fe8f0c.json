@@ -1,0 +1,15 @@
+{
+  "id": "788960fe8f0c",
+  "type": "inline",
+  "latex": "f_2 = 3,027 \\cdot 10^{13} с^{-1}",
+  "metadata": {
+    "db_key": "3612",
+    "src": "images/formula_inline_225_3_19.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 55933
+  },
+  "wrapper_html": "<span data-db-key=\"3612\" data-src=\"images/formula_inline_225_3_19.webp\"> $f_2 = 3,027 \\cdot 10^{13} с^{-1}$ </span>"
+}

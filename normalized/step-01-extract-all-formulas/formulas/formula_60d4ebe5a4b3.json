@@ -1,0 +1,15 @@
+{
+  "id": "60d4ebe5a4b3",
+  "type": "display",
+  "latex": "F_{r4} = \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g \\oplus}}{k_4 \\cdot A_0^2 / \\alpha^2} = \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g \\oplus}}{\\alpha \\cdot A_0^2}",
+  "metadata": {
+    "db_key": "7881",
+    "src": "images/formula_full_526_7.webp",
+    "equation_number": "(33.6)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/index.md",
+    "position": 5375
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7881\" data-src=\"images/formula_full_526_7.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{r4} = \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g \\oplus}}{k_4 \\cdot A_0^2 / \\alpha^2} = \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g \\oplus}}{\\alpha \\cdot A_0^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.6)\n</div>\n</div>"
+}

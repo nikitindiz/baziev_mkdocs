@@ -1,0 +1,15 @@
+{
+  "id": "09d544af0757",
+  "type": "inline",
+  "latex": "A_2 = 2,488 \\cdot 10^{-12} \\, \\text{м}",
+  "metadata": {
+    "db_key": "5971",
+    "src": "images/formula_inline_366_6_154.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 58577
+  },
+  "wrapper_html": "<span data-db-key=\"5971\" data-src=\"images/formula_inline_366_6_154.webp\"> $A_2 = 2,488 \\cdot 10^{-12} \\, \\text{м}$ </span>"
+}

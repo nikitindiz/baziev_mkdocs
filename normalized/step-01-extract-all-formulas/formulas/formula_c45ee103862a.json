@@ -1,0 +1,15 @@
+{
+  "id": "c45ee103862a",
+  "type": "inline",
+  "latex": "n_i = \\mathcal{M}_i / m_{\\text{ед}}",
+  "metadata": {
+    "db_key": "402",
+    "src": "images/formula_inline_28_6_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 20597
+  },
+  "wrapper_html": "<span data-db-key=\"402\" data-src=\"images/formula_inline_28_6_4.webp\"> $n_i = \\mathcal{M}_i / m_{\\text{ед}}$ </span>"
+}

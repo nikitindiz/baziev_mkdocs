@@ -1,0 +1,15 @@
+{
+  "id": "f73ab1077327",
+  "type": "display",
+  "latex": "n_f(Г) = \\frac{n(\\mu)}{M} = \\frac{n_e \\cdot n_B}{B}",
+  "metadata": {
+    "db_key": "2927",
+    "src": "images/formula_full_186_8_0.webp",
+    "equation_number": "(13.120)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 189483
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2927\" data-src=\"images/formula_full_186_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_f(Г) = \\frac{n(\\mu)}{M} = \\frac{n_e \\cdot n_B}{B}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.120)\n</div>\n</div>"
+}

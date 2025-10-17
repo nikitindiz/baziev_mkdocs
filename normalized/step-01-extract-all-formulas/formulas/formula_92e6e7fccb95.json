@@ -1,0 +1,15 @@
+{
+  "id": "92e6e7fccb95",
+  "type": "display",
+  "latex": "k\\omega (He) = \\frac{m_{He} \\cdot v_c^2}{T_{0He}} = \\frac{397,8692 \\cdot 10^{-27}}{273,37342} = 1,4554055 \\cdot 10^{-27} \\text{ Дж} \\cdot K^{-1}",
+  "metadata": {
+    "db_key": "4347",
+    "src": "images/formula_full_267_10.webp",
+    "equation_number": "(16.18)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 21348
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4347\" data-src=\"images/formula_full_267_10.webp\">\n<div style=\"width: 100%;\">\n\n$$k\\omega (He) = \\frac{m_{He} \\cdot v_c^2}{T_{0He}} = \\frac{397,8692 \\cdot 10^{-27}}{273,37342} = 1,4554055 \\cdot 10^{-27} \\text{ Дж} \\cdot K^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.18)\n</div>\n</div>"
+}

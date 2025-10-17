@@ -1,0 +1,15 @@
+{
+  "id": "ba70fd8551be",
+  "type": "display",
+  "latex": "\\varphi = \\frac{m_n \\cdot \\tau}{4.8065676 \\cdot 10^{-19} \\text{ Кл}} = \\frac{m_n \\cdot \\tau}{-4.8065676 \\cdot 10^{-19} \\text{ Кл}} = \\pm 2,0680598 \\cdot 10^{-7} \\text{ В}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(7.9)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 8875
+  },
+  "wrapper_html": null
+}

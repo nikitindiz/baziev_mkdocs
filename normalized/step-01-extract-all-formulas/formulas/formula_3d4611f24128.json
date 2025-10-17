@@ -1,0 +1,15 @@
+{
+  "id": "3d4611f24128",
+  "type": "display",
+  "latex": "\\angle BAO = \\frac{\\pi}{2} - \\beta - \\gamma = 50\\degree 55'",
+  "metadata": {
+    "db_key": "8078",
+    "src": "images/formula_full_541_18_0.webp",
+    "equation_number": "(34.43)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 37348
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8078\" data-src=\"images/formula_full_541_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\angle BAO = \\frac{\\pi}{2} - \\beta - \\gamma = 50\\degree 55'$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.43)\n</div>\n</div>"
+}

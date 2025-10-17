@@ -1,0 +1,15 @@
+{
+  "id": "594fb9efe49c",
+  "type": "inline",
+  "latex": "OA = AB = BC = \\lambda",
+  "metadata": {
+    "db_key": "2312",
+    "src": "images/formula_inline_151_2_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 10809
+  },
+  "wrapper_html": "<span data-db-key=\"2312\" data-src=\"images/formula_inline_151_2_7.webp\"> $OA = AB = BC = \\lambda$ </span>"
+}

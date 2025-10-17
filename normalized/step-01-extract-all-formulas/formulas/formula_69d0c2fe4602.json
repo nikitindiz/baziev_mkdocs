@@ -1,0 +1,15 @@
+{
+  "id": "69d0c2fe4602",
+  "type": "inline",
+  "latex": "1 \\, Дж = 1 кг \\cdot 1 м \\cdot с^{-1} \\cdot 1 м \\cdot \\nu_{ед}",
+  "metadata": {
+    "db_key": "6617",
+    "src": "images/formula_inline_413_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 6018
+  },
+  "wrapper_html": "<span data-db-key=\"6617\" data-src=\"images/formula_inline_413_1_0.webp\"> $1 \\, Дж = 1 кг \\cdot 1 м \\cdot с^{-1} \\cdot 1 м \\cdot \\nu_{ед}$ </span>"
+}

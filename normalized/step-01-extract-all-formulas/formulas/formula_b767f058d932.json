@@ -1,0 +1,15 @@
+{
+  "id": "b767f058d932",
+  "type": "inline",
+  "latex": "\\Delta P = P_2 - P_1 = 3,225 \\cdot 10^{-5} \\, Па",
+  "metadata": {
+    "db_key": "2991",
+    "src": "images/formula_inline_190_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 170368
+  },
+  "wrapper_html": "<span data-db-key=\"2991\" data-src=\"images/formula_inline_190_4_0.webp\"> $\\Delta P = P_2 - P_1 = 3,225 \\cdot 10^{-5} \\, Па$ </span>"
+}

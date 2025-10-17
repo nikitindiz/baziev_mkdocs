@@ -1,0 +1,15 @@
+{
+  "id": "469e36333578",
+  "type": "display",
+  "latex": "\\omega_i = u_{ki} / d_{gi}, \\, \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "578",
+    "src": "images/formula_full_43_6_0.webp",
+    "equation_number": "(6.19)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 25868
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"578\" data-src=\"images/formula_full_43_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_i = u_{ki} / d_{gi}, \\, \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.19)\n</div>\n</div>"
+}

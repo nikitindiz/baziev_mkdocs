@@ -1,0 +1,15 @@
+{
+  "id": "212dfe023a13",
+  "type": "inline",
+  "latex": "P_n = 7,2 \\cdot 10^{8} \\text{ Па } = 7,1 \\cdot 10^{13}",
+  "metadata": {
+    "db_key": "486",
+    "src": "images/formula_inline_35_0_101.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 15053
+  },
+  "wrapper_html": "<span data-db-key=\"486\" data-src=\"images/formula_inline_35_0_101.webp\"> $P_n = 7,2 \\cdot 10^{8} \\text{ Па } = 7,1 \\cdot 10^{13}$ </span>"
+}

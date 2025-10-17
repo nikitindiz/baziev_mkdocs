@@ -1,0 +1,15 @@
+{
+  "id": "067f81df8748",
+  "type": "inline",
+  "latex": "\\rho_{20} = 2,87 \\cdot 10^{-8} \\, \\text{Ом} \\cdot \\text{м}",
+  "metadata": {
+    "db_key": "5928",
+    "src": "images/formula_inline_363_4_22.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 39745
+  },
+  "wrapper_html": "<span data-db-key=\"5928\" data-src=\"images/formula_inline_363_4_22.webp\"> $\\rho_{20} = 2,87 \\cdot 10^{-8} \\, \\text{Ом} \\cdot \\text{м}$ </span>"
+}

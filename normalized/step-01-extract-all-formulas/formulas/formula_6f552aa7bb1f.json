@@ -1,0 +1,15 @@
+{
+  "id": "6f552aa7bb1f",
+  "type": "display",
+  "latex": "E_{si} = \\frac{\\varphi_{H_2O} \\cdot (q + z) + 2k_0^ж \\cdot T_i}{2V_i}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 50938
+  },
+  "wrapper_html": null
+}

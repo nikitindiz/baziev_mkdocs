@@ -1,0 +1,15 @@
+{
+  "id": "233a3be818f2",
+  "type": "inline",
+  "latex": "T_{\\odot} = 5 \\cdot 10^{9}",
+  "metadata": {
+    "db_key": "7184",
+    "src": "images/formula_inline_460_6_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 2375
+  },
+  "wrapper_html": "<span data-db-key=\"7184\" data-src=\"images/formula_inline_460_6_9.webp\"> $T_{\\odot} = 5 \\cdot 10^{9}$ </span>"
+}

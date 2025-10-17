@@ -1,0 +1,15 @@
+{
+  "id": "371d1fe6f8e3",
+  "type": "display",
+  "latex": "n_г = \\frac{S_0'}{\\hbar \\cdot \\nu_{ед}} = \\frac{S_0'}{\\varepsilon_0} = 1,5219157 \\cdot 10^{36} \\text{м}^{-2} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 155956
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "780802183900",
+  "type": "inline",
+  "latex": "u_{si}",
+  "metadata": {
+    "db_key": "1957",
+    "src": "images/formula_inline_129_4_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 33571
+  },
+  "wrapper_html": "<span data-db-key=\"1957\" data-src=\"images/formula_inline_129_4_11.webp\"> $u_{si}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fcb4e28042c8",
+  "type": "inline",
+  "latex": "r_i = a_i / 2",
+  "metadata": {
+    "db_key": "7280",
+    "src": "images/formula_inline_470_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 21373
+  },
+  "wrapper_html": "<span data-db-key=\"7280\" data-src=\"images/formula_inline_470_3_0.webp\"> $r_i = a_i / 2$ </span>"
+}

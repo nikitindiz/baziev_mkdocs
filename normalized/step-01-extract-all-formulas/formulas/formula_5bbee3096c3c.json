@@ -1,0 +1,15 @@
+{
+  "id": "5bbee3096c3c",
+  "type": "display",
+  "latex": "\\Delta V_{si}, \\text{м}\\cdotс^{-1}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(11.85)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 25656
+  },
+  "wrapper_html": null
+}

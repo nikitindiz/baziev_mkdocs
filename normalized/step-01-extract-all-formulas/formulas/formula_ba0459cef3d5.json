@@ -1,0 +1,15 @@
+{
+  "id": "ba0459cef3d5",
+  "type": "inline",
+  "latex": "Z_H = K_э \\cdot э = 3,8226563 \\cdot 10^{-21} Кл",
+  "metadata": {
+    "db_key": "3591",
+    "src": "images/formula_inline_223_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 37427
+  },
+  "wrapper_html": "<span data-db-key=\"3591\" data-src=\"images/formula_inline_223_8_0.webp\"> $Z_H = K_э \\cdot э = 3,8226563 \\cdot 10^{-21} Кл$ </span>"
+}

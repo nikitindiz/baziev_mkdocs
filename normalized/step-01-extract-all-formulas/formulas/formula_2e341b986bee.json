@@ -1,0 +1,15 @@
+{
+  "id": "2e341b986bee",
+  "type": "inline",
+  "latex": "\\Delta t_1 = t_1 - t_0 = t_1 \\text{ (ввиду } t_0 = 0)",
+  "metadata": {
+    "db_key": "2078",
+    "src": "images/formula_inline_136_0_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 4867
+  },
+  "wrapper_html": "<span data-db-key=\"2078\" data-src=\"images/formula_inline_136_0_1.webp\"> $\\Delta t_1 = t_1 - t_0 = t_1 \\text{ (ввиду } t_0 = 0)$ </span>"
+}

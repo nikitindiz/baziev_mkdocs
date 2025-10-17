@@ -1,0 +1,15 @@
+{
+  "id": "d294daeaef87",
+  "type": "inline",
+  "latex": "a_i = \\sqrt[3]{\\frac{m_i}{\\rho_i}}",
+  "metadata": {
+    "db_key": "5755",
+    "src": "images/formula_inline_354_1_32.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 11512
+  },
+  "wrapper_html": "<span data-db-key=\"5755\" data-src=\"images/formula_inline_354_1_32.webp\"> $a_i = \\sqrt[3]{\\frac{m_i}{\\rho_i}}$ </span>"
+}

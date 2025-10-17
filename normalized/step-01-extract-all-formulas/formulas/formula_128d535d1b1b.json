@@ -1,0 +1,15 @@
+{
+  "id": "128d535d1b1b",
+  "type": "display",
+  "latex": "\\begin{cases}\n\\Delta V = \\Delta V_g \\cdot N_0 \\cdot V_{0,\\text{ед}} = \\Delta V_g \\cdot N_1 \\cdot V_{\\text{1ед}}, \\\\\n\\Delta V = V_1 - V_0 = V_{\\text{ед,}0} (1 + \\beta \\cdot t_{\\text{ед}}) - V_{\\text{ед}0} = V_{\\text{ед}0} \\cdot \\beta \\cdot t_{\\text{ед}}\n\\end{cases}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(6.79)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 49020
+  },
+  "wrapper_html": null
+}

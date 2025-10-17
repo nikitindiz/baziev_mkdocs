@@ -1,0 +1,15 @@
+{
+  "id": "dae3b103fcc9",
+  "type": "display",
+  "latex": "V_p = (V_в + V_{CH_4})(1 + \\beta t) \\frac{P_0}{P} = 3,2452245 \\cdot 10^{-2} \\ м^3",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 9740
+  },
+  "wrapper_html": null
+}

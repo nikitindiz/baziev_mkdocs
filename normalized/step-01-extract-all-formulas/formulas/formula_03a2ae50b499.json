@@ -1,0 +1,15 @@
+{
+  "id": "03a2ae50b499",
+  "type": "display",
+  "latex": "l_{кi} = 2Z \\cdot n_к",
+  "metadata": {
+    "db_key": "785",
+    "src": "images/formula_inline_53_5_0.webp",
+    "equation_number": "(6.60)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 66967
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"785\" data-src=\"images/formula_inline_53_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$l_{кi} = 2Z \\cdot n_к$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.60)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fe28fdf56753",
+  "type": "display",
+  "latex": "u_{\\alpha} = \\frac{i_{\\alpha} - i_{э}(Au)/2}{m_{\\alpha}} = 1,783993 \\cdot 10^7 \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "1657",
+    "src": "images/formula_full_115_6_0.webp",
+    "equation_number": "(10.41)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 67086
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1657\" data-src=\"images/formula_full_115_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\alpha} = \\frac{i_{\\alpha} - i_{э}(Au)/2}{m_{\\alpha}} = 1,783993 \\cdot 10^7 \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.41)\n</div>\n</div>"
+}

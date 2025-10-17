@@ -1,0 +1,15 @@
+{
+  "id": "d92df85cdba1",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\nI_г &= a_{\\odot}^{3} \\cdot \\omega_{\\text{ед}\\odot}^{2}  \\\\\nI_г &= G \\cdot m_г\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "2195",
+    "src": "images/formula_full_143_6.webp",
+    "equation_number": "(12.33)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 33893
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2195\" data-src=\"images/formula_full_143_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nI_г &= a_{\\odot}^{3} \\cdot \\omega_{\\text{ед}\\odot}^{2}  \\\\\nI_г &= G \\cdot m_г\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.33)\n</div>\n</div>"
+}

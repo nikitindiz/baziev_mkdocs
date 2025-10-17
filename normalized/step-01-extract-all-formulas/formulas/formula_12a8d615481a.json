@@ -1,0 +1,15 @@
+{
+  "id": "12a8d615481a",
+  "type": "inline",
+  "latex": "P_i < P_{нi}",
+  "metadata": {
+    "db_key": "1819",
+    "src": "images/formula_inline_123_12_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 19123
+  },
+  "wrapper_html": "<span data-db-key=\"1819\" data-src=\"images/formula_inline_123_12_0.webp\"> $P_i < P_{нi}$ </span>"
+}

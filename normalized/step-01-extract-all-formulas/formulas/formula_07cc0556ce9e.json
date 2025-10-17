@@ -1,0 +1,15 @@
+{
+  "id": "07cc0556ce9e",
+  "type": "inline",
+  "latex": "S_{g i 1} = \\pi \\cdot d_{g i 1}^2 / 4",
+  "metadata": {
+    "db_key": "737",
+    "src": "images/formula_inline_50_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 44765
+  },
+  "wrapper_html": "<span data-db-key=\"737\" data-src=\"images/formula_inline_50_8_0.webp\"> $S_{g i 1} = \\pi \\cdot d_{g i 1}^2 / 4$ </span>"
+}

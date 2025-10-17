@@ -1,0 +1,15 @@
+{
+  "id": "5e189e3fd34e",
+  "type": "inline",
+  "latex": "\\varepsilon_\\omega = m_i \\tau = m_i \\cdot v_c^2",
+  "metadata": {
+    "db_key": "4293",
+    "src": "images/formula_inline_263_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 2675
+  },
+  "wrapper_html": "<span data-db-key=\"4293\" data-src=\"images/formula_inline_263_1_0.webp\"> $\\varepsilon_\\omega = m_i \\tau = m_i \\cdot v_c^2$ </span>"
+}

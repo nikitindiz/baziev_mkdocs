@@ -1,0 +1,15 @@
+{
+  "id": "2bf20e4f2a2e",
+  "type": "inline",
+  "latex": "V_{g0}",
+  "metadata": {
+    "db_key": "48",
+    "src": "images/formula_inline_3_2_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 9038
+  },
+  "wrapper_html": "<span data-db-key=\"48\" data-src=\"images/formula_inline_3_2_4.webp\"> $V_{g0}$ </span>"
+}

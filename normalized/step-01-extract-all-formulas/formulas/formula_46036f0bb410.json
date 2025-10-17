@@ -1,0 +1,15 @@
+{
+  "id": "46036f0bb410",
+  "type": "display",
+  "latex": "\\nu_{\\rho c} = \\delta I_c / э = 3,9906638 \\cdot 10^{21} с^{-1}",
+  "metadata": {
+    "db_key": "6250",
+    "src": "images/formula_inline_383_1_0.webp",
+    "equation_number": "(20.173)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 148990
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6250\" data-src=\"images/formula_inline_383_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\rho c} = \\delta I_c / э = 3,9906638 \\cdot 10^{21} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.173)\n</div>\n</div>"
+}

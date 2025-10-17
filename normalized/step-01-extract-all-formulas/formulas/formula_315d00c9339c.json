@@ -1,0 +1,15 @@
+{
+  "id": "315d00c9339c",
+  "type": "inline",
+  "latex": "U_i = \\mu/r_i = 2\\mu/\\lambda_i",
+  "metadata": {
+    "db_key": "2593",
+    "src": "images/formula_inline_165_0_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 74594
+  },
+  "wrapper_html": "<span data-db-key=\"2593\" data-src=\"images/formula_inline_165_0_4.webp\"> $U_i = \\mu/r_i = 2\\mu/\\lambda_i$ </span>"
+}

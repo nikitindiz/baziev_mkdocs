@@ -1,0 +1,15 @@
+{
+  "id": "5cf2088ff805",
+  "type": "inline",
+  "latex": "n_э",
+  "metadata": {
+    "db_key": "285",
+    "src": "images/formula_inline_21_5_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 27632
+  },
+  "wrapper_html": "<span data-db-key=\"285\" data-src=\"images/formula_inline_21_5_7.webp\"> $n_э$ </span>"
+}

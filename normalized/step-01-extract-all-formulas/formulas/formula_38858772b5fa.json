@@ -1,0 +1,15 @@
+{
+  "id": "38858772b5fa",
+  "type": "inline",
+  "latex": "\\alpha_i",
+  "metadata": {
+    "db_key": "9269",
+    "src": "images/formula_inline_627_1_174.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 18315
+  },
+  "wrapper_html": "<span data-db-key=\"9269\" data-src=\"images/formula_inline_627_1_174.webp\"> $\\alpha_i$ </span>"
+}

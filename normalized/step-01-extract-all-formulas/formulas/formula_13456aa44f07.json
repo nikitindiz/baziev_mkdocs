@@ -1,0 +1,15 @@
+{
+  "id": "13456aa44f07",
+  "type": "inline",
+  "latex": "f(t)",
+  "metadata": {
+    "db_key": "2032",
+    "src": "images/formula_inline_133_7_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 43661
+  },
+  "wrapper_html": "<span data-db-key=\"2032\" data-src=\"images/formula_inline_133_7_3.webp\"> $f(t)$ </span>"
+}

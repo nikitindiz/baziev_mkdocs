@@ -1,0 +1,15 @@
+{
+  "id": "081773145d7e",
+  "type": "inline",
+  "latex": "S_2 = \\pi(d/2)^2 \\approx 1,13 \\cdot 10^{-26} \\, м^2",
+  "metadata": {
+    "db_key": "2683",
+    "src": "images/formula_inline_170_3_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 95065
+  },
+  "wrapper_html": "<span data-db-key=\"2683\" data-src=\"images/formula_inline_170_3_12.webp\"> $S_2 = \\pi(d/2)^2 \\approx 1,13 \\cdot 10^{-26} \\, м^2$ </span>"
+}

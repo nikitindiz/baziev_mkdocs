@@ -1,0 +1,15 @@
+{
+  "id": "de373ec97ea5",
+  "type": "inline",
+  "latex": "I_i",
+  "metadata": {
+    "db_key": "5529",
+    "src": "images/formula_inline_340_7_36.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 57848
+  },
+  "wrapper_html": "<span data-db-key=\"5529\" data-src=\"images/formula_inline_340_7_36.webp\"> $I_i$ </span>"
+}

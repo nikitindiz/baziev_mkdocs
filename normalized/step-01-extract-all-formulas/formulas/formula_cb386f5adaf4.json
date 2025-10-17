@@ -1,0 +1,15 @@
+{
+  "id": "cb386f5adaf4",
+  "type": "display",
+  "latex": "\\Delta E_{э} = \\alpha \\cdot q_{BN}^2 = 5,5857217 \\cdot 10^{-19} \\text{ Дж}",
+  "metadata": {
+    "db_key": "7071",
+    "src": "images/formula_full_450_14_0.webp",
+    "equation_number": "(23.203)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 209385
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7071\" data-src=\"images/formula_full_450_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_{э} = \\alpha \\cdot q_{BN}^2 = 5,5857217 \\cdot 10^{-19} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.203)\n</div>\n</div>"
+}

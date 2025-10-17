@@ -1,0 +1,15 @@
+{
+  "id": "4391051af94c",
+  "type": "display",
+  "latex": "P_0 = \\frac{h \\cdot f_0}{(V_{g0} - V_{s0})}",
+  "metadata": {
+    "db_key": "4541",
+    "src": "images/formula_full_279_22.webp",
+    "equation_number": "(17.12)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 10040
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4541\" data-src=\"images/formula_full_279_22.webp\">\n<div style=\"width: 100%;\">\n\n$$P_0 = \\frac{h \\cdot f_0}{(V_{g0} - V_{s0})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.12)\n</div>\n</div>"
+}

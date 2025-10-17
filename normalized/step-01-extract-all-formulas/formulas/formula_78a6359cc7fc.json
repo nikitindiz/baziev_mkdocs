@@ -1,0 +1,15 @@
+{
+  "id": "78a6359cc7fc",
+  "type": "display",
+  "latex": "2\\text{Na}^- + (\\text{O}^+ - e - \\text{O}^+) = \\text{Na}^- - \\text{O}^+ - e - \\text{O}^+ - \\text{Na}^-",
+  "metadata": {
+    "db_key": "6702",
+    "src": "images/formula_full_421_7_0.webp",
+    "equation_number": "(23.22)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 27950
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6702\" data-src=\"images/formula_full_421_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$2\\text{Na}^- + (\\text{O}^+ - e - \\text{O}^+) = \\text{Na}^- - \\text{O}^+ - e - \\text{O}^+ - \\text{Na}^-$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.22)\n</div>\n</div>"
+}

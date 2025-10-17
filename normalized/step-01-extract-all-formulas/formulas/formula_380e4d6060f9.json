@@ -1,0 +1,15 @@
+{
+  "id": "380e4d6060f9",
+  "type": "inline",
+  "latex": "R_1 = A_1/2",
+  "metadata": {
+    "db_key": "6982",
+    "src": "images/formula_inline_444_3_35.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 150576
+  },
+  "wrapper_html": "<span data-db-key=\"6982\" data-src=\"images/formula_inline_444_3_35.webp\"> $R_1 = A_1/2$ </span>"
+}

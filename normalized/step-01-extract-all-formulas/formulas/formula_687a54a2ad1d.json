@@ -1,0 +1,15 @@
+{
+  "id": "687a54a2ad1d",
+  "type": "display",
+  "latex": "C_{71} = \\frac{v_{71} \\cdot u_{71}}{T_{71}} = \\frac{4,1138745 \\cdot 10^{-7}}{2 \\cdot 10^7} = 2,0569372 \\cdot 10^{-14} \\, м^2/с^2 \\cdot K",
+  "metadata": {
+    "db_key": "7514",
+    "src": "images/formula_full_487_25.webp",
+    "equation_number": "(28.22)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 9674
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7514\" data-src=\"images/formula_full_487_25.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{71} = \\frac{v_{71} \\cdot u_{71}}{T_{71}} = \\frac{4,1138745 \\cdot 10^{-7}}{2 \\cdot 10^7} = 2,0569372 \\cdot 10^{-14} \\, м^2/с^2 \\cdot K$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.22)\n</div>\n</div>"
+}

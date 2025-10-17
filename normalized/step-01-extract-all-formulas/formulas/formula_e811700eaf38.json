@@ -1,0 +1,15 @@
+{
+  "id": "e811700eaf38",
+  "type": "inline",
+  "latex": "\\omega_O = 1 \\cdot 10^{14} с^{-1}",
+  "metadata": {
+    "db_key": "3762",
+    "src": "images/formula_inline_234_10_24.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 93016
+  },
+  "wrapper_html": "<span data-db-key=\"3762\" data-src=\"images/formula_inline_234_10_24.webp\"> $\\omega_O = 1 \\cdot 10^{14} с^{-1}$ </span>"
+}

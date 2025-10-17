@@ -1,0 +1,15 @@
+{
+  "id": "1d0d42556ffe",
+  "type": "display",
+  "latex": "\\Delta z = n_э (O) \\cdot э = 5,6895775 \\cdot 10^{-25} \\, \\text{Кл}",
+  "metadata": {
+    "db_key": "3973",
+    "src": "images/formula_full_244_19.webp",
+    "equation_number": "(14.151)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 168482
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3973\" data-src=\"images/formula_full_244_19.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta z = n_э (O) \\cdot э = 5,6895775 \\cdot 10^{-25} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.151)\n</div>\n</div>"
+}

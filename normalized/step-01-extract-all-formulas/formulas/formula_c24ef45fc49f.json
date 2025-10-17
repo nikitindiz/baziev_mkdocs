@@ -1,0 +1,15 @@
+{
+  "id": "c24ef45fc49f",
+  "type": "display",
+  "latex": "E_{s0}=\\frac{m_0 v_0^2 \\cdot \\sin \\alpha_0 + \\varphi_{H_2O} \\cdot (z + q)}{2v_0}",
+  "metadata": {
+    "db_key": "4633",
+    "src": "images/formula_full_284_8_0.webp",
+    "equation_number": "(17.41)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 29022
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4633\" data-src=\"images/formula_full_284_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0}=\\frac{m_0 v_0^2 \\cdot \\sin \\alpha_0 + \\varphi_{H_2O} \\cdot (z + q)}{2v_0}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.41)\n</div>\n</div>"
+}

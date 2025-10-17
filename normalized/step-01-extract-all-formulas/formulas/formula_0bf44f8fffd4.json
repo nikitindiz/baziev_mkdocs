@@ -1,0 +1,15 @@
+{
+  "id": "0bf44f8fffd4",
+  "type": "display",
+  "latex": "\\varepsilon_c = h f_c = 8,935015 \\cdot 10^{-21} \\text{ Дж}",
+  "metadata": {
+    "db_key": "5156",
+    "src": "images/formula_full_317_1_0.webp",
+    "equation_number": "(18.160)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 89258
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5156\" data-src=\"images/formula_full_317_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_c = h f_c = 8,935015 \\cdot 10^{-21} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.160)\n</div>\n</div>"
+}

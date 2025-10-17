@@ -1,0 +1,15 @@
+{
+  "id": "078b1e13e853",
+  "type": "display",
+  "latex": "u_{1} = \\frac{k \\cdot T_{1}}{m \\cdot v_{1}} = \\frac{1,5643068 \\cdot 10^{-20}}{1,2678269 \\cdot 10^{-21}} = 12,338488 \\ \\text{м} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "6785",
+    "src": "images/formula_full_427_24.webp",
+    "equation_number": "(23.66)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 69043
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6785\" data-src=\"images/formula_full_427_24.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{1} = \\frac{k \\cdot T_{1}}{m \\cdot v_{1}} = \\frac{1,5643068 \\cdot 10^{-20}}{1,2678269 \\cdot 10^{-21}} = 12,338488 \\ \\text{м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.66)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d0ecfc16c3a5",
+  "type": "display",
+  "latex": "N_э (O) = \\Delta n_э - N_э (H) = 2,2408689 \\cdot 10^{26} э \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "6506",
+    "src": "images/formula_full_403_13_0.webp",
+    "equation_number": "(21.1.69)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 60556
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6506\" data-src=\"images/formula_full_403_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_э (O) = \\Delta n_э - N_э (H) = 2,2408689 \\cdot 10^{26} э \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.69)\n</div>\n</div>"
+}

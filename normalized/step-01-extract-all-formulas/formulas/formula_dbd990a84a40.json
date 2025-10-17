@@ -1,0 +1,15 @@
+{
+  "id": "dbd990a84a40",
+  "type": "inline",
+  "latex": "v_{1} = 3,1074 \\cdot 10^{8} м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "8926",
+    "src": "images/formula_inline_599_0_20.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 2461
+  },
+  "wrapper_html": "<span data-db-key=\"8926\" data-src=\"images/formula_inline_599_0_20.webp\"> $v_{1} = 3,1074 \\cdot 10^{8} м \\cdot с^{-1}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "823beab88aec",
+  "type": "inline",
+  "latex": "n = \\frac{d_{gi}^2}{d_p^2}",
+  "metadata": {
+    "db_key": "7399",
+    "src": "images/formula_inline_477_13_25.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 42626
+  },
+  "wrapper_html": "<span data-db-key=\"7399\" data-src=\"images/formula_inline_477_13_25.webp\"> $n = \\frac{d_{gi}^2}{d_p^2}$ </span>"
+}

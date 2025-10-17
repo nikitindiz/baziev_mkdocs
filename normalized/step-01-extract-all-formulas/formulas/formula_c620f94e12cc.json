@@ -1,0 +1,15 @@
+{
+  "id": "c620f94e12cc",
+  "type": "inline",
+  "latex": "\\rho_\\text{л} = 917 \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "4903",
+    "src": "images/formula_inline_299_20_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 11848
+  },
+  "wrapper_html": "<span data-db-key=\"4903\" data-src=\"images/formula_inline_299_20_7.webp\"> $\\rho_\\text{л} = 917 \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+}

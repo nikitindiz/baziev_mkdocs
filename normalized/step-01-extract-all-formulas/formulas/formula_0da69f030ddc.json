@@ -1,0 +1,15 @@
+{
+  "id": "0da69f030ddc",
+  "type": "display",
+  "latex": "S_1 = -2,2016 \\cdot 10^{-12} \\text{ м } (t_1 = 0\\degree; P_1 = 10 \\text{ ат}) \\\\\nS_2 = -5,41 \\cdot 10^{-12} \\text{ м } (t_2 = 0^\\circ; P_2 = 100 \\text{ ат}) \\\\\nS_3 = -7,61 \\cdot 10^{-12} \\text{ м } (t_3 = 0^\\circ; P_3 = 1000 \\text{ ат})",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 4710
+  },
+  "wrapper_html": null
+}

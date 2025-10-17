@@ -1,0 +1,15 @@
+{
+  "id": "c382ac0d6c72",
+  "type": "inline",
+  "latex": "d_э = 1 \\cdot 10^{-16} \\text{м}",
+  "metadata": {
+    "db_key": "5891",
+    "src": "images/formula_inline_361_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 34354
+  },
+  "wrapper_html": "<span data-db-key=\"5891\" data-src=\"images/formula_inline_361_8_0.webp\"> $d_э = 1 \\cdot 10^{-16} \\text{м}$ </span>"
+}

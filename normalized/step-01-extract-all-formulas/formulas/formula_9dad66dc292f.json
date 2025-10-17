@@ -1,0 +1,15 @@
+{
+  "id": "9dad66dc292f",
+  "type": "display",
+  "latex": "W_i = I_i V_i = э \\omega_i n_i k_i \\cdot \\frac{I_0 R_0 n_i}{h_i} = \\frac{э \\omega_i n_i R_0}{R_i} \\cdot \\frac{I_i R_0 n_i}{n_i}",
+  "metadata": {
+    "db_key": "5606",
+    "src": "images/formula_full_345_5.webp",
+    "equation_number": "(19.113)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 95628
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5606\" data-src=\"images/formula_full_345_5.webp\">\n<div style=\"width: 100%;\">\n\n$$W_i = I_i V_i = э \\omega_i n_i k_i \\cdot \\frac{I_0 R_0 n_i}{h_i} = \\frac{э \\omega_i n_i R_0}{R_i} \\cdot \\frac{I_i R_0 n_i}{n_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.113)\n</div>\n</div>"
+}

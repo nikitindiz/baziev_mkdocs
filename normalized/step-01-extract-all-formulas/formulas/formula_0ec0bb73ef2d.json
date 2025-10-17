@@ -1,0 +1,15 @@
+{
+  "id": "0ec0bb73ef2d",
+  "type": "display",
+  "latex": "\\begin{align*}\nd_e &= \\sqrt[3]{6V_e / \\pi} = \\sqrt[3]{292,29986 \\cdot 10^{-48} \\text{ м}^3} = 6,63655765 \\cdot 10^{-16} \\text{ м} \\\\\nr_e &= d_e / 2 = 3,3182788 \\cdot 10^{-16} \\text{ м} \\\\\n\\rho_e &= m_e / V_e = 9,038487 \\cdot 10^{-31} \\text{ кг} / 1,5304785 \\cdot 10^{-46} \\text{ м}^3 = 5,9056608 \\cdot 10^{15} \\text{ кг} \\cdot \\text{м}^{-3} \\\\\nk &= \\rho_e / \\rho_э = 5,9056608 \\cdot 10^{15} / 9,6591307 \\cdot 10^{12} = 611,40705 \\\\\ns_e &= \\pi \\cdot d_e^2 = 1,3836798 \\cdot 10^{-30} \\text{ м}^2\n\\end{align*}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 5933
+  },
+  "wrapper_html": null
+}

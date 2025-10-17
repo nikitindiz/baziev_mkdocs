@@ -1,0 +1,15 @@
+{
+  "id": "8b06be785b8d",
+  "type": "display",
+  "latex": "C_{Pi} = C_V(u_k) + C_V(\\gamma) + 2C_V(f)",
+  "metadata": {
+    "db_key": "878",
+    "src": "images/formula_full_59_7_0.webp",
+    "equation_number": "(6.88)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 90507
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"878\" data-src=\"images/formula_full_59_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{Pi} = C_V(u_k) + C_V(\\gamma) + 2C_V(f)$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.88)\n</div>\n</div>"
+}

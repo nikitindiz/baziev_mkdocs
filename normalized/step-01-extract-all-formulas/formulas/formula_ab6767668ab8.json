@@ -1,0 +1,15 @@
+{
+  "id": "ab6767668ab8",
+  "type": "display",
+  "latex": "\\varepsilon_{t i} = E_i - \\varepsilon_{\\omega} - \\varepsilon_{n i} - \\varepsilon(0)_i",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 50169
+  },
+  "wrapper_html": null
+}

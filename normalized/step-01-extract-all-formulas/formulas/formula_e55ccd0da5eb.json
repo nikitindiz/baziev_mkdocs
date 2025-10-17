@@ -1,0 +1,15 @@
+{
+  "id": "e55ccd0da5eb",
+  "type": "display",
+  "latex": "m_г = \\frac{a_{\\odot}^{3} \\omega_{\\text{ед} \\odot}^{2}}{G} = \\frac{a_{\\odot}^{3} \\cdot n_{\\odot}^{2}}{G} = 2,5504415 \\cdot 10^{35} \\text{ кг}",
+  "metadata": {
+    "db_key": "2196",
+    "src": "images/formula_full_143_8.webp",
+    "equation_number": "(12.34)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 34224
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2196\" data-src=\"images/formula_full_143_8.webp\">\n<div style=\"width: 100%;\">\n\n$$m_г = \\frac{a_{\\odot}^{3} \\omega_{\\text{ед} \\odot}^{2}}{G} = \\frac{a_{\\odot}^{3} \\cdot n_{\\odot}^{2}}{G} = 2,5504415 \\cdot 10^{35} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.34)\n</div>\n</div>"
+}

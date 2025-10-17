@@ -1,0 +1,15 @@
+{
+  "id": "3854938b940f",
+  "type": "inline",
+  "latex": "f = T\\psi = 6,0050163 \\cdot 10^{12} с^{-1}",
+  "metadata": {
+    "db_key": "6517",
+    "src": "images/formula_inline_403_4_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 44304
+  },
+  "wrapper_html": "<span data-db-key=\"6517\" data-src=\"images/formula_inline_403_4_11.webp\"> $f = T\\psi = 6,0050163 \\cdot 10^{12} с^{-1}$ </span>"
+}

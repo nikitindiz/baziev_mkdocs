@@ -1,0 +1,15 @@
+{
+  "id": "a93016e9e05e",
+  "type": "inline",
+  "latex": "B_1 B_2",
+  "metadata": {
+    "db_key": "2781",
+    "src": "images/formula_inline_175_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 122629
+  },
+  "wrapper_html": "<span data-db-key=\"2781\" data-src=\"images/formula_inline_175_3_0.webp\"> $B_1 B_2$ </span>"
+}

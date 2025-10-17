@@ -1,0 +1,15 @@
+{
+  "id": "343c4d0cce55",
+  "type": "display",
+  "latex": "v_э = \\frac{\\alpha \\cdot э^2}{m_э r_э \\nu_{э \\text{ед}}} = \\frac{4,1106086 \\cdot 10^{-34} \\text{ Дж}}{1,9150266 \\cdot 10^{-40}} = 2,146502 \\cdot 10^6 \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "2959",
+    "src": "images/formula_full_188_3_0.webp",
+    "equation_number": "(13.129)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 196323
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2959\" data-src=\"images/formula_full_188_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_э = \\frac{\\alpha \\cdot э^2}{m_э r_э \\nu_{э \\text{ед}}} = \\frac{4,1106086 \\cdot 10^{-34} \\text{ Дж}}{1,9150266 \\cdot 10^{-40}} = 2,146502 \\cdot 10^6 \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.129)\n</div>\n</div>"
+}

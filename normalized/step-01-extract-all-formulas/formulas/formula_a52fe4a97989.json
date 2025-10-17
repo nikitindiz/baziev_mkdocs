@@ -1,0 +1,15 @@
+{
+  "id": "a52fe4a97989",
+  "type": "display",
+  "latex": "\\omega_i = V_i / n_i \\Phi_0",
+  "metadata": {
+    "db_key": "5323",
+    "src": "images/formula_full_330_19_0.webp",
+    "equation_number": "(19.25)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 24290
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5323\" data-src=\"images/formula_full_330_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_i = V_i / n_i \\Phi_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.25)\n</div>\n</div>"
+}

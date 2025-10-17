@@ -1,0 +1,15 @@
+{
+  "id": "0dfd8a47dc5a",
+  "type": "display",
+  "latex": "W_i = \\frac{I_0 R_0 n_i}{R_i h_i} \\cdot \\frac{I_0 R_0 n_i}{h_i} = \\frac{I_0^2 R_0^2 n_i^2}{R_i h_i^2} = \\frac{V_i^2}{R_i} = \\frac{V_i^2 \\cdot k_i}{R_0}",
+  "metadata": {
+    "db_key": "5607",
+    "src": "images/formula_full_345_9_0.webp",
+    "equation_number": "(19.114)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 98783
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5607\" data-src=\"images/formula_full_345_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_i = \\frac{I_0 R_0 n_i}{R_i h_i} \\cdot \\frac{I_0 R_0 n_i}{h_i} = \\frac{I_0^2 R_0^2 n_i^2}{R_i h_i^2} = \\frac{V_i^2}{R_i} = \\frac{V_i^2 \\cdot k_i}{R_0}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.114)\n</div>\n</div>"
+}

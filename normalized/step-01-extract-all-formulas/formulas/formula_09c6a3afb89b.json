@@ -1,0 +1,15 @@
+{
+  "id": "09c6a3afb89b",
+  "type": "inline",
+  "latex": "\\alpha = \\beta = \\angle AOO_1 = \\angle COO_1 = 90\\degree",
+  "metadata": {
+    "db_key": "4030",
+    "src": "images/formula_inline_249_1_29.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 19502
+  },
+  "wrapper_html": "<span data-db-key=\"4030\" data-src=\"images/formula_inline_249_1_29.webp\"> $\\alpha = \\beta = \\angle AOO_1 = \\angle COO_1 = 90\\degree$ </span>"
+}

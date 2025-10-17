@@ -1,0 +1,15 @@
+{
+  "id": "adcefebae3dc",
+  "type": "display",
+  "latex": "\\rho_{i} \\cdot g = \\frac{3 \\sigma_{i}}{R_{i}}",
+  "metadata": {
+    "db_key": "1186",
+    "src": "images/formula_full_83_11.webp",
+    "equation_number": "(9.6)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 3254
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1186\" data-src=\"images/formula_full_83_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{i} \\cdot g = \\frac{3 \\sigma_{i}}{R_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.6)\n</div>\n</div>"
+}

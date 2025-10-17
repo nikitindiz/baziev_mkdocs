@@ -1,0 +1,15 @@
+{
+  "id": "cba765c55327",
+  "type": "inline",
+  "latex": "z_d = (A_1N + NN_1 + N_1N_2)",
+  "metadata": {
+    "db_key": "3118",
+    "src": "images/formula_inline_198_1_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 230370
+  },
+  "wrapper_html": "<span data-db-key=\"3118\" data-src=\"images/formula_inline_198_1_7.webp\"> $z_d = (A_1N + NN_1 + N_1N_2)$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "419f4058775f",
+  "type": "inline",
+  "latex": "\\lambda_k = 7 \\cdot 10^{-7}",
+  "metadata": {
+    "db_key": "7350",
+    "src": "images/formula_inline_474_1_49.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 32703
+  },
+  "wrapper_html": "<span data-db-key=\"7350\" data-src=\"images/formula_inline_474_1_49.webp\"> $\\lambda_k = 7 \\cdot 10^{-7}$ </span>"
+}

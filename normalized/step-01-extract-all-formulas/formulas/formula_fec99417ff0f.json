@@ -1,0 +1,15 @@
+{
+  "id": "fec99417ff0f",
+  "type": "display",
+  "latex": "C + (H_2O)^+ + (H_2O)^- = CO_2 + 2H_2",
+  "metadata": {
+    "db_key": "6862",
+    "src": "images/formula_full_434_4_0.webp",
+    "equation_number": "(23.101)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 112824
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6862\" data-src=\"images/formula_full_434_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C + (H_2O)^+ + (H_2O)^- = CO_2 + 2H_2$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.101)\n</div>\n</div>"
+}

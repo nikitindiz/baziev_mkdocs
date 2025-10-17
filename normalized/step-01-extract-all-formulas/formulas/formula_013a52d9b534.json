@@ -1,0 +1,15 @@
+{
+  "id": "013a52d9b534",
+  "type": "inline",
+  "latex": "m_i = A_i \\cdot m_n",
+  "metadata": {
+    "db_key": "396",
+    "src": "images/formula_inline_28_3_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 19385
+  },
+  "wrapper_html": "<span data-db-key=\"396\" data-src=\"images/formula_inline_28_3_3.webp\"> $m_i = A_i \\cdot m_n$ </span>"
+}

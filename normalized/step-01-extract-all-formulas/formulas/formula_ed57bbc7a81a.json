@@ -1,0 +1,15 @@
+{
+  "id": "ed57bbc7a81a",
+  "type": "inline",
+  "latex": "\\gamma i",
+  "metadata": {
+    "db_key": "2036",
+    "src": "images/formula_inline_134_2_34.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 44519
+  },
+  "wrapper_html": "<span data-db-key=\"2036\" data-src=\"images/formula_inline_134_2_34.webp\"> $\\gamma i$ </span>"
+}

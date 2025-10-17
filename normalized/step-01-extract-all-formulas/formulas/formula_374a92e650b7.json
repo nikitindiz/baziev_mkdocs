@@ -1,0 +1,15 @@
+{
+  "id": "374a92e650b7",
+  "type": "display",
+  "latex": "\\text{tg } \\varphi_к = \\frac{a_d}{K_к} = 0,9287; \\quad \\varphi_к = 42\\degree 53'",
+  "metadata": {
+    "db_key": "3172",
+    "src": "images/formula_full_201_15_0.webp",
+    "equation_number": "(13.175)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 289399
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3172\" data-src=\"images/formula_full_201_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{tg } \\varphi_к = \\frac{a_d}{K_к} = 0,9287; \\quad \\varphi_к = 42\\degree 53'$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.175)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dbebb8d9e0c4",
+  "type": "display",
+  "latex": "\\begin{aligned}\n& t > 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty \\\\\n& \\gamma_{i} = \\frac{\\beta(n)}{\\beta_{0i}} = \\frac{(n-1)}{\\beta_{0i} \\cdot t} \\\\\n& t < 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty\n\\end{aligned}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(11.17)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 9642
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dc50530523a9",
+  "type": "display",
+  "latex": "\\mu + e = \\mu^-",
+  "metadata": {
+    "db_key": "7749",
+    "src": "images/formula_full_516_2_0.webp",
+    "equation_number": "(31.6)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/31-обратный-фазовый-переход-высшего-рода-и-круговорот-материи-во-вселенной.md",
+    "position": 6731
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7749\" data-src=\"images/formula_full_516_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu + e = \\mu^-$$\n\n</div>\n<div style=\"width: 80px;\">\n(31.6)\n</div>\n</div>"
+}

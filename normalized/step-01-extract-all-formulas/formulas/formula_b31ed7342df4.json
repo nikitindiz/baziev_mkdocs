@@ -1,0 +1,15 @@
+{
+  "id": "b31ed7342df4",
+  "type": "inline",
+  "latex": "b_1 = a_1 \\sqrt{2}/2",
+  "metadata": {
+    "db_key": "5890",
+    "src": "images/formula_inline_361_7_47.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 33926
+  },
+  "wrapper_html": "<span data-db-key=\"5890\" data-src=\"images/formula_inline_361_7_47.webp\"> $b_1 = a_1 \\sqrt{2}/2$ </span>"
+}

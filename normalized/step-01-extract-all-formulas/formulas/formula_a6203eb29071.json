@@ -1,0 +1,15 @@
+{
+  "id": "a6203eb29071",
+  "type": "display",
+  "latex": "v_0' = \\sqrt{3k_в T_{0в}} / m_в = 484,88242 \\, \\text{м} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "28",
+    "src": "images/formula_full_2_4_0.webp",
+    "equation_number": "(1.9)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 8056
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"28\" data-src=\"images/formula_full_2_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0' = \\sqrt{3k_в T_{0в}} / m_в = 484,88242 \\, \\text{м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.9)\n</div>\n</div>"
+}

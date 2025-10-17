@@ -1,0 +1,15 @@
+{
+  "id": "14d5307bf35c",
+  "type": "display",
+  "latex": "S_{mi} = h_i^2",
+  "metadata": {
+    "db_key": "5302",
+    "src": "images/formula_full_329_2_0.webp",
+    "equation_number": "(19.12)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 17808
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5302\" data-src=\"images/formula_full_329_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_{mi} = h_i^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.12)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c10a00e2fb0f",
+  "type": "inline",
+  "latex": "T \\rightarrow 0 \\ КПД \\rightarrow 1",
+  "metadata": {
+    "db_key": "5810",
+    "src": "images/formula_inline_357_5_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 20415
+  },
+  "wrapper_html": "<span data-db-key=\"5810\" data-src=\"images/formula_inline_357_5_11.webp\"> $T \\rightarrow 0 \\ КПД \\rightarrow 1$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bf465c4100a5",
+  "type": "display",
+  "latex": "n_i = \\text{tg } \\beta + \\text{tg } \\beta (\\gamma/\\alpha) = \\text{tg } \\beta (1 + \\gamma/\\alpha)",
+  "metadata": {
+    "db_key": "3318",
+    "src": "images/formula_full_208_9.webp",
+    "equation_number": "(13.204)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 346463
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3318\" data-src=\"images/formula_full_208_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n_i = \\text{tg } \\beta + \\text{tg } \\beta (\\gamma/\\alpha) = \\text{tg } \\beta (1 + \\gamma/\\alpha)$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.204)\n</div>\n</div>"
+}

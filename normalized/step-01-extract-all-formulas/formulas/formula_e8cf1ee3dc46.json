@@ -1,0 +1,15 @@
+{
+  "id": "e8cf1ee3dc46",
+  "type": "inline",
+  "latex": "\\Delta z = (Z_c + e) = 2,6204 \\cdot 10^{-22}",
+  "metadata": {
+    "db_key": "7083",
+    "src": "images/formula_inline_450_13_70.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 164113
+  },
+  "wrapper_html": "<span data-db-key=\"7083\" data-src=\"images/formula_inline_450_13_70.webp\"> $\\Delta z = (Z_c + e) = 2,6204 \\cdot 10^{-22}$ </span>"
+}

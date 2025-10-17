@@ -1,0 +1,15 @@
+{
+  "id": "ed42e52e7993",
+  "type": "display",
+  "latex": "\\nu_{i} = \\frac{n_{\\lambda} \\cdot \\omega_{i}}{2\\pi} = \\frac{n_{\\lambda} \\cdot v_{c}}{2\\pi \\cdot R_{ci}} = \\frac{n_{\\lambda} \\cdot v_{c} \\cdot \\sqrt[3]{2}}{2\\pi R_{i}}, с^{-1}",
+  "metadata": {
+    "db_key": "1049",
+    "src": "images/formula_full_73_2_0.webp",
+    "equation_number": "(8.9)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 8649
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1049\" data-src=\"images/formula_full_73_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{i} = \\frac{n_{\\lambda} \\cdot \\omega_{i}}{2\\pi} = \\frac{n_{\\lambda} \\cdot v_{c}}{2\\pi \\cdot R_{ci}} = \\frac{n_{\\lambda} \\cdot v_{c} \\cdot \\sqrt[3]{2}}{2\\pi R_{i}}, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.9)\n</div>\n</div>"
+}

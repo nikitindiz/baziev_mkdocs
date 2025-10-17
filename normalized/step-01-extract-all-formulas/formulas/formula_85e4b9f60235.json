@@ -1,0 +1,15 @@
+{
+  "id": "85e4b9f60235",
+  "type": "inline",
+  "latex": "\\rho_c'",
+  "metadata": {
+    "db_key": "5935",
+    "src": "images/formula_inline_363_9_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 40675
+  },
+  "wrapper_html": "<span data-db-key=\"5935\" data-src=\"images/formula_inline_363_9_4.webp\"> $\\rho_c'$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0b4a9d122efc",
+  "type": "inline",
+  "latex": "(P_1 = 0 \\text{ ат и } P_2 = 1 \\text{ ат})",
+  "metadata": {
+    "db_key": "1832",
+    "src": "images/formula_inline_124_0_42.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 20054
+  },
+  "wrapper_html": "<span data-db-key=\"1832\" data-src=\"images/formula_inline_124_0_42.webp\"> $(P_1 = 0 \\text{ ат и } P_2 = 1 \\text{ ат})$ </span>"
+}

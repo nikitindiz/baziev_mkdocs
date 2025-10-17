@@ -1,0 +1,15 @@
+{
+  "id": "e4331b4e08cc",
+  "type": "display",
+  "latex": "C_k = S_{69} \\cdot S_{68} \\cdot \\dots  S_i = 6,4819495 \\cdot 10^6",
+  "metadata": {
+    "db_key": "7217",
+    "src": "images/formula_full_463_8_0.webp",
+    "equation_number": "(26.4)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 4576
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7217\" data-src=\"images/formula_full_463_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_k = S_{69} \\cdot S_{68} \\cdot \\dots  S_i = 6,4819495 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.4)\n</div>\n</div>"
+}

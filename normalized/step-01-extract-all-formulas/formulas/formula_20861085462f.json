@@ -1,0 +1,15 @@
+{
+  "id": "20861085462f",
+  "type": "display",
+  "latex": "|q_g| = \\sqrt{\\frac{F_0 \\cdot r_{\\text{ед}}^2}{2 \\cdot \\gamma}} = \\sqrt{\\frac{6.6720022 \\cdot 10^{-11}}{7.2947946 \\cdot 10^{6}}} = 3.0242769292 \\cdot 10^{-9} \\text{ Кл.}",
+  "metadata": {
+    "db_key": "7126",
+    "src": "images/formula_full_455_2.webp",
+    "equation_number": "(24.8)"
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 6504
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7126\" data-src=\"images/formula_full_455_2.webp\">\n<div style=\"width: 100%;\">\n\n$$|q_g| = \\sqrt{\\frac{F_0 \\cdot r_{\\text{ед}}^2}{2 \\cdot \\gamma}} = \\sqrt{\\frac{6.6720022 \\cdot 10^{-11}}{7.2947946 \\cdot 10^{6}}} = 3.0242769292 \\cdot 10^{-9} \\text{ Кл.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.8)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ff9e965ddd12",
+  "type": "display",
+  "latex": "t_i = \\sqrt[3]{3\\pi^2 \\cdot \\frac{m_i}{v_c^3} \\cdot \\rho_{ci}}",
+  "metadata": {
+    "db_key": "2274",
+    "src": "images/formula_full_148_21_0.webp",
+    "equation_number": "(12.71)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 57010
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2274\" data-src=\"images/formula_full_148_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_i = \\sqrt[3]{3\\pi^2 \\cdot \\frac{m_i}{v_c^3} \\cdot \\rho_{ci}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.71)\n</div>\n</div>"
+}

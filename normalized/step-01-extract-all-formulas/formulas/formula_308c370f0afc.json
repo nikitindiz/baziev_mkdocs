@@ -1,0 +1,15 @@
+{
+  "id": "308c370f0afc",
+  "type": "display",
+  "latex": "Z_2 = (K_2 \\cdot э - 2e) = 3,2019308 \\cdot 10^{-19} Кл",
+  "metadata": {
+    "db_key": "6897",
+    "src": "images/formula_full_437_6_0.webp",
+    "equation_number": "(23.123)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 146103
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6897\" data-src=\"images/formula_full_437_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_2 = (K_2 \\cdot э - 2e) = 3,2019308 \\cdot 10^{-19} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.123)\n</div>\n</div>"
+}

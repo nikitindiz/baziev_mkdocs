@@ -1,0 +1,15 @@
+{
+  "id": "a47e31643f59",
+  "type": "display",
+  "latex": "\\frac{a_i^3}{T_i^2} = \\frac{I_{\\odot}}{16E^2(e_i)} \\neq \\text{Const}",
+  "metadata": {
+    "db_key": "2205",
+    "src": "images/formula_full_144_8.webp",
+    "equation_number": "(12.41)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 38533
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2205\" data-src=\"images/formula_full_144_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{a_i^3}{T_i^2} = \\frac{I_{\\odot}}{16E^2(e_i)} \\neq \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.41)\n</div>\n</div>"
+}

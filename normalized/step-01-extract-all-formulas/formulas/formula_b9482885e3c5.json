@@ -1,0 +1,15 @@
+{
+  "id": "b9482885e3c5",
+  "type": "display",
+  "latex": "L_{ti} = m_i v_{г}, \\, \\text{кг} \\cdot \\text{м}^2 \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "2143",
+    "src": "images/formula_full_141_15_0.webp",
+    "equation_number": "(12.18)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 27351
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2143\" data-src=\"images/formula_full_141_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$L_{ti} = m_i v_{г}, \\, \\text{кг} \\cdot \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.18)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61c22c53b5e8",
+  "type": "display",
+  "latex": "B = 1/n_э = 4,1353091 \\cdot 10^{-9}",
+  "metadata": {
+    "db_key": "2893",
+    "src": "images/formula_full_184_7_0.webp",
+    "equation_number": "(13.110)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 180834
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2893\" data-src=\"images/formula_full_184_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$B = 1/n_э = 4,1353091 \\cdot 10^{-9}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.110)\n</div>\n</div>"
+}

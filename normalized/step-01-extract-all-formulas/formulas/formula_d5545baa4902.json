@@ -1,0 +1,15 @@
+{
+  "id": "d5545baa4902",
+  "type": "display",
+  "latex": "C_{Au} = v_2 u_2 / T_2 = 130 \\text{ м}^2 \\cdot \\text{с}^{-2} \\cdot \\text{K}^{-2}",
+  "metadata": {
+    "db_key": "4270",
+    "src": "images/formula_full_261_8_0.webp",
+    "equation_number": "(15.82)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 75471
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4270\" data-src=\"images/formula_full_261_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{Au} = v_2 u_2 / T_2 = 130 \\text{ м}^2 \\cdot \\text{с}^{-2} \\cdot \\text{K}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.82)\n</div>\n</div>"
+}

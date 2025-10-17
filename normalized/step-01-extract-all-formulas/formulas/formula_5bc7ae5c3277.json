@@ -1,0 +1,15 @@
+{
+  "id": "5bc7ae5c3277",
+  "type": "inline",
+  "latex": "P_1 = 1 \\cdot 10^{-4,14} \\, Па",
+  "metadata": {
+    "db_key": "2986",
+    "src": "images/formula_inline_190_3_129.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 170051
+  },
+  "wrapper_html": "<span data-db-key=\"2986\" data-src=\"images/formula_inline_190_3_129.webp\"> $P_1 = 1 \\cdot 10^{-4,14} \\, Па$ </span>"
+}

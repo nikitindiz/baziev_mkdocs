@@ -1,0 +1,15 @@
+{
+  "id": "0a1bf113fbe2",
+  "type": "display",
+  "latex": "V_{\\text{то}}^{\\text{п}} = \\frac{V_{g0}^{\\text{п}} \\cdot P_0^{\\text{п}} - h \\cdot f_0}{P_0^{\\text{п}}} = \\frac{3,8008116 \\cdot 10^{-21} - 3,7701389 \\cdot 10^{-21}}{6,1075801 \\cdot 10^2} =",
+  "metadata": {
+    "db_key": "4390",
+    "src": "images/formula_full_269_10.webp",
+    "equation_number": "(16.31)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 29951
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4390\" data-src=\"images/formula_full_269_10.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\text{то}}^{\\text{п}} = \\frac{V_{g0}^{\\text{п}} \\cdot P_0^{\\text{п}} - h \\cdot f_0}{P_0^{\\text{п}}} = \\frac{3,8008116 \\cdot 10^{-21} - 3,7701389 \\cdot 10^{-21}}{6,1075801 \\cdot 10^2} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.31)\n</div>\n</div>"
+}

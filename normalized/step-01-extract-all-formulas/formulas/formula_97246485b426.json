@@ -1,0 +1,15 @@
+{
+  "id": "97246485b426",
+  "type": "display",
+  "latex": "P_{1d} = \\frac{\\varphi_{H_2O} \\cdot q}{2V_d} = -2,1139954 \\cdot 10^9 \\text{ Па}",
+  "metadata": {
+    "db_key": "5062",
+    "src": "images/formula_full_311_16.webp",
+    "equation_number": "(18.122)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 69558
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5062\" data-src=\"images/formula_full_311_16.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{1d} = \\frac{\\varphi_{H_2O} \\cdot q}{2V_d} = -2,1139954 \\cdot 10^9 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.122)\n</div>\n</div>"
+}

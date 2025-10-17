@@ -1,0 +1,15 @@
+{
+  "id": "1c81f3f00404",
+  "type": "display",
+  "latex": "\\bar{A}_{Au}=(A_x + A_y)/2 = 1,8052083 \\cdot 10^{-10} \\, \\text{м}",
+  "metadata": {
+    "db_key": "5732",
+    "src": "images/formula_full_353_4_0.webp",
+    "equation_number": "(20.16)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 12877
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5732\" data-src=\"images/formula_full_353_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\bar{A}_{Au}=(A_x + A_y)/2 = 1,8052083 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.16)\n</div>\n</div>"
+}

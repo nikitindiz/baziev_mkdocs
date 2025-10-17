@@ -1,0 +1,15 @@
+{
+  "id": "0030364bb6a9",
+  "type": "display",
+  "latex": "\\alpha_{☿} = [90\\degree - (\\beta_{☿} + \\gamma_{☿})] = 90\\degree - 72\\degree 25' 46'', 4 = 17\\degree 34' 13'', 6",
+  "metadata": {
+    "db_key": "8407",
+    "src": "images/formula_full_563_10_0.webp",
+    "equation_number": "(36.43)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 51812
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8407\" data-src=\"images/formula_full_563_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_{☿} = [90\\degree - (\\beta_{☿} + \\gamma_{☿})] = 90\\degree - 72\\degree 25' 46'', 4 = 17\\degree 34' 13'', 6$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.43)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d640cd32eeb8",
+  "type": "display",
+  "latex": "B = \\frac{n_B \\cdot V_{\\text{ед}}}{n_{э}} = 4,1353091 \\cdot 10^{-9} = \\text{Const}",
+  "metadata": {
+    "db_key": "2886",
+    "src": "images/formula_full_184_12.webp",
+    "equation_number": "(13.112)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 182043
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2886\" data-src=\"images/formula_full_184_12.webp\">\n<div style=\"width: 100%;\">\n\n$$B = \\frac{n_B \\cdot V_{\\text{ед}}}{n_{э}} = 4,1353091 \\cdot 10^{-9} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.112)\n</div>\n</div>"
+}

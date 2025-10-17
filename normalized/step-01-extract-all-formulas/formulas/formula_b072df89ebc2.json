@@ -1,0 +1,15 @@
+{
+  "id": "b072df89ebc2",
+  "type": "inline",
+  "latex": "Т = 4100 \\ К",
+  "metadata": {
+    "db_key": "6992",
+    "src": "images/formula_inline_445_2_80.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 153309
+  },
+  "wrapper_html": "<span data-db-key=\"6992\" data-src=\"images/formula_inline_445_2_80.webp\"> $Т = 4100 \\ К$ </span>"
+}

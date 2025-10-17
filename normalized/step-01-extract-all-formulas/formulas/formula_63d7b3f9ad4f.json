@@ -1,0 +1,15 @@
+{
+  "id": "63d7b3f9ad4f",
+  "type": "inline",
+  "latex": "\\rho_i",
+  "metadata": {
+    "db_key": "6412",
+    "src": "images/formula_inline_397_15_34.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 30172
+  },
+  "wrapper_html": "<span data-db-key=\"6412\" data-src=\"images/formula_inline_397_15_34.webp\"> $\\rho_i$ </span>"
+}

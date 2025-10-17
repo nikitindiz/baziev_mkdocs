@@ -1,0 +1,15 @@
+{
+  "id": "1738ff3d385a",
+  "type": "display",
+  "latex": "\\mu = L_\\odot / C_э = L_\\odot \\cdot m_э / \\mathscr{P} = 1,8809693 \\cdot 10^{12} \\, \\text{кг} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "7277",
+    "src": "images/formula_full_470_5_0.webp",
+    "equation_number": "(26.23)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 27913
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7277\" data-src=\"images/formula_full_470_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu = L_\\odot / C_э = L_\\odot \\cdot m_э / \\mathscr{P} = 1,8809693 \\cdot 10^{12} \\, \\text{кг} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.23)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d1e52f1d5335",
+  "type": "display",
+  "latex": "R_{c\\oplus} = \\frac{v_c}{\\omega_\\oplus} = \\frac{7,7369622}{7,2921 \\cdot 10^{-5}} = 1,061006 \\cdot 10^5 \\, \\text{м}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 16230
+  },
+  "wrapper_html": null
+}

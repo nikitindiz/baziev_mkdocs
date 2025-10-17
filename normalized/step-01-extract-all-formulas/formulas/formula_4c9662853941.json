@@ -1,0 +1,15 @@
+{
+  "id": "4c9662853941",
+  "type": "display",
+  "latex": "\\tau_{1 i} = \\frac{\\pi r_{i}}{u_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{2 u_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{4 \\cdot c_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{4 \\sqrt{\\mu \\cdot \\nu_{i}}} \\cdot  с",
+  "metadata": {
+    "db_key": "2433",
+    "src": "images/formula_full_158_8_0.webp",
+    "equation_number": "(13.27)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 45437
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2433\" data-src=\"images/formula_full_158_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{1 i} = \\frac{\\pi r_{i}}{u_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{2 u_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{4 \\cdot c_{i}} = \\frac{\\pi \\cdot \\lambda_{i}}{4 \\sqrt{\\mu \\cdot \\nu_{i}}} \\cdot  с$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.27)\n</div>\n</div>"
+}

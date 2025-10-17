@@ -1,0 +1,15 @@
+{
+  "id": "01432db91772",
+  "type": "display",
+  "latex": "\\Delta I_{\\mu \\oplus} = э \\cdot \\omega_{\\mu \\oplus} \\cdot K_{m} = 7,9321522 \\cdot 10^{-6} \\ A",
+  "metadata": {
+    "db_key": "6231",
+    "src": "images/formula_full_382_13_0.webp",
+    "equation_number": "(20.170)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 146619
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6231\" data-src=\"images/formula_full_382_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta I_{\\mu \\oplus} = э \\cdot \\omega_{\\mu \\oplus} \\cdot K_{m} = 7,9321522 \\cdot 10^{-6} \\ A$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.170)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e1a477b20fa3",
+  "type": "inline",
+  "latex": "\\Delta Z = 1,28427 \\cdot 10^{-19} \\text{ Кл}",
+  "metadata": {
+    "db_key": "4049",
+    "src": "images/formula_inline_250_5_22.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 21889
+  },
+  "wrapper_html": "<span data-db-key=\"4049\" data-src=\"images/formula_inline_250_5_22.webp\"> $\\Delta Z = 1,28427 \\cdot 10^{-19} \\text{ Кл}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ae6c9302687d",
+  "type": "inline",
+  "latex": "a = \\sqrt[3]{\\frac{4\\pi}{3}} = 1,611992 \\text{ рад } = 92,360338 \\text{ градус }",
+  "metadata": {
+    "db_key": "87",
+    "src": "images/formula_inline_6_1_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 16809
+  },
+  "wrapper_html": "<span data-db-key=\"87\" data-src=\"images/formula_inline_6_1_4.webp\"> $a = \\sqrt[3]{\\frac{4\\pi}{3}} = 1,611992 \\text{ рад } = 92,360338 \\text{ градус }$ </span>"
+}

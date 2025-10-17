@@ -1,0 +1,15 @@
+{
+  "id": "cf1baaf97a28",
+  "type": "display",
+  "latex": "2э\\varphi = m_э \\mu \\cdot v_{ед} = L_э \\cdot v_{ед}, Дж",
+  "metadata": {
+    "db_key": "964",
+    "src": "images/formula_full_66_3_0.webp",
+    "equation_number": "(7.9)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 10947
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"964\" data-src=\"images/formula_full_66_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$2э\\varphi = m_э \\mu \\cdot v_{ед} = L_э \\cdot v_{ед}, Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.9)\n</div>\n</div>"
+}

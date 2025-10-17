@@ -1,0 +1,15 @@
+{
+  "id": "010599b10d8b",
+  "type": "display",
+  "latex": "E_n = 4\\pi \\cdot R_n^2 \\cdot \\sigma_n \\cdot n_э \\cdot \\sqrt{n_e} = 5,4608428 \\cdot 10^{-13} \\, \\text{Дж}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 79984
+  },
+  "wrapper_html": null
+}

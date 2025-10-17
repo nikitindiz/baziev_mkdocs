@@ -1,0 +1,15 @@
+{
+  "id": "fec8ce886536",
+  "type": "display",
+  "latex": "\\Delta m = \\Delta V \\cdot \\rho_{\\text{U}} = 11,7256 \\text{ кг}",
+  "metadata": {
+    "db_key": "1419",
+    "src": "images/formula_full_99_9_0.webp",
+    "equation_number": "(9.87)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 64917
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1419\" data-src=\"images/formula_full_99_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m = \\Delta V \\cdot \\rho_{\\text{U}} = 11,7256 \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.87)\n</div>\n</div>"
+}

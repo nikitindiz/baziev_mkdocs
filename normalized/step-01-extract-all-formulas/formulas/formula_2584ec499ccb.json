@@ -1,0 +1,15 @@
+{
+  "id": "2584ec499ccb",
+  "type": "display",
+  "latex": "\\Delta q_{3} = K_{3} \\cdot э = -1,2014744 \\cdot 10^{-20} \\, Кл",
+  "metadata": {
+    "db_key": "6370",
+    "src": "images/formula_full_394_11_0.webp",
+    "equation_number": "(21.1.10)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 6026
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6370\" data-src=\"images/formula_full_394_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta q_{3} = K_{3} \\cdot э = -1,2014744 \\cdot 10^{-20} \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.10)\n</div>\n</div>"
+}

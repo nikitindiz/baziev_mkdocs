@@ -1,0 +1,15 @@
+{
+  "id": "81adc945f925",
+  "type": "inline",
+  "latex": "NH_3, CO_2",
+  "metadata": {
+    "db_key": "1824",
+    "src": "images/formula_inline_123_8_6.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 17275
+  },
+  "wrapper_html": "<span data-db-key=\"1824\" data-src=\"images/formula_inline_123_8_6.webp\"> $NH_3, CO_2$ </span>"
+}

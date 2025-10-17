@@ -1,0 +1,15 @@
+{
+  "id": "8f7afb844b90",
+  "type": "display",
+  "latex": "\\gamma_i = \\frac{\\varepsilon_{0i} \\cdot \\beta \\left( n \\right)}{k_i} = \\frac{\\varepsilon_{0i} \\left( n - 1 \\right)}{k_i t}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 9034
+  },
+  "wrapper_html": null
+}

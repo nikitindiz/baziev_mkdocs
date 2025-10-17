@@ -1,0 +1,15 @@
+{
+  "id": "cff447314d70",
+  "type": "display",
+  "latex": "V_{g0}^п = \\frac{m^п}{\\rho_0^п} = 6,2231057 \\cdot 10^{-24} \\text{ м}^3",
+  "metadata": {
+    "db_key": "4393",
+    "src": "images/formula_full_269_3_0.webp",
+    "equation_number": "(16.28)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 28125
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4393\" data-src=\"images/formula_full_269_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g0}^п = \\frac{m^п}{\\rho_0^п} = 6,2231057 \\cdot 10^{-24} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.28)\n</div>\n</div>"
+}

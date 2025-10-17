@@ -1,0 +1,15 @@
+{
+  "id": "97e04f369033",
+  "type": "inline",
+  "latex": "i_{э} = m_{э} \\cdot u_{э} = m_{э} \\mu / r_i",
+  "metadata": {
+    "db_key": "1569",
+    "src": "images/formula_inline_110_0_57.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 32188
+  },
+  "wrapper_html": "<span data-db-key=\"1569\" data-src=\"images/formula_inline_110_0_57.webp\"> $i_{э} = m_{э} \\cdot u_{э} = m_{э} \\mu / r_i$ </span>"
+}

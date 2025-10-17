@@ -1,0 +1,15 @@
+{
+  "id": "4e7f620e3b9e",
+  "type": "display",
+  "latex": "i(\\alpha, n) = m(\\gamma) \\cdot v(\\alpha, n) = i_{0i} \\cdot \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t)",
+  "metadata": {
+    "db_key": "1930",
+    "src": "images/formula_full_128_6_0.webp",
+    "equation_number": "(11.59)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 44653
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1930\" data-src=\"images/formula_full_128_6_0.webp\">\n    <div style=\"width: 100%;\">\n\n$$i(\\alpha, n) = m(\\gamma) \\cdot v(\\alpha, n) = i_{0i} \\cdot \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.59)\n</div>\n</div>"
+}

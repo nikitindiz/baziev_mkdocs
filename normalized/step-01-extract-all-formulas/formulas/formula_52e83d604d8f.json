@@ -1,0 +1,15 @@
+{
+  "id": "52e83d604d8f",
+  "type": "inline",
+  "latex": "2 \\cdot 10^{28}",
+  "metadata": {
+    "db_key": "1445",
+    "src": "images/formula_inline_101_1_64.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 48934
+  },
+  "wrapper_html": "<span data-db-key=\"1445\" data-src=\"images/formula_inline_101_1_64.webp\"> $2 \\cdot 10^{28}$ </span>"
+}

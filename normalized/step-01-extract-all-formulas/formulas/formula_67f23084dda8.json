@@ -1,0 +1,15 @@
+{
+  "id": "67f23084dda8",
+  "type": "inline",
+  "latex": "n_{3} = 4,6184866 \\cdot 10^{-17} \\text{ Н, где } c_{1} = \\sqrt{\\mu \\cdot \\nu_{1}} = 2,6648 \\cdot 10^{8} \\text{ м } \\cdot \\text{ с}^{-1}",
+  "metadata": {
+    "db_key": "2689",
+    "src": "images/formula_inline_170_6_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 96099
+  },
+  "wrapper_html": "<span data-db-key=\"2689\" data-src=\"images/formula_inline_170_6_0.webp\"> $n_{3} = 4,6184866 \\cdot 10^{-17} \\text{ Н, где } c_{1} = \\sqrt{\\mu \\cdot \\nu_{1}} = 2,6648 \\cdot 10^{8} \\text{ м } \\cdot \\text{ с}^{-1}$ </span>"
+}

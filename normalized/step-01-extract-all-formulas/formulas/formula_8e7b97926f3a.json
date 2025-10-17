@@ -1,0 +1,15 @@
+{
+  "id": "8e7b97926f3a",
+  "type": "inline",
+  "latex": "c_i = \\sqrt{\\mu \\cdot \\nu_i}",
+  "metadata": {
+    "db_key": "6317",
+    "src": "images/formula_inline_389_0_37.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 11079
+  },
+  "wrapper_html": "<span data-db-key=\"6317\" data-src=\"images/formula_inline_389_0_37.webp\"> $c_i = \\sqrt{\\mu \\cdot \\nu_i}$ </span>"
+}

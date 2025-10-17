@@ -1,0 +1,15 @@
+{
+  "id": "441adfe4bd93",
+  "type": "display",
+  "latex": "\\Delta V_{1} = \\pi A_{1}^{3}/6 = 9,287809 \\cdot 10^{-30} \\text{м}^{3}",
+  "metadata": {
+    "db_key": "4991",
+    "src": "images/formula_full_306_19_0.webp",
+    "equation_number": "(18.76)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 48221
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4991\" data-src=\"images/formula_full_306_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{1} = \\pi A_{1}^{3}/6 = 9,287809 \\cdot 10^{-30} \\text{м}^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.76)\n</div>\n</div>"
+}

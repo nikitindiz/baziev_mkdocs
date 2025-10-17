@@ -1,0 +1,15 @@
+{
+  "id": "a5fa23fe4ef7",
+  "type": "inline",
+  "latex": "P_0 = 6,10758 \\cdot 10^2 \\text{ Па}",
+  "metadata": {
+    "db_key": "4658",
+    "src": "images/formula_inline_285_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 21239
+  },
+  "wrapper_html": "<span data-db-key=\"4658\" data-src=\"images/formula_inline_285_1_0.webp\"> $P_0 = 6,10758 \\cdot 10^2 \\text{ Па}$ </span>"
+}

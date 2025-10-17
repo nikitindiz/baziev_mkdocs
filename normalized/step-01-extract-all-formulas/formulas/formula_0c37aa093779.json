@@ -1,0 +1,15 @@
+{
+  "id": "0c37aa093779",
+  "type": "inline",
+  "latex": "\\xi_\\odot",
+  "metadata": {
+    "db_key": "9288",
+    "src": "images/formula_inline_627_1_30.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 15074
+  },
+  "wrapper_html": "<span data-db-key=\"9288\" data-src=\"images/formula_inline_627_1_30.webp\"> $\\xi_\\odot$ </span>"
+}

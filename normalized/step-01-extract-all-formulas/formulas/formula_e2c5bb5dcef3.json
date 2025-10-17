@@ -1,0 +1,15 @@
+{
+  "id": "e2c5bb5dcef3",
+  "type": "inline",
+  "latex": "v_1 = 2,3 \\cdot 10^3 \\, м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "7520",
+    "src": "images/formula_inline_487_17_34.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 3457
+  },
+  "wrapper_html": "<span data-db-key=\"7520\" data-src=\"images/formula_inline_487_17_34.webp\"> $v_1 = 2,3 \\cdot 10^3 \\, м \\cdot с^{-1}$ </span>"
+}

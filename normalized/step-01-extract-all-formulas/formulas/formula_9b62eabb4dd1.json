@@ -1,0 +1,15 @@
+{
+  "id": "9b62eabb4dd1",
+  "type": "inline",
+  "latex": "A_0 = 27",
+  "metadata": {
+    "db_key": "5481",
+    "src": "images/formula_inline_337_6_6.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 49427
+  },
+  "wrapper_html": "<span data-db-key=\"5481\" data-src=\"images/formula_inline_337_6_6.webp\"> $A_0 = 27$ </span>"
+}

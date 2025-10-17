@@ -1,0 +1,15 @@
+{
+  "id": "32300b1645fe",
+  "type": "inline",
+  "latex": "\\Delta F_i",
+  "metadata": {
+    "db_key": "2306",
+    "src": "images/formula_inline_150_3_8.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 42050
+  },
+  "wrapper_html": "<span data-db-key=\"2306\" data-src=\"images/formula_inline_150_3_8.webp\"> $\\Delta F_i$ </span>"
+}

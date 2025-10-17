@@ -1,0 +1,15 @@
+{
+  "id": "f38887fd81ad",
+  "type": "inline",
+  "latex": "\\Delta l_2 = z_{2i} = 14 \\cdot \\lambda_i",
+  "metadata": {
+    "db_key": "3113",
+    "src": "images/formula_inline_197_9_61.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 204857
+  },
+  "wrapper_html": "<span data-db-key=\"3113\" data-src=\"images/formula_inline_197_9_61.webp\"> $\\Delta l_2 = z_{2i} = 14 \\cdot \\lambda_i$ </span>"
+}

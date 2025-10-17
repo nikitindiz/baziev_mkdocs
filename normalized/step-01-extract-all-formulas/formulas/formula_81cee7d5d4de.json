@@ -1,0 +1,15 @@
+{
+  "id": "81cee7d5d4de",
+  "type": "display",
+  "latex": "k = R/N_A' = 1,380658 \\cdot 10^{-23} \\text{ Дж} \\cdot \\text{К}^{-1}",
+  "metadata": {
+    "db_key": "412",
+    "src": "images/formula_full_30_1_0.webp",
+    "equation_number": "(5.1)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 1752
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"412\" data-src=\"images/formula_full_30_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k = R/N_A' = 1,380658 \\cdot 10^{-23} \\text{ Дж} \\cdot \\text{К}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.1)\n</div>\n</div>"
+}

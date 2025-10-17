@@ -1,0 +1,15 @@
+{
+  "id": "3b8f0acb3708",
+  "type": "inline",
+  "latex": "E = 7,1 \\cdot 10^{10} \\text{Па}",
+  "metadata": {
+    "db_key": "5654",
+    "src": "images/formula_inline_347_3_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 76204
+  },
+  "wrapper_html": "<span data-db-key=\"5654\" data-src=\"images/formula_inline_347_3_7.webp\"> $E = 7,1 \\cdot 10^{10} \\text{Па}$ </span>"
+}

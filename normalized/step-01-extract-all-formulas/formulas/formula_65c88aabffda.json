@@ -1,0 +1,15 @@
+{
+  "id": "65c88aabffda",
+  "type": "display",
+  "latex": "\\nu_i = c / \\lambda_i",
+  "metadata": {
+    "db_key": "2828",
+    "src": "images/formula_inline_178_2_0.webp",
+    "equation_number": "(13.88)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 157514
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2828\" data-src=\"images/formula_inline_178_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_i = c / \\lambda_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.88)\n</div>\n</div>"
+}

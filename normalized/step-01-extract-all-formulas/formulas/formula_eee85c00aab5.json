@@ -1,0 +1,15 @@
+{
+  "id": "eee85c00aab5",
+  "type": "display",
+  "latex": "n_e (f) = \\frac{1/\\nu_g}{\\tau_e} = \\frac{1}{\\nu_g \\cdot \\tau_e} = 5,900 4086 \\cdot 10^3",
+  "metadata": {
+    "db_key": "3969",
+    "src": "images/formula_full_244_10.webp",
+    "equation_number": "(14.147)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 165740
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3969\" data-src=\"images/formula_full_244_10.webp\">\n<div style=\"width: 100%;\">\n\n$$n_e (f) = \\frac{1/\\nu_g}{\\tau_e} = \\frac{1}{\\nu_g \\cdot \\tau_e} = 5,900 4086 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.147)\n</div>\n</div>"
+}

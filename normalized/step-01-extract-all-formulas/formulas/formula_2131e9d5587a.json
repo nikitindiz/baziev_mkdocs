@@ -1,0 +1,15 @@
+{
+  "id": "2131e9d5587a",
+  "type": "inline",
+  "latex": "f(t) = f_{0i}(1 + \\beta_{0i} t)",
+  "metadata": {
+    "db_key": "2031",
+    "src": "images/formula_inline_133_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 43536
+  },
+  "wrapper_html": "<span data-db-key=\"2031\" data-src=\"images/formula_inline_133_7_0.webp\"> $f(t) = f_{0i}(1 + \\beta_{0i} t)$ </span>"
+}

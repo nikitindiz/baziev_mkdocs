@@ -1,0 +1,15 @@
+{
+  "id": "79c6cba9aa1b",
+  "type": "display",
+  "latex": "v_{♄}=9,324\\,164\\,001\\,74 \\cdot 10^{3} \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "8858",
+    "src": "images/formula_full_593_28_0.webp",
+    "equation_number": "(39.58)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 37471
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8858\" data-src=\"images/formula_full_593_28_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{♄}=9,324\\,164\\,001\\,74 \\cdot 10^{3} \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.58)\n</div>\n</div>"
+}

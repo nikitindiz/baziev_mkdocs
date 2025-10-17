@@ -1,0 +1,15 @@
+{
+  "id": "71f88773a7f4",
+  "type": "display",
+  "latex": "V_\\oplus' = m_\\oplus/\\rho_\\oplus' = 2,1664074 \\cdot 10^{21} \\text{м}^3",
+  "metadata": {
+    "db_key": "8585",
+    "src": "images/formula_full_576_3.webp",
+    "equation_number": "(38.37)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 19656
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8585\" data-src=\"images/formula_full_576_3.webp\">\n<div style=\"width: 100%;\">\n\n$$V_\\oplus' = m_\\oplus/\\rho_\\oplus' = 2,1664074 \\cdot 10^{21} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.37)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "93539a9df56f",
+  "type": "display",
+  "latex": "u_{e} = \\frac{f_{e} \\cdot \\lambda}{2} = 8,569548 \\cdot 10^{10} \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "3793",
+    "src": "images/formula_full_235_9_0.webp",
+    "equation_number": "(14.107)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 125083
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3793\" data-src=\"images/formula_full_235_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{e} = \\frac{f_{e} \\cdot \\lambda}{2} = 8,569548 \\cdot 10^{10} \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.107)\n</div>\n</div>"
+}

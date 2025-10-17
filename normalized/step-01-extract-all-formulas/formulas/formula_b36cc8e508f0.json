@@ -1,0 +1,15 @@
+{
+  "id": "b36cc8e508f0",
+  "type": "inline",
+  "latex": "a = 2 a_c",
+  "metadata": {
+    "db_key": "5175",
+    "src": "images/formula_inline_318_11_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 56246
+  },
+  "wrapper_html": "<span data-db-key=\"5175\" data-src=\"images/formula_inline_318_11_0.webp\"> $a = 2 a_c$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ab710fae7554",
+  "type": "inline",
+  "latex": "V_\\odot = 4 \\pi R_\\odot^3 / 3 = 1,2773102 \\cdot 10^{27} \\, \\text{м}^3",
+  "metadata": {
+    "db_key": "7194",
+    "src": "images/formula_inline_461_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 4220
+  },
+  "wrapper_html": "<span data-db-key=\"7194\" data-src=\"images/formula_inline_461_4_0.webp\"> $V_\\odot = 4 \\pi R_\\odot^3 / 3 = 1,2773102 \\cdot 10^{27} \\, \\text{м}^3$ </span>"
+}

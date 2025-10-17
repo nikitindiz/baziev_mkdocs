@@ -1,0 +1,15 @@
+{
+  "id": "071700334c59",
+  "type": "inline",
+  "latex": "R_i \\leq R_0",
+  "metadata": {
+    "db_key": "5805",
+    "src": "images/formula_inline_357_15_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 22537
+  },
+  "wrapper_html": "<span data-db-key=\"5805\" data-src=\"images/formula_inline_357_15_11.webp\"> $R_i \\leq R_0$ </span>"
+}

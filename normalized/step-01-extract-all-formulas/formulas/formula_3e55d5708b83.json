@@ -1,0 +1,15 @@
+{
+  "id": "3e55d5708b83",
+  "type": "display",
+  "latex": "\\xi_{\\text{He}} = h/k_{\\text{He}} = 4,8011734 \\cdot 10^{-11} \\, \\text{К} \\cdot с",
+  "metadata": {
+    "db_key": "457",
+    "src": "images/formula_full_33_6_0.webp",
+    "equation_number": "(5.21)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 13835
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"457\" data-src=\"images/formula_full_33_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\xi_{\\text{He}} = h/k_{\\text{He}} = 4,8011734 \\cdot 10^{-11} \\, \\text{К} \\cdot с$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.21)\n</div>\n</div>"
+}

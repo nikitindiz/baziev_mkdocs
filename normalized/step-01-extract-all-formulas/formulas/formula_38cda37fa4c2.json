@@ -1,0 +1,15 @@
+{
+  "id": "38cda37fa4c2",
+  "type": "display",
+  "latex": "\\rho_1 = \\frac{m_i}{V_{g0} + \\Delta V} = \\frac{m_i}{V_{g1}}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 19917
+  },
+  "wrapper_html": null
+}

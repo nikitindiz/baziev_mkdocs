@@ -1,0 +1,15 @@
+{
+  "id": "85cb7db0ee94",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n\\varphi_1 &= 28\\degree 28'; \\quad \\text{tg} \\ \\varphi_1 = 0.5422 \\\\\n\\varphi_2 &= 29\\degree 7' 30''; \\quad \\text{tg} \\ \\varphi_2 = 0.55713 \\\\\n\\varphi_3 &= 29\\degree 20' 20''; \\quad \\text{tg} \\ \\varphi_3 = 0.5621\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "3136",
+    "src": "images/formula_full_199_6.webp",
+    "equation_number": "(13.161)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 278073
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3136\" data-src=\"images/formula_full_199_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\varphi_1 &= 28\\degree 28'; \\quad \\text{tg} \\ \\varphi_1 = 0.5422 \\\\\n\\varphi_2 &= 29\\degree 7' 30''; \\quad \\text{tg} \\ \\varphi_2 = 0.55713 \\\\\n\\varphi_3 &= 29\\degree 20' 20''; \\quad \\text{tg} \\ \\varphi_3 = 0.5621\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.161)\n</div>\n</div>"
+}

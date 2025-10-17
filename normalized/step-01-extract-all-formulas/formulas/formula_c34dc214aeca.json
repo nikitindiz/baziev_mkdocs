@@ -1,0 +1,15 @@
+{
+  "id": "c34dc214aeca",
+  "type": "inline",
+  "latex": "P_n = -7,22 \\cdot 10^{18} \\, \\text{Па}",
+  "metadata": {
+    "db_key": "3555",
+    "src": "images/formula_inline_221_9_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 32513
+  },
+  "wrapper_html": "<span data-db-key=\"3555\" data-src=\"images/formula_inline_221_9_23.webp\"> $P_n = -7,22 \\cdot 10^{18} \\, \\text{Па}$ </span>"
+}

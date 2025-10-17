@@ -1,0 +1,15 @@
+{
+  "id": "71aea3f79a19",
+  "type": "display",
+  "latex": "F_q = \\frac{\\beta \\cdot q_e \\cdot \\Delta Z}{\\lambda / 2} = \\frac{2 \\beta \\cdot q_e \\cdot \\Delta Z}{\\lambda}",
+  "metadata": {
+    "db_key": "3656",
+    "src": "images/formula_full_228_14_0.webp",
+    "equation_number": "(14.82)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 87226
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3656\" data-src=\"images/formula_full_228_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_q = \\frac{\\beta \\cdot q_e \\cdot \\Delta Z}{\\lambda / 2} = \\frac{2 \\beta \\cdot q_e \\cdot \\Delta Z}{\\lambda}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.82)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a3b1dde1e624",
+  "type": "display",
+  "latex": "R_{c \\odot}'=\\frac{v_{c}}{\\omega\\left(17{\\degree}\\right)}=\\frac{7,7369622}{2,865 \\cdot 10^{-6}}=2,7005103 \\cdot 10^{6} \\ м",
+  "metadata": {
+    "db_key": "7185",
+    "src": "images/formula_full_461_11.webp",
+    "equation_number": "(25.3)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 6428
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7185\" data-src=\"images/formula_full_461_11.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{c \\odot}'=\\frac{v_{c}}{\\omega\\left(17{\\degree}\\right)}=\\frac{7,7369622}{2,865 \\cdot 10^{-6}}=2,7005103 \\cdot 10^{6} \\ м$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.3)\n</div>\n</div>"
+}

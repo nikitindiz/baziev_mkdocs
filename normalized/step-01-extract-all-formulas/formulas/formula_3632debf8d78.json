@@ -1,0 +1,15 @@
+{
+  "id": "3632debf8d78",
+  "type": "inline",
+  "latex": "t = 80\\degree C",
+  "metadata": {
+    "db_key": "5663",
+    "src": "images/formula_inline_348_0_17.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 77622
+  },
+  "wrapper_html": "<span data-db-key=\"5663\" data-src=\"images/formula_inline_348_0_17.webp\"> $t = 80\\degree C$ </span>"
+}

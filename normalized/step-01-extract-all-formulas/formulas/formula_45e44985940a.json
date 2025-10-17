@@ -1,0 +1,15 @@
+{
+  "id": "45e44985940a",
+  "type": "display",
+  "latex": "r_{mi} = \\frac{\\Phi_0 \\cdot n_i \\cdot v_{si}}{2\\pi b_i \\cdot V_i}",
+  "metadata": {
+    "db_key": "5661",
+    "src": "images/formula_full_348_4.webp",
+    "equation_number": "(19.129)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 108092
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5661\" data-src=\"images/formula_full_348_4.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{mi} = \\frac{\\Phi_0 \\cdot n_i \\cdot v_{si}}{2\\pi b_i \\cdot V_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.129)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "593d3d84f64f",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n& a = b \\neq c \\\\\n& \\gamma \\approx 120\\degree \\\\\n& \\alpha = \\beta = 90\\degree\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "4556",
+    "src": "images/formula_full_280_16.webp",
+    "equation_number": "(17.18)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 12438
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4556\" data-src=\"images/formula_full_280_16.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n& a = b \\neq c \\\\\n& \\gamma \\approx 120\\degree \\\\\n& \\alpha = \\beta = 90\\degree\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.18)\n</div>\n</div>"
+}

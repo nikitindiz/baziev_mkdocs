@@ -1,0 +1,15 @@
+{
+  "id": "2f3b49a2714a",
+  "type": "display",
+  "latex": "r_i = (r_{mi} + i \\cdot h_i), м",
+  "metadata": {
+    "db_key": "5278",
+    "src": "images/formula_full_328_9_0.webp",
+    "equation_number": "(19.10)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 15562
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5278\" data-src=\"images/formula_full_328_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_i = (r_{mi} + i \\cdot h_i), м$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.10)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3fabe63ac5ef",
+  "type": "display",
+  "latex": "V_{g0} = \\frac{m_s}{\\rho_0} = \\frac{11,251539 \\cdot 10^{-23}}{9,99841 \\cdot 10^2} = 1,1253328 \\cdot 10^{-25} \\, \\text{м}^3",
+  "metadata": {
+    "db_key": "4538",
+    "src": "images/formula_full_279_16.webp",
+    "equation_number": "(17.10)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 9343
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4538\" data-src=\"images/formula_full_279_16.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g0} = \\frac{m_s}{\\rho_0} = \\frac{11,251539 \\cdot 10^{-23}}{9,99841 \\cdot 10^2} = 1,1253328 \\cdot 10^{-25} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.10)\n</div>\n</div>"
+}

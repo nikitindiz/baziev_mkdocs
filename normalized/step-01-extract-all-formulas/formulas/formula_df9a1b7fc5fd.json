@@ -1,0 +1,15 @@
+{
+  "id": "df9a1b7fc5fd",
+  "type": "inline",
+  "latex": "\\left(-\\frac{e}{3}\\right)",
+  "metadata": {
+    "db_key": "184",
+    "src": "images/formula_inline_13_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 965
+  },
+  "wrapper_html": "<span data-db-key=\"184\" data-src=\"images/formula_inline_13_7_0.webp\"> $\\left(-\\frac{e}{3}\\right)$ </span>"
+}

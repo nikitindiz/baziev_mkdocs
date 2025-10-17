@@ -1,0 +1,15 @@
+{
+  "id": "c9b27f9f3ff3",
+  "type": "display",
+  "latex": "n_x = n_y = n_z = \\sqrt[3]{n^ж} = \\sqrt[3]{\\gamma \\cdot \\gamma^п} = \\sqrt[3]{3,7617013 \\cdot 10^3} = 15,551482",
+  "metadata": {
+    "db_key": "4591",
+    "src": "images/formula_full_282_7_0.webp",
+    "equation_number": "(17.30)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 20289
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4591\" data-src=\"images/formula_full_282_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_x = n_y = n_z = \\sqrt[3]{n^ж} = \\sqrt[3]{\\gamma \\cdot \\gamma^п} = \\sqrt[3]{3,7617013 \\cdot 10^3} = 15,551482$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.30)\n</div>\n</div>"
+}

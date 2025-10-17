@@ -1,0 +1,15 @@
+{
+  "id": "ed2af1c6aecf",
+  "type": "inline",
+  "latex": "c \\neq a = b",
+  "metadata": {
+    "db_key": "4067",
+    "src": "images/formula_inline_251_10_52.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 27425
+  },
+  "wrapper_html": "<span data-db-key=\"4067\" data-src=\"images/formula_inline_251_10_52.webp\"> $c \\neq a = b$ </span>"
+}

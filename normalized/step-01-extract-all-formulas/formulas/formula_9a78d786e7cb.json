@@ -1,0 +1,15 @@
+{
+  "id": "9a78d786e7cb",
+  "type": "display",
+  "latex": "n_к = 2 \\operatorname{tg} \\beta_к = 1,514",
+  "metadata": {
+    "db_key": "3309",
+    "src": "images/formula_full_208_11_1.webp",
+    "equation_number": "(13.205)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 346960
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3309\" data-src=\"images/formula_full_208_11_1.webp\">\n\n<div style=\"width: 100%;\">\n\n$$n_к = 2 \\operatorname{tg} \\beta_к = 1,514$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.205)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3167a6919d3c",
+  "type": "inline",
+  "latex": "\\rho_{Au} = 2,25 \\cdot 10^{-8} \\, Ом \\cdot м",
+  "metadata": {
+    "db_key": "5737",
+    "src": "images/formula_inline_353_0_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 8916
+  },
+  "wrapper_html": "<span data-db-key=\"5737\" data-src=\"images/formula_inline_353_0_1.webp\"> $\\rho_{Au} = 2,25 \\cdot 10^{-8} \\, Ом \\cdot м$ </span>"
+}

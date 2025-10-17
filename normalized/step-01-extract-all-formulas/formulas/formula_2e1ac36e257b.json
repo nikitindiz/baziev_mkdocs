@@ -1,0 +1,15 @@
+{
+  "id": "2e1ac36e257b",
+  "type": "display",
+  "latex": "A_{Au} = \\frac{-4,6207114 \\cdot 10^{-10} + \\sqrt{21,350973 \\cdot 10^{-20} + 47,47783 \\cdot 10^{-20}}}{2}",
+  "metadata": {
+    "db_key": "5728",
+    "src": "images/formula_full_353_13.webp",
+    "equation_number": "(20.22)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 15772
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5728\" data-src=\"images/formula_full_353_13.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{Au} = \\frac{-4,6207114 \\cdot 10^{-10} + \\sqrt{21,350973 \\cdot 10^{-20} + 47,47783 \\cdot 10^{-20}}}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.22)\n</div>\n</div>"
+}

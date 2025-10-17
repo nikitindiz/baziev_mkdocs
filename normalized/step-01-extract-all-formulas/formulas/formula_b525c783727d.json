@@ -1,0 +1,15 @@
+{
+  "id": "b525c783727d",
+  "type": "inline",
+  "latex": "c_i = f(\\nu)",
+  "metadata": {
+    "db_key": "1374",
+    "src": "images/formula_inline_95_3_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 33517
+  },
+  "wrapper_html": "<span data-db-key=\"1374\" data-src=\"images/formula_inline_95_3_11.webp\"> $c_i = f(\\nu)$ </span>"
+}

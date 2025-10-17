@@ -1,0 +1,15 @@
+{
+  "id": "4766fae8f855",
+  "type": "display",
+  "latex": "q_{\\pi} = - \\frac{m_{э}u_{f}r_{f} \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{m_{э}\\mu \\cdot \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{2\\hbar \\cdot \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{\\hbar \\cdot \\nu_{ед}}{\\alpha \\cdot Э} =",
+  "metadata": {
+    "db_key": "2402",
+    "src": "images/formula_full_156_18.webp",
+    "equation_number": "(13.18)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 39669
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2402\" data-src=\"images/formula_full_156_18.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{\\pi} = - \\frac{m_{э}u_{f}r_{f} \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{m_{э}\\mu \\cdot \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{2\\hbar \\cdot \\nu_{ед}}{2\\alpha \\cdot Э} = -\\frac{\\hbar \\cdot \\nu_{ед}}{\\alpha \\cdot Э} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.18)\n</div>\n</div>"
+}

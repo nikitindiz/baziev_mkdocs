@@ -1,0 +1,15 @@
+{
+  "id": "0cbeceb75b3f",
+  "type": "inline",
+  "latex": "f_{max} = 1,249 \\cdot 10^{18} с^{-1}",
+  "metadata": {
+    "db_key": "496",
+    "src": "images/formula_inline_35_3_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 15942
+  },
+  "wrapper_html": "<span data-db-key=\"496\" data-src=\"images/formula_inline_35_3_9.webp\"> $f_{max} = 1,249 \\cdot 10^{18} с^{-1}$ </span>"
+}

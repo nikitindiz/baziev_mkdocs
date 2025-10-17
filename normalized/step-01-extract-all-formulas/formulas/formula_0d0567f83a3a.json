@@ -1,0 +1,15 @@
+{
+  "id": "0d0567f83a3a",
+  "type": "display",
+  "latex": "V_{T1}^{n}=\\frac{P_{0} \\cdot V_{g1}^{п}-hf_{1}}{P_{0}}=9,9322862 \\cdot 10^{-26} \\mathrm{м}^{3}",
+  "metadata": {
+    "db_key": "5097",
+    "src": "images/formula_full_313_13.webp",
+    "equation_number": "(18.140)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 77261
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5097\" data-src=\"images/formula_full_313_13.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{T1}^{n}=\\frac{P_{0} \\cdot V_{g1}^{п}-hf_{1}}{P_{0}}=9,9322862 \\cdot 10^{-26} \\mathrm{м}^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.140)\n</div>\n</div>"
+}

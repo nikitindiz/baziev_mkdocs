@@ -1,0 +1,15 @@
+{
+  "id": "b9743a7cf7a5",
+  "type": "display",
+  "latex": "\\varphi = \\frac{\\hbar \\cdot v_{\\text{ед}}}{\\text{э}} = \\frac{4,1106068 \\cdot 10^{-34} \\text{ Дж}}{1,9876643 \\cdot 10^{-27} \\text{ Кл}} = 2,0680598 \\cdot 10^{-7} \\, \\text{В} = \\text{Const}",
+  "metadata": {
+    "db_key": "942",
+    "src": "images/formula_full_64_7.webp",
+    "equation_number": "(7.3)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 5144
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"942\" data-src=\"images/formula_full_64_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi = \\frac{\\hbar \\cdot v_{\\text{ед}}}{\\text{э}} = \\frac{4,1106068 \\cdot 10^{-34} \\text{ Дж}}{1,9876643 \\cdot 10^{-27} \\text{ Кл}} = 2,0680598 \\cdot 10^{-7} \\, \\text{В} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.3)\n</div>\n</div>"
+}

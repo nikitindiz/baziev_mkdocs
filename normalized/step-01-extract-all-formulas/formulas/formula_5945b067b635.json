@@ -1,0 +1,15 @@
+{
+  "id": "5945b067b635",
+  "type": "display",
+  "latex": "\\Delta l_{i}=K_{i} \\cdot \\lambda_{i}, м",
+  "metadata": {
+    "db_key": "3045",
+    "src": "images/formula_full_195_3_0.webp",
+    "equation_number": "(13.147)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 235867
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3045\" data-src=\"images/formula_full_195_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta l_{i}=K_{i} \\cdot \\lambda_{i}, м$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.147)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e216db4dffa3",
+  "type": "inline",
+  "latex": "d_g = 4 \\cdot 10^{-9} \\text{м}",
+  "metadata": {
+    "db_key": "1447",
+    "src": "images/formula_inline_101_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 50562
+  },
+  "wrapper_html": "<span data-db-key=\"1447\" data-src=\"images/formula_inline_101_4_0.webp\"> $d_g = 4 \\cdot 10^{-9} \\text{м}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d04a8c5ae2f5",
+  "type": "display",
+  "latex": "\\varepsilon_q = c_i m_i T_i",
+  "metadata": {
+    "db_key": "7523",
+    "src": "images/formula_full_490_4_0.webp",
+    "equation_number": "(28.24)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 24713
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7523\" data-src=\"images/formula_full_490_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_q = c_i m_i T_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.24)\n</div>\n</div>"
+}

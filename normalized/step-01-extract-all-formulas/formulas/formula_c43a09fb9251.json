@@ -1,0 +1,15 @@
+{
+  "id": "c43a09fb9251",
+  "type": "display",
+  "latex": "d_g = \\sqrt[3]{6V_g / \\pi} = \\sqrt[3]{39,81027 \\cdot 10^{-24} \\text{ м}^3} = 3,4145362 \\cdot 10^{-8} \\text{ м}",
+  "metadata": {
+    "db_key": "3609",
+    "src": "images/formula_full_225_6_0.webp",
+    "equation_number": "(14.59)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 72726
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3609\" data-src=\"images/formula_full_225_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_g = \\sqrt[3]{6V_g / \\pi} = \\sqrt[3]{39,81027 \\cdot 10^{-24} \\text{ м}^3} = 3,4145362 \\cdot 10^{-8} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.59)\n</div>\n</div>"
+}

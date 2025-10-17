@@ -1,0 +1,15 @@
+{
+  "id": "7959f19f936d",
+  "type": "display",
+  "latex": "l' = c \\cdot \\tau = 4,4968869 \\, \\text{м}",
+  "metadata": {
+    "db_key": "6255",
+    "src": "images/formula_full_384_10_0.webp",
+    "equation_number": "(21.2)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 2447
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6255\" data-src=\"images/formula_full_384_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$l' = c \\cdot \\tau = 4,4968869 \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.2)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eb0378e6400a",
+  "type": "inline",
+  "latex": "\\Delta q_{\\lambda} = n_q \\cdot (-э)",
+  "metadata": {
+    "db_key": "6345",
+    "src": "images/formula_inline_391_1_64.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 19014
+  },
+  "wrapper_html": "<span data-db-key=\"6345\" data-src=\"images/formula_inline_391_1_64.webp\"> $\\Delta q_{\\lambda} = n_q \\cdot (-э)$ </span>"
+}

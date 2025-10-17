@@ -1,0 +1,15 @@
+{
+  "id": "e29813e9c800",
+  "type": "display",
+  "latex": "\\gamma^ж \\cdot \\rho_0^п \\cdot P_0 = \\gamma^п \\cdot \\rho_0 \\cdot P_0^п",
+  "metadata": {
+    "db_key": "4518",
+    "src": "images/formula_full_277_18_0.webp",
+    "equation_number": "(17.1)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 1564
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4518\" data-src=\"images/formula_full_277_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^ж \\cdot \\rho_0^п \\cdot P_0 = \\gamma^п \\cdot \\rho_0 \\cdot P_0^п$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.1)\n</div>\n</div>"
+}

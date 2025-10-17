@@ -1,0 +1,15 @@
+{
+  "id": "e1f62fb7b962",
+  "type": "display",
+  "latex": "Z_{SO_4}'' = (Z_S + 4Z_O + 2e) = 4.6688406 \\cdot 10^{-19} \\, \\text{Кл}",
+  "metadata": {
+    "db_key": "6400",
+    "src": "images/formula_full_397_11_0.webp",
+    "equation_number": "(21.1.29)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 33799
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6400\" data-src=\"images/formula_full_397_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{SO_4}'' = (Z_S + 4Z_O + 2e) = 4.6688406 \\cdot 10^{-19} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.29)\n</div>\n</div>"
+}

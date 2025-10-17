@@ -1,0 +1,15 @@
+{
+  "id": "dd0d9d66ec33",
+  "type": "display",
+  "latex": "\\rho_{\\mu ♀} = \\frac{(m_{ ♀} - m_{n ♀})}{V_{\\mu ♀}} = 2,7508726 \\cdot 10^3 \\ \\rm {кг} \\cdot  {м}^3",
+  "metadata": {
+    "db_key": "8627",
+    "src": "images/formula_full_579_13.webp",
+    "equation_number": "(38.59)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 32526
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8627\" data-src=\"images/formula_full_579_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{\\mu ♀} = \\frac{(m_{ ♀} - m_{n ♀})}{V_{\\mu ♀}} = 2,7508726 \\cdot 10^3 \\ \\rm {кг} \\cdot  {м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.59)\n</div>\n</div>"
+}

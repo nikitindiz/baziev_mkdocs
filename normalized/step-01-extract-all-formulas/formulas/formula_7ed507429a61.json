@@ -1,0 +1,15 @@
+{
+  "id": "7ed507429a61",
+  "type": "inline",
+  "latex": "{A_i^2}/{8}(a_i - A_i) = \\rho_i/R_0",
+  "metadata": {
+    "db_key": "5787",
+    "src": "images/formula_inline_356_19_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 19394
+  },
+  "wrapper_html": "<span data-db-key=\"5787\" data-src=\"images/formula_inline_356_19_9.webp\"> ${A_i^2}/{8}(a_i - A_i) = \\rho_i/R_0$ </span>"
+}

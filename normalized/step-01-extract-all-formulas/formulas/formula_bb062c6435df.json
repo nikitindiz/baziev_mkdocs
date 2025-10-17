@@ -1,0 +1,15 @@
+{
+  "id": "bb062c6435df",
+  "type": "inline",
+  "latex": "\\rho_0 = 1250 \\, \\text{кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "6445",
+    "src": "images/formula_inline_399_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 34252
+  },
+  "wrapper_html": "<span data-db-key=\"6445\" data-src=\"images/formula_inline_399_7_0.webp\"> $\\rho_0 = 1250 \\, \\text{кг} \\cdot \\text{м}^{-3}$ </span>"
+}

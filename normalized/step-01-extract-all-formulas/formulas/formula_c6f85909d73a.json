@@ -1,0 +1,15 @@
+{
+  "id": "c6f85909d73a",
+  "type": "inline",
+  "latex": "\\lambda_i = \\sqrt{\\mu / \\nu_i}",
+  "metadata": {
+    "db_key": "7251",
+    "src": "images/formula_inline_467_0_48.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 12231
+  },
+  "wrapper_html": "<span data-db-key=\"7251\" data-src=\"images/formula_inline_467_0_48.webp\"> $\\lambda_i = \\sqrt{\\mu / \\nu_i}$ </span>"
+}

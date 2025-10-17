@@ -1,0 +1,15 @@
+{
+  "id": "7b7c8fc4166c",
+  "type": "display",
+  "latex": "Z_{1} = K_{1} \\cdot э = 7,2697879 \\cdot 10^{-21} Кл",
+  "metadata": {
+    "db_key": "6664",
+    "src": "images/formula_full_419_0_0.webp",
+    "equation_number": "(23.4)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 7591
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6664\" data-src=\"images/formula_full_419_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{1} = K_{1} \\cdot э = 7,2697879 \\cdot 10^{-21} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.4)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "de77cd5f83a1",
+  "type": "inline",
+  "latex": "A_4 = A_0 = \\text{Const}",
+  "metadata": {
+    "db_key": "7900",
+    "src": "images/formula_inline_526_9_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/index.md",
+    "position": 5099
+  },
+  "wrapper_html": "<span data-db-key=\"7900\" data-src=\"images/formula_inline_526_9_1.webp\"> $A_4 = A_0 = \\text{Const}$ </span>"
+}

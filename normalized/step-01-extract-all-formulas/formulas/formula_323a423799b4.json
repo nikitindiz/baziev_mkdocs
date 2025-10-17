@@ -1,0 +1,15 @@
+{
+  "id": "323a423799b4",
+  "type": "inline",
+  "latex": "i = m_э \\cdot с_i",
+  "metadata": {
+    "db_key": "2695",
+    "src": "images/formula_inline_170_9_16.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 97234
+  },
+  "wrapper_html": "<span data-db-key=\"2695\" data-src=\"images/formula_inline_170_9_16.webp\"> $i = m_э \\cdot с_i$ </span>"
+}

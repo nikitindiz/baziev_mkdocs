@@ -1,0 +1,15 @@
+{
+  "id": "6c486747559a",
+  "type": "display",
+  "latex": "\\alpha = \\frac{\\varphi}{c^2} = \\frac{G \\cdot M_\\odot}{c^2 \\cdot R_\\odot}",
+  "metadata": {
+    "db_key": "7153",
+    "src": "images/formula_full_458_11_0.webp",
+    "equation_number": "(24.22)"
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 20240
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7153\" data-src=\"images/formula_full_458_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha = \\frac{\\varphi}{c^2} = \\frac{G \\cdot M_\\odot}{c^2 \\cdot R_\\odot}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.22)\n</div>\n</div>"
+}

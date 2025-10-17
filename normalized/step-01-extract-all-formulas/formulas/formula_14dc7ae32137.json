@@ -1,0 +1,15 @@
+{
+  "id": "14dc7ae32137",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n&n_э(V) = n_э(O) \\cdot n_O = 4\\nu \\cdot \\tau_O \\cdot V_{CH_4} \\cdot N_{CH_4} \\\\\n&n_э(V) = n_э(e) \\cdot n_e(V) = 4f_e \\cdot \\tau_e \\cdot V_{CH_4} \\cdot N_{CH_4}\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "3846",
+    "src": "images/formula_full_238_5.webp",
+    "equation_number": "(14.122)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 135793
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3846\" data-src=\"images/formula_full_238_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n&n_э(V) = n_э(O) \\cdot n_O = 4\\nu \\cdot \\tau_O \\cdot V_{CH_4} \\cdot N_{CH_4} \\\\\n&n_э(V) = n_э(e) \\cdot n_e(V) = 4f_e \\cdot \\tau_e \\cdot V_{CH_4} \\cdot N_{CH_4}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.122)\n</div>\n</div>"
+}

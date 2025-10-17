@@ -1,0 +1,15 @@
+{
+  "id": "4c5eee77e785",
+  "type": "display",
+  "latex": "u(r)_c = r(h)_c \\cdot f_c = 1,8387032 \\, \\text{м} \\cdot \\text{с}^{-1} -",
+  "metadata": {
+    "db_key": "5199",
+    "src": "images/formula_full_320_2_0.webp",
+    "equation_number": "(18.185)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 105042
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5199\" data-src=\"images/formula_full_320_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u(r)_c = r(h)_c \\cdot f_c = 1,8387032 \\, \\text{м} \\cdot \\text{с}^{-1} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.185)\n</div>\n</div>"
+}

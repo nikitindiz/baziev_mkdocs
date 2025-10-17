@@ -1,0 +1,15 @@
+{
+  "id": "9d1a6107f20c",
+  "type": "inline",
+  "latex": "r_0 = 2,6 \\cdot 10^{-12} м",
+  "metadata": {
+    "db_key": "198",
+    "src": "images/formula_inline_14_1_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 5802
+  },
+  "wrapper_html": "<span data-db-key=\"198\" data-src=\"images/formula_inline_14_1_12.webp\"> $r_0 = 2,6 \\cdot 10^{-12} м$ </span>"
+}

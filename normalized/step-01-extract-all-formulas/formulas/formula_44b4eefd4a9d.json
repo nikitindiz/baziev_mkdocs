@@ -1,0 +1,15 @@
+{
+  "id": "44b4eefd4a9d",
+  "type": "inline",
+  "latex": "a_i^3 / T_i^2",
+  "metadata": {
+    "db_key": "2214",
+    "src": "images/formula_inline_144_9_30.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 28981
+  },
+  "wrapper_html": "<span data-db-key=\"2214\" data-src=\"images/formula_inline_144_9_30.webp\"> $a_i^3 / T_i^2$ </span>"
+}

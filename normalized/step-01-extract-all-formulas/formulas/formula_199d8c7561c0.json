@@ -1,0 +1,15 @@
+{
+  "id": "199d8c7561c0",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\sin \\alpha &= \\frac{130}{9.1534739 \\cdot 10^3} = 1,4202258 \\cdot 10^{-2}, \\\\\n\\alpha &= 0\\degree 49' \\\\\n\\cos \\alpha &= 0.9999\n\\end{rcases}",
+  "metadata": {
+    "db_key": "4133",
+    "src": "images/formula_full_254_11.webp",
+    "equation_number": "(15.36)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 47158
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4133\" data-src=\"images/formula_full_254_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\sin \\alpha &= \\frac{130}{9.1534739 \\cdot 10^3} = 1,4202258 \\cdot 10^{-2}, \\\\\n\\alpha &= 0\\degree 49' \\\\\n\\cos \\alpha &= 0.9999\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.36)\n</div>\n</div>"
+}

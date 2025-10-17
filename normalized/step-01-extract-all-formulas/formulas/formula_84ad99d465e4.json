@@ -1,0 +1,15 @@
+{
+  "id": "84ad99d465e4",
+  "type": "inline",
+  "latex": "V_0 = V_{ед}",
+  "metadata": {
+    "db_key": "2008",
+    "src": "images/formula_inline_132_22_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 40169
+  },
+  "wrapper_html": "<span data-db-key=\"2008\" data-src=\"images/formula_inline_132_22_18.webp\"> $V_0 = V_{ед}$ </span>"
+}

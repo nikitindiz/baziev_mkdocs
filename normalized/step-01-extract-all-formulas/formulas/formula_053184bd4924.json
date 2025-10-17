@@ -1,0 +1,15 @@
+{
+  "id": "053184bd4924",
+  "type": "inline",
+  "latex": "k_{\\odot}",
+  "metadata": {
+    "db_key": "9287",
+    "src": "images/formula_inline_627_1_262.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 20459
+  },
+  "wrapper_html": "<span data-db-key=\"9287\" data-src=\"images/formula_inline_627_1_262.webp\"> $k_{\\odot}$ </span>"
+}

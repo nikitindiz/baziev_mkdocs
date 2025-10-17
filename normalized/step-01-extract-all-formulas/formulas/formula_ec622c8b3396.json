@@ -1,0 +1,15 @@
+{
+  "id": "ec622c8b3396",
+  "type": "display",
+  "latex": "\\begin{aligned}\n& A_{s} = bc \\, r_{x}, \\text{м}^3, \\\\\n& B_{s} = ac \\, r_{y}, \\text{м}^3 \\\\\n& C_{s} = 2ab \\, r_{z} \\sin (\\gamma/2) \\cos (\\gamma/2), \\text{м}^3\n\\end{aligned}",
+  "metadata": {
+    "db_key": "4198",
+    "src": "images/formula_full_257_9.webp",
+    "equation_number": "(15.51)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 59382
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4198\" data-src=\"images/formula_full_257_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{aligned}\n& A_{s} = bc \\, r_{x}, \\text{м}^3, \\\\\n& B_{s} = ac \\, r_{y}, \\text{м}^3 \\\\\n& C_{s} = 2ab \\, r_{z} \\sin (\\gamma/2) \\cos (\\gamma/2), \\text{м}^3\n\\end{aligned}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.51)\n</div>\n</div>"
+}

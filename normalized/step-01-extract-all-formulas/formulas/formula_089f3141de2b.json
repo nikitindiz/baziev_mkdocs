@@ -1,0 +1,15 @@
+{
+  "id": "089f3141de2b",
+  "type": "display",
+  "latex": "\\begin{align*}\nP_a &= \\frac{h \\cdot f_{\\min}}{V_a} = 9,6492467 \\cdot 10^{-47} \\text{ Па, Дж} \\cdot \\text{м}^{-3} \\\\\n\\rho_a &= m_{\\text{He}} / V_a = 9,6788506 \\cdot 10^{-40} \\text{ кг} \\cdot \\text{м}^{-3} \\\\\nT(f_{\\min}) &= \\xi_{\\text{He}} \\cdot f_{\\min} = 4,8011734 \\cdot 10^{-11} \\text{ К}\n\\end{align*}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 14294
+  },
+  "wrapper_html": null
+}

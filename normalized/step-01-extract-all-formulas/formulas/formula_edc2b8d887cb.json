@@ -1,0 +1,15 @@
+{
+  "id": "edc2b8d887cb",
+  "type": "display",
+  "latex": "F_2 = \\frac{э \\cdot \\varphi}{r_{H_e}} = \\frac{4,1106086 \\cdot 10^{-34} Дж}{1,3112467 \\cdot 10^{-12} м} = 3,1348857 \\cdot 10^{-22} Н",
+  "metadata": {
+    "db_key": "1085",
+    "src": "images/formula_full_76_4.webp",
+    "equation_number": "(8.20)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 19744
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1085\" data-src=\"images/formula_full_76_4.webp\">\n<div style=\"width: 100%;\">\n\n$$F_2 = \\frac{э \\cdot \\varphi}{r_{H_e}} = \\frac{4,1106086 \\cdot 10^{-34} Дж}{1,3112467 \\cdot 10^{-12} м} = 3,1348857 \\cdot 10^{-22} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.20)\n</div>\n</div>"
+}

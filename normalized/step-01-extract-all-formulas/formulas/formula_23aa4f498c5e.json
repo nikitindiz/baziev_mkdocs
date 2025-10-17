@@ -1,0 +1,15 @@
+{
+  "id": "23aa4f498c5e",
+  "type": "display",
+  "latex": "\\Delta m = \\left( K_{э} \\cdot m_{э} - m_{e} \\right)",
+  "metadata": {
+    "db_key": "4022",
+    "src": "images/formula_full_249_6.webp",
+    "equation_number": "(15.2)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 21115
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4022\" data-src=\"images/formula_full_249_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m = \\left( K_{э} \\cdot m_{э} - m_{e} \\right)$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.2)\n</div>\n</div>"
+}

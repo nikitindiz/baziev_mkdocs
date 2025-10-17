@@ -1,0 +1,15 @@
+{
+  "id": "9210089e5521",
+  "type": "inline",
+  "latex": "H_{2}O",
+  "metadata": {
+    "db_key": "4678",
+    "src": "images/formula_inline_286_8_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 22862
+  },
+  "wrapper_html": "<span data-db-key=\"4678\" data-src=\"images/formula_inline_286_8_5.webp\"> $H_{2}O$ </span>"
+}

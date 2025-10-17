@@ -1,0 +1,15 @@
+{
+  "id": "436e1406f3d6",
+  "type": "display",
+  "latex": "v_{\\oplus} = v_c \\cdot \\frac{R_{\\oplus}}{R_{c\\oplus}} = v_c \\cdot 60,11508 = 465,10036 \\, \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "1023",
+    "src": "images/formula_full_70_7.webp",
+    "equation_number": "(7.24)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 25669
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1023\" data-src=\"images/formula_full_70_7.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\oplus} = v_c \\cdot \\frac{R_{\\oplus}}{R_{c\\oplus}} = v_c \\cdot 60,11508 = 465,10036 \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.24)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f1591de36b40",
+  "type": "inline",
+  "latex": "м^2/с^2 \\cdot K",
+  "metadata": {
+    "db_key": "2016",
+    "src": "images/formula_inline_132_7_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 38989
+  },
+  "wrapper_html": "<span data-db-key=\"2016\" data-src=\"images/formula_inline_132_7_5.webp\"> $м^2/с^2 \\cdot K$ </span>"
+}

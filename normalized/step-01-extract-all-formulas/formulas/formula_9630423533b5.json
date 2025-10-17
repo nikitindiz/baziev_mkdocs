@@ -1,0 +1,15 @@
+{
+  "id": "9630423533b5",
+  "type": "display",
+  "latex": "N = n_f/n_{\\lambda} = 1,1468794 \\cdot 10^{27}",
+  "metadata": {
+    "db_key": "6265",
+    "src": "images/formula_full_385_1_0.webp",
+    "equation_number": "(21.5)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 3748
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6265\" data-src=\"images/formula_full_385_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N = n_f/n_{\\lambda} = 1,1468794 \\cdot 10^{27}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.5)\n</div>\n</div>"
+}

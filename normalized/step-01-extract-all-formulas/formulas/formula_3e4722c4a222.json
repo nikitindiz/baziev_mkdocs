@@ -1,0 +1,15 @@
+{
+  "id": "3e4722c4a222",
+  "type": "display",
+  "latex": "\\sin \\varphi_i = \\Delta X_i / b_i",
+  "metadata": {
+    "db_key": "3009",
+    "src": "images/formula_full_193_11_0.webp",
+    "equation_number": "(13.144)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 229342
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3009\" data-src=\"images/formula_full_193_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\varphi_i = \\Delta X_i / b_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.144)\n</div>\n</div>"
+}

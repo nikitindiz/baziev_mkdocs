@@ -1,0 +1,15 @@
+{
+  "id": "0215e9af8bdb",
+  "type": "display",
+  "latex": "u_{\\odot} = \\frac{u_i \\cdot c_i}{2\\pi} = 2,3398042 \\cdot 10^3 \\, \\text{м} \\cdot \\text{с}^{-1} = \\text{Const.}",
+  "metadata": {
+    "db_key": "2216",
+    "src": "images/formula_full_145_12.webp",
+    "equation_number": "(12.47)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 42262
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2216\" data-src=\"images/formula_full_145_12.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\odot} = \\frac{u_i \\cdot c_i}{2\\pi} = 2,3398042 \\cdot 10^3 \\, \\text{м} \\cdot \\text{с}^{-1} = \\text{Const.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.47)\n</div>\n</div>"
+}

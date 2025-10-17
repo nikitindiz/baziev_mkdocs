@@ -1,0 +1,15 @@
+{
+  "id": "af58abb9f9fb",
+  "type": "inline",
+  "latex": "N_s",
+  "metadata": {
+    "db_key": "4911",
+    "src": "images/formula_inline_300_13_21.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 15475
+  },
+  "wrapper_html": "<span data-db-key=\"4911\" data-src=\"images/formula_inline_300_13_21.webp\"> $N_s$ </span>"
+}

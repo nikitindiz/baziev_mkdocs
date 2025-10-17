@@ -1,0 +1,15 @@
+{
+  "id": "7658cd21cb73",
+  "type": "inline",
+  "latex": "= 1,6883811 \\cdot 10^{15} \\, с^{-1}",
+  "metadata": {
+    "db_key": "7588",
+    "src": "images/formula_inline_502_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 8267
+  },
+  "wrapper_html": "<span data-db-key=\"7588\" data-src=\"images/formula_inline_502_1_0.webp\"> $= 1,6883811 \\cdot 10^{15} \\, с^{-1}$ </span>"
+}

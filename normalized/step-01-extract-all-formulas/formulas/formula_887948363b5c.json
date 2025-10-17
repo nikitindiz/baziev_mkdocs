@@ -1,0 +1,15 @@
+{
+  "id": "887948363b5c",
+  "type": "inline",
+  "latex": "I_1 = 2,5A",
+  "metadata": {
+    "db_key": "6590",
+    "src": "images/formula_inline_409_9_26.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 82453
+  },
+  "wrapper_html": "<span data-db-key=\"6590\" data-src=\"images/formula_inline_409_9_26.webp\"> $I_1 = 2,5A$ </span>"
+}

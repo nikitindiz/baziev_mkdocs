@@ -1,0 +1,15 @@
+{
+  "id": "0f1265268345",
+  "type": "inline",
+  "latex": "V_{ед}",
+  "metadata": {
+    "db_key": "19",
+    "src": "images/formula_inline_1_5_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 4967
+  },
+  "wrapper_html": "<span data-db-key=\"19\" data-src=\"images/formula_inline_1_5_4.webp\"> $V_{ед}$ </span>"
+}
