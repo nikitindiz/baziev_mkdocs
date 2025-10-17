@@ -1,0 +1,11 @@
+{
+  "total_tables": 36,
+  "markdown_tables": 33,
+  "html_tables": 3,
+  "files_processed": 59,
+  "tables_with_formulas": 23,
+  "total_rows": 740,
+  "total_columns": 192,
+  "average_rows_per_table": 20.555555555555557,
+  "average_columns_per_table": 5.333333333333333
+}
