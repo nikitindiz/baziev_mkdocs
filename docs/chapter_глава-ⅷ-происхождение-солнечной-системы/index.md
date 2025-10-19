@@ -202,21 +202,31 @@ $$r_2 = \frac{\tau_1 \cdot c}{2A} = 0,28364868 \text{ а. е.}$$
 </div>
 </div>
 
-, <div data-db-key="7922" data-src="images/formula_full_528_2.webp">
+,
 
-$$r_3 = \frac{\tau_2 \cdot c}{2A} = 0,28364798$$
+<div style="display: flex; width: 100%;" data-db-key="7922" data-src="images/formula_full_528_2.webp">
+<div style="width: 100%;">
+
+$$r_3 = \frac{\tau_2 \cdot c}{2A} = 0,28364798 а. е.$$
 
 </div>
-|(33.13) а. е.|
+<div style="width: 80px;">
+(33.13)
+</div>
+</div>
 
 A четвертое значение этого расстояния определим Hd основе новых значений скорости распространения радиолуча и астрономической единицы:
 
-<div data-db-key="7926" data-src="images/formula_full_528_6.webp">
+<div style="display: flex; width: 100%;" data-db-key="7926" data-src="images/formula_full_528_6.webp">
+<div style="width: 100%;">
 
-$$r_4 = \frac{\tau_{10} \cdot v_0}{2 A_0} = 0,28364909$$
+$$r_4 = \frac{\tau_{10} \cdot v_0}{2 A_0} = 0,28364909 a. e.$$
 
 </div>
-|(33.14) a. e.|
+<div style="width: 80px;">
+(33.14)
+</div>
+</div>
 
 Как видим, значения <span data-db-key="7938" data-src="images/formula_inline_528_7_3.webp"> $r_1$ </span> и <span data-db-key="7939" data-src="images/formula_inline_528_7_5.webp"> $r_4$ </span> практически не отличаются. Однако при переходе от расстояния в относительных единицах к абсолютному, выраженному в метрах, между <span data-db-key="7936" data-src="images/formula_inline_528_7_24.webp"> $r_1$ </span> и <span data-db-key="7937" data-src="images/formula_inline_528_7_26.webp"> $r_4$ </span> возникает разница в <span data-db-key="7940" data-src="images/formula_inline_528_8_0.webp"> $n = c/v_0 = 1,0340299$ </span> раза. Так,
 
