@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
-    "position": 36850
+    "position": 36846
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2203\" data-src=\"images/formula_full_144_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = \\frac{16 \\cdot E^2 (e_1) \\cdot a_1^3}{T_1^2} = \\frac{16E^2 (e_2) \\cdot a_2^3}{T_2^2} = \\dots = \\frac{16E^2 (e_n) \\cdot a_n^3}{T_n^2} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.39)\n</div>\n</div>"
 }

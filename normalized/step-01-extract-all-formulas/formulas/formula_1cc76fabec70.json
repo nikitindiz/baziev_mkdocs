@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
-    "position": 341116
+    "position": 341221
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3299\" data-src=\"images/formula_full_207_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\nF_{\\lambda t} = \\frac{c_0 \\cdot э \\varphi_s}{a_i}, \\\\\nF_{\\lambda t} = F_{t0} \\cdot \\text{tg } \\beta \\cdot \\frac{\\lambda_i^2}{a_i^2} = \\frac{2 \\varepsilon_0 \\lambda_i \\text{tg } \\beta}{a_i^2}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.197)\n</div>\n</div>"
 }

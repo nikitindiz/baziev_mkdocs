@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
-    "position": 295492
+    "position": 295597
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3207\" data-src=\"images/formula_full_203_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{0i} = \\frac{1}{d_n \\cdot K_{0i} \\cdot \\lambda_i} \\cdot \\sqrt{\\frac{\\mu \\cdot \\varepsilon_0}{\\alpha_i}} = \\frac{1}{d_n \\cdot z_{0i}} \\cdot \\sqrt{\\frac{\\mu \\cdot \\varepsilon_0}{\\alpha_i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.183)\n</div>\n</div>"
 }

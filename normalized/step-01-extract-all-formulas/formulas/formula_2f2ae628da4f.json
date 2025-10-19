@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
-    "position": 73714
+    "position": 73818
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5512\" data-src=\"images/formula_full_340_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_i = I_i V_i = I_i \\cdot I_i R_i = I_i^2 R_i,  Вт$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.73)\n</div>\n</div>"
 }

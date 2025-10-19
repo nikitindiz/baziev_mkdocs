@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
-    "position": 60853
+    "position": 60849
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2298\" data-src=\"images/formula_full_150_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sqrt{\\frac{I_{\\odot}}{a_{i} - T_{i} \\left( \\frac{\\Delta R_{\\odot}}{tn_{\\odot}} + \\frac{\\Delta R_{i}}{tn_{i}} \\right)} - \\frac{I_{\\odot}}{a_{i}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.77)\n</div>\n</div>"
 }

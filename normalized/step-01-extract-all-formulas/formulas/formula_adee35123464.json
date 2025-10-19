@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
-    "position": 58512
+    "position": 58481
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1976\" data-src=\"images/formula_full_131_10.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\underset{t \\lt 0\\degree C}{\\psi(\\alpha, n)_T} = \\frac{k (\\alpha, n)_T}{h} = \\frac{\\varepsilon_{0i} \\beta_{0i}}{h} = \\psi_{0i} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.90)\n</div>\n</div>"
 }

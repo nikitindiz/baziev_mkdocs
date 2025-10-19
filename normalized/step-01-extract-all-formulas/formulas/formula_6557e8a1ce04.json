@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
-    "position": 75575
+    "position": 75578
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6550\" data-src=\"images/formula_full_406_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_1 = (2n_a \\cdot q_{O^-} + n_a \\cdot q_{H_2O}) \\cdot \\tau = -5,0646398 \\cdot 10^4 \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.2.84)\n</div>\n</div>"
 }

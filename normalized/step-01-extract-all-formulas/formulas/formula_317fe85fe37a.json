@@ -1,7 +1,7 @@
 {
-  "id": "71c4edafee21",
+  "id": "317fe85fe37a",
   "type": "display",
-  "latex": "O' + e = (O' - e)^{-} = O^{-} \\\\\nq_O = (Z_O' + e) = -1,3176489 \\cdot 10^{-19} \\text{ Кл}",
+  "latex": "O' + e = (O' - e)^{-} = O^{-} {(21.1.80)} \\\\\nq_O = (Z_O' + e) = -1,3176489 \\cdot 10^{-19} \\text{ Кл} {(21.1.81)}",
   "metadata": {
     "db_key": null,
     "src": null,

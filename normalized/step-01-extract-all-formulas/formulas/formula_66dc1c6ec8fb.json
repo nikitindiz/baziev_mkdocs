@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
-    "position": 56777
+    "position": 56746
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1968\" data-src=\"images/formula_full_130_22_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$P(\\alpha, n) = P_0 n_i / \\alpha_i^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.86)\n</div>\n</div>"
 }

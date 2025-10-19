@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
-    "position": 57657
+    "position": 57653
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2288\" data-src=\"images/formula_full_149_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_{i} = \\frac{2\\pi \\cdot \\sqrt[3]{\\frac{3m_{i}}{8\\pi \\cdot \\rho_{ci}}}}{v_{c}} = \\frac{\\pi \\cdot \\sqrt[3]{\\frac{3m_{i}}{\\pi \\cdot \\rho_{ci}}}}{v_{c}} = \\frac{\\pi}{v_{c}} \\cdot \\sqrt[3]{\\frac{3m_{i}}{8\\pi \\cdot \\rho_{ci}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.73)\n</div>\n</div>"
 }

@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
-    "position": 76519
+    "position": 76623
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5510\" data-src=\"images/formula_full_340_15.webp\">\n<div style=\"width: 100%;\">\n\n$$R_0 = \\frac{V_i}{I_i} = \\frac{\\Phi_0 \\omega_i n_i}{э \\omega_i \\cdot n_i} = \\frac{\\Phi_0 \\omega_i}{э \\cdot \\omega_i} = \\frac{V_{ri}}{I_{mi}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.78)\n</div>\n</div>"
 }

@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
-    "position": 239973
+    "position": 240078
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3064\" data-src=\"images/formula_full_196_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{aligned}\n\\sin \\varphi_3 = \\frac{\\Delta X_3 - 2\\lambda_г'}{b} = \\frac{3.47 \\cdot \\lambda_г' - 2\\lambda_г'}{b} = \\frac{1.47 \\cdot \\lambda_г'}{b} = 0.4900, \\\\\n\\varphi_3 = 29^{\\circ}20'20'' = 0.5120505 \\text{ рад.} \\\\\n\\text{tg } \\varphi_3 = 0.5621 \\\\\nA_1C_2 = C_1C_2/\\text{tg } \\varphi_3 = 13.093755 \\cdot \\lambda_г' = 6.0231273 \\cdot 10^{-6} \\text{ м}\n\\end{aligned}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.151)\n</div>\n</div>"
 }

@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
-    "position": 50449
+    "position": 50445
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2253\" data-src=\"images/formula_full_147_6.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{\\odot} = \\frac{I_{\\odot} \\cdot m^2_n}{2\\gamma \\cdot K_g^2 \\cdot e^2 \\cdot n^2_e} = \\frac{I_{\\odot} \\cdot m_n^2}{2\\gamma \\cdot K_g^2 \\cdot э^2 \\cdot n^2_э} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.62)\n</div>\n</div>"
 }

@@ -1,7 +1,7 @@
 {
-  "id": "074ebdb6f9d4",
+  "id": "d801e401a91c",
   "type": "display",
-  "latex": "C(f) = \\frac{\\varepsilon(f)}{T(n,t) \\cdot m(\\gamma)} = \\frac{hf_{0i}(1+\\beta_{0i}t)\\beta(n,t)}{m_{0i}n_{si}}",
+  "latex": "\\begin{aligned}\n& t > 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty \\\\\n& \\gamma_{i} = \\frac{\\beta(n)}{\\beta_{0i}} = \\frac{(n-1)}{\\beta_{0i} \\cdot t} {(11.17)} \\\\\n& t < 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty\n\\end{aligned}",
   "metadata": {
     "db_key": null,
     "src": null,
@@ -9,7 +9,7 @@
   },
   "source": {
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
-    "position": 27012
+    "position": 9642
   },
   "wrapper_html": null
 }
