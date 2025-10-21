@@ -1,0 +1,15 @@
+{
+  "id": "ec15887df5f2",
+  "type": "display",
+  "latex": "F_{\\lambda t i}'=F_{t0} \\cdot \\operatorname{tg} \\varphi_{i}=\\frac{2 \\alpha \\cdot э^{2}}{\\lambda_{i}} \\cdot \\frac{7,36}{K_{i}}=\\frac{14,72 \\cdot \\varepsilon_{0}}{K_{i} \\lambda_{i}}=\\frac{14,72 \\cdot \\varepsilon_{0}}{z_{i}}",
+  "metadata": {
+    "db_key": "3134",
+    "src": "images/formula_full_199_3_0.webp",
+    "equation_number": "(13.160)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 277072
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3134\" data-src=\"images/formula_full_199_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\lambda t i}'=F_{t0} \\cdot \\operatorname{tg} \\varphi_{i}=\\frac{2 \\alpha \\cdot э^{2}}{\\lambda_{i}} \\cdot \\frac{7,36}{K_{i}}=\\frac{14,72 \\cdot \\varepsilon_{0}}{K_{i} \\lambda_{i}}=\\frac{14,72 \\cdot \\varepsilon_{0}}{z_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.160)\n</div>\n</div>"
+}

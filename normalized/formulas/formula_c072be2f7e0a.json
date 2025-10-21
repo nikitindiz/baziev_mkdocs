@@ -1,0 +1,15 @@
+{
+  "id": "c072be2f7e0a",
+  "type": "inline",
+  "latex": "a_i = l_i",
+  "metadata": {
+    "db_key": "3366",
+    "src": "images/formula_inline_210_5_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 297101
+  },
+  "wrapper_html": "<span data-db-key=\"3366\" data-src=\"images/formula_inline_210_5_12.webp\"> $a_i = l_i$ </span>"
+}

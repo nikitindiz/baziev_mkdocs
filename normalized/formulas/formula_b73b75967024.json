@@ -1,0 +1,15 @@
+{
+  "id": "b73b75967024",
+  "type": "inline",
+  "latex": "\\omega_e = v_c / R_{ce} = 2,9376561 \\cdot 10^{16} \\text{ рад.с}^{-1}",
+  "metadata": {
+    "db_key": "346",
+    "src": "images/formula_inline_25_2_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 9085
+  },
+  "wrapper_html": "<span data-db-key=\"346\" data-src=\"images/formula_inline_25_2_0.webp\"> $\\omega_e = v_c / R_{ce} = 2,9376561 \\cdot 10^{16} \\text{ рад.с}^{-1}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1ae668691333",
+  "type": "inline",
+  "latex": "s_i",
+  "metadata": {
+    "db_key": "1522",
+    "src": "images/formula_inline_107_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 5130
+  },
+  "wrapper_html": "<span data-db-key=\"1522\" data-src=\"images/formula_inline_107_3_0.webp\"> $s_i$ </span>"
+}

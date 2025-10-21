@@ -1,0 +1,15 @@
+{
+  "id": "f034f52a3445",
+  "type": "inline",
+  "latex": "v_\\nu = 1,718 \\cdot 10^{30} м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "1364",
+    "src": "images/formula_inline_94_4_152.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 32484
+  },
+  "wrapper_html": "<span data-db-key=\"1364\" data-src=\"images/formula_inline_94_4_152.webp\"> $v_\\nu = 1,718 \\cdot 10^{30} м \\cdot с^{-1}$ </span>"
+}

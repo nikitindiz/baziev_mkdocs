@@ -1,0 +1,15 @@
+{
+  "id": "1ef7ccca6046",
+  "type": "inline",
+  "latex": "G",
+  "metadata": {
+    "db_key": "9275",
+    "src": "images/formula_inline_627_1_211.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 19164
+  },
+  "wrapper_html": "<span data-db-key=\"9275\" data-src=\"images/formula_inline_627_1_211.webp\"> $G$ </span>"
+}

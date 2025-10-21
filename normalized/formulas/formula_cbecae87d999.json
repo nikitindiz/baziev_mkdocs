@@ -1,0 +1,15 @@
+{
+  "id": "cbecae87d999",
+  "type": "display",
+  "latex": "r_1 = (r_x + r_y)/2 = 6,0358795 \\cdot 10^{-11} \\text{м}",
+  "metadata": {
+    "db_key": "4056",
+    "src": "images/formula_full_251_9_0.webp",
+    "equation_number": "(15.17)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 30050
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4056\" data-src=\"images/formula_full_251_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_1 = (r_x + r_y)/2 = 6,0358795 \\cdot 10^{-11} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.17)\n</div>\n</div>"
+}

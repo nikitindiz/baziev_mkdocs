@@ -1,0 +1,15 @@
+{
+  "id": "c56b9d38548e",
+  "type": "inline",
+  "latex": "4 \\cdot 10^{-7} \\text{ M } - 5 \\cdot 10^{-6} \\text{м}",
+  "metadata": {
+    "db_key": "6277",
+    "src": "images/formula_inline_385_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 3245
+  },
+  "wrapper_html": "<span data-db-key=\"6277\" data-src=\"images/formula_inline_385_7_0.webp\"> $4 \\cdot 10^{-7} \\text{ M } - 5 \\cdot 10^{-6} \\text{м}$ </span>"
+}

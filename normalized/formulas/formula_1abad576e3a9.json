@@ -1,0 +1,15 @@
+{
+  "id": "1abad576e3a9",
+  "type": "display",
+  "latex": "P_{л i} = E_{л 0} + P_{i}",
+  "metadata": {
+    "db_key": "4937",
+    "src": "images/formula_full_302_9_0.webp",
+    "equation_number": "(18.49)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 32506
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4937\" data-src=\"images/formula_full_302_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{л i} = E_{л 0} + P_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.49)\n</div>\n</div>"
+}

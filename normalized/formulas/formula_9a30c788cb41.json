@@ -1,0 +1,15 @@
+{
+  "id": "9a30c788cb41",
+  "type": "inline",
+  "latex": "э = 1,9876643 \\cdot 10^{-27} \\text{ Кл}",
+  "metadata": {
+    "db_key": "6619",
+    "src": "images/formula_inline_413_2_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 6466
+  },
+  "wrapper_html": "<span data-db-key=\"6619\" data-src=\"images/formula_inline_413_2_0.webp\"> $э = 1,9876643 \\cdot 10^{-27} \\text{ Кл}$ </span>"
+}

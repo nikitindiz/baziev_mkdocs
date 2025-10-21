@@ -1,0 +1,15 @@
+{
+  "id": "42b0eb0b1ce2",
+  "type": "display",
+  "latex": "\\Delta m_s = m_{s0} - m_s = 1,514214 \\cdot 10^{27} кг",
+  "metadata": {
+    "db_key": "8212",
+    "src": "images/formula_full_548_7_0.webp",
+    "equation_number": "(34.78)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 73106
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8212\" data-src=\"images/formula_full_548_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_s = m_{s0} - m_s = 1,514214 \\cdot 10^{27} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.78)\n</div>\n</div>"
+}

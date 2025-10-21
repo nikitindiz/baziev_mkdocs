@@ -1,0 +1,15 @@
+{
+  "id": "697839cd938c",
+  "type": "inline",
+  "latex": "n = u_s(r)/u_{в0} = 503,755",
+  "metadata": {
+    "db_key": "4716",
+    "src": "images/formula_inline_289_4_13.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 27878
+  },
+  "wrapper_html": "<span data-db-key=\"4716\" data-src=\"images/formula_inline_289_4_13.webp\"> $n = u_s(r)/u_{в0} = 503,755$ </span>"
+}

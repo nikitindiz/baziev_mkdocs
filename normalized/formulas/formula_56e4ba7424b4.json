@@ -1,0 +1,15 @@
+{
+  "id": "56e4ba7424b4",
+  "type": "inline",
+  "latex": "\\rho_{H_2SO_4} = 1830,5 \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "6437",
+    "src": "images/formula_inline_399_12_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 35016
+  },
+  "wrapper_html": "<span data-db-key=\"6437\" data-src=\"images/formula_inline_399_12_0.webp\"> $\\rho_{H_2SO_4} = 1830,5 \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+}

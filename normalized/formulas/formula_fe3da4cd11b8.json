@@ -1,0 +1,15 @@
+{
+  "id": "fe3da4cd11b8",
+  "type": "display",
+  "latex": "AM_1 = \\text{tg} \\, \\gamma_{☿} \\cdot r_{☿} = \\text{tg} \\left[ \\frac{\\pi}{2} - (\\alpha_{☿} + \\beta_{☿}) \\right] \\cdot \\sin \\beta_{☿} \\cdot a_{☿}",
+  "metadata": {
+    "db_key": "8393",
+    "src": "images/formula_full_562_16.webp",
+    "equation_number": "(36.37)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 44150
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8393\" data-src=\"images/formula_full_562_16.webp\">\n<div style=\"width: 100%;\">\n\n$$AM_1 = \\text{tg} \\, \\gamma_{☿} \\cdot r_{☿} = \\text{tg} \\left[ \\frac{\\pi}{2} - (\\alpha_{☿} + \\beta_{☿}) \\right] \\cdot \\sin \\beta_{☿} \\cdot a_{☿}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.37)\n</div>\n</div>"
+}

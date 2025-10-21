@@ -1,0 +1,15 @@
+{
+  "id": "fe5010b8952f",
+  "type": "display",
+  "latex": "\\Delta L_{\\odot} = \\Delta W_k \\cdot \\eta_{\\odot} = 7,1542343 \\cdot 10^{16} \\, \\text{Вт} = 2 \\cdot 10^{-10} \\cdot L_{\\odot}",
+  "metadata": {
+    "db_key": "7327",
+    "src": "images/formula_full_473_14_0.webp",
+    "equation_number": "(26.47)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 41996
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7327\" data-src=\"images/formula_full_473_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta L_{\\odot} = \\Delta W_k \\cdot \\eta_{\\odot} = 7,1542343 \\cdot 10^{16} \\, \\text{Вт} = 2 \\cdot 10^{-10} \\cdot L_{\\odot}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.47)\n</div>\n</div>"
+}

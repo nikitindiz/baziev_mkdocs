@@ -1,0 +1,15 @@
+{
+  "id": "cdb2c841f978",
+  "type": "inline",
+  "latex": "T_i",
+  "metadata": {
+    "db_key": "5752",
+    "src": "images/formula_inline_354_12_6.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 12496
+  },
+  "wrapper_html": "<span data-db-key=\"5752\" data-src=\"images/formula_inline_354_12_6.webp\"> $T_i$ </span>"
+}

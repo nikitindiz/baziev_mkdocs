@@ -1,0 +1,15 @@
+{
+  "id": "32c46b47df0f",
+  "type": "display",
+  "latex": "\\Delta q = \\frac{m_e v_{ec1} \\cdot a_{c1} \\cdot \\nu_{ед}}{\\beta \\cdot e} = -8,1822556 \\cdot 10^{-26} Кл",
+  "metadata": {
+    "db_key": "7727",
+    "src": "images/formula_full_514_3.webp",
+    "equation_number": "(30.11)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 37700
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7727\" data-src=\"images/formula_full_514_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta q = \\frac{m_e v_{ec1} \\cdot a_{c1} \\cdot \\nu_{ед}}{\\beta \\cdot e} = -8,1822556 \\cdot 10^{-26} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.11)\n</div>\n</div>"
+}

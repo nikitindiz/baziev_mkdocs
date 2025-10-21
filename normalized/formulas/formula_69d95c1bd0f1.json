@@ -1,0 +1,15 @@
+{
+  "id": "69d95c1bd0f1",
+  "type": "inline",
+  "latex": "3\\cdot10^6",
+  "metadata": {
+    "db_key": "575",
+    "src": "images/formula_inline_42_3_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 17803
+  },
+  "wrapper_html": "<span data-db-key=\"575\" data-src=\"images/formula_inline_42_3_5.webp\"> $3\\cdot10^6$ </span>"
+}

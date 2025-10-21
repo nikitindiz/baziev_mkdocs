@@ -1,0 +1,15 @@
+{
+  "id": "9bb9731cd67a",
+  "type": "inline",
+  "latex": "T_a = \\xi_{0He} \\cdot \\nu_{ед} = 4,8011734 \\cdot 10^{-11} K",
+  "metadata": {
+    "db_key": "6034",
+    "src": "images/formula_inline_369_7_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 67373
+  },
+  "wrapper_html": "<span data-db-key=\"6034\" data-src=\"images/formula_inline_369_7_3.webp\"> $T_a = \\xi_{0He} \\cdot \\nu_{ед} = 4,8011734 \\cdot 10^{-11} K$ </span>"
+}

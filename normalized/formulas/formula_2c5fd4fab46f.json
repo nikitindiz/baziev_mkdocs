@@ -1,0 +1,15 @@
+{
+  "id": "2c5fd4fab46f",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\nn_2 &= \\frac{q\\left(C_4H_{10}\\right)}{q_{CO}} = 9.3477917 \\\\\nn_2' &= \\frac{V_{O_2}\\left(C_4H_{10}\\right)}{V_{O_2}(CO)} = 13\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "3393",
+    "src": "images/formula_full_212_7.webp",
+    "equation_number": "(14.2)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 4383
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3393\" data-src=\"images/formula_full_212_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nn_2 &= \\frac{q\\left(C_4H_{10}\\right)}{q_{CO}} = 9.3477917 \\\\\nn_2' &= \\frac{V_{O_2}\\left(C_4H_{10}\\right)}{V_{O_2}(CO)} = 13\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.2)\n</div>\n</div>"
+}

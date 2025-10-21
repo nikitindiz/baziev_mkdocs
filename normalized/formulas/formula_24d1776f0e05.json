@@ -1,0 +1,15 @@
+{
+  "id": "24d1776f0e05",
+  "type": "inline",
+  "latex": "= 2,5474751 \\cdot 10^{-10} м",
+  "metadata": {
+    "db_key": "5588",
+    "src": "images/formula_inline_343_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 64480
+  },
+  "wrapper_html": "<span data-db-key=\"5588\" data-src=\"images/formula_inline_343_1_0.webp\"> $= 2,5474751 \\cdot 10^{-10} м$ </span>"
+}

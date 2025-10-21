@@ -1,0 +1,15 @@
+{
+  "id": "c3a6a9f8bd9e",
+  "type": "display",
+  "latex": "Be^+ + Be^- + O_2 = Be^- - O^+ + Be^+ - e - O^+",
+  "metadata": {
+    "db_key": "6805",
+    "src": "images/formula_full_429_4_0.webp",
+    "equation_number": "(23.74)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 73673
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6805\" data-src=\"images/formula_full_429_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Be^+ + Be^- + O_2 = Be^- - O^+ + Be^+ - e - O^+$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.74)\n</div>\n</div>"
+}

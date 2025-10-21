@@ -1,0 +1,15 @@
+{
+  "id": "3e37f0cae182",
+  "type": "inline",
+  "latex": "S_2 = OCDO",
+  "metadata": {
+    "db_key": "4120",
+    "src": "images/formula_inline_253_16_68.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 35665
+  },
+  "wrapper_html": "<span data-db-key=\"4120\" data-src=\"images/formula_inline_253_16_68.webp\"> $S_2 = OCDO$ </span>"
+}

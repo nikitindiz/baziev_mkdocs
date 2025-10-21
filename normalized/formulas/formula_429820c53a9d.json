@@ -1,0 +1,15 @@
+{
+  "id": "429820c53a9d",
+  "type": "inline",
+  "latex": "Z_n = n_э \\cdot э + n_e \\cdot e = |9,6131352 \\cdot 10^{-19} \\text{ Кл}|",
+  "metadata": {
+    "db_key": "354",
+    "src": "images/formula_inline_25_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 10395
+  },
+  "wrapper_html": "<span data-db-key=\"354\" data-src=\"images/formula_inline_25_7_0.webp\"> $Z_n = n_э \\cdot э + n_e \\cdot e = |9,6131352 \\cdot 10^{-19} \\text{ Кл}|$ </span>"
+}

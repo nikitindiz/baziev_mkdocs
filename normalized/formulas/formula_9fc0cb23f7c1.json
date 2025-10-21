@@ -1,0 +1,15 @@
+{
+  "id": "9fc0cb23f7c1",
+  "type": "display",
+  "latex": "PV = nRT = \\frac{m}{\\mu} \\cdot RT",
+  "metadata": {
+    "db_key": "1",
+    "src": "images/formula_full_0_7.webp",
+    "equation_number": "(1.1)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 336
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1\" data-src=\"images/formula_full_0_7.webp\">\n<div style=\"width: 100%;\">\n\n$$PV = nRT = \\frac{m}{\\mu} \\cdot RT$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.1)\n</div>\n</div>"
+}

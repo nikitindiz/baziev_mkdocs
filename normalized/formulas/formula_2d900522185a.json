@@ -1,0 +1,15 @@
+{
+  "id": "2d900522185a",
+  "type": "display",
+  "latex": "Q_{gi} = K_g \\cdot Q_i = \\frac{m_i \\cdot K_g}{p} = Z_{gi}",
+  "metadata": {
+    "db_key": "7123",
+    "src": "images/formula_full_455_12.webp",
+    "equation_number": "(24.12)"
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 8944
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7123\" data-src=\"images/formula_full_455_12.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{gi} = K_g \\cdot Q_i = \\frac{m_i \\cdot K_g}{p} = Z_{gi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.12)\n</div>\n</div>"
+}

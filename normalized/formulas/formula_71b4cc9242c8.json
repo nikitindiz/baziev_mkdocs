@@ -1,0 +1,15 @@
+{
+  "id": "71b4cc9242c8",
+  "type": "display",
+  "latex": "v_{\\nu71} = \\frac{2 \\mathscr{P}}{m_э \\cdot a_{71} \\cdot \\nu_{\\text{ед}}} = \\frac{2,6075762 \\cdot 10^{-21}}{2,0203316 \\cdot 10^{-43}} = 1,2906674 \\cdot 10^{22} \\; \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "7275",
+    "src": "images/formula_full_470_0.webp",
+    "equation_number": "(26.21)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 25543
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7275\" data-src=\"images/formula_full_470_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\nu71} = \\frac{2 \\mathscr{P}}{m_э \\cdot a_{71} \\cdot \\nu_{\\text{ед}}} = \\frac{2,6075762 \\cdot 10^{-21}}{2,0203316 \\cdot 10^{-43}} = 1,2906674 \\cdot 10^{22} \\; \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.21)\n</div>\n</div>"
+}

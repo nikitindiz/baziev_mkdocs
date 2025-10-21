@@ -1,0 +1,15 @@
+{
+  "id": "aba66f0e71c6",
+  "type": "display",
+  "latex": "\\eta_{c} = \\frac{m_{c} \\cdot f_{c}}{\\pi \\cdot d_{gc}} = \\frac{24,203273 \\cdot 10^{-13}}{3,2145212 \\cdot 10^{-9}} = 7,5293555 \\cdot 10^{-4} \\, \\text{Па} \\cdot \\text{с}",
+  "metadata": {
+    "db_key": "5200",
+    "src": "images/formula_full_320_4_0.webp",
+    "equation_number": "(18.186)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 105350
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5200\" data-src=\"images/formula_full_320_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{c} = \\frac{m_{c} \\cdot f_{c}}{\\pi \\cdot d_{gc}} = \\frac{24,203273 \\cdot 10^{-13}}{3,2145212 \\cdot 10^{-9}} = 7,5293555 \\cdot 10^{-4} \\, \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.186)\n</div>\n</div>"
+}

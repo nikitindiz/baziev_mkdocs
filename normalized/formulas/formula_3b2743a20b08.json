@@ -1,0 +1,15 @@
+{
+  "id": "3b2743a20b08",
+  "type": "inline",
+  "latex": "P_c > P_n = 7,2 \\cdot 10^{18} \\, Па",
+  "metadata": {
+    "db_key": "7997",
+    "src": "images/formula_inline_534_1_27.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 3847
+  },
+  "wrapper_html": "<span data-db-key=\"7997\" data-src=\"images/formula_inline_534_1_27.webp\"> $P_c > P_n = 7,2 \\cdot 10^{18} \\, Па$ </span>"
+}

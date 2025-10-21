@@ -43,10 +43,10 @@ class Formula:
 class FormulaExtractor:
     """Extracts formulas from markdown files"""
     
-    def __init__(self, docs_dir: str, output_dir: str):
+    def __init__(self, docs_dir: str, output_dir: str, formulas_dir: str):
         self.docs_dir = Path(docs_dir)
         self.output_dir = Path(output_dir)
-        self.formulas_dir = self.output_dir / "formulas"
+        self.formulas_dir = Path(formulas_dir)
         self.result_dir = self.output_dir / "result"
         
         # Ensure directories exist
@@ -441,13 +441,15 @@ def main():
     # Get script directory
     script_dir = Path(__file__).parent
     project_root = script_dir.parent.parent
+    normalized_dir = script_dir.parent
     
     # Set paths
     docs_dir = project_root / "docs"
     output_dir = script_dir
+    formulas_dir = normalized_dir / "formulas"
     
     # Create extractor and run
-    extractor = FormulaExtractor(str(docs_dir), str(output_dir))
+    extractor = FormulaExtractor(str(docs_dir), str(output_dir), str(formulas_dir))
     extractor.process_all()
 
 

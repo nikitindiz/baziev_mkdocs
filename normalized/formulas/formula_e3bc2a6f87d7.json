@@ -1,0 +1,15 @@
+{
+  "id": "e3bc2a6f87d7",
+  "type": "display",
+  "latex": "T_{min} = \\xi_i \\cdot f_{min}",
+  "metadata": {
+    "db_key": "451",
+    "src": "images/formula_full_33_14_0.webp",
+    "equation_number": "(5.25)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 16083
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"451\" data-src=\"images/formula_full_33_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_{min} = \\xi_i \\cdot f_{min}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.25)\n</div>\n</div>"
+}

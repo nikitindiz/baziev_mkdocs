@@ -1,0 +1,15 @@
+{
+  "id": "575b7f0c87a8",
+  "type": "display",
+  "latex": "V_{\\rho} = S \\cdot c = 2a^2 \\cdot c \\cdot \\sin(\\gamma/2) \\cdot \\cos(\\gamma/2)",
+  "metadata": {
+    "db_key": "4043",
+    "src": "images/formula_full_250_9_0.webp",
+    "equation_number": "(15.9)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 24422
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4043\" data-src=\"images/formula_full_250_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\rho} = S \\cdot c = 2a^2 \\cdot c \\cdot \\sin(\\gamma/2) \\cdot \\cos(\\gamma/2)$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.9)\n</div>\n</div>"
+}

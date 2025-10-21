@@ -1,0 +1,15 @@
+{
+  "id": "c8a1b845bb52",
+  "type": "inline",
+  "latex": "r_0 = A_i \\cdot r_i = 5,2530416 \\cdot 10^{-12} \\, \\text{м}",
+  "metadata": {
+    "db_key": "3484",
+    "src": "images/formula_inline_217_15_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 17024
+  },
+  "wrapper_html": "<span data-db-key=\"3484\" data-src=\"images/formula_inline_217_15_3.webp\"> $r_0 = A_i \\cdot r_i = 5,2530416 \\cdot 10^{-12} \\, \\text{м}$ </span>"
+}

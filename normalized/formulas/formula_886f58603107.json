@@ -1,0 +1,15 @@
+{
+  "id": "886f58603107",
+  "type": "display",
+  "latex": "u_0 = \\frac{E_0}{m v_0 a} = \\frac{P_0 \\cdot V_{g0}}{m v_0 \\cdot a} = \\frac{k T_0}{m v_0 a} = \\frac{h f_0}{m v_0 a} = \\frac{h}{2 A_0 \\cdot ma}, \\frac{м}{с}",
+  "metadata": {
+    "db_key": "79",
+    "src": "images/formula_full_6_3.webp",
+    "equation_number": "(1.24)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 22058
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"79\" data-src=\"images/formula_full_6_3.webp\">\n<div style=\"width: 100%;\">\n\n$$u_0 = \\frac{E_0}{m v_0 a} = \\frac{P_0 \\cdot V_{g0}}{m v_0 \\cdot a} = \\frac{k T_0}{m v_0 a} = \\frac{h f_0}{m v_0 a} = \\frac{h}{2 A_0 \\cdot ma}, \\frac{м}{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.24)\n</div>\n</div>"
+}

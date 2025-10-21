@@ -1,0 +1,15 @@
+{
+  "id": "41dc64dba310",
+  "type": "display",
+  "latex": "P_{Au} = P_1 + P_2 + P_3 = -7,9 \\cdot 10^{10} \\text{ Па}",
+  "metadata": {
+    "db_key": "4223",
+    "src": "images/formula_full_259_0_0.webp",
+    "equation_number": "(15.59)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 64523
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4223\" data-src=\"images/formula_full_259_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{Au} = P_1 + P_2 + P_3 = -7,9 \\cdot 10^{10} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.59)\n</div>\n</div>"
+}

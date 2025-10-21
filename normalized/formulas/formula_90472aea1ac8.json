@@ -1,0 +1,15 @@
+{
+  "id": "90472aea1ac8",
+  "type": "inline",
+  "latex": "F_r = -1,2 \\cdot 10^{-17} Н",
+  "metadata": {
+    "db_key": "5773",
+    "src": "images/formula_inline_355_5_22.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 15573
+  },
+  "wrapper_html": "<span data-db-key=\"5773\" data-src=\"images/formula_inline_355_5_22.webp\"> $F_r = -1,2 \\cdot 10^{-17} Н$ </span>"
+}

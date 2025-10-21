@@ -1,0 +1,15 @@
+{
+  "id": "b5aa6f8d4d66",
+  "type": "display",
+  "latex": "N_2 = n_a \\cdot \\tau = 1,2171016 \\cdot 10^{23}",
+  "metadata": {
+    "db_key": "6571",
+    "src": "images/formula_full_409_3_0.webp",
+    "equation_number": "(21.1.92)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 97821
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6571\" data-src=\"images/formula_full_409_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_2 = n_a \\cdot \\tau = 1,2171016 \\cdot 10^{23}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.92)\n</div>\n</div>"
+}

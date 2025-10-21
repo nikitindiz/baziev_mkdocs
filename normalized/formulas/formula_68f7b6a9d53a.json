@@ -1,0 +1,15 @@
+{
+  "id": "68f7b6a9d53a",
+  "type": "display",
+  "latex": "V_{gs} ( H_2SO_4 ) = \\frac{m_s ( H_2SO_4 )}{\\rho_{H_2SO_4}} = 1,371637 \\cdot 10^{-25} \\text{ м}^3",
+  "metadata": {
+    "db_key": "6426",
+    "src": "images/formula_full_398_4.webp",
+    "equation_number": "(21.1.34)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 36837
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6426\" data-src=\"images/formula_full_398_4.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gs} ( H_2SO_4 ) = \\frac{m_s ( H_2SO_4 )}{\\rho_{H_2SO_4}} = 1,371637 \\cdot 10^{-25} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.34)\n</div>\n</div>"
+}

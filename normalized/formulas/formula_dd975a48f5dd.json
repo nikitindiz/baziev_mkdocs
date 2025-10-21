@@ -1,0 +1,15 @@
+{
+  "id": "dd975a48f5dd",
+  "type": "display",
+  "latex": "V_{gэ} = V_{ед} / N_{sэ} = 1,2613896 \\cdot 10^{-25} \\, \\text{м}^3",
+  "metadata": {
+    "db_key": "6450",
+    "src": "images/formula_full_400_11_0.webp",
+    "equation_number": "(21.1.46)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 46427
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6450\" data-src=\"images/formula_full_400_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gэ} = V_{ед} / N_{sэ} = 1,2613896 \\cdot 10^{-25} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.46)\n</div>\n</div>"
+}

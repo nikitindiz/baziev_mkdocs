@@ -1,0 +1,15 @@
+{
+  "id": "c9c18602d13e",
+  "type": "display",
+  "latex": "i_{\\alpha} = m_{\\alpha} \\cdot v_{\\alpha} = 1,2628535 \\cdot 10^{-19} \\text{ кг} \\cdot \\text{м/с}",
+  "metadata": {
+    "db_key": "1634",
+    "src": "images/formula_full_114_10_0.webp",
+    "equation_number": "(10.36)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 54043
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1634\" data-src=\"images/formula_full_114_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{\\alpha} = m_{\\alpha} \\cdot v_{\\alpha} = 1,2628535 \\cdot 10^{-19} \\text{ кг} \\cdot \\text{м/с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.36)\n</div>\n</div>"
+}

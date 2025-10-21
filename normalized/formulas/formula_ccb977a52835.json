@@ -1,0 +1,15 @@
+{
+  "id": "ccb977a52835",
+  "type": "display",
+  "latex": "K_{\\varphi} = \\frac{c_0 э \\varphi_s}{2\\varepsilon_0} = \\frac{c_0 э \\varphi_s}{2 э \\varphi} = \\frac{c_0 \\varphi_s}{2\\varphi}",
+  "metadata": {
+    "db_key": "3296",
+    "src": "images/formula_full_207_16.webp",
+    "equation_number": "(13.200)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 343138
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3296\" data-src=\"images/formula_full_207_16.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{\\varphi} = \\frac{c_0 э \\varphi_s}{2\\varepsilon_0} = \\frac{c_0 э \\varphi_s}{2 э \\varphi} = \\frac{c_0 \\varphi_s}{2\\varphi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.200)\n</div>\n</div>"
+}

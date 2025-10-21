@@ -1,0 +1,15 @@
+{
+  "id": "52c1524fd7d0",
+  "type": "inline",
+  "latex": "\\lambda_{71}' = 1,7756207 \\cdot 10^7 \\, \\text{м}",
+  "metadata": {
+    "db_key": "7572",
+    "src": "images/formula_inline_501_15_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 7444
+  },
+  "wrapper_html": "<span data-db-key=\"7572\" data-src=\"images/formula_inline_501_15_0.webp\"> $\\lambda_{71}' = 1,7756207 \\cdot 10^7 \\, \\text{м}$ </span>"
+}

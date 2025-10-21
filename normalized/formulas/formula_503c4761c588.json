@@ -1,0 +1,15 @@
+{
+  "id": "503c4761c588",
+  "type": "inline",
+  "latex": "P = \\text{const}",
+  "metadata": {
+    "db_key": "9263",
+    "src": "images/formula_inline_627_1_145.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 17669
+  },
+  "wrapper_html": "<span data-db-key=\"9263\" data-src=\"images/formula_inline_627_1_145.webp\"> $P = \\text{const}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "32e17796abac",
+  "type": "inline",
+  "latex": "m_{\\mu} = m_n / 3",
+  "metadata": {
+    "db_key": "1464",
+    "src": "images/formula_inline_104_2_15.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 58133
+  },
+  "wrapper_html": "<span data-db-key=\"1464\" data-src=\"images/formula_inline_104_2_15.webp\"> $m_{\\mu} = m_n / 3$ </span>"
+}

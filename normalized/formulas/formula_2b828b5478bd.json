@@ -1,0 +1,15 @@
+{
+  "id": "2b828b5478bd",
+  "type": "display",
+  "latex": "V_{n☿} = m_{n☿} / \\rho_n = \\frac{m_{n☿}}{9,2019428 \\cdot 10^{12}} = 1,7677289 \\cdot 10^{10} \\text{м}^3",
+  "metadata": {
+    "db_key": "8625",
+    "src": "images/formula_full_579_1.webp",
+    "equation_number": "(38.54)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 30922
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8625\" data-src=\"images/formula_full_579_1.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{n☿} = m_{n☿} / \\rho_n = \\frac{m_{n☿}}{9,2019428 \\cdot 10^{12}} = 1,7677289 \\cdot 10^{10} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.54)\n</div>\n</div>"
+}

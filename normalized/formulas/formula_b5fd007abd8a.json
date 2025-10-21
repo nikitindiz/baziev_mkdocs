@@ -1,0 +1,15 @@
+{
+  "id": "b5fd007abd8a",
+  "type": "display",
+  "latex": "a_e = \\frac{1}{n_e (l)} = \\frac{1}{\\sqrt[3]{\\rho (e)}} = \\frac{1}{3,2521981 \\cdot 10^{10} м^{-1}} = 3,0748434 \\cdot 10^{-11} м",
+  "metadata": {
+    "db_key": "1429",
+    "src": "images/formula_full_100_4_0.webp",
+    "equation_number": "(9.92)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 68154
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1429\" data-src=\"images/formula_full_100_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_e = \\frac{1}{n_e (l)} = \\frac{1}{\\sqrt[3]{\\rho (e)}} = \\frac{1}{3,2521981 \\cdot 10^{10} м^{-1}} = 3,0748434 \\cdot 10^{-11} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.92)\n</div>\n</div>"
+}

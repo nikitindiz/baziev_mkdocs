@@ -1,0 +1,15 @@
+{
+  "id": "14667352a78a",
+  "type": "inline",
+  "latex": "t_2 = (t_c + \\Delta t) = -271,96{\\degree} \\text{ C}",
+  "metadata": {
+    "db_key": "5990",
+    "src": "images/formula_inline_367_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 61219
+  },
+  "wrapper_html": "<span data-db-key=\"5990\" data-src=\"images/formula_inline_367_1_0.webp\"> $t_2 = (t_c + \\Delta t) = -271,96{\\degree} \\text{ C}$ </span>"
+}

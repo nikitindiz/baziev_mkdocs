@@ -1,0 +1,15 @@
+{
+  "id": "a287431fbd95",
+  "type": "display",
+  "latex": "C_m = 5,4608428 \\cdot 10^{-13} \\cdot 6,0220285 \\cdot 10^{26} = 3,2885351 \\cdot 10^{14} \\text{ Дж} \\cdot \\text{кг}^{-1}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(9.20)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 6953
+  },
+  "wrapper_html": null
+}

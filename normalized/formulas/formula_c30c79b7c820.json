@@ -1,0 +1,15 @@
+{
+  "id": "c30c79b7c820",
+  "type": "inline",
+  "latex": "\\sigma_i",
+  "metadata": {
+    "db_key": "9248",
+    "src": "images/formula_inline_627_0_21.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 13748
+  },
+  "wrapper_html": "<span data-db-key=\"9248\" data-src=\"images/formula_inline_627_0_21.webp\"> $\\sigma_i$ </span>"
+}

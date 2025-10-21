@@ -1,0 +1,15 @@
+{
+  "id": "83a2484a17e4",
+  "type": "display",
+  "latex": "E_0 = \\sqrt[3]{\\frac{4\\pi}{3} (mv_0 \\cdot u_0)^3}",
+  "metadata": {
+    "db_key": "66",
+    "src": "images/formula_full_5_12_0.webp",
+    "equation_number": "(1.22)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 21022
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"66\" data-src=\"images/formula_full_5_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_0 = \\sqrt[3]{\\frac{4\\pi}{3} (mv_0 \\cdot u_0)^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.22)\n</div>\n</div>"
+}

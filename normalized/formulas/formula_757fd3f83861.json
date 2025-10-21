@@ -1,0 +1,15 @@
+{
+  "id": "757fd3f83861",
+  "type": "display",
+  "latex": "V_{sc} = \\frac{12,40704 \\cdot 10^{-21} - 8,935015 \\cdot 10^{-21}}{2,2110247 \\cdot 10^{7}} = 1,5696849 \\cdot 10^{-28} \\text{м}^3",
+  "metadata": {
+    "db_key": "5154",
+    "src": "images/formula_full_317_16_0.webp",
+    "equation_number": "(18.168)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 93217
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5154\" data-src=\"images/formula_full_317_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{sc} = \\frac{12,40704 \\cdot 10^{-21} - 8,935015 \\cdot 10^{-21}}{2,2110247 \\cdot 10^{7}} = 1,5696849 \\cdot 10^{-28} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.168)\n</div>\n</div>"
+}

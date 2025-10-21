@@ -1,0 +1,15 @@
+{
+  "id": "3e8b504e7d27",
+  "type": "display",
+  "latex": "V_i = I_i \\cdot \\Phi_0 / k_i э",
+  "metadata": {
+    "db_key": "5559",
+    "src": "images/formula_full_342_6_0.webp",
+    "equation_number": "(19.87)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 82223
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5559\" data-src=\"images/formula_full_342_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_i = I_i \\cdot \\Phi_0 / k_i э$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.87)\n</div>\n</div>"
+}

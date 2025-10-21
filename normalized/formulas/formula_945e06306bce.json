@@ -1,0 +1,15 @@
+{
+  "id": "945e06306bce",
+  "type": "display",
+  "latex": "S_1 = S_{ед} / k = 7,5576061 \\cdot 10^{-11} \\, \\text{м}^2",
+  "metadata": {
+    "db_key": "6264",
+    "src": "images/formula_full_385_15_0.webp",
+    "equation_number": "(21.8)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 6722
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6264\" data-src=\"images/formula_full_385_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_1 = S_{ед} / k = 7,5576061 \\cdot 10^{-11} \\, \\text{м}^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.8)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8f551b665138",
+  "type": "inline",
+  "latex": "T_{\\odot}",
+  "metadata": {
+    "db_key": "7808",
+    "src": "images/formula_inline_521_1_27.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 5526
+  },
+  "wrapper_html": "<span data-db-key=\"7808\" data-src=\"images/formula_inline_521_1_27.webp\"> $T_{\\odot}$ </span>"
+}

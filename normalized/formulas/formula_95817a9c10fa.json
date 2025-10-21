@@ -1,0 +1,15 @@
+{
+  "id": "95817a9c10fa",
+  "type": "display",
+  "latex": "\\frac{\\text{Дж}}{\\text{м}^3} = \\frac{\\text{Н} \\cdot \\text{м}}{\\text{м}^2 \\cdot \\text{м}} = \\frac{\\text{Н}}{\\text{м}^2} = \\text{Па}",
+  "metadata": {
+    "db_key": "34",
+    "src": "images/formula_full_3_11.webp",
+    "equation_number": "(1.14)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 12633
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"34\" data-src=\"images/formula_full_3_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\text{Дж}}{\\text{м}^3} = \\frac{\\text{Н} \\cdot \\text{м}}{\\text{м}^2 \\cdot \\text{м}} = \\frac{\\text{Н}}{\\text{м}^2} = \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.14)\n</div>\n</div>"
+}

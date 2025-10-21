@@ -1,0 +1,15 @@
+{
+  "id": "9f5897fbe3a0",
+  "type": "display",
+  "latex": "P_i = \\varepsilon (\\alpha, n)/V_g (\\alpha, n) = \\frac{[2 m_{0i} A_{si} u_{si} n_{si} + h \\left(3 - \\alpha_i^2 \\cdot \\sqrt[3]{n_{si}^2 \\cdot n_i}\\right)] v_{0i} \\sqrt[3]{n_{si}} (1 + \\beta_{0i} t) \\cdot \\gamma_i}{2 V_{g0i} \\alpha_i^2 \\left[ d_{g0i} \\alpha_i \\cdot \\sqrt[3]{n_{si}} - \\frac{э \\varphi}{i_{0i} \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t) \\cdot \\nu_{ед} } - \\frac{\\hbar (1 - \\alpha_i^2 \\cdot \\sqrt[3]{n_{si}^2 \\cdot n_i})}{i_{0i} \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t)} \\right]}",
+  "metadata": {
+    "db_key": "2034",
+    "src": "images/formula_full_134_3.webp",
+    "equation_number": "(11.106)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 70805
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2034\" data-src=\"images/formula_full_134_3.webp\">\n<div style=\"width: 100%;\">\n\n$$P_i = \\varepsilon (\\alpha, n)/V_g (\\alpha, n) = \\frac{[2 m_{0i} A_{si} u_{si} n_{si} + h \\left(3 - \\alpha_i^2 \\cdot \\sqrt[3]{n_{si}^2 \\cdot n_i}\\right)] v_{0i} \\sqrt[3]{n_{si}} (1 + \\beta_{0i} t) \\cdot \\gamma_i}{2 V_{g0i} \\alpha_i^2 \\left[ d_{g0i} \\alpha_i \\cdot \\sqrt[3]{n_{si}} - \\frac{э \\varphi}{i_{0i} \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t) \\cdot \\nu_{ед} } - \\frac{\\hbar (1 - \\alpha_i^2 \\cdot \\sqrt[3]{n_{si}^2 \\cdot n_i})}{i_{0i} \\alpha_i \\sqrt[3]{n_{si}^4} \\cdot (1 + \\beta_{0i} t)} \\right]}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.106)\n</div>\n</div>"
+}

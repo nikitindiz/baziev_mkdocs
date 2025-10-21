@@ -1,0 +1,15 @@
+{
+  "id": "1fe74c3b61b0",
+  "type": "inline",
+  "latex": "\\text{Au}_2\\text{O}_3",
+  "metadata": {
+    "db_key": "4048",
+    "src": "images/formula_inline_250_5_19.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 21773
+  },
+  "wrapper_html": "<span data-db-key=\"4048\" data-src=\"images/formula_inline_250_5_19.webp\"> $\\text{Au}_2\\text{O}_3$ </span>"
+}

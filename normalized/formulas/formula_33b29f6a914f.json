@@ -1,0 +1,15 @@
+{
+  "id": "33b29f6a914f",
+  "type": "display",
+  "latex": "\\Delta m_O = n_4 \\cdot m_э = 4,544096 \\cdot 10^{-28} \\text{ кг}",
+  "metadata": {
+    "db_key": "6541",
+    "src": "images/formula_full_405_5_0.webp",
+    "equation_number": "(21.1.77)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 67419
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6541\" data-src=\"images/formula_full_405_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_O = n_4 \\cdot m_э = 4,544096 \\cdot 10^{-28} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.77)\n</div>\n</div>"
+}

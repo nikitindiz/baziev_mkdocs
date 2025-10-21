@@ -1,0 +1,15 @@
+{
+  "id": "8528aa89f547",
+  "type": "display",
+  "latex": "A_{\\odot} = N_{\\odot}/S_{\\text{ед}} = 5,518 \\cdot 10^{22} \\text{ м}^{-2}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(21.7)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 3529
+  },
+  "wrapper_html": null
+}

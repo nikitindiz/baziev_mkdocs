@@ -1,0 +1,15 @@
+{
+  "id": "170e8a433b31",
+  "type": "display",
+  "latex": "n_p = \\frac{P_1}{(P_2 + P_3)} = \\frac{-8,8361006 \\cdot 10^{11}}{1,0116099 \\cdot 10^{9}} = -873,46917",
+  "metadata": {
+    "db_key": "6975",
+    "src": "images/formula_full_443_12.webp",
+    "equation_number": "(23.160)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 180531
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6975\" data-src=\"images/formula_full_443_12.webp\">\n<div style=\"width: 100%;\">\n\n$$n_p = \\frac{P_1}{(P_2 + P_3)} = \\frac{-8,8361006 \\cdot 10^{11}}{1,0116099 \\cdot 10^{9}} = -873,46917$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.160)\n</div>\n</div>"
+}

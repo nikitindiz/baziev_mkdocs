@@ -1,0 +1,15 @@
+{
+  "id": "b928c3d44e63",
+  "type": "display",
+  "latex": "\\eta = \\frac{T_1 - T_2}{T_1} = 1 - \\frac{T_2}{T_1}",
+  "metadata": {
+    "db_key": "511",
+    "src": "images/formula_full_37_5_0.webp",
+    "equation_number": "(6.2)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 3219
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"511\" data-src=\"images/formula_full_37_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta = \\frac{T_1 - T_2}{T_1} = 1 - \\frac{T_2}{T_1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.2)\n</div>\n</div>"
+}

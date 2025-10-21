@@ -1,0 +1,15 @@
+{
+  "id": "c784074dd66c",
+  "type": "inline",
+  "latex": "f_0 = 5,6875667 \\cdot 10^{12} с^{-1}",
+  "metadata": {
+    "db_key": "68",
+    "src": "images/formula_full_5_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 14345
+  },
+  "wrapper_html": "<span data-db-key=\"68\" data-src=\"images/formula_full_5_4_0.webp\"> $f_0 = 5,6875667 \\cdot 10^{12} с^{-1}$ </span>"
+}

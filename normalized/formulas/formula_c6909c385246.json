@@ -1,0 +1,15 @@
+{
+  "id": "c6909c385246",
+  "type": "display",
+  "latex": "m_0 = 3,4309231 \\cdot 10^{-19} \\, \\text{ кг}",
+  "metadata": {
+    "db_key": "7416",
+    "src": "images/formula_full_478_6_0.webp",
+    "equation_number": "(26.77)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 62230
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7416\" data-src=\"images/formula_full_478_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_0 = 3,4309231 \\cdot 10^{-19} \\, \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.77)\n</div>\n</div>"
+}

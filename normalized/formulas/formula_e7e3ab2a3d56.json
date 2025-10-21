@@ -1,0 +1,15 @@
+{
+  "id": "e7e3ab2a3d56",
+  "type": "inline",
+  "latex": "a_{i} \\leq a_{70_{\\max}}",
+  "metadata": {
+    "db_key": "7369",
+    "src": "images/formula_inline_475_13_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 36379
+  },
+  "wrapper_html": "<span data-db-key=\"7369\" data-src=\"images/formula_inline_475_13_11.webp\"> $a_{i} \\leq a_{70_{\\max}}$ </span>"
+}

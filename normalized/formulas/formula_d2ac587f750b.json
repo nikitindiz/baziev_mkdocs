@@ -1,0 +1,15 @@
+{
+  "id": "d2ac587f750b",
+  "type": "inline",
+  "latex": "v_0 = 2,8992629 \\cdot 10^8 \\ м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "6320",
+    "src": "images/formula_inline_389_1_83.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 12019
+  },
+  "wrapper_html": "<span data-db-key=\"6320\" data-src=\"images/formula_inline_389_1_83.webp\"> $v_0 = 2,8992629 \\cdot 10^8 \\ м \\cdot с^{-1}$ </span>"
+}

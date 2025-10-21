@@ -1,0 +1,15 @@
+{
+  "id": "5b2e44f2517d",
+  "type": "inline",
+  "latex": "T = 7,18 \\text{ K}",
+  "metadata": {
+    "db_key": "5690",
+    "src": "images/formula_inline_350_6_24.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 1917
+  },
+  "wrapper_html": "<span data-db-key=\"5690\" data-src=\"images/formula_inline_350_6_24.webp\"> $T = 7,18 \\text{ K}$ </span>"
+}

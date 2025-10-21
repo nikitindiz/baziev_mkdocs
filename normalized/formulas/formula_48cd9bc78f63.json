@@ -1,0 +1,15 @@
+{
+  "id": "48cd9bc78f63",
+  "type": "display",
+  "latex": "\\Delta \\tau = l \\cdot (\\frac{1}{c \\cdot n_1} - \\frac{1}{c n_2}) \\approx \\frac{2 \\pi e^2 \\cdot n_e \\cdot l}{m_e \\cdot c} \\cdot (\\frac{1}{\\nu_1^2} - \\frac{1}{\\nu_2^2})",
+  "metadata": {
+    "db_key": "8944",
+    "src": "images/formula_full_601_2.webp",
+    "equation_number": "(41.1)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 10349
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8944\" data-src=\"images/formula_full_601_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\tau = l \\cdot (\\frac{1}{c \\cdot n_1} - \\frac{1}{c n_2}) \\approx \\frac{2 \\pi e^2 \\cdot n_e \\cdot l}{m_e \\cdot c} \\cdot (\\frac{1}{\\nu_1^2} - \\frac{1}{\\nu_2^2})$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.1)\n</div>\n</div>"
+}

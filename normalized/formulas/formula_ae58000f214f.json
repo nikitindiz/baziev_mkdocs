@@ -1,0 +1,15 @@
+{
+  "id": "ae58000f214f",
+  "type": "inline",
+  "latex": "\\frac{\\pi d_э^2}{2}",
+  "metadata": {
+    "db_key": "5767",
+    "src": "images/formula_inline_355_0_33.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 14261
+  },
+  "wrapper_html": "<span data-db-key=\"5767\" data-src=\"images/formula_inline_355_0_33.webp\"> $\\frac{\\pi d_э^2}{2}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9fa436d08017",
+  "type": "inline",
+  "latex": "n = 3,6 \\cdot 10^7",
+  "metadata": {
+    "db_key": "4001",
+    "src": "images/formula_inline_247_5_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 1451
+  },
+  "wrapper_html": "<span data-db-key=\"4001\" data-src=\"images/formula_inline_247_5_23.webp\"> $n = 3,6 \\cdot 10^7$ </span>"
+}

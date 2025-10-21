@@ -1,0 +1,15 @@
+{
+  "id": "c57d1943ba4c",
+  "type": "display",
+  "latex": "E_d = \\frac{E_m^ж}{n_s} = \\frac{C^ж \\cdot m_{ед} \\cdot T_0}{m_{ед} / m_s} = 1.2877369 \\cdot 10^{-16} \\text{ Дж}",
+  "metadata": {
+    "db_key": "4849",
+    "src": "images/formula_full_296_3_0.webp",
+    "equation_number": "(18.4)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 5686
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4849\" data-src=\"images/formula_full_296_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_d = \\frac{E_m^ж}{n_s} = \\frac{C^ж \\cdot m_{ед} \\cdot T_0}{m_{ед} / m_s} = 1.2877369 \\cdot 10^{-16} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.4)\n</div>\n</div>"
+}

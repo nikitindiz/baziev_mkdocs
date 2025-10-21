@@ -1,0 +1,15 @@
+{
+  "id": "92836cf6a539",
+  "type": "inline",
+  "latex": "\\alpha' = 3,7 \\cdot 10^{-3} \\text{ град}^{-1}",
+  "metadata": {
+    "db_key": "5930",
+    "src": "images/formula_inline_363_4_29.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 40015
+  },
+  "wrapper_html": "<span data-db-key=\"5930\" data-src=\"images/formula_inline_363_4_29.webp\"> $\\alpha' = 3,7 \\cdot 10^{-3} \\text{ град}^{-1}$ </span>"
+}

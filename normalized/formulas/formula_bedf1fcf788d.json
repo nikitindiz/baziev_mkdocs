@@ -1,0 +1,15 @@
+{
+  "id": "bedf1fcf788d",
+  "type": "display",
+  "latex": "C_V = \\frac{3}{2} \\cdot \\frac{k_i}{m_i}, \\frac{\\text{Дж}}{\\text{кг} \\cdot \\text{K}}",
+  "metadata": {
+    "db_key": "764",
+    "src": "images/formula_inline_52_0_0.webp",
+    "equation_number": "(6.54)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 61300
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"764\" data-src=\"images/formula_inline_52_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_V = \\frac{3}{2} \\cdot \\frac{k_i}{m_i}, \\frac{\\text{Дж}}{\\text{кг} \\cdot \\text{K}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.54)\n</div>\n</div>"
+}

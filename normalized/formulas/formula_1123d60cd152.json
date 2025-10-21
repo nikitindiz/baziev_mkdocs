@@ -1,0 +1,15 @@
+{
+  "id": "1123d60cd152",
+  "type": "display",
+  "latex": "E_f' = \\frac{E_q}{n_s} = q^л \\cdot m_s = 3,7546385 \\cdot 10^{-17} \\text{ Дж}",
+  "metadata": {
+    "db_key": "4844",
+    "src": "images/formula_full_296_11.webp",
+    "equation_number": "(18.7)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 7360
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4844\" data-src=\"images/formula_full_296_11.webp\">\n<div style=\"width: 100%;\">\n\n$$E_f' = \\frac{E_q}{n_s} = q^л \\cdot m_s = 3,7546385 \\cdot 10^{-17} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.7)\n</div>\n</div>"
+}

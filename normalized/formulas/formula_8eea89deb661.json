@@ -1,0 +1,15 @@
+{
+  "id": "8eea89deb661",
+  "type": "display",
+  "latex": "\\text{КПД} = \\left(1 - \\frac{\\text{э} \\cdot \\varphi_B \\cdot T_i \\cdot A_i^2}{8 I_0 (a_i - A_i) \\cdot b_i \\cdot \\cos \\alpha}\\right)",
+  "metadata": {
+    "db_key": "5779",
+    "src": "images/formula_full_356_18.webp",
+    "equation_number": "(20.39)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 28840
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5779\" data-src=\"images/formula_full_356_18.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{КПД} = \\left(1 - \\frac{\\text{э} \\cdot \\varphi_B \\cdot T_i \\cdot A_i^2}{8 I_0 (a_i - A_i) \\cdot b_i \\cdot \\cos \\alpha}\\right)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.39)\n</div>\n</div>"
+}

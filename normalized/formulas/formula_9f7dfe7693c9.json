@@ -1,0 +1,15 @@
+{
+  "id": "9f7dfe7693c9",
+  "type": "inline",
+  "latex": "r_{70} = a_{70} / 2",
+  "metadata": {
+    "db_key": "7372",
+    "src": "images/formula_inline_475_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 35806
+  },
+  "wrapper_html": "<span data-db-key=\"7372\" data-src=\"images/formula_inline_475_7_0.webp\"> $r_{70} = a_{70} / 2$ </span>"
+}

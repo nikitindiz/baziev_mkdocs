@@ -1,0 +1,15 @@
+{
+  "id": "33674d5ce8fd",
+  "type": "inline",
+  "latex": "(P = P_0, T = T_0)",
+  "metadata": {
+    "db_key": "1559",
+    "src": "images/formula_inline_109_6_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 30940
+  },
+  "wrapper_html": "<span data-db-key=\"1559\" data-src=\"images/formula_inline_109_6_12.webp\"> $(P = P_0, T = T_0)$ </span>"
+}

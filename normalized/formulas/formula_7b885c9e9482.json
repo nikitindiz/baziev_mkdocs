@@ -1,0 +1,15 @@
+{
+  "id": "7b885c9e9482",
+  "type": "display",
+  "latex": "v_{\\text{rot}, i} = \\frac{F_{\\text{rot}, i}}{m_{\\text{э}} \\cdot \\nu_{\\text{ед}}} = - \\frac{2 \\alpha \\cdot э^2}{m_{\\text{э}} \\cdot \\lambda_i \\cdot \\text{tg} \\, \\beta \\cdot \\nu_{\\text{ед}}}",
+  "metadata": {
+    "db_key": "2456",
+    "src": "images/formula_full_159_7_0.webp",
+    "equation_number": "(13.31)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 49585
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2456\" data-src=\"images/formula_full_159_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\text{rot}, i} = \\frac{F_{\\text{rot}, i}}{m_{\\text{э}} \\cdot \\nu_{\\text{ед}}} = - \\frac{2 \\alpha \\cdot э^2}{m_{\\text{э}} \\cdot \\lambda_i \\cdot \\text{tg} \\, \\beta \\cdot \\nu_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.31)\n</div>\n</div>"
+}

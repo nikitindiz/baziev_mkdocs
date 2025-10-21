@@ -1,0 +1,15 @@
+{
+  "id": "b2910bdb5fb6",
+  "type": "inline",
+  "latex": "\\Delta \\tau = 1,09575 \\cdot 10^4 \\quad c = 3,04375",
+  "metadata": {
+    "db_key": "8570",
+    "src": "images/formula_inline_574_3_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 8575
+  },
+  "wrapper_html": "<span data-db-key=\"8570\" data-src=\"images/formula_inline_574_3_23.webp\"> $\\Delta \\tau = 1,09575 \\cdot 10^4 \\quad c = 3,04375$ </span>"
+}

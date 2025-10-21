@@ -1,0 +1,15 @@
+{
+  "id": "021c6b795f98",
+  "type": "inline",
+  "latex": "8 \\cdot 10^{21} \\, \\text{Мк}",
+  "metadata": {
+    "db_key": "7269",
+    "src": "images/formula_inline_468_7_21.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 17960
+  },
+  "wrapper_html": "<span data-db-key=\"7269\" data-src=\"images/formula_inline_468_7_21.webp\"> $8 \\cdot 10^{21} \\, \\text{Мк}$ </span>"
+}

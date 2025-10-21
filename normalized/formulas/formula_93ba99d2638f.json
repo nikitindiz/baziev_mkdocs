@@ -1,0 +1,15 @@
+{
+  "id": "93ba99d2638f",
+  "type": "display",
+  "latex": "k_i = C_i \\cdot m_i, \\text{ Дж} \\cdot \\text{K}^{-1}",
+  "metadata": {
+    "db_key": "4089",
+    "src": "images/formula_full_252_8_0.webp",
+    "equation_number": "(15.21)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 34384
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4089\" data-src=\"images/formula_full_252_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_i = C_i \\cdot m_i, \\text{ Дж} \\cdot \\text{K}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.21)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d72d9bb07738",
+  "type": "inline",
+  "latex": "\\alpha = 1{,}0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}",
+  "metadata": {
+    "db_key": "3052",
+    "src": "images/formula_inline_195_2_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 195889
+  },
+  "wrapper_html": "<span data-db-key=\"3052\" data-src=\"images/formula_inline_195_2_3.webp\"> $\\alpha = 1{,}0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>"
+}

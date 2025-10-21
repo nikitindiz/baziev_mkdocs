@@ -1,0 +1,15 @@
+{
+  "id": "148ee641dc31",
+  "type": "display",
+  "latex": "\\delta = v_{\\nu_i} \\cdot a_i / 2 = 1,9017419 \\cdot 10^{14} \\, \\text{м}^2 \\cdot с^{-1} = \\text{const}",
+  "metadata": {
+    "db_key": "7279",
+    "src": "images/formula_full_470_9_0.webp",
+    "equation_number": "(26.25)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 28997
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7279\" data-src=\"images/formula_full_470_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta = v_{\\nu_i} \\cdot a_i / 2 = 1,9017419 \\cdot 10^{14} \\, \\text{м}^2 \\cdot с^{-1} = \\text{const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.25)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a9bad29ff24b",
+  "type": "inline",
+  "latex": "\\cdot 10^{-10} \\text{м}, \\alpha = \\beta = \\gamma = 90\\degree",
+  "metadata": {
+    "db_key": "4069",
+    "src": "images/formula_inline_251_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 24094
+  },
+  "wrapper_html": "<span data-db-key=\"4069\" data-src=\"images/formula_inline_251_1_0.webp\"> $\\cdot 10^{-10} \\text{м}, \\alpha = \\beta = \\gamma = 90\\degree$ </span>"
+}

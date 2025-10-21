@@ -1,0 +1,15 @@
+{
+  "id": "ac2e026a6bff",
+  "type": "display",
+  "latex": "\\alpha_{\\mu} = \\left(\\frac{a_1 - a_0}{a_0}\\right) / \\Delta t = \\left(\\frac{a_1}{a_0} - 1\\right)/(t_1 - t_0) = \\frac{1.125678 - 1}{100 \\text{ град}} = 1.25678 \\cdot 10^{-3} \\text{ град}^{-1}",
+  "metadata": {
+    "db_key": "4756",
+    "src": "images/formula_full_291_1_0.webp",
+    "equation_number": "(17.86)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 57248
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4756\" data-src=\"images/formula_full_291_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_{\\mu} = \\left(\\frac{a_1 - a_0}{a_0}\\right) / \\Delta t = \\left(\\frac{a_1}{a_0} - 1\\right)/(t_1 - t_0) = \\frac{1.125678 - 1}{100 \\text{ град}} = 1.25678 \\cdot 10^{-3} \\text{ град}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.86)\n</div>\n</div>"
+}

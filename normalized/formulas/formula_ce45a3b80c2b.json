@@ -1,0 +1,15 @@
+{
+  "id": "ce45a3b80c2b",
+  "type": "display",
+  "latex": "h = \\hbar \\cdot a = \\frac{m_э \\cdot \\mu \\cdot a}{2} = 6.626268 \\cdot 10^{-34} \\, \\frac{\\text{кг} \\cdot \\text{м}^2}{с} = \\text{Const}",
+  "metadata": {
+    "db_key": "156",
+    "src": "images/formula_full_11_8_0.webp",
+    "equation_number": "(2.25)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 19460
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"156\" data-src=\"images/formula_full_11_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$h = \\hbar \\cdot a = \\frac{m_э \\cdot \\mu \\cdot a}{2} = 6.626268 \\cdot 10^{-34} \\, \\frac{\\text{кг} \\cdot \\text{м}^2}{с} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.25)\n</div>\n</div>"
+}

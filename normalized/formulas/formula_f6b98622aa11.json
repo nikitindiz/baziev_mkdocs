@@ -1,0 +1,15 @@
+{
+  "id": "f6b98622aa11",
+  "type": "display",
+  "latex": "i_{ед} = i_1 + i_2 = 2i_i",
+  "metadata": {
+    "db_key": "121",
+    "src": "images/formula_full_9_2_0.webp",
+    "equation_number": "(2.14)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 11574
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"121\" data-src=\"images/formula_full_9_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{ед} = i_1 + i_2 = 2i_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.14)\n</div>\n</div>"
+}

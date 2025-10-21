@@ -1,0 +1,15 @@
+{
+  "id": "a36bf580c5f6",
+  "type": "inline",
+  "latex": "\\beta = 4{,}6772342 \\cdot 10^{22} \\;\\text{Дж} \\cdot \\text{Кл}^{-2}",
+  "metadata": {
+    "db_key": "1437",
+    "src": "images/formula_inline_100_7_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 46218
+  },
+  "wrapper_html": "<span data-db-key=\"1437\" data-src=\"images/formula_inline_100_7_1.webp\"> $\\beta = 4{,}6772342 \\cdot 10^{22} \\;\\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>"
+}

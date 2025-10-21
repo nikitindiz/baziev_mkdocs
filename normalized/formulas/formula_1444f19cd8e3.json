@@ -1,0 +1,15 @@
+{
+  "id": "1444f19cd8e3",
+  "type": "inline",
+  "latex": "\\Delta m = K_1 \\cdot m_э = m_e",
+  "metadata": {
+    "db_key": "6855",
+    "src": "images/formula_inline_433_2_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 90349
+  },
+  "wrapper_html": "<span data-db-key=\"6855\" data-src=\"images/formula_inline_433_2_18.webp\"> $\\Delta m = K_1 \\cdot m_э = m_e$ </span>"
+}

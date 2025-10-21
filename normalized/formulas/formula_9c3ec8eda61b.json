@@ -1,0 +1,15 @@
+{
+  "id": "9c3ec8eda61b",
+  "type": "inline",
+  "latex": "4 \\cdot 10^{17}",
+  "metadata": {
+    "db_key": "3688",
+    "src": "images/formula_inline_230_0_63.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 69669
+  },
+  "wrapper_html": "<span data-db-key=\"3688\" data-src=\"images/formula_inline_230_0_63.webp\"> $4 \\cdot 10^{17}$ </span>"
+}

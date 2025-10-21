@@ -1,0 +1,15 @@
+{
+  "id": "61310dd9d33e",
+  "type": "inline",
+  "latex": "n_V = V/V_{ед} = 1,1427389",
+  "metadata": {
+    "db_key": "6460",
+    "src": "images/formula_inline_400_2_43.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 36313
+  },
+  "wrapper_html": "<span data-db-key=\"6460\" data-src=\"images/formula_inline_400_2_43.webp\"> $n_V = V/V_{ед} = 1,1427389$ </span>"
+}

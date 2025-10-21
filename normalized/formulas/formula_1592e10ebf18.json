@@ -1,0 +1,15 @@
+{
+  "id": "1592e10ebf18",
+  "type": "display",
+  "latex": "V_i = n_\\mu \\cdot \\frac{m_э v_э \\cdot l \\cdot \\nu_{ед}}{э}, В",
+  "metadata": {
+    "db_key": "8980",
+    "src": "images/formula_full_603_10_0.webp",
+    "equation_number": "(41.12)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 21234
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8980\" data-src=\"images/formula_full_603_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_i = n_\\mu \\cdot \\frac{m_э v_э \\cdot l \\cdot \\nu_{ед}}{э}, В$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.12)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "268166143712",
+  "type": "display",
+  "latex": "\\tau_{э i} = \\frac{n_{\\hbar}(э)}{f_{ei}} = \\frac{2 \\lambda_{i} \\mathscr{P}}{\\hbar \\cdot \\nu_{ед} \\cdot v_{э}} = 1,0679525 \\cdot 10^{-6} \\text{ с}",
+  "metadata": {
+    "db_key": "3858",
+    "src": "images/formula_full_239_6.webp",
+    "equation_number": "(14.128)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 141716
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3858\" data-src=\"images/formula_full_239_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{э i} = \\frac{n_{\\hbar}(э)}{f_{ei}} = \\frac{2 \\lambda_{i} \\mathscr{P}}{\\hbar \\cdot \\nu_{ед} \\cdot v_{э}} = 1,0679525 \\cdot 10^{-6} \\text{ с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.128)\n</div>\n</div>"
+}

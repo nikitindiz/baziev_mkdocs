@@ -1,0 +1,15 @@
+{
+  "id": "c9c25ab2f168",
+  "type": "display",
+  "latex": "hN\\beta_0 (f_1 \\gamma_1 - f_2 \\gamma_2) + hN \\left( \\frac{f_1}{t_1} - \\frac{f_2}{t_2} \\right) = 0",
+  "metadata": {
+    "db_key": "518",
+    "src": "images/formula_full_38_12.webp",
+    "equation_number": "(6.8)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 5711
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"518\" data-src=\"images/formula_full_38_12.webp\">\n<div style=\"width: 100%;\">\n\n$$hN\\beta_0 (f_1 \\gamma_1 - f_2 \\gamma_2) + hN \\left( \\frac{f_1}{t_1} - \\frac{f_2}{t_2} \\right) = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.8)\n</div>\n</div>"
+}

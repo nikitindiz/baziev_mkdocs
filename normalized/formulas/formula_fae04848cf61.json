@@ -1,0 +1,15 @@
+{
+  "id": "fae04848cf61",
+  "type": "display",
+  "latex": "I_{\\mu \\oplus} = 5,9 \\cdot 10^{4} A",
+  "metadata": {
+    "db_key": "6221",
+    "src": "images/formula_full_381_7_0.webp",
+    "equation_number": "(20.161)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 141932
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6221\" data-src=\"images/formula_full_381_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\mu \\oplus} = 5,9 \\cdot 10^{4} A$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.161)\n</div>\n</div>"
+}

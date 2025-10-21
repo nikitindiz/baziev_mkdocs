@@ -1,0 +1,15 @@
+{
+  "id": "17a2ef873d93",
+  "type": "inline",
+  "latex": "\\frac{\\rho_0}{\\rho_c} = 0,04",
+  "metadata": {
+    "db_key": "8490",
+    "src": "images/formula_inline_569_6_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
+    "position": 4021
+  },
+  "wrapper_html": "<span data-db-key=\"8490\" data-src=\"images/formula_inline_569_6_9.webp\"> $\\frac{\\rho_0}{\\rho_c} = 0,04$ </span>"
+}

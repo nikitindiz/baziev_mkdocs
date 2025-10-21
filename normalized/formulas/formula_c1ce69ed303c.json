@@ -1,0 +1,15 @@
+{
+  "id": "c1ce69ed303c",
+  "type": "display",
+  "latex": "U(\\alpha)_i = \\frac{\\mu}{r_i \\cdot \\sin \\alpha} = \\frac{2 \\mu}{\\lambda  \\sin \\alpha}",
+  "metadata": {
+    "db_key": "2589",
+    "src": "images/formula_full_165_3.webp",
+    "equation_number": "(13.49)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 88425
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2589\" data-src=\"images/formula_full_165_3.webp\">\n<div style=\"width: 100%;\">\n\n$$U(\\alpha)_i = \\frac{\\mu}{r_i \\cdot \\sin \\alpha} = \\frac{2 \\mu}{\\lambda  \\sin \\alpha}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.49)\n</div>\n</div>"
+}

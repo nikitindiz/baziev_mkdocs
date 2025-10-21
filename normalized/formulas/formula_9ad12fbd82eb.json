@@ -1,0 +1,15 @@
+{
+  "id": "9ad12fbd82eb",
+  "type": "display",
+  "latex": "\\mu = u_1 r_1 = u_2 r_2 = \\dots u_n r_n = \\text{Const}",
+  "metadata": {
+    "db_key": "2386",
+    "src": "images/formula_full_155_5_0.webp",
+    "equation_number": "(13.7)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 33610
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2386\" data-src=\"images/formula_full_155_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu = u_1 r_1 = u_2 r_2 = \\dots u_n r_n = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.7)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dc56568faf74",
+  "type": "display",
+  "latex": "v_1 = 2A_1 \\cdot f_1 = 5,744605 \\cdot 10^3 \\text{ м} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "6784",
+    "src": "images/formula_full_427_21.webp",
+    "equation_number": "(23.65)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 68755
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6784\" data-src=\"images/formula_full_427_21.webp\">\n<div style=\"width: 100%;\">\n\n$$v_1 = 2A_1 \\cdot f_1 = 5,744605 \\cdot 10^3 \\text{ м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.65)\n</div>\n</div>"
+}

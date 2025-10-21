@@ -1,0 +1,15 @@
+{
+  "id": "4dd24bb45a2a",
+  "type": "display",
+  "latex": "V_{H_2O} = M_{H_2O} / \\rho_{H_2O} = 0,9143861 \\, \\text{м}^3",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 31982
+  },
+  "wrapper_html": null
+}

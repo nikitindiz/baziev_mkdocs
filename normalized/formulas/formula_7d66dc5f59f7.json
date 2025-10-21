@@ -1,0 +1,15 @@
+{
+  "id": "7d66dc5f59f7",
+  "type": "inline",
+  "latex": "\\nu = 1 \\cdot 10^{5} \\, с^{-1}",
+  "metadata": {
+    "db_key": "2838",
+    "src": "images/formula_inline_180_0_33.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 138645
+  },
+  "wrapper_html": "<span data-db-key=\"2838\" data-src=\"images/formula_inline_180_0_33.webp\"> $\\nu = 1 \\cdot 10^{5} \\, с^{-1}$ </span>"
+}

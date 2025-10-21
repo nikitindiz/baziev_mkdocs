@@ -1,0 +1,15 @@
+{
+  "id": "4c0b801ef629",
+  "type": "inline",
+  "latex": "K = 5,4608428 \\cdot 10^{-13} \\, \\text{Дж} \\cdot n^{-1}",
+  "metadata": {
+    "db_key": "2633",
+    "src": "images/formula_inline_167_9_159.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 86156
+  },
+  "wrapper_html": "<span data-db-key=\"2633\" data-src=\"images/formula_inline_167_9_159.webp\"> $K = 5,4608428 \\cdot 10^{-13} \\, \\text{Дж} \\cdot n^{-1}$ </span>"
+}

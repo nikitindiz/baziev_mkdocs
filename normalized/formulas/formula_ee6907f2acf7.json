@@ -1,0 +1,15 @@
+{
+  "id": "ee6907f2acf7",
+  "type": "display",
+  "latex": "f_э = \\frac{P_\\text{г} \\cdot V_\\text{gэ}}{\\hbar} = \\frac{4,3590128 \\cdot 10^{-26}}{44,1106086 \\cdot 10^{-34}} = 1,06043 \\cdot 10^8 \\, с^{-1}",
+  "metadata": {
+    "db_key": "2960",
+    "src": "images/formula_full_188_7.webp",
+    "equation_number": "(13.131)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 197301
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2960\" data-src=\"images/formula_full_188_7.webp\">\n<div style=\"width: 100%;\">\n\n$$f_э = \\frac{P_\\text{г} \\cdot V_\\text{gэ}}{\\hbar} = \\frac{4,3590128 \\cdot 10^{-26}}{44,1106086 \\cdot 10^{-34}} = 1,06043 \\cdot 10^8 \\, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.131)\n</div>\n</div>"
+}

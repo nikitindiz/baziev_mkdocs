@@ -1,0 +1,15 @@
+{
+  "id": "0dac0610a918",
+  "type": "display",
+  "latex": "P_1 = \\frac{hf_1}{V_{g0}} = \\frac{h(f_0 + \\Delta f)}{V_{g0}} = \\frac{h \\cdot f_0}{V_{g0}} \\cdot \\frac{f_1}{f_0} = \\frac{k \\cdot (T_0 + t_{ед})}{V_{g0}}",
+  "metadata": {
+    "db_key": "863",
+    "src": "images/formula_full_58_3_0.webp",
+    "equation_number": "(6.78)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 84135
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"863\" data-src=\"images/formula_full_58_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_1 = \\frac{hf_1}{V_{g0}} = \\frac{h(f_0 + \\Delta f)}{V_{g0}} = \\frac{h \\cdot f_0}{V_{g0}} \\cdot \\frac{f_1}{f_0} = \\frac{k \\cdot (T_0 + t_{ед})}{V_{g0}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.78)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "139e48d913ef",
+  "type": "display",
+  "latex": "\\operatorname{tg} \\beta=\\frac{B D_{1}}{A D_{1}}=\\frac{h_{к}}{r_{V}}=0,530595",
+  "metadata": {
+    "db_key": "8074",
+    "src": "images/formula_full_541_11.webp",
+    "equation_number": "(34.41)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 36483
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8074\" data-src=\"images/formula_full_541_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\operatorname{tg} \\beta=\\frac{B D_{1}}{A D_{1}}=\\frac{h_{к}}{r_{V}}=0,530595$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.41)\n</div>\n</div>"
+}

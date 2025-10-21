@@ -1,0 +1,15 @@
+{
+  "id": "88c503a483e6",
+  "type": "display",
+  "latex": "l_г = \\frac{2 \\text{ кпс}}{k_г} = \\frac{6,1713552 \\cdot 10^{19}}{k_г} = 6,2164512 \\cdot 10^{17} \\text{ м } =",
+  "metadata": {
+    "db_key": "8467",
+    "src": "images/formula_full_568_11.webp",
+    "equation_number": "(37.12)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
+    "position": 5134
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8467\" data-src=\"images/formula_full_568_11.webp\">\n<div style=\"width: 100%;\">\n\n$$l_г = \\frac{2 \\text{ кпс}}{k_г} = \\frac{6,1713552 \\cdot 10^{19}}{k_г} = 6,2164512 \\cdot 10^{17} \\text{ м } =$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.12)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "416a098cc456",
+  "type": "inline",
+  "latex": "\\varphi = \\frac{m_n \\cdot v_c^2}{n_э \\cdot э} = \\frac{m_n \\cdot v_c^2}{n_e \\cdot e}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_приложение-2-фундаментальные-константы-единой-теории-физики/index.md",
+    "position": 10391
+  },
+  "wrapper_html": null
+}

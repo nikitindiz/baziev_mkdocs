@@ -1,0 +1,15 @@
+{
+  "id": "caa7abc87f7c",
+  "type": "display",
+  "latex": "\\Delta V_{э\\oplus} = \\Delta I_{э\\oplus} \\cdot R_0 = 1,6684146 \\cdot 10^{-6} \\, \\text{В}",
+  "metadata": {
+    "db_key": "6232",
+    "src": "images/formula_full_382_14_0.webp",
+    "equation_number": "(20.171)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 146912
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6232\" data-src=\"images/formula_full_382_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{э\\oplus} = \\Delta I_{э\\oplus} \\cdot R_0 = 1,6684146 \\cdot 10^{-6} \\, \\text{В}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.171)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "423cccc5d148",
+  "type": "inline",
+  "latex": "R_{\\odot} = 6{,}7308401 \\cdot 10^8 \\, \\text{ м}",
+  "metadata": {
+    "db_key": "7193",
+    "src": "images/formula_inline_461_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 4064
+  },
+  "wrapper_html": "<span data-db-key=\"7193\" data-src=\"images/formula_inline_461_3_0.webp\"> $R_{\\odot} = 6{,}7308401 \\cdot 10^8 \\, \\text{ м}$ </span>"
+}

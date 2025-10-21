@@ -1,0 +1,15 @@
+{
+  "id": "980e67b7a6d6",
+  "type": "display",
+  "latex": "E_{s0}^ж = E_h + E_\\omega + E(0) + E_t, \\text{ Дж}",
+  "metadata": {
+    "db_key": "4685",
+    "src": "images/formula_full_287_7_0.webp",
+    "equation_number": "(17.60)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 40579
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4685\" data-src=\"images/formula_full_287_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0}^ж = E_h + E_\\omega + E(0) + E_t, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.60)\n</div>\n</div>"
+}

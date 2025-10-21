@@ -1,0 +1,15 @@
+{
+  "id": "9532b6e92fe5",
+  "type": "inline",
+  "latex": "\\sin \\alpha_л",
+  "metadata": {
+    "db_key": "4887",
+    "src": "images/formula_inline_298_12_8.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 10306
+  },
+  "wrapper_html": "<span data-db-key=\"4887\" data-src=\"images/formula_inline_298_12_8.webp\"> $\\sin \\alpha_л$ </span>"
+}

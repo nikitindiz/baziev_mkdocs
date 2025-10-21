@@ -1,0 +1,15 @@
+{
+  "id": "b9f5a10eedd4",
+  "type": "inline",
+  "latex": "W_1 = V_1 \\cdot I_1 = 1100 \\text{ Вт}",
+  "metadata": {
+    "db_key": "5549",
+    "src": "images/formula_inline_341_6_6.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 59981
+  },
+  "wrapper_html": "<span data-db-key=\"5549\" data-src=\"images/formula_inline_341_6_6.webp\"> $W_1 = V_1 \\cdot I_1 = 1100 \\text{ Вт}$ </span>"
+}

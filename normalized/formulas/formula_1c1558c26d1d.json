@@ -1,0 +1,15 @@
+{
+  "id": "1c1558c26d1d",
+  "type": "display",
+  "latex": "A_0^п = \\sqrt[3]{\\frac{6 \\cdot V_0}{\\pi}} = \\sqrt[3]{31,971494 \\cdot 10^{-27}} = 3,1738592 \\cdot 10^{-9} м",
+  "metadata": {
+    "db_key": "4506",
+    "src": "images/formula_full_276_6.webp",
+    "equation_number": "(16.68)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 64512
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4506\" data-src=\"images/formula_full_276_6.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0^п = \\sqrt[3]{\\frac{6 \\cdot V_0}{\\pi}} = \\sqrt[3]{31,971494 \\cdot 10^{-27}} = 3,1738592 \\cdot 10^{-9} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.68)\n</div>\n</div>"
+}

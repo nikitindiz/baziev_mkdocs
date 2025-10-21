@@ -1,0 +1,15 @@
+{
+  "id": "0a598c61d6f6",
+  "type": "display",
+  "latex": "a_{T1}^{п} = \\sqrt[3]{V_{T1}^{п}} = \\sqrt[3]{99,322862 \\cdot 10^{-27}} = 4,6310885 \\cdot 10^{-9} \\text{м}",
+  "metadata": {
+    "db_key": "5098",
+    "src": "images/formula_full_313_16.webp",
+    "equation_number": "(18.141)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 77599
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5098\" data-src=\"images/formula_full_313_16.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{T1}^{п} = \\sqrt[3]{V_{T1}^{п}} = \\sqrt[3]{99,322862 \\cdot 10^{-27}} = 4,6310885 \\cdot 10^{-9} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.141)\n</div>\n</div>"
+}

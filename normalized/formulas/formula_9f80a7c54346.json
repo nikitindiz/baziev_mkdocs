@@ -1,0 +1,15 @@
+{
+  "id": "9f80a7c54346",
+  "type": "display",
+  "latex": "\\Delta V_n = \\mu_k / \\rho_n = 2,0474429 \\cdot 10^{-1} = 0,2047443 \\, \\text{м}^3 \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "7782",
+    "src": "images/formula_full_520_16_0.webp",
+    "equation_number": "(32.8)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 6635
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7782\" data-src=\"images/formula_full_520_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_n = \\mu_k / \\rho_n = 2,0474429 \\cdot 10^{-1} = 0,2047443 \\, \\text{м}^3 \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.8)\n</div>\n</div>"
+}

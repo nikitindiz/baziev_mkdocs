@@ -1,0 +1,15 @@
+{
+  "id": "0d2985891598",
+  "type": "inline",
+  "latex": "C_i = f(T)",
+  "metadata": {
+    "db_key": "5876",
+    "src": "images/formula_inline_361_1_120.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 32011
+  },
+  "wrapper_html": "<span data-db-key=\"5876\" data-src=\"images/formula_inline_361_1_120.webp\"> $C_i = f(T)$ </span>"
+}

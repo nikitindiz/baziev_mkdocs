@@ -1,0 +1,15 @@
+{
+  "id": "bb9d0f619a91",
+  "type": "display",
+  "latex": "u_{1}^{п} = \\frac{\\varepsilon_{t1}^{п}}{m^{п} \\cdot v_{1}^{п}} = \\frac{1,8739584 \\cdot 10^{-19}}{2,7391698 \\cdot 10^{-21}} = 68,413371 \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "5101",
+    "src": "images/formula_full_313_20.webp",
+    "equation_number": "(18.143)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 78340
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5101\" data-src=\"images/formula_full_313_20.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{1}^{п} = \\frac{\\varepsilon_{t1}^{п}}{m^{п} \\cdot v_{1}^{п}} = \\frac{1,8739584 \\cdot 10^{-19}}{2,7391698 \\cdot 10^{-21}} = 68,413371 \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.143)\n</div>\n</div>"
+}

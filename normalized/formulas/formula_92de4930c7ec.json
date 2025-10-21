@@ -1,0 +1,15 @@
+{
+  "id": "92de4930c7ec",
+  "type": "inline",
+  "latex": "235, \\Delta m = 3 \\cdot 10^{-2} кг/сутки",
+  "metadata": {
+    "db_key": "1329",
+    "src": "images/formula_inline_92_10_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 27128
+  },
+  "wrapper_html": "<span data-db-key=\"1329\" data-src=\"images/formula_inline_92_10_3.webp\"> $235, \\Delta m = 3 \\cdot 10^{-2} кг/сутки$ </span>"
+}

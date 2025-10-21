@@ -1,0 +1,15 @@
+{
+  "id": "8dbffe5c5817",
+  "type": "inline",
+  "latex": "\\Delta q = -2,27 \\cdot 10^{-20} \\text{ Кл}",
+  "metadata": {
+    "db_key": "7634",
+    "src": "images/formula_inline_507_2_16.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 9879
+  },
+  "wrapper_html": "<span data-db-key=\"7634\" data-src=\"images/formula_inline_507_2_16.webp\"> $\\Delta q = -2,27 \\cdot 10^{-20} \\text{ Кл}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "aed0f5c9a718",
+  "type": "inline",
+  "latex": "\\tau_e",
+  "metadata": {
+    "db_key": "6523",
+    "src": "images/formula_inline_403_7_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 44988
+  },
+  "wrapper_html": "<span data-db-key=\"6523\" data-src=\"images/formula_inline_403_7_11.webp\"> $\\tau_e$ </span>"
+}

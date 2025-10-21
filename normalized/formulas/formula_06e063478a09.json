@@ -1,0 +1,15 @@
+{
+  "id": "06e063478a09",
+  "type": "display",
+  "latex": "\\tau_{2i} = \\frac{l_i}{u_i} = \\frac{\\lambda_i \\cdot \\text{tg} \\, \\beta}{2u_i} = \\frac{\\lambda_i \\cdot \\text{tg} \\, \\beta}{4 \\sqrt{\\mu \\cdot \\nu_i}}",
+  "metadata": {
+    "db_key": "2427",
+    "src": "images/formula_full_158_11_0.webp",
+    "equation_number": "(13.28)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 47003
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2427\" data-src=\"images/formula_full_158_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{2i} = \\frac{l_i}{u_i} = \\frac{\\lambda_i \\cdot \\text{tg} \\, \\beta}{2u_i} = \\frac{\\lambda_i \\cdot \\text{tg} \\, \\beta}{4 \\sqrt{\\mu \\cdot \\nu_i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.28)\n</div>\n</div>"
+}

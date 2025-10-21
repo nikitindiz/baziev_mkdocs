@@ -1,0 +1,15 @@
+{
+  "id": "1bec4c9cf788",
+  "type": "display",
+  "latex": "v_i \\mu_i = c_i T_i = \\frac{k_i T_i}{m_i}",
+  "metadata": {
+    "db_key": "4102",
+    "src": "images/formula_full_253_15.webp",
+    "equation_number": "(15.26)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 40640
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4102\" data-src=\"images/formula_full_253_15.webp\">\n<div style=\"width: 100%;\">\n\n$$v_i \\mu_i = c_i T_i = \\frac{k_i T_i}{m_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.26)\n</div>\n</div>"
+}

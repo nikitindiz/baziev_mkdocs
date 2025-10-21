@@ -1,0 +1,15 @@
+{
+  "id": "b6b29fafd261",
+  "type": "display",
+  "latex": "(\\gamma^п)' = \\frac{(\\rho_0)' \\cdot (C_v^п) \\cdot T_0}{P_0^п}",
+  "metadata": {
+    "db_key": "4327",
+    "src": "images/formula_full_266_7_0.webp",
+    "equation_number": "(16.9)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 15056
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4327\" data-src=\"images/formula_full_266_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$(\\gamma^п)' = \\frac{(\\rho_0)' \\cdot (C_v^п) \\cdot T_0}{P_0^п}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.9)\n</div>\n</div>"
+}

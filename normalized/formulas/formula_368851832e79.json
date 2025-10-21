@@ -1,0 +1,15 @@
+{
+  "id": "368851832e79",
+  "type": "display",
+  "latex": "n_{si} = 1 / \\gamma_i",
+  "metadata": {
+    "db_key": "1788",
+    "src": "images/formula_full_122_5.webp",
+    "equation_number": "(11.18)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 17285
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1788\" data-src=\"images/formula_full_122_5.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{si} = 1 / \\gamma_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.18)\n</div>\n</div>"
+}

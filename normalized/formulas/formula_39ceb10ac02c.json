@@ -1,0 +1,15 @@
+{
+  "id": "39ceb10ac02c",
+  "type": "inline",
+  "latex": "\\Delta \\eta = 0,109\\%",
+  "metadata": {
+    "db_key": "5871",
+    "src": "images/formula_inline_360_7_38.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 29282
+  },
+  "wrapper_html": "<span data-db-key=\"5871\" data-src=\"images/formula_inline_360_7_38.webp\"> $\\Delta \\eta = 0,109\\%$ </span>"
+}

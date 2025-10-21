@@ -1,0 +1,15 @@
+{
+  "id": "7452dec28cb9",
+  "type": "inline",
+  "latex": "\\Delta V_{ge}",
+  "metadata": {
+    "db_key": "3866",
+    "src": "images/formula_inline_239_1_54.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 107234
+  },
+  "wrapper_html": "<span data-db-key=\"3866\" data-src=\"images/formula_inline_239_1_54.webp\"> $\\Delta V_{ge}$ </span>"
+}

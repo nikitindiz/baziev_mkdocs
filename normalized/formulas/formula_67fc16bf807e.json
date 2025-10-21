@@ -1,0 +1,15 @@
+{
+  "id": "67fc16bf807e",
+  "type": "inline",
+  "latex": "\\rho_{H_2O} = 909,9 \\, \\text{кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "6438",
+    "src": "images/formula_inline_399_13_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 35157
+  },
+  "wrapper_html": "<span data-db-key=\"6438\" data-src=\"images/formula_inline_399_13_0.webp\"> $\\rho_{H_2O} = 909,9 \\, \\text{кг} \\cdot \\text{м}^{-3}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5d43dd0771f3",
+  "type": "inline",
+  "latex": "v_2 = \\sqrt{2I_0/R_0} = 2,7239406 \\cdot 10^7 \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "8149",
+    "src": "images/formula_inline_544_6_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 40763
+  },
+  "wrapper_html": "<span data-db-key=\"8149\" data-src=\"images/formula_inline_544_6_0.webp\"> $v_2 = \\sqrt{2I_0/R_0} = 2,7239406 \\cdot 10^7 \\text{ м} \\cdot \\text{с}^{-1}$ </span>"
+}

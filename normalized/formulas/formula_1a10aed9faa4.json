@@ -1,0 +1,15 @@
+{
+  "id": "1a10aed9faa4",
+  "type": "inline",
+  "latex": "\\text{He}",
+  "metadata": {
+    "db_key": "363",
+    "src": "images/formula_inline_26_1_48.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 13195
+  },
+  "wrapper_html": "<span data-db-key=\"363\" data-src=\"images/formula_inline_26_1_48.webp\"> $\\text{He}$ </span>"
+}

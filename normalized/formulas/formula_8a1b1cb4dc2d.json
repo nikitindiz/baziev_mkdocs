@@ -1,0 +1,15 @@
+{
+  "id": "8a1b1cb4dc2d",
+  "type": "inline",
+  "latex": "\\delta_i = \\lambda_{\\text{экс}} / \\lambda_{\\text{теор}} = 1,4040249",
+  "metadata": {
+    "db_key": "752",
+    "src": "images/formula_inline_51_4_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 46598
+  },
+  "wrapper_html": "<span data-db-key=\"752\" data-src=\"images/formula_inline_51_4_12.webp\"> $\\delta_i = \\lambda_{\\text{экс}} / \\lambda_{\\text{теор}} = 1,4040249$ </span>"
+}

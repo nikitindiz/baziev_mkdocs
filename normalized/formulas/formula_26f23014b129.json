@@ -1,0 +1,15 @@
+{
+  "id": "26f23014b129",
+  "type": "inline",
+  "latex": "A_{1} = 1,9212246 \\cdot 10^{-10} \\text{м}",
+  "metadata": {
+    "db_key": "5887",
+    "src": "images/formula_inline_361_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 33312
+  },
+  "wrapper_html": "<span data-db-key=\"5887\" data-src=\"images/formula_inline_361_7_0.webp\"> $A_{1} = 1,9212246 \\cdot 10^{-10} \\text{м}$ </span>"
+}

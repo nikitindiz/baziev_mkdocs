@@ -1,0 +1,15 @@
+{
+  "id": "a44deac7542a",
+  "type": "display",
+  "latex": "\\Delta E_K = \\alpha \\cdot q_{A1_2O_3}^2 = 9,8743281 \\cdot 10^{-19}\\,Дж",
+  "metadata": {
+    "db_key": "7072",
+    "src": "images/formula_full_450_15_0.webp",
+    "equation_number": "(23.204)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 209657
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7072\" data-src=\"images/formula_full_450_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_K = \\alpha \\cdot q_{A1_2O_3}^2 = 9,8743281 \\cdot 10^{-19}\\,Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.204)\n</div>\n</div>"
+}

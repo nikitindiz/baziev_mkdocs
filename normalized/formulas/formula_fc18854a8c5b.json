@@ -1,0 +1,15 @@
+{
+  "id": "fc18854a8c5b",
+  "type": "inline",
+  "latex": "d_{э} = 1,106 \\cdot 10^{-16} \\text{м}",
+  "metadata": {
+    "db_key": "2706",
+    "src": "images/formula_inline_171_1_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 99230
+  },
+  "wrapper_html": "<span data-db-key=\"2706\" data-src=\"images/formula_inline_171_1_18.webp\"> $d_{э} = 1,106 \\cdot 10^{-16} \\text{м}$ </span>"
+}

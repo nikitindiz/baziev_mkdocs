@@ -1,0 +1,15 @@
+{
+  "id": "37a52488fc85",
+  "type": "display",
+  "latex": "a_☾ = \\sqrt[3]{I_\\oplus \\cdot T_☾^2 / 16E^2} (e_☾) = 3,8336251 \\cdot 10^8 \\text{м}",
+  "metadata": {
+    "db_key": "2233",
+    "src": "images/formula_full_146_4_0.webp",
+    "equation_number": "(12.53)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 44877
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2233\" data-src=\"images/formula_full_146_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_☾ = \\sqrt[3]{I_\\oplus \\cdot T_☾^2 / 16E^2} (e_☾) = 3,8336251 \\cdot 10^8 \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.53)\n</div>\n</div>"
+}

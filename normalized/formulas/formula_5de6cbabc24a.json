@@ -1,0 +1,15 @@
+{
+  "id": "5de6cbabc24a",
+  "type": "inline",
+  "latex": "V_{s0} = n^ж \\cdot V_0",
+  "metadata": {
+    "db_key": "4626",
+    "src": "images/formula_inline_283_8_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 15394
+  },
+  "wrapper_html": "<span data-db-key=\"4626\" data-src=\"images/formula_inline_283_8_11.webp\"> $V_{s0} = n^ж \\cdot V_0$ </span>"
+}

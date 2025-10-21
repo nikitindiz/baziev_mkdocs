@@ -1,0 +1,15 @@
+{
+  "id": "29218d7fc418",
+  "type": "inline",
+  "latex": "n_f(Г) = 4,5882 \\cdot 10^{13} \\, \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "2961",
+    "src": "images/formula_inline_188_0_30.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 161622
+  },
+  "wrapper_html": "<span data-db-key=\"2961\" data-src=\"images/formula_inline_188_0_30.webp\"> $n_f(Г) = 4,5882 \\cdot 10^{13} \\, \\text{м}^{-3}$ </span>"
+}

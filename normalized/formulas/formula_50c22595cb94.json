@@ -1,0 +1,15 @@
+{
+  "id": "50c22595cb94",
+  "type": "inline",
+  "latex": "\\frac{\\lambda_i^2}{a_i^2}",
+  "metadata": {
+    "db_key": "3306",
+    "src": "images/formula_inline_207_9_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 288213
+  },
+  "wrapper_html": "<span data-db-key=\"3306\" data-src=\"images/formula_inline_207_9_1.webp\"> $\\frac{\\lambda_i^2}{a_i^2}$ </span>"
+}

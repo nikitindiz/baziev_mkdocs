@@ -1,0 +1,15 @@
+{
+  "id": "70c06b651436",
+  "type": "display",
+  "latex": "N_s = N_s(H_2SO_4) + N_s(H_2O) = 9.0593651 \\cdot 10^{24}",
+  "metadata": {
+    "db_key": "6457",
+    "src": "images/formula_full_400_9_0.webp",
+    "equation_number": "(21.1.44)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 45814
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6457\" data-src=\"images/formula_full_400_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_s = N_s(H_2SO_4) + N_s(H_2O) = 9.0593651 \\cdot 10^{24}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.44)\n</div>\n</div>"
+}

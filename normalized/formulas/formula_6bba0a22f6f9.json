@@ -1,0 +1,15 @@
+{
+  "id": "6bba0a22f6f9",
+  "type": "display",
+  "latex": "W = \\frac{I_\\lambda \\cdot V_\\lambda \\cdot \\tau_{ед}}{\\tau} = \\frac{2 \\hspace{0.1cm} Дж}{1,5 \\cdot 10^{-8} \\hspace{0.1cm} с} = 1,3333333 \\cdot 10^{8} \\hspace{0.1cm} Вт",
+  "metadata": {
+    "db_key": "6307",
+    "src": "images/formula_full_388_7.webp",
+    "equation_number": "(21.30)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 16178
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6307\" data-src=\"images/formula_full_388_7.webp\">\n<div style=\"width: 100%;\">\n\n$$W = \\frac{I_\\lambda \\cdot V_\\lambda \\cdot \\tau_{ед}}{\\tau} = \\frac{2 \\hspace{0.1cm} Дж}{1,5 \\cdot 10^{-8} \\hspace{0.1cm} с} = 1,3333333 \\cdot 10^{8} \\hspace{0.1cm} Вт$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.30)\n</div>\n</div>"
+}

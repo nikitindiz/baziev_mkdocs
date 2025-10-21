@@ -1,0 +1,15 @@
+{
+  "id": "f8c022a86fe4",
+  "type": "display",
+  "latex": "K_{\\text{э}} = \\frac{m_n (A - A_0) + m_e}{m_{\\text{э}}} = \\frac{-307.20545 \\cdot 10^{-31} + m_e}{m_{\\text{э}}} = -4.3491471 \\cdot 10^6",
+  "metadata": {
+    "db_key": "5469",
+    "src": "images/formula_full_337_4_0.webp",
+    "equation_number": "(19.60)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 63178
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5469\" data-src=\"images/formula_full_337_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{\\text{э}} = \\frac{m_n (A - A_0) + m_e}{m_{\\text{э}}} = \\frac{-307.20545 \\cdot 10^{-31} + m_e}{m_{\\text{э}}} = -4.3491471 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.60)\n</div>\n</div>"
+}

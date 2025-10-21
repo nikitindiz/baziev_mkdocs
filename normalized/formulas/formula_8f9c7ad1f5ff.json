@@ -1,0 +1,15 @@
+{
+  "id": "8f9c7ad1f5ff",
+  "type": "display",
+  "latex": "T_{\\text{max}} = 6 \\cdot 10^{7}\\,К",
+  "metadata": {
+    "db_key": "470",
+    "src": "images/formula_full_34_11_0.webp",
+    "equation_number": "(5.32)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 19895
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"470\" data-src=\"images/formula_full_34_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_{\\text{max}} = 6 \\cdot 10^{7}\\,К$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.32)\n</div>\n</div>"
+}

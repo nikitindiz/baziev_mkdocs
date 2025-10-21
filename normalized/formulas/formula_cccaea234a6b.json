@@ -1,0 +1,15 @@
+{
+  "id": "cccaea234a6b",
+  "type": "display",
+  "latex": "\\Delta \\sigma_{☿} = \\frac{\\Delta F_{r☿}}{a_{☿}} = \\frac{-\\Delta F_{t☿}}{a_{☿}} = -2,386 \\ 5689 \\cdot 10^{5} \\ \\text{Н} \\cdot \\text{м}^{-1}",
+  "metadata": {
+    "db_key": "8817",
+    "src": "images/formula_full_591_19.webp",
+    "equation_number": "(39.23)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 26886
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8817\" data-src=\"images/formula_full_591_19.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\sigma_{☿} = \\frac{\\Delta F_{r☿}}{a_{☿}} = \\frac{-\\Delta F_{t☿}}{a_{☿}} = -2,386 \\ 5689 \\cdot 10^{5} \\ \\text{Н} \\cdot \\text{м}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.23)\n</div>\n</div>"
+}

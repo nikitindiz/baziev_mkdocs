@@ -1,0 +1,15 @@
+{
+  "id": "0bc545a89e5b",
+  "type": "display",
+  "latex": "F_r \\cdot \\sin \\alpha + F_t = 0",
+  "metadata": {
+    "db_key": "2569",
+    "src": "images/formula_full_164_8_0.webp",
+    "equation_number": "(13.45)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 85064
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2569\" data-src=\"images/formula_full_164_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_r \\cdot \\sin \\alpha + F_t = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.45)\n</div>\n</div>"
+}

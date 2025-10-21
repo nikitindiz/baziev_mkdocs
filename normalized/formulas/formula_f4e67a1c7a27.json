@@ -1,0 +1,15 @@
+{
+  "id": "f4e67a1c7a27",
+  "type": "inline",
+  "latex": "W = 3,24 \\cdot 10^7 \\text{ Вт}",
+  "metadata": {
+    "db_key": "1353",
+    "src": "images/formula_inline_93_7_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 28096
+  },
+  "wrapper_html": "<span data-db-key=\"1353\" data-src=\"images/formula_inline_93_7_3.webp\"> $W = 3,24 \\cdot 10^7 \\text{ Вт}$ </span>"
+}

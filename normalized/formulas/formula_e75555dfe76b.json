@@ -1,0 +1,15 @@
+{
+  "id": "e75555dfe76b",
+  "type": "inline",
+  "latex": "m_1 = m_2 = 1 \\text{кг}",
+  "metadata": {
+    "db_key": "7098",
+    "src": "images/formula_inline_453_10_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 1128
+  },
+  "wrapper_html": "<span data-db-key=\"7098\" data-src=\"images/formula_inline_453_10_11.webp\"> $m_1 = m_2 = 1 \\text{кг}$ </span>"
+}

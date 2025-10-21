@@ -1,0 +1,15 @@
+{
+  "id": "9691a4088b5e",
+  "type": "display",
+  "latex": "\\frac{hf_1 N}{T_{0i}} + \\frac{hf_1 \\cdot N}{t_1} - \\frac{hf_2 \\cdot N}{T_{0i}} - \\frac{hf_2 \\cdot N}{t_2} = 0",
+  "metadata": {
+    "db_key": "523",
+    "src": "images/formula_full_38_7.webp",
+    "equation_number": "(6.6)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 4996
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"523\" data-src=\"images/formula_full_38_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{hf_1 N}{T_{0i}} + \\frac{hf_1 \\cdot N}{t_1} - \\frac{hf_2 \\cdot N}{T_{0i}} - \\frac{hf_2 \\cdot N}{t_2} = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.6)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3b382dd4e0cc",
+  "type": "inline",
+  "latex": "(м^2 \\cdot с^{-1})",
+  "metadata": {
+    "db_key": "112",
+    "src": "images/formula_inline_8_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 4695
+  },
+  "wrapper_html": "<span data-db-key=\"112\" data-src=\"images/formula_inline_8_7_0.webp\"> $(м^2 \\cdot с^{-1})$ </span>"
+}

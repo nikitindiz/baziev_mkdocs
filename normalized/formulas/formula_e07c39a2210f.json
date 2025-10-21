@@ -1,0 +1,15 @@
+{
+  "id": "e07c39a2210f",
+  "type": "display",
+  "latex": "\\begin{cases}\n    E_0 = P_0 \\cdot V_{g0} \\\\\n    E_0 = kT_0 \\\\\n    E_0 = h \\cdot f_0\n\\end{cases}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 12341
+  },
+  "wrapper_html": null
+}

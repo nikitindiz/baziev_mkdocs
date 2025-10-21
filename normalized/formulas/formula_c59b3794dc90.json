@@ -1,0 +1,15 @@
+{
+  "id": "c59b3794dc90",
+  "type": "display",
+  "latex": "h_{1} = \\sqrt{\\Phi_{0} / \\mu_{o} \\cdot H_{1} \\cdot \\mu_{1}'} = 6,4158073 \\cdot 10^{-12} \\text{м}",
+  "metadata": {
+    "db_key": "5408",
+    "src": "images/formula_full_334_12_0.webp",
+    "equation_number": "(19.50)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 44081
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5408\" data-src=\"images/formula_full_334_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$h_{1} = \\sqrt{\\Phi_{0} / \\mu_{o} \\cdot H_{1} \\cdot \\mu_{1}'} = 6,4158073 \\cdot 10^{-12} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.50)\n</div>\n</div>"
+}

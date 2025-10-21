@@ -1,0 +1,15 @@
+{
+  "id": "665fc24b94e4",
+  "type": "display",
+  "latex": "\\begin{cases}\n2m_{i}v_{1} < m_{э} \\cdot u_{э} \\\\\n\\delta_{1} < 0, \\\\\nS_{1} < 0.\n\\end{cases}",
+  "metadata": {
+    "db_key": "1565",
+    "src": "images/formula_full_110_5.webp",
+    "equation_number": "(1.19)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 38616
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1565\" data-src=\"images/formula_full_110_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{cases}\n2m_{i}v_{1} < m_{э} \\cdot u_{э} \\\\\n\\delta_{1} < 0, \\\\\nS_{1} < 0.\n\\end{cases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.19)\n</div>\n</div>"
+}

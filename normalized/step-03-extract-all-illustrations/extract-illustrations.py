@@ -36,10 +36,10 @@ class Illustration:
 class IllustrationExtractor:
     """Extracts illustrations from markdown files"""
     
-    def __init__(self, input_dir: str, output_dir: str):
+    def __init__(self, input_dir: str, output_dir: str, illustrations_dir: str):
         self.input_dir = Path(input_dir)
         self.output_dir = Path(output_dir)
-        self.illustrations_dir = self.output_dir / "illustrations"
+        self.illustrations_dir = Path(illustrations_dir)
         self.result_dir = self.output_dir / "result"
         
         # Ensure directories exist
@@ -327,12 +327,16 @@ def main():
     """Main entry point"""
     # Get script directory
     script_dir = Path(__file__).parent
+    normalized_dir = script_dir.parent
     
     # Input: result from step-02
     input_dir = script_dir.parent / "step-02-extract-all-tables" / "result"
     
     # Output: current directory
     output_dir = script_dir
+    
+    # Illustrations: normalized directory
+    illustrations_dir = normalized_dir / "illustrations"
     
     # Validate input directory exists
     if not input_dir.exists():
@@ -341,7 +345,7 @@ def main():
         return 1
     
     # Create extractor and run
-    extractor = IllustrationExtractor(str(input_dir), str(output_dir))
+    extractor = IllustrationExtractor(str(input_dir), str(output_dir), str(illustrations_dir))
     extractor.process_all()
     
     return 0

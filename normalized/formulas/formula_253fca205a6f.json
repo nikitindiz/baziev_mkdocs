@@ -1,0 +1,15 @@
+{
+  "id": "253fca205a6f",
+  "type": "inline",
+  "latex": "(f_e = 10^{20} - 10^{25} с^{-1})",
+  "metadata": {
+    "db_key": "1392",
+    "src": "images/formula_inline_97_1_20.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 38267
+  },
+  "wrapper_html": "<span data-db-key=\"1392\" data-src=\"images/formula_inline_97_1_20.webp\"> $(f_e = 10^{20} - 10^{25} с^{-1})$ </span>"
+}

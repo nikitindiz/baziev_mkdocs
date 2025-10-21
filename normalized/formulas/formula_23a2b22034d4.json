@@ -1,0 +1,15 @@
+{
+  "id": "23a2b22034d4",
+  "type": "display",
+  "latex": "d_i = \\sqrt[3]{\\frac{6A_i \\cdot k \\cdot (V_n + V_{\\pi}) - 3V_{\\pi}}{\\pi}} =",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(4.23)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 10566
+  },
+  "wrapper_html": null
+}

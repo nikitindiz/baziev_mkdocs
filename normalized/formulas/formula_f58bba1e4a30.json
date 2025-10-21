@@ -1,0 +1,15 @@
+{
+  "id": "f58bba1e4a30",
+  "type": "display",
+  "latex": "\\Delta n_{☿} = \\frac{\\Delta \\pi_{☿}}{F_0 \\cdot T_I} = \\frac{57'',52 \\cdot 10^{-1}}{6,5092223 \\cdot 10^{12}} = 8,8366931 \\cdot 10^{-13} с^{-1}",
+  "metadata": {
+    "db_key": "8818",
+    "src": "images/formula_full_591_5.webp",
+    "equation_number": "(39.17)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 24737
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8818\" data-src=\"images/formula_full_591_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n_{☿} = \\frac{\\Delta \\pi_{☿}}{F_0 \\cdot T_I} = \\frac{57'',52 \\cdot 10^{-1}}{6,5092223 \\cdot 10^{12}} = 8,8366931 \\cdot 10^{-13} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.17)\n</div>\n</div>"
+}

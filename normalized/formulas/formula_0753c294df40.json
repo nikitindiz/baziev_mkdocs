@@ -1,0 +1,15 @@
+{
+  "id": "0753c294df40",
+  "type": "display",
+  "latex": "\\begin{align*}\n2S_2O &\\xrightarrow{<100\\degree C} 3S_{тв} + SO_2, \\\\\n3SO &\\xrightarrow{100-120\\degree C} S_2O + SO_2\n\\end{align*}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 4675
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5de8a13ff203",
+  "type": "inline",
+  "latex": "22{\\degree} \\text{ C, } 100 \\cdot 10^{6}",
+  "metadata": {
+    "db_key": "8596",
+    "src": "images/formula_inline_576_12_94.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 12657
+  },
+  "wrapper_html": "<span data-db-key=\"8596\" data-src=\"images/formula_inline_576_12_94.webp\"> $22{\\degree} \\text{ C, } 100 \\cdot 10^{6}$ </span>"
+}

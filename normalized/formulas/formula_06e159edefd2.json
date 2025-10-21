@@ -1,0 +1,15 @@
+{
+  "id": "06e159edefd2",
+  "type": "display",
+  "latex": "E_m^{\\text{л}} = C^{\\text{л}} \\cdot m_{\\text{ед}} \\cdot T_0 = 5,708835 \\cdot 10^5 \\text{ Дж}",
+  "metadata": {
+    "db_key": "4850",
+    "src": "images/formula_full_296_4_0.webp",
+    "equation_number": "(18.5)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 6055
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4850\" data-src=\"images/formula_full_296_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_m^{\\text{л}} = C^{\\text{л}} \\cdot m_{\\text{ед}} \\cdot T_0 = 5,708835 \\cdot 10^5 \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.5)\n</div>\n</div>"
+}

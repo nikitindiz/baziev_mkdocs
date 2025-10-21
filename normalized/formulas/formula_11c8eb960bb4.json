@@ -1,0 +1,15 @@
+{
+  "id": "11c8eb960bb4",
+  "type": "inline",
+  "latex": "Дж/(м^3 \\cdot К)",
+  "metadata": {
+    "db_key": "834",
+    "src": "images/formula_inline_55_8_19.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 57535
+  },
+  "wrapper_html": "<span data-db-key=\"834\" data-src=\"images/formula_inline_55_8_19.webp\"> $Дж/(м^3 \\cdot К)$ </span>"
+}

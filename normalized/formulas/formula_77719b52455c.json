@@ -1,0 +1,15 @@
+{
+  "id": "77719b52455c",
+  "type": "display",
+  "latex": "\\Delta V_{\\oplus} = V_{N\\oplus} - V_{N0} = 1,6762864 \\cdot 10^{15} м^3",
+  "metadata": {
+    "db_key": "8573",
+    "src": "images/formula_full_575_14_0.webp",
+    "equation_number": "(38.31)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 17377
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8573\" data-src=\"images/formula_full_575_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{\\oplus} = V_{N\\oplus} - V_{N0} = 1,6762864 \\cdot 10^{15} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.31)\n</div>\n</div>"
+}

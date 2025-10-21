@@ -1,0 +1,15 @@
+{
+  "id": "a734003d3c08",
+  "type": "inline",
+  "latex": "P_i = \\pi \\cdot \\lambda_i",
+  "metadata": {
+    "db_key": "2812",
+    "src": "images/formula_inline_176_7_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 128551
+  },
+  "wrapper_html": "<span data-db-key=\"2812\" data-src=\"images/formula_inline_176_7_7.webp\"> $P_i = \\pi \\cdot \\lambda_i$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1f20c8de9d05",
+  "type": "display",
+  "latex": "n_n(U) = \\frac{\\varepsilon'_U}{K} = \\frac{2.9960938 \\cdot 10^{-11}}{5.4608428 \\cdot 10^{-13}} = 54.865043 \\text{ нейтрона}",
+  "metadata": {
+    "db_key": "1300",
+    "src": "images/formula_full_91_13_0.webp",
+    "equation_number": "(9:45)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 35084
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1300\" data-src=\"images/formula_full_91_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_n(U) = \\frac{\\varepsilon'_U}{K} = \\frac{2.9960938 \\cdot 10^{-11}}{5.4608428 \\cdot 10^{-13}} = 54.865043 \\text{ нейтрона}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9:45)\n</div>\n</div>"
+}

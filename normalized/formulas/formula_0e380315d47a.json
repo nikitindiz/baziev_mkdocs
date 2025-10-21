@@ -1,0 +1,15 @@
+{
+  "id": "0e380315d47a",
+  "type": "display",
+  "latex": "\\xi_{\\odot} = h_{\\odot}/k_{\\odot} = 1,4483843 \\cdot 10^{-10} \\, \\text{K} \\cdot \\text{с} = \\text{Const}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(26.89)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 36373
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2d8350e8e64f",
+  "type": "display",
+  "latex": "v_s (Al) = \\frac{э \\cdot \\varphi_{Al}}{m_э \\cdot \\omega_{ед}} = -2,3394472 \\cdot 10^8 м^2 \\cdot с^{-2} = Const",
+  "metadata": {
+    "db_key": "5483",
+    "src": "images/formula_full_338_10.webp",
+    "equation_number": "(19.67)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 67620
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5483\" data-src=\"images/formula_full_338_10.webp\">\n<div style=\"width: 100%;\">\n\n$$v_s (Al) = \\frac{э \\cdot \\varphi_{Al}}{m_э \\cdot \\omega_{ед}} = -2,3394472 \\cdot 10^8 м^2 \\cdot с^{-2} = Const$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.67)\n</div>\n</div>"
+}

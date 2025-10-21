@@ -1,0 +1,15 @@
+{
+  "id": "db81514a7398",
+  "type": "display",
+  "latex": "K_3 = \\frac{m_n (-0,0255) + m_e}{m_э} = -6,0446549 \\cdot 10^6",
+  "metadata": {
+    "db_key": "6369",
+    "src": "images/formula_full_394_10_0.webp",
+    "equation_number": "(21.1.9)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 5765
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6369\" data-src=\"images/formula_full_394_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_3 = \\frac{m_n (-0,0255) + m_e}{m_э} = -6,0446549 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.9)\n</div>\n</div>"
+}

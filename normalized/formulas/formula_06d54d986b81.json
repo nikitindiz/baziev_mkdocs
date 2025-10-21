@@ -1,0 +1,15 @@
+{
+  "id": "06d54d986b81",
+  "type": "inline",
+  "latex": "a_m^3",
+  "metadata": {
+    "db_key": "6245",
+    "src": "images/formula_inline_383_0_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 103889
+  },
+  "wrapper_html": "<span data-db-key=\"6245\" data-src=\"images/formula_inline_383_0_4.webp\"> $a_m^3$ </span>"
+}

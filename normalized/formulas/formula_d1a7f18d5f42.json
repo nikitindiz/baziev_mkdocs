@@ -1,0 +1,15 @@
+{
+  "id": "d1a7f18d5f42",
+  "type": "display",
+  "latex": "n_{\\text{л}} = \\frac{m_{\\text{ед}}}{m_{\\text{л}}} = 7,024599 \\cdot 10^{21}",
+  "metadata": {
+    "db_key": "4859",
+    "src": "images/formula_full_297_1.webp",
+    "equation_number": "(18.11)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 9142
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4859\" data-src=\"images/formula_full_297_1.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\text{л}} = \\frac{m_{\\text{ед}}}{m_{\\text{л}}} = 7,024599 \\cdot 10^{21}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.11)\n</div>\n</div>"
+}

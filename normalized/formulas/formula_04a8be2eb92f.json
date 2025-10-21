@@ -1,0 +1,15 @@
+{
+  "id": "04a8be2eb92f",
+  "type": "display",
+  "latex": "\\Delta Q_{♀}=\\frac{\\Delta Q_{\\oplus}}{B_{\\oplus}}\\cdot 3 \\cdot 10^{-9} \\text{Тл} = -4,0833906 \\cdot 10^{29} \\text{Кл}",
+  "metadata": {
+    "db_key": "8031",
+    "src": "images/formula_full_537_18.webp",
+    "equation_number": "(34.15)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 17303
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8031\" data-src=\"images/formula_full_537_18.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q_{♀}=\\frac{\\Delta Q_{\\oplus}}{B_{\\oplus}}\\cdot 3 \\cdot 10^{-9} \\text{Тл} = -4,0833906 \\cdot 10^{29} \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.15)\n</div>\n</div>"
+}

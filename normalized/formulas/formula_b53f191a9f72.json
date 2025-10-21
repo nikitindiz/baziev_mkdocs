@@ -1,0 +1,15 @@
+{
+  "id": "b53f191a9f72",
+  "type": "inline",
+  "latex": "n^ж = 3,7611039 \\cdot 10^3",
+  "metadata": {
+    "db_key": "4781",
+    "src": "images/formula_inline_292_3_62.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 37762
+  },
+  "wrapper_html": "<span data-db-key=\"4781\" data-src=\"images/formula_inline_292_3_62.webp\"> $n^ж = 3,7611039 \\cdot 10^3$ </span>"
+}

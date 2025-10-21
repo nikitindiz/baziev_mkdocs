@@ -1,0 +1,15 @@
+{
+  "id": "fa138e4cc385",
+  "type": "display",
+  "latex": "n_x = n_y = n_r = \\frac{a_{s0}}{a_0} = \\frac{c_{s0}}{c_0} = \\frac{48,767256 \\cdot 10^{-10}}{3,1358589 \\cdot 10^{-10}} = 15,551482",
+  "metadata": {
+    "db_key": "4590",
+    "src": "images/formula_full_282_5.webp",
+    "equation_number": "(17.29)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 19791
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4590\" data-src=\"images/formula_full_282_5.webp\">\n<div style=\"width: 100%;\">\n\n$$n_x = n_y = n_r = \\frac{a_{s0}}{a_0} = \\frac{c_{s0}}{c_0} = \\frac{48,767256 \\cdot 10^{-10}}{3,1358589 \\cdot 10^{-10}} = 15,551482$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.29)\n</div>\n</div>"
+}

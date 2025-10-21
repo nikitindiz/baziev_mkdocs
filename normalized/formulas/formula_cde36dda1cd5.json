@@ -1,0 +1,15 @@
+{
+  "id": "cde36dda1cd5",
+  "type": "display",
+  "latex": "n_{pd} = P_1/(P_2 + P_{3d}) = -1",
+  "metadata": {
+    "db_key": "5029",
+    "src": "images/formula_full_309_19_0.webp",
+    "equation_number": "(18.104)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 60735
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5029\" data-src=\"images/formula_full_309_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{pd} = P_1/(P_2 + P_{3d}) = -1$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.104)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fe7af5cac425",
+  "type": "display",
+  "latex": "k_{\\text{He}}^п = k_{v}(\\text{He}) - k_{\\text{He}} - k_{\\omega}(\\text{He}) = 7{,}170009 \\cdot 10^{-24} \\, \\text{Дж} \\cdot \\text{K}^{-1}",
+  "metadata": {
+    "db_key": "4349",
+    "src": "images/formula_full_267_14.webp",
+    "equation_number": "(16.20)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 22487
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4349\" data-src=\"images/formula_full_267_14.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{\\text{He}}^п = k_{v}(\\text{He}) - k_{\\text{He}} - k_{\\omega}(\\text{He}) = 7{,}170009 \\cdot 10^{-24} \\, \\text{Дж} \\cdot \\text{K}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.20)\n</div>\n</div>"
+}

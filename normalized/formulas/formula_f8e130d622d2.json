@@ -1,0 +1,15 @@
+{
+  "id": "f8e130d622d2",
+  "type": "display",
+  "latex": "a_{k}=\\sqrt[5]{\\mu \\cdot \\mathscr{P} \\cdot \\eta_{\\odot} \\cdot V_{\\odot} / L_{\\odot} n_{\\hbar}}=\\sqrt[5]{16785,454 \\cdot 10^{-35} \\, м^{5}}=",
+  "metadata": {
+    "db_key": "7306",
+    "src": "images/formula_full_472_11.webp",
+    "equation_number": "(26.35)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 35883
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7306\" data-src=\"images/formula_full_472_11.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{k}=\\sqrt[5]{\\mu \\cdot \\mathscr{P} \\cdot \\eta_{\\odot} \\cdot V_{\\odot} / L_{\\odot} n_{\\hbar}}=\\sqrt[5]{16785,454 \\cdot 10^{-35} \\, м^{5}}=$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.35)\n</div>\n</div>"
+}

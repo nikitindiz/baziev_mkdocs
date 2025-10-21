@@ -1,0 +1,15 @@
+{
+  "id": "02eb8d6c891e",
+  "type": "display",
+  "latex": "A_0 = \\frac{a_0 \\cdot \\varepsilon_q}{2m_0 \\cdot \\mu \\cdot \\nu_{\\text{ед}}} = \\frac{9,761974 \\cdot 10^{-27}}{8,2285187 \\cdot 10^{-17}} = 1,1863586 \\cdot 10^{-10} \\, \\text{м}",
+  "metadata": {
+    "db_key": "7498",
+    "src": "images/formula_full_486_18_0.webp",
+    "equation_number": "(28.9)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 4771
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7498\" data-src=\"images/formula_full_486_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0 = \\frac{a_0 \\cdot \\varepsilon_q}{2m_0 \\cdot \\mu \\cdot \\nu_{\\text{ед}}} = \\frac{9,761974 \\cdot 10^{-27}}{8,2285187 \\cdot 10^{-17}} = 1,1863586 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.9)\n</div>\n</div>"
+}

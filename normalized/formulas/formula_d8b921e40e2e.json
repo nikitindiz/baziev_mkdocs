@@ -1,0 +1,15 @@
+{
+  "id": "d8b921e40e2e",
+  "type": "display",
+  "latex": "C_V (u_к) = C_V (T_0) - C_V (f) - C_V (\\gamma) = 563.55609 \\frac{\\text{Дж}}{м^3 \\cdot \\text{К}}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(6.67)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 44471
+  },
+  "wrapper_html": null
+}

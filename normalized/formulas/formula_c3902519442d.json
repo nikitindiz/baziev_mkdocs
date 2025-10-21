@@ -1,0 +1,15 @@
+{
+  "id": "c3902519442d",
+  "type": "display",
+  "latex": "m(V_{\\text{ед}})_{i} = p_{i}V_{\\text{ед}}",
+  "metadata": {
+    "db_key": "411",
+    "src": "images/formula_inline_29_3_0.webp",
+    "equation_number": "(4.23)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 29480
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"411\" data-src=\"images/formula_inline_29_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m(V_{\\text{ед}})_{i} = p_{i}V_{\\text{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.23)\n</div>\n</div>"
+}

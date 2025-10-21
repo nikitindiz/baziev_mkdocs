@@ -1,0 +1,15 @@
+{
+  "id": "76eb698c17ed",
+  "type": "display",
+  "latex": "P_{n}(э) + P_{\\lambda} = 0",
+  "metadata": {
+    "db_key": "1050",
+    "src": "images/formula_full_73_4_0.webp",
+    "equation_number": "(8.10)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 9839
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1050\" data-src=\"images/formula_full_73_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{n}(э) + P_{\\lambda} = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.10)\n</div>\n</div>"
+}

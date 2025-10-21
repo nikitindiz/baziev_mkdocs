@@ -1,0 +1,15 @@
+{
+  "id": "8ecdc3caafe9",
+  "type": "inline",
+  "latex": "1000 \\ г / M_{Al}",
+  "metadata": {
+    "db_key": "6015",
+    "src": "images/formula_inline_368_3_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 64024
+  },
+  "wrapper_html": "<span data-db-key=\"6015\" data-src=\"images/formula_inline_368_3_7.webp\"> $1000 \\ г / M_{Al}$ </span>"
+}

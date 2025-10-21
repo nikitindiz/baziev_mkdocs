@@ -1,0 +1,15 @@
+{
+  "id": "9ea9f8bf8d7b",
+  "type": "display",
+  "latex": "l_{i} = [R_{i} - R_{(i+1)}]",
+  "metadata": {
+    "db_key": "7236",
+    "src": "images/formula_full_464_24.webp",
+    "equation_number": "(26.14)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 8107
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7236\" data-src=\"images/formula_full_464_24.webp\">\n<div style=\"width: 100%;\">\n\n$$l_{i} = [R_{i} - R_{(i+1)}]$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.14)\n</div>\n</div>"
+}

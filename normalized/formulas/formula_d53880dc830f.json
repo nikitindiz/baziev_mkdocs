@@ -1,0 +1,15 @@
+{
+  "id": "d53880dc830f",
+  "type": "inline",
+  "latex": "\\nu = \\mu / \\lambda^2 = 4,349862 \\cdot 10^{14} \\text{ с}^{-1}",
+  "metadata": {
+    "db_key": "7636",
+    "src": "images/formula_inline_507_5_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 10488
+  },
+  "wrapper_html": "<span data-db-key=\"7636\" data-src=\"images/formula_inline_507_5_0.webp\"> $\\nu = \\mu / \\lambda^2 = 4,349862 \\cdot 10^{14} \\text{ с}^{-1}$ </span>"
+}

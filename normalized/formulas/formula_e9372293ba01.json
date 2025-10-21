@@ -1,0 +1,15 @@
+{
+  "id": "e9372293ba01",
+  "type": "display",
+  "latex": "v_1^п = 2A_1^п \\cdot f_1 = 2f_1 (d_{g1}^п - a_{T 1}^п) = 3,0521165 \\cdot 10^4 \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "5099",
+    "src": "images/formula_full_313_18_0.webp",
+    "equation_number": "(18.142)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 77997
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5099\" data-src=\"images/formula_full_313_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_1^п = 2A_1^п \\cdot f_1 = 2f_1 (d_{g1}^п - a_{T 1}^п) = 3,0521165 \\cdot 10^4 \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.142)\n</div>\n</div>"
+}

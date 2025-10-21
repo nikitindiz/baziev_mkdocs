@@ -1,0 +1,15 @@
+{
+  "id": "4e26253f7312",
+  "type": "inline",
+  "latex": "E_2 = mv_1^2/2 = 25269,125 \\ Дж",
+  "metadata": {
+    "db_key": "2084",
+    "src": "images/formula_inline_136_15_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 7232
+  },
+  "wrapper_html": "<span data-db-key=\"2084\" data-src=\"images/formula_inline_136_15_1.webp\"> $E_2 = mv_1^2/2 = 25269,125 \\ Дж$ </span>"
+}

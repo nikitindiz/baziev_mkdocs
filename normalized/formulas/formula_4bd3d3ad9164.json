@@ -1,0 +1,15 @@
+{
+  "id": "4bd3d3ad9164",
+  "type": "display",
+  "latex": "u_{di} = \\frac{1}{6} \\cdot u_{i} = \\frac{r_if_{i}}{6}",
+  "metadata": {
+    "db_key": "918",
+    "src": "images/formula_full_62_3_0.webp",
+    "equation_number": "(6.98)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 100465
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"918\" data-src=\"images/formula_full_62_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{di} = \\frac{1}{6} \\cdot u_{i} = \\frac{r_if_{i}}{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.98)\n</div>\n</div>"
+}

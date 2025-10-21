@@ -1,0 +1,15 @@
+{
+  "id": "a5c6ef6e019d",
+  "type": "display",
+  "latex": "h_э (\\text{He}) = \\frac{37,449127 \\cdot 10^{-60}}{8,1304265 \\cdot 10^{-28}} = 2,1461703 \\cdot 10^{-16} \\text{м} = 1,9392088 \\cdot d_э",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(8.39)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 23288
+  },
+  "wrapper_html": null
+}

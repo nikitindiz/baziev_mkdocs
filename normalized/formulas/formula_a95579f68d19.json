@@ -1,0 +1,15 @@
+{
+  "id": "a95579f68d19",
+  "type": "inline",
+  "latex": "n_i = f_i \\cdot \\tau_{ед}",
+  "metadata": {
+    "db_key": "97",
+    "src": "images/formula_inline_7_0_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 1138
+  },
+  "wrapper_html": "<span data-db-key=\"97\" data-src=\"images/formula_inline_7_0_7.webp\"> $n_i = f_i \\cdot \\tau_{ед}$ </span>"
+}

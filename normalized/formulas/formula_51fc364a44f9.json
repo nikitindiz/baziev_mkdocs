@@ -1,0 +1,15 @@
+{
+  "id": "51fc364a44f9",
+  "type": "display",
+  "latex": "\\eta_{\\odot} \\cdot R_{\\odot}^3 / s_0 \\rightarrow \\infty",
+  "metadata": {
+    "db_key": "7344",
+    "src": "images/formula_full_474_1_0.webp",
+    "equation_number": "(26.49)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 43720
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7344\" data-src=\"images/formula_full_474_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{\\odot} \\cdot R_{\\odot}^3 / s_0 \\rightarrow \\infty$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.49)\n</div>\n</div>"
+}

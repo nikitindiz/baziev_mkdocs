@@ -1,0 +1,15 @@
+{
+  "id": "8816059faef8",
+  "type": "display",
+  "latex": "\\tau_e = n_3/f_e = 5,6789731 \\cdot 10^{-6} с",
+  "metadata": {
+    "db_key": "6510",
+    "src": "images/formula_full_403_8_0.webp",
+    "equation_number": "(21.1.66)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 58739
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6510\" data-src=\"images/formula_full_403_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_e = n_3/f_e = 5,6789731 \\cdot 10^{-6} с$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.66)\n</div>\n</div>"
+}

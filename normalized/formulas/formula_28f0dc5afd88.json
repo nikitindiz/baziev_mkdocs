@@ -1,0 +1,15 @@
+{
+  "id": "28f0dc5afd88",
+  "type": "display",
+  "latex": "\\bar{r}_{\\min } = (r_x + r_y) / 2 = 6,2210645 \\cdot 10^{-11} \\mathrm{M}",
+  "metadata": {
+    "db_key": "5735",
+    "src": "images/formula_full_353_7_0.webp",
+    "equation_number": "(20.19)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 13752
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5735\" data-src=\"images/formula_full_353_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\bar{r}_{\\min } = (r_x + r_y) / 2 = 6,2210645 \\cdot 10^{-11} \\mathrm{M}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.19)\n</div>\n</div>"
+}

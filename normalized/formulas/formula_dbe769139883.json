@@ -1,0 +1,15 @@
+{
+  "id": "dbe769139883",
+  "type": "inline",
+  "latex": "\\Delta m_{\\nu} = \\Delta m_{\\oplus} - m_{\\mu\\oplus} = 1,2237441 \\cdot 10^{25} \\text{ кг} = 80,345844 \\% \\ \\Delta m_{\\oplus}",
+  "metadata": {
+    "db_key": "6215",
+    "src": "images/formula_inline_380_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 97254
+  },
+  "wrapper_html": "<span data-db-key=\"6215\" data-src=\"images/formula_inline_380_4_0.webp\"> $\\Delta m_{\\nu} = \\Delta m_{\\oplus} - m_{\\mu\\oplus} = 1,2237441 \\cdot 10^{25} \\text{ кг} = 80,345844 \\% \\ \\Delta m_{\\oplus}$ </span>"
+}

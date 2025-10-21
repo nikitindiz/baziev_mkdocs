@@ -1,0 +1,15 @@
+{
+  "id": "6ac2f7f00e88",
+  "type": "inline",
+  "latex": "T = 1200 \\, K",
+  "metadata": {
+    "db_key": "2992",
+    "src": "images/formula_inline_190_5_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 170419
+  },
+  "wrapper_html": "<span data-db-key=\"2992\" data-src=\"images/formula_inline_190_5_0.webp\"> $T = 1200 \\, K$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0a1a1ef94a32",
+  "type": "inline",
+  "latex": "\\beta = \\angle BAD_1",
+  "metadata": {
+    "db_key": "8095",
+    "src": "images/formula_inline_541_8_10.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 25859
+  },
+  "wrapper_html": "<span data-db-key=\"8095\" data-src=\"images/formula_inline_541_8_10.webp\"> $\\beta = \\angle BAD_1$ </span>"
+}

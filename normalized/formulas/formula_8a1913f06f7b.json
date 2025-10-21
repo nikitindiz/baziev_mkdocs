@@ -1,0 +1,15 @@
+{
+  "id": "8a1913f06f7b",
+  "type": "inline",
+  "latex": "\\rho_1 = 3,465 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "6984",
+    "src": "images/formula_inline_445_10_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 155140
+  },
+  "wrapper_html": "<span data-db-key=\"6984\" data-src=\"images/formula_inline_445_10_0.webp\"> $\\rho_1 = 3,465 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3f2bd6bb7ea7",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n\\Delta X_1 &= 1,43 \\cdot \\lambda_i \\\\\n\\Delta X_2 &= 2,46 \\cdot \\lambda_i \\\\\n\\Delta X_3 &= 3,47 \\cdot \\lambda_i\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "3012",
+    "src": "images/formula_full_193_8.webp",
+    "equation_number": "(13.143)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 228670
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3012\" data-src=\"images/formula_full_193_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\Delta X_1 &= 1,43 \\cdot \\lambda_i \\\\\n\\Delta X_2 &= 2,46 \\cdot \\lambda_i \\\\\n\\Delta X_3 &= 3,47 \\cdot \\lambda_i\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.143)\n</div>\n</div>"
+}

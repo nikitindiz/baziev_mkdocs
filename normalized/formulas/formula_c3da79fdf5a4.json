@@ -1,0 +1,15 @@
+{
+  "id": "c3da79fdf5a4",
+  "type": "display",
+  "latex": "Q_i = \\alpha_i \\cdot S_0 \\cdot \\tau \\cdot \\Delta t = \\frac{2h \\cdot \\psi_i^2 \\cdot T_2 \\cdot r_i \\delta_i S_0 \\tau (T_2 - T_1)}{3\\pi \\cdot d_{gi1}^3}, \\text{ Дж}",
+  "metadata": {
+    "db_key": "704",
+    "src": "images/formula_full_49_9.webp",
+    "equation_number": "(6.43)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 50876
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"704\" data-src=\"images/formula_full_49_9.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_i = \\alpha_i \\cdot S_0 \\cdot \\tau \\cdot \\Delta t = \\frac{2h \\cdot \\psi_i^2 \\cdot T_2 \\cdot r_i \\delta_i S_0 \\tau (T_2 - T_1)}{3\\pi \\cdot d_{gi1}^3}, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.43)\n</div>\n</div>"
+}

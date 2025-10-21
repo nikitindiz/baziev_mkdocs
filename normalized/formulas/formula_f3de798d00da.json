@@ -1,0 +1,15 @@
+{
+  "id": "f3de798d00da",
+  "type": "display",
+  "latex": "v_m = a_m \\cdot \\nu_m = \\frac{H_\\oplus \\cdot a_m^2}{э} = 2,8992612 \\cdot 10^8 \\text{ м} \\cdot с^{-1} \\approx v_0",
+  "metadata": {
+    "db_key": "6220",
+    "src": "images/formula_full_381_6_0.webp",
+    "equation_number": "(20.160)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 140568
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6220\" data-src=\"images/formula_full_381_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_m = a_m \\cdot \\nu_m = \\frac{H_\\oplus \\cdot a_m^2}{э} = 2,8992612 \\cdot 10^8 \\text{ м} \\cdot с^{-1} \\approx v_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.160)\n</div>\n</div>"
+}

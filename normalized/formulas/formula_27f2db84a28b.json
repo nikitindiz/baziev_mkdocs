@@ -1,0 +1,15 @@
+{
+  "id": "27f2db84a28b",
+  "type": "inline",
+  "latex": "Па = \\frac{\\text{Дж}}{м^3}",
+  "metadata": {
+    "db_key": "1799",
+    "src": "images/formula_inline_122_9_25.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 14725
+  },
+  "wrapper_html": "<span data-db-key=\"1799\" data-src=\"images/formula_inline_122_9_25.webp\"> $Па = \\frac{\\text{Дж}}{м^3}$ </span>"
+}

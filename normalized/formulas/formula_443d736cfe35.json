@@ -1,0 +1,15 @@
+{
+  "id": "443d736cfe35",
+  "type": "inline",
+  "latex": "P_{г} = 2 \\cdot 10^{-12} \\text{Па}",
+  "metadata": {
+    "db_key": "2968",
+    "src": "images/formula_inline_188_4_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 162266
+  },
+  "wrapper_html": "<span data-db-key=\"2968\" data-src=\"images/formula_inline_188_4_18.webp\"> $P_{г} = 2 \\cdot 10^{-12} \\text{Па}$ </span>"
+}

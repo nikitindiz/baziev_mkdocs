@@ -1,0 +1,15 @@
+{
+  "id": "da1bdf0a509f",
+  "type": "display",
+  "latex": "\\Delta W = \\frac{2h \\cdot \\psi_i \\cdot s_i \\cdot u_{ki} \\cdot \\delta_i \\cdot (T_s - T_s)}{\\pi \\cdot d_{gi}^3}, \\text{Вт}",
+  "metadata": {
+    "db_key": "647",
+    "src": "images/formula_full_47_10.webp",
+    "equation_number": "(6.34)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 41470
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"647\" data-src=\"images/formula_full_47_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta W = \\frac{2h \\cdot \\psi_i \\cdot s_i \\cdot u_{ki} \\cdot \\delta_i \\cdot (T_s - T_s)}{\\pi \\cdot d_{gi}^3}, \\text{Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.34)\n</div>\n</div>"
+}

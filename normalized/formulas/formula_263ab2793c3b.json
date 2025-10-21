@@ -1,0 +1,15 @@
+{
+  "id": "263ab2793c3b",
+  "type": "display",
+  "latex": "V_{N♇} = 4\\pi R_{c♇}^3/3 = 1,3141087 \\cdot 10^{18} \\, \\text{м}^3",
+  "metadata": {
+    "db_key": "8715",
+    "src": "images/formula_full_585_3.webp",
+    "equation_number": "(38.95)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 54569
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8715\" data-src=\"images/formula_full_585_3.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{N♇} = 4\\pi R_{c♇}^3/3 = 1,3141087 \\cdot 10^{18} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.95)\n</div>\n</div>"
+}

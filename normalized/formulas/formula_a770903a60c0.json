@@ -1,0 +1,15 @@
+{
+  "id": "a770903a60c0",
+  "type": "inline",
+  "latex": "\\nu_r = 1,53723 \\cdot 10^{11} \\ с^{-1}",
+  "metadata": {
+    "db_key": "2970",
+    "src": "images/formula_inline_189_0_39.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 164420
+  },
+  "wrapper_html": "<span data-db-key=\"2970\" data-src=\"images/formula_inline_189_0_39.webp\"> $\\nu_r = 1,53723 \\cdot 10^{11} \\ с^{-1}$ </span>"
+}

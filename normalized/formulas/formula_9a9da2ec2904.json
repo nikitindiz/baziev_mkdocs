@@ -1,0 +1,15 @@
+{
+  "id": "9a9da2ec2904",
+  "type": "display",
+  "latex": "\\sin \\alpha_s = \\frac{2u_{s0}}{v_{s0}} = 2,2129387 \\cdot 10^{-2}",
+  "metadata": {
+    "db_key": "4697",
+    "src": "images/formula_full_288_12_0.webp",
+    "equation_number": "(17.72)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 45547
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4697\" data-src=\"images/formula_full_288_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_s = \\frac{2u_{s0}}{v_{s0}} = 2,2129387 \\cdot 10^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.72)\n</div>\n</div>"
+}

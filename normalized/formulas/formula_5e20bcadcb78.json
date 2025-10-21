@@ -1,0 +1,15 @@
+{
+  "id": "5e20bcadcb78",
+  "type": "inline",
+  "latex": "m_s",
+  "metadata": {
+    "db_key": "9174",
+    "src": "images/formula_inline_625_0_31.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 690
+  },
+  "wrapper_html": "<span data-db-key=\"9174\" data-src=\"images/formula_inline_625_0_31.webp\"> $m_s$ </span>"
+}

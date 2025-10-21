@@ -1,0 +1,15 @@
+{
+  "id": "332713a15040",
+  "type": "inline",
+  "latex": "K_{1} = d_{g} / d_{Au} = 457,11181",
+  "metadata": {
+    "db_key": "4189",
+    "src": "images/formula_inline_256_9_21.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 44859
+  },
+  "wrapper_html": "<span data-db-key=\"4189\" data-src=\"images/formula_inline_256_9_21.webp\"> $K_{1} = d_{g} / d_{Au} = 457,11181$ </span>"
+}

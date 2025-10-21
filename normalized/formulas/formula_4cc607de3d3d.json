@@ -1,0 +1,15 @@
+{
+  "id": "4cc607de3d3d",
+  "type": "inline",
+  "latex": "l = 0,1 \\text{ м}",
+  "metadata": {
+    "db_key": "6348",
+    "src": "images/formula_inline_391_5_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 20871
+  },
+  "wrapper_html": "<span data-db-key=\"6348\" data-src=\"images/formula_inline_391_5_0.webp\"> $l = 0,1 \\text{ м}$ </span>"
+}

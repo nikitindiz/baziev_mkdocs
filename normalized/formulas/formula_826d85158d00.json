@@ -1,0 +1,15 @@
+{
+  "id": "826d85158d00",
+  "type": "display",
+  "latex": "n_n = \\frac{m_э \\cdot v_{\\text{v\\,max}} \\cdot \\nu_{\\text{ед}}}{P_n \\cdot \\pi R_э^2} = \\frac{11,780599 \\cdot 10^{-6} \\, \\text{Н}}{6,9502181 \\cdot 10^{-14} \\, \\text{Н}} = 1,694997 \\cdot 10^8",
+  "metadata": {
+    "db_key": "7783",
+    "src": "images/formula_full_520_3_0.webp",
+    "equation_number": "(32.2)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 2727
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7783\" data-src=\"images/formula_full_520_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_n = \\frac{m_э \\cdot v_{\\text{v\\,max}} \\cdot \\nu_{\\text{ед}}}{P_n \\cdot \\pi R_э^2} = \\frac{11,780599 \\cdot 10^{-6} \\, \\text{Н}}{6,9502181 \\cdot 10^{-14} \\, \\text{Н}} = 1,694997 \\cdot 10^8$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.2)\n</div>\n</div>"
+}

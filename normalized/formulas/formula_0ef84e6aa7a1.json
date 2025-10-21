@@ -1,0 +1,15 @@
+{
+  "id": "0ef84e6aa7a1",
+  "type": "inline",
+  "latex": "\\varepsilon_0",
+  "metadata": {
+    "db_key": "9296",
+    "src": "images/formula_inline_627_1_75.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 16026
+  },
+  "wrapper_html": "<span data-db-key=\"9296\" data-src=\"images/formula_inline_627_1_75.webp\"> $\\varepsilon_0$ </span>"
+}

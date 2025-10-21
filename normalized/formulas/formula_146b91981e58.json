@@ -1,0 +1,15 @@
+{
+  "id": "146b91981e58",
+  "type": "inline",
+  "latex": "F = ma",
+  "metadata": {
+    "db_key": "2069",
+    "src": "images/formula_inline_135_4_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 1583
+  },
+  "wrapper_html": "<span data-db-key=\"2069\" data-src=\"images/formula_inline_135_4_5.webp\"> $F = ma$ </span>"
+}

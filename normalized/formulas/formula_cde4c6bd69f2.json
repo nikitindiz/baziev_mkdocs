@@ -1,0 +1,15 @@
+{
+  "id": "cde4c6bd69f2",
+  "type": "display",
+  "latex": "n_3 = \\frac{\\Delta I \\cdot N_F}{3 n_a} = \\frac{23,058888 \\cdot 10^{25}}{5,071257 \\cdot 10^{18}} = 4,5469768 \\cdot 10^7, \\frac{э}{e}",
+  "metadata": {
+    "db_key": "6509",
+    "src": "images/formula_full_403_6.webp",
+    "equation_number": "(21.1.65)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 58232
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6509\" data-src=\"images/formula_full_403_6.webp\">\n<div style=\"width: 100%;\">\n\n$$n_3 = \\frac{\\Delta I \\cdot N_F}{3 n_a} = \\frac{23,058888 \\cdot 10^{25}}{5,071257 \\cdot 10^{18}} = 4,5469768 \\cdot 10^7, \\frac{э}{e}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.65)\n</div>\n</div>"
+}

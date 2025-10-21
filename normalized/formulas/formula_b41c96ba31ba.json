@@ -1,0 +1,15 @@
+{
+  "id": "b41c96ba31ba",
+  "type": "display",
+  "latex": "K_{0i} = \\sqrt{l_{\\lambda 0i} / d_n}",
+  "metadata": {
+    "db_key": "3186",
+    "src": "images/formula_full_202_10_0.webp",
+    "equation_number": "(13.179)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 293157
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3186\" data-src=\"images/formula_full_202_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{0i} = \\sqrt{l_{\\lambda 0i} / d_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.179)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84bd77db8761",
+  "type": "display",
+  "latex": "\\begin{align*}\nm_e &= 9,038487 \\cdot 10^{-31} \\text{ кг} \\\\\nm_p &= 1,6596662 \\cdot 10^{-27} \\text{ кг} \\\\\nm_n &= 1,66057 \\cdot 10^{-27} \\text{ кг} \\\\\n\\gamma &= m_p / m_e = 1836,2213 \\\\\nn_e &= 3 \\\\\nn_э &= 2,4181989 \\cdot 10^8 \\\\\nэ &= + 1,9876643 \\cdot 10^{-27} \\text{ Кл}\n\\end{align*}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 22195
+  },
+  "wrapper_html": null
+}

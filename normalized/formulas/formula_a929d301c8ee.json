@@ -1,0 +1,15 @@
+{
+  "id": "a929d301c8ee",
+  "type": "display",
+  "latex": "\\sin \\alpha_0 = \\frac{2u_0}{v_0} = 1,3029232 \\cdot 10^{-4}, \\\\\n\\alpha_0 = 0\\degree 0' 26'', 957",
+  "metadata": {
+    "db_key": "4502",
+    "src": "images/formula_full_276_12_0.webp",
+    "equation_number": "(16.71)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 65900
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4502\" data-src=\"images/formula_full_276_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\sin \\alpha_0 = \\frac{2u_0}{v_0} = 1,3029232 \\cdot 10^{-4}, \\\\\n\\alpha_0 = 0\\degree 0' 26'', 957\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.71)\n</div>\n</div>"
+}

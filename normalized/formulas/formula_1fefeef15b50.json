@@ -1,0 +1,15 @@
+{
+  "id": "1fefeef15b50",
+  "type": "inline",
+  "latex": "a = b = c = 4,704 \\cdot",
+  "metadata": {
+    "db_key": "4061",
+    "src": "images/formula_inline_251_0_63.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 23987
+  },
+  "wrapper_html": "<span data-db-key=\"4061\" data-src=\"images/formula_inline_251_0_63.webp\"> $a = b = c = 4,704 \\cdot$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f870f6e5612c",
+  "type": "inline",
+  "latex": "\\tau_{\\oplus} = 4,5 \\cdot 10^{9}",
+  "metadata": {
+    "db_key": "6187",
+    "src": "images/formula_inline_378_7_20.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 92644
+  },
+  "wrapper_html": "<span data-db-key=\"6187\" data-src=\"images/formula_inline_378_7_20.webp\"> $\\tau_{\\oplus} = 4,5 \\cdot 10^{9}$ </span>"
+}

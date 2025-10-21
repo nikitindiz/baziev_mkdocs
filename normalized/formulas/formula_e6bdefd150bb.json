@@ -1,0 +1,15 @@
+{
+  "id": "e6bdefd150bb",
+  "type": "display",
+  "latex": "n_{\\hbar}(e) = \\varepsilon_e (n) / \\hbar \\cdot \\nu_{\\text{ед}} = 1.1610476 \\cdot 10^{20} = \\text{Const}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(14.113)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 80718
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5d230a618ea9",
+  "type": "display",
+  "latex": "u_{s0} = \\frac{E_t}{m_s v_{s0}} = \\frac{1,2829724 \\cdot 10^{-16}}{1,1422072 \\cdot 10^{-18}} = 1,1232396 \\cdot 10^2 м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "4707",
+    "src": "images/formula_full_288_9.webp",
+    "equation_number": "(17.71)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 45186
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4707\" data-src=\"images/formula_full_288_9.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{s0} = \\frac{E_t}{m_s v_{s0}} = \\frac{1,2829724 \\cdot 10^{-16}}{1,1422072 \\cdot 10^{-18}} = 1,1232396 \\cdot 10^2 м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.71)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "75b0b9fa8ca2",
+  "type": "display",
+  "latex": "\\Delta V_i = \\Phi_0 \\cdot \\nu_{si}",
+  "metadata": {
+    "db_key": "5695",
+    "src": "images/formula_full_351_4_0.webp",
+    "equation_number": "(20.5)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 6043
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5695\" data-src=\"images/formula_full_351_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_i = \\Phi_0 \\cdot \\nu_{si}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.5)\n</div>\n</div>"
+}

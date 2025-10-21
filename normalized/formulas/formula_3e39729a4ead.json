@@ -1,0 +1,15 @@
+{
+  "id": "3e39729a4ead",
+  "type": "display",
+  "latex": "n_R = R_0 / R_s = 15,48574",
+  "metadata": {
+    "db_key": "8065",
+    "src": "images/formula_full_540_3_0.webp",
+    "equation_number": "(34.31)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 31031
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8065\" data-src=\"images/formula_full_540_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_R = R_0 / R_s = 15,48574$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.31)\n</div>\n</div>"
+}

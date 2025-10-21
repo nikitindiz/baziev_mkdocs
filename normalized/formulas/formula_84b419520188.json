@@ -1,0 +1,15 @@
+{
+  "id": "84b419520188",
+  "type": "display",
+  "latex": "\\sigma_{\\odot} = \\frac{\\eta_{\\odot} \\cdot V_{\\odot}}{L_{\\odot}} = \\frac{\\eta_{\\odot} {4\\pi R_\\odot^3}/{3}}{4\\pi A_0^2 \\cdot S_0} = \\frac{\\eta_{\\odot} \\cdot R_\\odot^3}{3A_0^2 \\cdot S_{\\odot}}, \\quad \\text{м}^3/\\text{Вт}",
+  "metadata": {
+    "db_key": "7312",
+    "src": "images/formula_full_472_22.webp",
+    "equation_number": "(26.40)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 37762
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7312\" data-src=\"images/formula_full_472_22.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sigma_{\\odot} = \\frac{\\eta_{\\odot} \\cdot V_{\\odot}}{L_{\\odot}} = \\frac{\\eta_{\\odot} {4\\pi R_\\odot^3}/{3}}{4\\pi A_0^2 \\cdot S_0} = \\frac{\\eta_{\\odot} \\cdot R_\\odot^3}{3A_0^2 \\cdot S_{\\odot}}, \\quad \\text{м}^3/\\text{Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.40)\n</div>\n</div>"
+}

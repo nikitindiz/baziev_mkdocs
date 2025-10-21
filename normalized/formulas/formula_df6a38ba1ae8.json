@@ -1,0 +1,15 @@
+{
+  "id": "df6a38ba1ae8",
+  "type": "display",
+  "latex": "\\gamma_i = 1/\\rho_i = \\frac{8 \\cdot r_i}{R_0 \\cdot A_i^2}, A \\cdot В^{-1} \\cdot м^{-1} = См \\cdot м^{-1}",
+  "metadata": {
+    "db_key": "5747",
+    "src": "images/formula_full_354_16.webp",
+    "equation_number": "(20.27)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 19532
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5747\" data-src=\"images/formula_full_354_16.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_i = 1/\\rho_i = \\frac{8 \\cdot r_i}{R_0 \\cdot A_i^2}, A \\cdot В^{-1} \\cdot м^{-1} = См \\cdot м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.27)\n</div>\n</div>"
+}

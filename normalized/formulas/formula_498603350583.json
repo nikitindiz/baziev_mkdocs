@@ -1,0 +1,15 @@
+{
+  "id": "498603350583",
+  "type": "inline",
+  "latex": "C_1N_2 = (\\Delta X_1 + \\Delta X_2 + \\Delta X_3) = X",
+  "metadata": {
+    "db_key": "3100",
+    "src": "images/formula_inline_197_10_35.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 205522
+  },
+  "wrapper_html": "<span data-db-key=\"3100\" data-src=\"images/formula_inline_197_10_35.webp\"> $C_1N_2 = (\\Delta X_1 + \\Delta X_2 + \\Delta X_3) = X$ </span>"
+}

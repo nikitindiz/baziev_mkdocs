@@ -1,0 +1,15 @@
+{
+  "id": "f22d230b8f13",
+  "type": "display",
+  "latex": "m_s = \\gamma^ж \\cdot m^п = \\gamma^ж \\cdot \\gamma^п \\cdot m_0 = 1,1251539 \\cdot 10^{-22} кг",
+  "metadata": {
+    "db_key": "4530",
+    "src": "images/formula_full_278_5_0.webp",
+    "equation_number": "(17.5)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 5378
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4530\" data-src=\"images/formula_full_278_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_s = \\gamma^ж \\cdot m^п = \\gamma^ж \\cdot \\gamma^п \\cdot m_0 = 1,1251539 \\cdot 10^{-22} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.5)\n</div>\n</div>"
+}

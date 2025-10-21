@@ -1,0 +1,15 @@
+{
+  "id": "1ad2d4b5ee35",
+  "type": "inline",
+  "latex": "10^{-6}",
+  "metadata": {
+    "db_key": "6622",
+    "src": "images/formula_inline_413_5_57.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 8001
+  },
+  "wrapper_html": "<span data-db-key=\"6622\" data-src=\"images/formula_inline_413_5_57.webp\"> $10^{-6}$ </span>"
+}

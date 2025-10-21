@@ -1,0 +1,15 @@
+{
+  "id": "9189d2177c91",
+  "type": "display",
+  "latex": "Q_{Au} = Q_{\\lambda} + q_{Au} = -2,1050599 \\cdot 10^{-18} \\ Кл",
+  "metadata": {
+    "db_key": "4173",
+    "src": "images/formula_full_256_18_0.webp",
+    "equation_number": "(15.45)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 56417
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4173\" data-src=\"images/formula_full_256_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{Au} = Q_{\\lambda} + q_{Au} = -2,1050599 \\cdot 10^{-18} \\ Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.45)\n</div>\n</div>"
+}

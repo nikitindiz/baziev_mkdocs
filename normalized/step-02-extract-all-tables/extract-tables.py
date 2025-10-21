@@ -96,10 +96,10 @@ class HTMLTableParser(HTMLParser):
 class TableExtractor:
     """Extracts tables from markdown files"""
     
-    def __init__(self, input_dir: str, output_dir: str):
+    def __init__(self, input_dir: str, output_dir: str, tables_dir: str):
         self.input_dir = Path(input_dir)
         self.output_dir = Path(output_dir)
-        self.tables_dir = self.output_dir / "tables"
+        self.tables_dir = Path(tables_dir)
         self.result_dir = self.output_dir / "result"
         
         # Ensure directories exist
@@ -458,12 +458,16 @@ def main():
     """Main entry point"""
     # Get script directory
     script_dir = Path(__file__).parent
+    normalized_dir = script_dir.parent
     
     # Input: result from step-01
     input_dir = script_dir.parent / "step-01-extract-all-formulas" / "result"
     
     # Output: current directory
     output_dir = script_dir
+    
+    # Tables: normalized directory
+    tables_dir = normalized_dir / "tables"
     
     # Validate input directory exists
     if not input_dir.exists():
@@ -472,7 +476,7 @@ def main():
         return 1
     
     # Create extractor and run
-    extractor = TableExtractor(str(input_dir), str(output_dir))
+    extractor = TableExtractor(str(input_dir), str(output_dir), str(tables_dir))
     extractor.process_all()
     
     return 0

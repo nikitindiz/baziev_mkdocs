@@ -1,0 +1,15 @@
+{
+  "id": "f54cd669c010",
+  "type": "display",
+  "latex": "B_i = H_i \\mu_i = H_i \\mu_0 \\mu_i' = \\frac{V_i \\cdot \\varepsilon_0 \\cdot \\mu_0}{n_i}",
+  "metadata": {
+    "db_key": "5384",
+    "src": "images/formula_full_333_20.webp",
+    "equation_number": "(19.46)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 39342
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5384\" data-src=\"images/formula_full_333_20.webp\">\n<div style=\"width: 100%;\">\n\n$$B_i = H_i \\mu_i = H_i \\mu_0 \\mu_i' = \\frac{V_i \\cdot \\varepsilon_0 \\cdot \\mu_0}{n_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.46)\n</div>\n</div>"
+}

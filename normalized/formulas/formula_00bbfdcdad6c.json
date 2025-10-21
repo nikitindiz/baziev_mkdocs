@@ -1,0 +1,15 @@
+{
+  "id": "00bbfdcdad6c",
+  "type": "inline",
+  "latex": "E = m \\cdot (\\overline{v_1})^2 / 2 = 6292,2815 \\ Дж",
+  "metadata": {
+    "db_key": "2098",
+    "src": "images/formula_inline_136_7_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 6102
+  },
+  "wrapper_html": "<span data-db-key=\"2098\" data-src=\"images/formula_inline_136_7_1.webp\"> $E = m \\cdot (\\overline{v_1})^2 / 2 = 6292,2815 \\ Дж$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "095f7134c1ce",
+  "type": "inline",
+  "latex": "\\rho_{\\mu \\oplus} = 2,75 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^3",
+  "metadata": {
+    "db_key": "2295",
+    "src": "images/formula_inline_149_2_14.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 40943
+  },
+  "wrapper_html": "<span data-db-key=\"2295\" data-src=\"images/formula_inline_149_2_14.webp\"> $\\rho_{\\mu \\oplus} = 2,75 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^3$ </span>"
+}

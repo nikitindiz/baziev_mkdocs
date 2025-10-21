@@ -147,9 +147,9 @@ class NormalizationPipeline:
             print()
             print("Output locations:")
             print(f"  - Final normalized content: {self.base_dir / 'step-03-extract-all-illustrations' / 'result'}")
-            print(f"  - Extracted formulas:       {self.base_dir / 'step-01-extract-all-formulas' / 'formulas'}")
-            print(f"  - Extracted tables:         {self.base_dir / 'step-02-extract-all-tables' / 'tables'}")
-            print(f"  - Extracted illustrations:  {self.base_dir / 'step-03-extract-all-illustrations' / 'illustrations'}")
+            print(f"  - Extracted formulas:       {self.base_dir / 'formulas'}")
+            print(f"  - Extracted tables:         {self.base_dir / 'tables'}")
+            print(f"  - Extracted illustrations:  {self.base_dir / 'illustrations'}")
             print()
             return 0
 

@@ -1,0 +1,15 @@
+{
+  "id": "5ab3ea0938f1",
+  "type": "inline",
+  "latex": "n_i",
+  "metadata": {
+    "db_key": "9197",
+    "src": "images/formula_inline_626_1_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 6826
+  },
+  "wrapper_html": "<span data-db-key=\"9197\" data-src=\"images/formula_inline_626_1_1.webp\"> $n_i$ </span>"
+}

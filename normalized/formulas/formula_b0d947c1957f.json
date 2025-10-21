@@ -1,0 +1,15 @@
+{
+  "id": "b0d947c1957f",
+  "type": "display",
+  "latex": "u_s(r) = f_0 \\cdot r_s(h) = 2{,}047621 \\cdot 10^{-3} \\, \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "4713",
+    "src": "images/formula_full_289_3_0.webp",
+    "equation_number": "(17.79)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 48178
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4713\" data-src=\"images/formula_full_289_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_s(r) = f_0 \\cdot r_s(h) = 2{,}047621 \\cdot 10^{-3} \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.79)\n</div>\n</div>"
+}

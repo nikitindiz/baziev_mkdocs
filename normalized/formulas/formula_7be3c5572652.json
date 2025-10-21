@@ -1,0 +1,15 @@
+{
+  "id": "7be3c5572652",
+  "type": "inline",
+  "latex": "a_i",
+  "metadata": {
+    "db_key": "7252",
+    "src": "images/formula_inline_467_0_65.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 12455
+  },
+  "wrapper_html": "<span data-db-key=\"7252\" data-src=\"images/formula_inline_467_0_65.webp\"> $a_i$ </span>"
+}

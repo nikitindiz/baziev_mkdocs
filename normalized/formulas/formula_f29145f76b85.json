@@ -1,0 +1,15 @@
+{
+  "id": "f29145f76b85",
+  "type": "inline",
+  "latex": "E_n = 5.4608428 \\cdot 10^{-13} \\text{ ДЖ}",
+  "metadata": {
+    "db_key": "1381",
+    "src": "images/formula_inline_96_0_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 35270
+  },
+  "wrapper_html": "<span data-db-key=\"1381\" data-src=\"images/formula_inline_96_0_0.webp\"> $E_n = 5.4608428 \\cdot 10^{-13} \\text{ ДЖ}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9f4fe34798c0",
+  "type": "inline",
+  "latex": "R_э",
+  "metadata": {
+    "db_key": "9148",
+    "src": "images/formula_inline_625_0_139.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 3298
+  },
+  "wrapper_html": "<span data-db-key=\"9148\" data-src=\"images/formula_inline_625_0_139.webp\"> $R_э$ </span>"
+}

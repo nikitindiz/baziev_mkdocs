@@ -1,0 +1,15 @@
+{
+  "id": "8d2f6166ff8f",
+  "type": "display",
+  "latex": "n_f = l_{ед} / 2\\lambda_f = 1 \\text{м} / 8 \\cdot 10^{-7} \\text{м} = 1,25 \\cdot 10^6",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 22676
+  },
+  "wrapper_html": null
+}

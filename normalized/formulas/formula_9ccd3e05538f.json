@@ -1,0 +1,15 @@
+{
+  "id": "9ccd3e05538f",
+  "type": "inline",
+  "latex": "\\Delta \\tau_{1} = -4 \\cdot 10^{-4} \\, с",
+  "metadata": {
+    "db_key": "7911",
+    "src": "images/formula_inline_527_7_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/index.md",
+    "position": 8852
+  },
+  "wrapper_html": "<span data-db-key=\"7911\" data-src=\"images/formula_inline_527_7_23.webp\"> $\\Delta \\tau_{1} = -4 \\cdot 10^{-4} \\, с$ </span>"
+}

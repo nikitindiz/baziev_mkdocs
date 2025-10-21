@@ -1,0 +1,15 @@
+{
+  "id": "7ce707446c32",
+  "type": "display",
+  "latex": "u_\\odot = \\frac{a_1 \\cdot c_1}{T_1} = \\frac{a_2 \\cdot c_2}{T_2} = \\cdots \\frac{a_n \\cdot c_n}{T_n} = \\text{Const}",
+  "metadata": {
+    "db_key": "2215",
+    "src": "images/formula_full_145_10.webp",
+    "equation_number": "(12.46)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 41944
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2215\" data-src=\"images/formula_full_145_10.webp\">\n<div style=\"width: 100%;\">\n\n$$u_\\odot = \\frac{a_1 \\cdot c_1}{T_1} = \\frac{a_2 \\cdot c_2}{T_2} = \\cdots \\frac{a_n \\cdot c_n}{T_n} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.46)\n</div>\n</div>"
+}

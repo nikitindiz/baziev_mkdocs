@@ -1,0 +1,15 @@
+{
+  "id": "7b1d4bbb9912",
+  "type": "inline",
+  "latex": "t = 15\\degree C",
+  "metadata": {
+    "db_key": "6518",
+    "src": "images/formula_inline_403_4_17.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 44464
+  },
+  "wrapper_html": "<span data-db-key=\"6518\" data-src=\"images/formula_inline_403_4_17.webp\"> $t = 15\\degree C$ </span>"
+}
