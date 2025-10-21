@@ -11,6 +11,11 @@ Step 04: Parse Missed DB Keys and SRC
 {{formula:c6fed30764ee}}
 </div>
 
+или с номером уравнения:
+<div data-db-key="373" data-src="images/formula_inline_26_6_18.webp">
+{{formula:23a2b22034d4:(4.23)}}
+</div>
+
 Задача:
 1. Скопировать файлы из step-03/result в step-04/result
 2. Найти все такие div-обёртки в новых файлах
@@ -30,20 +35,27 @@ from typing import Dict, Tuple, Optional
 def find_div_wrappers(content: str) -> list:
     """
     Находит все div-обёртки с data-db-key/data-src вокруг формул.
+    Поддерживает формулы с номером уравнения и без.
     
     Returns:
-        List of tuples: (full_match, db_key, src, formula_id)
+        List of tuples: (full_match, db_key, src, formula_ref)
     """
     # Паттерн для div с метаданными, содержащий ссылку на формулу
-    pattern = r'<div\s+data-db-key="([^"]+)"\s+data-src="([^"]+)">\s*\{\{formula:([a-f0-9]{12})\}\}\s*</div>'
+    # Поддерживает {{formula:ID}} и {{formula:ID:(X.Y)}}
+    pattern = r'<div\s+data-db-key="([^"]+)"\s+data-src="([^"]+)">\s*(\{\{formula:[a-f0-9]{12}(?::\([^)]+\))?\}\})\s*</div>'
     
     matches = []
     for match in re.finditer(pattern, content, re.DOTALL):
         full_match = match.group(0)
         db_key = match.group(1)
         src = match.group(2)
-        formula_id = match.group(3)
-        matches.append((full_match, db_key, src, formula_id))
+        formula_ref = match.group(3)  # Полная ссылка с возможным номером
+        
+        # Извлекаем ID формулы из ссылки
+        formula_id_match = re.search(r'formula:([a-f0-9]{12})', formula_ref)
+        if formula_id_match:
+            formula_id = formula_id_match.group(1)
+            matches.append((full_match, db_key, src, formula_id, formula_ref))
     
     return matches
 
@@ -99,14 +111,13 @@ def process_file(file_path: Path, formulas_dir: Path) -> Tuple[int, int]:
     modified_content = content
     
     # Обрабатываем в обратном порядке, чтобы сохранить позиции
-    for full_match, db_key, src, formula_id in reversed(wrappers):
+    for full_match, db_key, src, formula_id, formula_ref in reversed(wrappers):
         # Обновляем JSON формулы
         if update_formula_json(formula_id, db_key, src, formulas_dir):
             updated_count += 1
-            print(f"   ✓ formula_{formula_id}: db_key={db_key}, src={src}")
+            print(f"   ✓ {formula_ref}: db_key={db_key}, src={src}")
         
-        # Заменяем div-обёртку на просто ссылку
-        formula_ref = f"{{{{formula:{formula_id}}}}}"
+        # Заменяем div-обёртку на просто ссылку (сохраняя номер уравнения если есть)
         modified_content = modified_content.replace(full_match, formula_ref)
     
     # Сохраняем изменённый файл
