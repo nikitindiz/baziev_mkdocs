@@ -1,0 +1,15 @@
+{
+  "id": "a35d6171b382",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\nI_i &= G \\cdot m_i \\\\\nI_i &= R_i^2 \\cdot g_i\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "2217",
+    "src": "images/formula_full_145_14.webp",
+    "equation_number": "(12.48)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 42779
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2217\" data-src=\"images/formula_full_145_14.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nI_i &= G \\cdot m_i \\\\\nI_i &= R_i^2 \\cdot g_i\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.48)\n</div>\n</div>"
+}

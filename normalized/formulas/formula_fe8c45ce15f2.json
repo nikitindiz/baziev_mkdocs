@@ -1,0 +1,15 @@
+{
+  "id": "fe8c45ce15f2",
+  "type": "display",
+  "latex": "P_{71}=k_{\\odot} T_{71} \\cdot N_{71}=4,3290113 \\cdot 10^{18} \\, Па",
+  "metadata": {
+    "db_key": "7380",
+    "src": "images/formula_full_476_2_0.webp",
+    "equation_number": "(26.62)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 51801
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7380\" data-src=\"images/formula_full_476_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{71}=k_{\\odot} T_{71} \\cdot N_{71}=4,3290113 \\cdot 10^{18} \\, Па$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.62)\n</div>\n</div>"
+}

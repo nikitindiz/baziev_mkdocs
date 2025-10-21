@@ -1,0 +1,15 @@
+{
+  "id": "5faca617ebf1",
+  "type": "display",
+  "latex": "E_{s0} = \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot q}{V_{s0}} + \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot z}{V_{s0}} + \\frac{n^ж \\cdot k_0^ж \\cdot T_0}{V_{s0}}, \\text{Па}",
+  "metadata": {
+    "db_key": "4606",
+    "src": "images/formula_full_283_6.webp",
+    "equation_number": "(17.35)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 23761
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4606\" data-src=\"images/formula_full_283_6.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0} = \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot q}{V_{s0}} + \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot z}{V_{s0}} + \\frac{n^ж \\cdot k_0^ж \\cdot T_0}{V_{s0}}, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.35)\n</div>\n</div>"
+}

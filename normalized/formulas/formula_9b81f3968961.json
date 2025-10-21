@@ -1,0 +1,15 @@
+{
+  "id": "9b81f3968961",
+  "type": "display",
+  "latex": "V_1 = \\frac{m}{\\rho_1} = \\frac{4,1211528 \\cdot 10^{-26}}{3,465 \\cdot 10^{3}} = 1,1893658 \\cdot 10^{-29} \\text{м}^3",
+  "metadata": {
+    "db_key": "7012",
+    "src": "images/formula_full_447_10.webp",
+    "equation_number": "(23.171)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 194101
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7012\" data-src=\"images/formula_full_447_10.webp\">\n<div style=\"width: 100%;\">\n\n$$V_1 = \\frac{m}{\\rho_1} = \\frac{4,1211528 \\cdot 10^{-26}}{3,465 \\cdot 10^{3}} = 1,1893658 \\cdot 10^{-29} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.171)\n</div>\n</div>"
+}

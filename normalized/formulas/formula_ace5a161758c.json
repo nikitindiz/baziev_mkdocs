@@ -1,0 +1,15 @@
+{
+  "id": "ace5a161758c",
+  "type": "inline",
+  "latex": "T_{\\odot} = 5 \\cdot 10^9",
+  "metadata": {
+    "db_key": "7856",
+    "src": "images/formula_inline_524_10_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 13512
+  },
+  "wrapper_html": "<span data-db-key=\"7856\" data-src=\"images/formula_inline_524_10_12.webp\"> $T_{\\odot} = 5 \\cdot 10^9$ </span>"
+}

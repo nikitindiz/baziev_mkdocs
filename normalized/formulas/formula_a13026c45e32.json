@@ -1,0 +1,15 @@
+{
+  "id": "a13026c45e32",
+  "type": "inline",
+  "latex": "P_{m,n} = -1,91314 \\cdot \\mu_{я}",
+  "metadata": {
+    "db_key": "182",
+    "src": "images/formula_inline_13_5_31.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 454
+  },
+  "wrapper_html": "<span data-db-key=\"182\" data-src=\"images/formula_inline_13_5_31.webp\"> $P_{m,n} = -1,91314 \\cdot \\mu_{я}$ </span>"
+}

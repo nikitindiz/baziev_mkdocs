@@ -1,0 +1,15 @@
+{
+  "id": "d9caf1c30e9a",
+  "type": "inline",
+  "latex": "\\sin I = 1",
+  "metadata": {
+    "db_key": "7063",
+    "src": "images/formula_inline_449_15_8.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 162377
+  },
+  "wrapper_html": "<span data-db-key=\"7063\" data-src=\"images/formula_inline_449_15_8.webp\"> $\\sin I = 1$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "92aa6cd3ee34",
+  "type": "display",
+  "latex": "\\varepsilon_q = \\frac{1}{2} \\alpha \\cdot q_{\\lambda} \\cdot q_{\\lambda} = \\alpha \\cdot q_{\\lambda}^2 / 2 = 8,0231385 \\cdot 10^{-22} \\text{ Дж} = \\text{Const}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 13073
+  },
+  "wrapper_html": null
+}

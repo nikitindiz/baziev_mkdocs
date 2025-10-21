@@ -1,0 +1,15 @@
+{
+  "id": "888117c73d19",
+  "type": "display",
+  "latex": "q_{O_2}(m) = \\frac{q_{O_2}}{\\rho_{O_2}} = \\frac{1,7870572 \\cdot 10^7}{1,42895 \\text{ кг} \\cdot \\text{м}^{-3}} = 1,2506086 \\cdot 10^7 \\text{ Дж} \\cdot \\text{кг}^{-1}",
+  "metadata": {
+    "db_key": "3431",
+    "src": "images/formula_full_214_2.webp",
+    "equation_number": "(4.15)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 11687
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3431\" data-src=\"images/formula_full_214_2.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{O_2}(m) = \\frac{q_{O_2}}{\\rho_{O_2}} = \\frac{1,7870572 \\cdot 10^7}{1,42895 \\text{ кг} \\cdot \\text{м}^{-3}} = 1,2506086 \\cdot 10^7 \\text{ Дж} \\cdot \\text{кг}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.15)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "14d7bad84c9f",
+  "type": "inline",
+  "latex": "P = 1,5 \\cdot 10^{10}",
+  "metadata": {
+    "db_key": "6853",
+    "src": "images/formula_inline_433_1_36.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 89507
+  },
+  "wrapper_html": "<span data-db-key=\"6853\" data-src=\"images/formula_inline_433_1_36.webp\"> $P = 1,5 \\cdot 10^{10}$ </span>"
+}

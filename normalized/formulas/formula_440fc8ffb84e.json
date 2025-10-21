@@ -1,0 +1,15 @@
+{
+  "id": "440fc8ffb84e",
+  "type": "display",
+  "latex": "n_f (Г) = \\frac{3 \\cdot 6,3245553 \\cdot 10^4}{4,1353091 \\cdot 10^{-9}} = 4,5882096 \\cdot 10^{13} \\, \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "2921",
+    "src": "images/formula_full_186_10.webp",
+    "equation_number": "(13.121)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 190271
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2921\" data-src=\"images/formula_full_186_10.webp\">\n<div style=\"width: 100%;\">\n\n$$n_f (Г) = \\frac{3 \\cdot 6,3245553 \\cdot 10^4}{4,1353091 \\cdot 10^{-9}} = 4,5882096 \\cdot 10^{13} \\, \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.121)\n</div>\n</div>"
+}

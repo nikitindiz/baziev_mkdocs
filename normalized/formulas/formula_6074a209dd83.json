@@ -1,0 +1,15 @@
+{
+  "id": "6074a209dd83",
+  "type": "inline",
+  "latex": "e = -1,6021892 \\cdot 10^{-19} \\text{ Кл}",
+  "metadata": {
+    "db_key": "6659",
+    "src": "images/formula_inline_418_4_35.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 4596
+  },
+  "wrapper_html": "<span data-db-key=\"6659\" data-src=\"images/formula_inline_418_4_35.webp\"> $e = -1,6021892 \\cdot 10^{-19} \\text{ Кл}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a709f86fbdc5",
+  "type": "display",
+  "latex": "\\beta = (\\pi/2 - \\alpha) = 0\\degree 0' 11,''56",
+  "metadata": {
+    "db_key": "5858",
+    "src": "images/formula_full_360_2_0.webp",
+    "equation_number": "(20.65)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 43398
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5858\" data-src=\"images/formula_full_360_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\beta = (\\pi/2 - \\alpha) = 0\\degree 0' 11,''56$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.65)\n</div>\n</div>"
+}

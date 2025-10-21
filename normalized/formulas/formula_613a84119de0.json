@@ -1,0 +1,15 @@
+{
+  "id": "613a84119de0",
+  "type": "display",
+  "latex": "S_3 = \\pi \\Delta d^2 / 4 = 2,5236247 \\cdot 10^{-17} м^2",
+  "metadata": {
+    "db_key": "4957",
+    "src": "images/formula_full_303_8_0.webp",
+    "equation_number": "(18.54)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 36407
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4957\" data-src=\"images/formula_full_303_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_3 = \\pi \\Delta d^2 / 4 = 2,5236247 \\cdot 10^{-17} м^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.54)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "52471cd51613",
+  "type": "inline",
+  "latex": "V_2 = a_2^3",
+  "metadata": {
+    "db_key": "6022",
+    "src": "images/formula_inline_368_9_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 64853
+  },
+  "wrapper_html": "<span data-db-key=\"6022\" data-src=\"images/formula_inline_368_9_9.webp\"> $V_2 = a_2^3$ </span>"
+}

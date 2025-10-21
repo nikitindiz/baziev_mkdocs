@@ -1,0 +1,15 @@
+{
+  "id": "8ff6efe5eb03",
+  "type": "inline",
+  "latex": "n_э = 2{,}418 \\cdot 10^8",
+  "metadata": {
+    "db_key": "6144",
+    "src": "images/formula_inline_375_3_79.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 85390
+  },
+  "wrapper_html": "<span data-db-key=\"6144\" data-src=\"images/formula_inline_375_3_79.webp\"> $n_э = 2{,}418 \\cdot 10^8$ </span>"
+}

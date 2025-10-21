@@ -1,0 +1,15 @@
+{
+  "id": "3d571e416ebf",
+  "type": "display",
+  "latex": "\\Delta Q = (e + \\Delta q) = e - 2,272938 \\cdot 10^{-20} \\, Кл",
+  "metadata": {
+    "db_key": "7633",
+    "src": "images/formula_inline_507_1_1.webp",
+    "equation_number": "(30.3)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 10012
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7633\" data-src=\"images/formula_inline_507_1_1.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q = (e + \\Delta q) = e - 2,272938 \\cdot 10^{-20} \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.3)\n</div>\n</div>"
+}

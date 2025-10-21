@@ -1,0 +1,15 @@
+{
+  "id": "27b7175b125c",
+  "type": "display",
+  "latex": "W = \\frac{L_{э} \\cdot \\omega \\cdot n_{m} \\cdot n_{p} \\cdot k_{m}}{\\tau} = 1,333 3333 \\cdot 10^8 \\text{ Вт}",
+  "metadata": {
+    "db_key": "6305",
+    "src": "images/formula_full_388_10.webp",
+    "equation_number": "(21.31)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 16579
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6305\" data-src=\"images/formula_full_388_10.webp\">\n<div style=\"width: 100%;\">\n\n$$W = \\frac{L_{э} \\cdot \\omega \\cdot n_{m} \\cdot n_{p} \\cdot k_{m}}{\\tau} = 1,333 3333 \\cdot 10^8 \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.31)\n</div>\n</div>"
+}

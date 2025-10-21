@@ -1,0 +1,15 @@
+{
+  "id": "1831cd05998a",
+  "type": "display",
+  "latex": "V_0 = \\frac{V_{т 0}^\\text{ж}}{\\gamma^\\text{п}} = \\frac{6,0082018 \\cdot 10^{-29}}{3} = 2,0027339 \\cdot 10^{-29} \\text{ м}^3",
+  "metadata": {
+    "db_key": "4559",
+    "src": "images/formula_full_280_7.webp",
+    "equation_number": "(17.15)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 11253
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4559\" data-src=\"images/formula_full_280_7.webp\">\n<div style=\"width: 100%;\">\n\n$$V_0 = \\frac{V_{т 0}^\\text{ж}}{\\gamma^\\text{п}} = \\frac{6,0082018 \\cdot 10^{-29}}{3} = 2,0027339 \\cdot 10^{-29} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.15)\n</div>\n</div>"
+}

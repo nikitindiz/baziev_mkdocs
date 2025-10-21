@@ -1,0 +1,15 @@
+{
+  "id": "a7c3440a8019",
+  "type": "inline",
+  "latex": "n_э(s) = d_n^2 / R_э^2 \\cdot (1 + \\gamma)",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_приложение-2-фундаментальные-константы-единой-теории-физики/index.md",
+    "position": 13675
+  },
+  "wrapper_html": null
+}

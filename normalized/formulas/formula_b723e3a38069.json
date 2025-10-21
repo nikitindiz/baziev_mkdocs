@@ -1,0 +1,15 @@
+{
+  "id": "b723e3a38069",
+  "type": "display",
+  "latex": "u_{0}=\\frac{k_{0}^ж \\cdot T_{0}}{m_{0} v_{0}}=\\frac{1,2388641 \\cdot 10^{-22}}{1,0291714 \\cdot 10^{-23}}=12,03749 \\ м \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "4666",
+    "src": "images/formula_full_286_18.webp",
+    "equation_number": "(17.54)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 38101
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4666\" data-src=\"images/formula_full_286_18.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{0}=\\frac{k_{0}^ж \\cdot T_{0}}{m_{0} v_{0}}=\\frac{1,2388641 \\cdot 10^{-22}}{1,0291714 \\cdot 10^{-23}}=12,03749 \\ м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.54)\n</div>\n</div>"
+}

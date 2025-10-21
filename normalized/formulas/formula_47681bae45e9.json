@@ -1,0 +1,15 @@
+{
+  "id": "47681bae45e9",
+  "type": "display",
+  "latex": "u_{\\downarrow} = \\frac{r_i \\cdot f_1 \\cdot d_{g1}^3}{3d_{g2}^3}",
+  "metadata": {
+    "db_key": "668",
+    "src": "images/formula_full_48_12.webp",
+    "equation_number": "(6.39)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 46658
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"668\" data-src=\"images/formula_full_48_12.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\downarrow} = \\frac{r_i \\cdot f_1 \\cdot d_{g1}^3}{3d_{g2}^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.39)\n</div>\n</div>"
+}

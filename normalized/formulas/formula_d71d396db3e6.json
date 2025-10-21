@@ -1,0 +1,15 @@
+{
+  "id": "d71d396db3e6",
+  "type": "display",
+  "latex": "M_{N\\odot} = M_{n\\odot} + M_{N1} = 1,7897143 \\cdot 10^{30} \\, \\text{ кг}",
+  "metadata": {
+    "db_key": "7473",
+    "src": "images/formula_full_483_9_0.webp",
+    "equation_number": "(27.13)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
+    "position": 13913
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7473\" data-src=\"images/formula_full_483_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_{N\\odot} = M_{n\\odot} + M_{N1} = 1,7897143 \\cdot 10^{30} \\, \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.13)\n</div>\n</div>"
+}

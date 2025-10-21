@@ -1,0 +1,15 @@
+{
+  "id": "338b964b3324",
+  "type": "inline",
+  "latex": "X = +1.02 \\cdot 10^{4} \\, {м \\cdot с^{-1}}",
+  "metadata": {
+    "db_key": "8506",
+    "src": "images/formula_inline_570_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
+    "position": 8393
+  },
+  "wrapper_html": "<span data-db-key=\"8506\" data-src=\"images/formula_inline_570_8_0.webp\"> $X = +1.02 \\cdot 10^{4} \\, {м \\cdot с^{-1}}$ </span>"
+}

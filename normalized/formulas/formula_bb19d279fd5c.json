@@ -1,0 +1,15 @@
+{
+  "id": "bb19d279fd5c",
+  "type": "display",
+  "latex": "V_{g c}=2 m^{п} / \\rho_{c}=m_{c} / \\rho_{c}=5,6091604 \\cdot 10^{-28} м^3",
+  "metadata": {
+    "db_key": "5152",
+    "src": "images/formula_full_317_13_0.webp",
+    "equation_number": "(18.166)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 92638
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5152\" data-src=\"images/formula_full_317_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g c}=2 m^{п} / \\rho_{c}=m_{c} / \\rho_{c}=5,6091604 \\cdot 10^{-28} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.166)\n</div>\n</div>"
+}

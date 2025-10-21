@@ -1,0 +1,15 @@
+{
+  "id": "e0649cf845b7",
+  "type": "inline",
+  "latex": "\\Delta a_x = a_{cx}/2, \\Delta a_y = a_{cy}/2",
+  "metadata": {
+    "db_key": "5977",
+    "src": "images/formula_inline_366_6_50.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 57561
+  },
+  "wrapper_html": "<span data-db-key=\"5977\" data-src=\"images/formula_inline_366_6_50.webp\"> $\\Delta a_x = a_{cx}/2, \\Delta a_y = a_{cy}/2$ </span>"
+}

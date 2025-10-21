@@ -1,0 +1,15 @@
+{
+  "id": "e57569ce6976",
+  "type": "inline",
+  "latex": "30R_{\\odot}",
+  "metadata": {
+    "db_key": "7709",
+    "src": "images/formula_inline_512_5_98.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 30082
+  },
+  "wrapper_html": "<span data-db-key=\"7709\" data-src=\"images/formula_inline_512_5_98.webp\"> $30R_{\\odot}$ </span>"
+}

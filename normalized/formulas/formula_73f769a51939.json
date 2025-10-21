@@ -1,0 +1,15 @@
+{
+  "id": "73f769a51939",
+  "type": "display",
+  "latex": "\\Delta n = \\sqrt{3,0536963/3} = 1,0089097",
+  "metadata": {
+    "db_key": "4350",
+    "src": "images/formula_full_267_2_0.webp",
+    "equation_number": "(16.12)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 18707
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4350\" data-src=\"images/formula_full_267_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n = \\sqrt{3,0536963/3} = 1,0089097$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.12)\n</div>\n</div>"
+}

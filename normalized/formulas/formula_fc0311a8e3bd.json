@@ -1,0 +1,15 @@
+{
+  "id": "fc0311a8e3bd",
+  "type": "inline",
+  "latex": "i = 1, 2, 3...n_{max}",
+  "metadata": {
+    "db_key": "644",
+    "src": "images/formula_inline_46_2_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 29858
+  },
+  "wrapper_html": "<span data-db-key=\"644\" data-src=\"images/formula_inline_46_2_4.webp\"> $i = 1, 2, 3...n_{max}$ </span>"
+}

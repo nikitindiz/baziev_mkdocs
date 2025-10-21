@@ -1,0 +1,15 @@
+{
+  "id": "acd97e0bdde1",
+  "type": "inline",
+  "latex": "u_i = r_i \\cdot n_i",
+  "metadata": {
+    "db_key": "101",
+    "src": "images/formula_inline_7_14_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 3727
+  },
+  "wrapper_html": "<span data-db-key=\"101\" data-src=\"images/formula_inline_7_14_4.webp\"> $u_i = r_i \\cdot n_i$ </span>"
+}

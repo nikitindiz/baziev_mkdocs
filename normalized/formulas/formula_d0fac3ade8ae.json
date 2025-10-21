@@ -1,0 +1,15 @@
+{
+  "id": "d0fac3ade8ae",
+  "type": "inline",
+  "latex": "V_a = a \\cdot \\pi \\cdot d_n^3 / 6",
+  "metadata": {
+    "db_key": "375",
+    "src": "images/formula_inline_26_6_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 15096
+  },
+  "wrapper_html": "<span data-db-key=\"375\" data-src=\"images/formula_inline_26_6_7.webp\"> $V_a = a \\cdot \\pi \\cdot d_n^3 / 6$ </span>"
+}

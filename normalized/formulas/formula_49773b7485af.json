@@ -1,0 +1,15 @@
+{
+  "id": "49773b7485af",
+  "type": "display",
+  "latex": "\\varphi_{\\oplus}'=\\frac{\\varphi_{Al} \\cdot R_{\\oplus}}{r_{c}'}=\\frac{-8,0691101 \\cdot 10^{-1} \\cdot 6,3710037 \\cdot 10^{6}}{10 \\, м}=-5,140833 \\cdot 10^{5} \\, В",
+  "metadata": {
+    "db_key": "6149",
+    "src": "images/formula_full_376_8_0.webp",
+    "equation_number": "(20.131)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 122070
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6149\" data-src=\"images/formula_full_376_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{\\oplus}'=\\frac{\\varphi_{Al} \\cdot R_{\\oplus}}{r_{c}'}=\\frac{-8,0691101 \\cdot 10^{-1} \\cdot 6,3710037 \\cdot 10^{6}}{10 \\, м}=-5,140833 \\cdot 10^{5} \\, В$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.131)\n</div>\n</div>"
+}

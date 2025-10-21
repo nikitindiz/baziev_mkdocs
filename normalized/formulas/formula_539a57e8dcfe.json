@@ -1,0 +1,15 @@
+{
+  "id": "539a57e8dcfe",
+  "type": "display",
+  "latex": "\\Delta V = m_{71} / \\rho_n = 2,1194037 \\cdot 10^{-28} \\ м^3",
+  "metadata": {
+    "db_key": "7784",
+    "src": "images/formula_full_520_4_0.webp",
+    "equation_number": "(32.3)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 3970
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7784\" data-src=\"images/formula_full_520_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V = m_{71} / \\rho_n = 2,1194037 \\cdot 10^{-28} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.3)\n</div>\n</div>"
+}

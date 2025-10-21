@@ -1,0 +1,15 @@
+{
+  "id": "6e050e4488df",
+  "type": "inline",
+  "latex": "\\sqrt{n_c} = \\sqrt{2,24} = 1,4966629 = n_A",
+  "metadata": {
+    "db_key": "6086",
+    "src": "images/formula_inline_372_0_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 75468
+  },
+  "wrapper_html": "<span data-db-key=\"6086\" data-src=\"images/formula_inline_372_0_4.webp\"> $\\sqrt{n_c} = \\sqrt{2,24} = 1,4966629 = n_A$ </span>"
+}

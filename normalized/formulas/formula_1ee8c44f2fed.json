@@ -1,0 +1,15 @@
+{
+  "id": "1ee8c44f2fed",
+  "type": "display",
+  "latex": "I_{\\odot} = a_i^3 \\cdot n_i^2 = u_i a_i^2 \\cdot n_i = \\text{Const}",
+  "metadata": {
+    "db_key": "8294",
+    "src": "images/formula_inline_555_10_0.webp",
+    "equation_number": "(36.3)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 1876
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8294\" data-src=\"images/formula_inline_555_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = a_i^3 \\cdot n_i^2 = u_i a_i^2 \\cdot n_i = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.3)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8d9cefbb67f0",
+  "type": "inline",
+  "latex": "= f(\\alpha, n)",
+  "metadata": {
+    "db_key": "1785",
+    "src": "images/formula_inline_121_6_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 10738
+  },
+  "wrapper_html": "<span data-db-key=\"1785\" data-src=\"images/formula_inline_121_6_0.webp\"> $= f(\\alpha, n)$ </span>"
+}

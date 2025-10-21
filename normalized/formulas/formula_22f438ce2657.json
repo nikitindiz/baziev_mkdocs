@@ -1,0 +1,15 @@
+{
+  "id": "22f438ce2657",
+  "type": "display",
+  "latex": "\\omega_{\\oplus 0} = 2\\pi / t_{\\oplus 0} = 8,3545773 \\cdot 10^{-5} с^{-1}",
+  "metadata": {
+    "db_key": "8577",
+    "src": "images/formula_full_575_1_0.webp",
+    "equation_number": "(38.26)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 15332
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8577\" data-src=\"images/formula_full_575_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\oplus 0} = 2\\pi / t_{\\oplus 0} = 8,3545773 \\cdot 10^{-5} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.26)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c942c8269927",
+  "type": "display",
+  "latex": "v_{\\text{ед.}} = 1с^{-1}",
+  "metadata": {
+    "db_key": "2101",
+    "src": "images/formula_full_137_4_4.webp",
+    "equation_number": "(12.1)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 11366
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2101\" data-src=\"images/formula_full_137_4_4.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\text{ед.}} = 1с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.1)\n</div>\n</div>"
+}

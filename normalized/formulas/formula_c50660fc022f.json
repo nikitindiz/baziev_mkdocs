@@ -1,0 +1,15 @@
+{
+  "id": "c50660fc022f",
+  "type": "inline",
+  "latex": "э = 1,98 \\cdot 10^{-27} Кл",
+  "metadata": {
+    "db_key": "3869",
+    "src": "images/formula_inline_239_1_85.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 107756
+  },
+  "wrapper_html": "<span data-db-key=\"3869\" data-src=\"images/formula_inline_239_1_85.webp\"> $э = 1,98 \\cdot 10^{-27} Кл$ </span>"
+}

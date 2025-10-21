@@ -1,0 +1,15 @@
+{
+  "id": "91d140cb9d71",
+  "type": "inline",
+  "latex": "\\pi R_э^2 = 9.6198672 \\cdot 10^{-33} \\text{ м}^2",
+  "metadata": {
+    "db_key": "5643",
+    "src": "images/formula_inline_346_8_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 75451
+  },
+  "wrapper_html": "<span data-db-key=\"5643\" data-src=\"images/formula_inline_346_8_4.webp\"> $\\pi R_э^2 = 9.6198672 \\cdot 10^{-33} \\text{ м}^2$ </span>"
+}

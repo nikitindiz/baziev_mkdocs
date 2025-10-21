@@ -1,0 +1,15 @@
+{
+  "id": "75c0c95dfa86",
+  "type": "display",
+  "latex": "a_i = \\sqrt{\\frac{n_\\alpha \\cdot \\gamma \\cdot q \\cdot z}{\\alpha_i \\cdot d_{gi}}} = \\sqrt{\\frac{n_\\alpha \\cdot \\gamma \\cdot q \\cdot z}{\\alpha_i \\cdot \\sqrt[3]{6m_s / \\pi \\rho_i}}} , \\text{м}",
+  "metadata": {
+    "db_key": "4726",
+    "src": "images/formula_full_290_14.webp",
+    "equation_number": "(17.84)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 54997
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4726\" data-src=\"images/formula_full_290_14.webp\">\n<div style=\"width: 100%;\">\n\n$$a_i = \\sqrt{\\frac{n_\\alpha \\cdot \\gamma \\cdot q \\cdot z}{\\alpha_i \\cdot d_{gi}}} = \\sqrt{\\frac{n_\\alpha \\cdot \\gamma \\cdot q \\cdot z}{\\alpha_i \\cdot \\sqrt[3]{6m_s / \\pi \\rho_i}}} , \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.84)\n</div>\n</div>"
+}

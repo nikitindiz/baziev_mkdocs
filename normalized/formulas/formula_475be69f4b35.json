@@ -1,0 +1,15 @@
+{
+  "id": "475be69f4b35",
+  "type": "display",
+  "latex": "v_0 = \\frac{(l_2 - l_1) \\cdot v}{\\Delta l} = \\frac{(l_2 - l_1) \\cdot \\nu \\cdot a}{\\Delta l}",
+  "metadata": {
+    "db_key": "9047",
+    "src": "images/formula_full_607_7_0.webp",
+    "equation_number": "(42.4)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
+    "position": 5942
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9047\" data-src=\"images/formula_full_607_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = \\frac{(l_2 - l_1) \\cdot v}{\\Delta l} = \\frac{(l_2 - l_1) \\cdot \\nu \\cdot a}{\\Delta l}$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.4)\n</div>\n</div>"
+}

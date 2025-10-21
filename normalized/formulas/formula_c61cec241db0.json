@@ -1,0 +1,15 @@
+{
+  "id": "c61cec241db0",
+  "type": "display",
+  "latex": "H_{s0} = A_{s0} \\cdot \\sin \\alpha_{s0} = 1,9741677 \\cdot 10^{-11} \\text{ м}",
+  "metadata": {
+    "db_key": "4699",
+    "src": "images/formula_full_288_14_0.webp",
+    "equation_number": "(17.74)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 46066
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4699\" data-src=\"images/formula_full_288_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$H_{s0} = A_{s0} \\cdot \\sin \\alpha_{s0} = 1,9741677 \\cdot 10^{-11} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.74)\n</div>\n</div>"
+}

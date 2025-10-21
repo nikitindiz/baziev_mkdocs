@@ -1,0 +1,15 @@
+{
+  "id": "84144c3d200b",
+  "type": "display",
+  "latex": "\\sin \\alpha_{s i}=2 u_{s 1} v_{s 1}=7,3863432 \\cdot 10^{-3}",
+  "metadata": {
+    "db_key": "5007",
+    "src": "images/formula_full_307_20_0.webp",
+    "equation_number": "(18.91)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 52814
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5007\" data-src=\"images/formula_full_307_20_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{s i}=2 u_{s 1} v_{s 1}=7,3863432 \\cdot 10^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.91)\n</div>\n</div>"
+}

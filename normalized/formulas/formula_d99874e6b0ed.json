@@ -1,0 +1,15 @@
+{
+  "id": "d99874e6b0ed",
+  "type": "inline",
+  "latex": "a = 92\\degree, 360338",
+  "metadata": {
+    "db_key": "1185",
+    "src": "images/formula_inline_82_9_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 32954
+  },
+  "wrapper_html": "<span data-db-key=\"1185\" data-src=\"images/formula_inline_82_9_4.webp\"> $a = 92\\degree, 360338$ </span>"
+}

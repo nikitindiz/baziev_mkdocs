@@ -1,0 +1,15 @@
+{
+  "id": "db13889e41ed",
+  "type": "inline",
+  "latex": "r_{0x} = r_{0y} \\neq r_{0z}",
+  "metadata": {
+    "db_key": "4574",
+    "src": "images/formula_inline_281_11_17.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 10358
+  },
+  "wrapper_html": "<span data-db-key=\"4574\" data-src=\"images/formula_inline_281_11_17.webp\"> $r_{0x} = r_{0y} \\neq r_{0z}$ </span>"
+}

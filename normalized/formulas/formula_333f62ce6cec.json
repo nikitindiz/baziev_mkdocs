@@ -1,0 +1,15 @@
+{
+  "id": "333f62ce6cec",
+  "type": "display",
+  "latex": "A_{i} = \\frac{a_{i} \\varepsilon_{q}}{2 m_{i} \\mu \\cdot \\nu_{ед}} = \\frac{a_{i} \\alpha \\cdot q_{\\lambda}^{2}}{4 m_{i} \\mu \\cdot \\nu_{ед}}",
+  "metadata": {
+    "db_key": "7502",
+    "src": "images/formula_full_486_9.webp",
+    "equation_number": "(28.5)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 2921
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7502\" data-src=\"images/formula_full_486_9.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{i} = \\frac{a_{i} \\varepsilon_{q}}{2 m_{i} \\mu \\cdot \\nu_{ед}} = \\frac{a_{i} \\alpha \\cdot q_{\\lambda}^{2}}{4 m_{i} \\mu \\cdot \\nu_{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.5)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "736b80eb6074",
+  "type": "inline",
+  "latex": "40 \\cdot 10^6",
+  "metadata": {
+    "db_key": "4531",
+    "src": "images/formula_inline_278_0_101.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 2549
+  },
+  "wrapper_html": "<span data-db-key=\"4531\" data-src=\"images/formula_inline_278_0_101.webp\"> $40 \\cdot 10^6$ </span>"
+}

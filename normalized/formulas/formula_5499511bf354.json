@@ -1,0 +1,15 @@
+{
+  "id": "5499511bf354",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n\\tau_{\\text{ж}} &= A_0/c_{\\text{ж}} = 7,2387371 \\cdot 10^2 \\text{ с} = 12,06456 \\text{ мин,} \\\\\n\\tau_{\\text{у}} &= A_0/c_{\\text{у}} = 3,6193687 \\cdot 10^2 \\text{ с} = 6,0322811 \\text{ мин}\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "2609",
+    "src": "images/formula_full_166_19.webp",
+    "equation_number": "(13.55)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 98128
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2609\" data-src=\"images/formula_full_166_19.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\tau_{\\text{ж}} &= A_0/c_{\\text{ж}} = 7,2387371 \\cdot 10^2 \\text{ с} = 12,06456 \\text{ мин,} \\\\\n\\tau_{\\text{у}} &= A_0/c_{\\text{у}} = 3,6193687 \\cdot 10^2 \\text{ с} = 6,0322811 \\text{ мин}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.55)\n</div>\n</div>"
+}

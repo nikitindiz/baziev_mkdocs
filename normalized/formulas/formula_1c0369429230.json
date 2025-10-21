@@ -1,0 +1,15 @@
+{
+  "id": "1c0369429230",
+  "type": "display",
+  "latex": "P_0 = \\frac{E_{ед}}{V_{ед}} = 1,01325 \\cdot 10^5 \\frac{Дж}{м^3}",
+  "metadata": {
+    "db_key": "35",
+    "src": "images/formula_full_3_4_0.webp",
+    "equation_number": "(1.12)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 11841
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"35\" data-src=\"images/formula_full_3_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_0 = \\frac{E_{ед}}{V_{ед}} = 1,01325 \\cdot 10^5 \\frac{Дж}{м^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.12)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2e0a53c853cb",
+  "type": "display",
+  "latex": "t_{n♃}/T_{♃} = 6,2442896 \\cdot 10^{-5}",
+  "metadata": {
+    "db_key": "8849",
+    "src": "images/formula_full_593_15_0.webp",
+    "equation_number": "(39.52)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 35499
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8849\" data-src=\"images/formula_full_593_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_{n♃}/T_{♃} = 6,2442896 \\cdot 10^{-5}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.52)\n</div>\n</div>"
+}

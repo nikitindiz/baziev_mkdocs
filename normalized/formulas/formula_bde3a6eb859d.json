@@ -1,0 +1,15 @@
+{
+  "id": "bde3a6eb859d",
+  "type": "display",
+  "latex": "P_{(e-O)} = \\frac{\\gamma \\cdot e \\cdot Z_0}{2 \\pi R_e^2 \\cdot R_0^2 \\cdot k_p} = \\frac{-2,3617607 \\cdot 10^{-32}}{1,1354617 \\cdot 10^{-30}} = -8,2448934 \\cdot 10^{18} \\text{ Па}",
+  "metadata": {
+    "db_key": "3546",
+    "src": "images/formula_full_221_8_0.webp",
+    "equation_number": "(14.40)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 44420
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3546\" data-src=\"images/formula_full_221_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{(e-O)} = \\frac{\\gamma \\cdot e \\cdot Z_0}{2 \\pi R_e^2 \\cdot R_0^2 \\cdot k_p} = \\frac{-2,3617607 \\cdot 10^{-32}}{1,1354617 \\cdot 10^{-30}} = -8,2448934 \\cdot 10^{18} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.40)\n</div>\n</div>"
+}

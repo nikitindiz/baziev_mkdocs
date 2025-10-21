@@ -1,0 +1,15 @@
+{
+  "id": "cee6cf99b23a",
+  "type": "display",
+  "latex": "K_{э} = \\Delta m_{e} / m_{э} = 1,0363114 \\cdot 10^{3}",
+  "metadata": {
+    "db_key": "9027",
+    "src": "images/formula_full_605_4_0.webp",
+    "equation_number": "(41.21)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 28253
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9027\" data-src=\"images/formula_full_605_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{э} = \\Delta m_{e} / m_{э} = 1,0363114 \\cdot 10^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.21)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "69008bc5c962",
+  "type": "inline",
+  "latex": "\\Delta a = a_c / 2",
+  "metadata": {
+    "db_key": "5978",
+    "src": "images/formula_inline_366_6_8.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 57090
+  },
+  "wrapper_html": "<span data-db-key=\"5978\" data-src=\"images/formula_inline_366_6_8.webp\"> $\\Delta a = a_c / 2$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4c28be5e12f0",
+  "type": "inline",
+  "latex": "КПД=15-17\\%",
+  "metadata": {
+    "db_key": "1330",
+    "src": "images/formula_inline_92_11_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 27254
+  },
+  "wrapper_html": "<span data-db-key=\"1330\" data-src=\"images/formula_inline_92_11_0.webp\"> $КПД=15-17\\%$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d9f856790e7f",
+  "type": "display",
+  "latex": "W_{0i} = n_{\\nu i} \\cdot \\mathscr{P} = n_{gi} f_i \\mathscr{P}",
+  "metadata": {
+    "db_key": "7526",
+    "src": "images/formula_full_493_10_0.webp",
+    "equation_number": "(28.28)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 42339
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7526\" data-src=\"images/formula_full_493_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_{0i} = n_{\\nu i} \\cdot \\mathscr{P} = n_{gi} f_i \\mathscr{P}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.28)\n</div>\n</div>"
+}

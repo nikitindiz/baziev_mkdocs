@@ -1,0 +1,15 @@
+{
+  "id": "cbf82630aedc",
+  "type": "inline",
+  "latex": "C_V(\\gamma)",
+  "metadata": {
+    "db_key": "808",
+    "src": "images/formula_inline_54_10_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 54477
+  },
+  "wrapper_html": "<span data-db-key=\"808\" data-src=\"images/formula_inline_54_10_12.webp\"> $C_V(\\gamma)$ </span>"
+}

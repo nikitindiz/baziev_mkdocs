@@ -1,0 +1,15 @@
+{
+  "id": "b382cd921193",
+  "type": "inline",
+  "latex": "\\sin \\alpha_{s} = \\sin \\alpha_{2} = 0,182267",
+  "metadata": {
+    "db_key": "6090",
+    "src": "images/formula_inline_372_13_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 78162
+  },
+  "wrapper_html": "<span data-db-key=\"6090\" data-src=\"images/formula_inline_372_13_4.webp\"> $\\sin \\alpha_{s} = \\sin \\alpha_{2} = 0,182267$ </span>"
+}

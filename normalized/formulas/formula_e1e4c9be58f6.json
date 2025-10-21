@@ -1,0 +1,15 @@
+{
+  "id": "e1e4c9be58f6",
+  "type": "inline",
+  "latex": "\\tau",
+  "metadata": {
+    "db_key": "9277",
+    "src": "images/formula_inline_627_1_219.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 19397
+  },
+  "wrapper_html": "<span data-db-key=\"9277\" data-src=\"images/formula_inline_627_1_219.webp\"> $\\tau$ </span>"
+}

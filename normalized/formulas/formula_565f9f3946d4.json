@@ -1,0 +1,15 @@
+{
+  "id": "565f9f3946d4",
+  "type": "display",
+  "latex": "\\Delta T (B_c) = \\frac{\\Delta \\varepsilon_c}{C (T_2)_s \\cdot m_{Al}} = 0,7123322 \\, K",
+  "metadata": {
+    "db_key": "6105",
+    "src": "images/formula_full_373_9.webp",
+    "equation_number": "(20.119)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 108963
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6105\" data-src=\"images/formula_full_373_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta T (B_c) = \\frac{\\Delta \\varepsilon_c}{C (T_2)_s \\cdot m_{Al}} = 0,7123322 \\, K$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.119)\n</div>\n</div>"
+}

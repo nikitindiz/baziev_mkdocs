@@ -1,0 +1,15 @@
+{
+  "id": "7f70f9c59899",
+  "type": "inline",
+  "latex": "a_i^2 \\cdot r_i",
+  "metadata": {
+    "db_key": "6988",
+    "src": "images/formula_inline_445_1_8.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 151964
+  },
+  "wrapper_html": "<span data-db-key=\"6988\" data-src=\"images/formula_inline_445_1_8.webp\"> $a_i^2 \\cdot r_i$ </span>"
+}

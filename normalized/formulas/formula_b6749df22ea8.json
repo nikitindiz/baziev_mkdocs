@@ -1,0 +1,15 @@
+{
+  "id": "b6749df22ea8",
+  "type": "display",
+  "latex": "k_v = V_{N1} / V_{n\\odot} \\, \\text{и} \\, V_{N1} = k_v \\cdot V_{n\\odot}",
+  "metadata": {
+    "db_key": "7204",
+    "src": "images/formula_full_462_3_0.webp",
+    "equation_number": "(25.6)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 8865
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7204\" data-src=\"images/formula_full_462_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_v = V_{N1} / V_{n\\odot} \\, \\text{и} \\, V_{N1} = k_v \\cdot V_{n\\odot}$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.6)\n</div>\n</div>"
+}

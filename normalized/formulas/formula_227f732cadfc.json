@@ -1,0 +1,15 @@
+{
+  "id": "227f732cadfc",
+  "type": "inline",
+  "latex": "m_э(n) = n_э \\cdot m_э = 1.6578584 \\cdot 10^{-27} \\text{ кг} = 99.83671\\% \\text{ от } m_n",
+  "metadata": {
+    "db_key": "357",
+    "src": "images/formula_inline_25_7_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 10862
+  },
+  "wrapper_html": "<span data-db-key=\"357\" data-src=\"images/formula_inline_25_7_7.webp\"> $m_э(n) = n_э \\cdot m_э = 1.6578584 \\cdot 10^{-27} \\text{ кг} = 99.83671\\% \\text{ от } m_n$ </span>"
+}

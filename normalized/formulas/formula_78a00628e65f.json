@@ -1,0 +1,15 @@
+{
+  "id": "78a00628e65f",
+  "type": "display",
+  "latex": "E_{0i} = k_i T_{0i} = (h f_{0i} \\cdot \\beta_i) \\cdot T_{0i} = h f_{0i} \\cdot \\beta_i \\cdot \\frac{1}{\\beta_i} = h f_{0i}",
+  "metadata": {
+    "db_key": "443",
+    "src": "images/formula_full_32_5.webp",
+    "equation_number": "(5.14)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 10224
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"443\" data-src=\"images/formula_full_32_5.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{0i} = k_i T_{0i} = (h f_{0i} \\cdot \\beta_i) \\cdot T_{0i} = h f_{0i} \\cdot \\beta_i \\cdot \\frac{1}{\\beta_i} = h f_{0i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.14)\n</div>\n</div>"
+}

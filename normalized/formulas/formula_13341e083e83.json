@@ -1,0 +1,15 @@
+{
+  "id": "13341e083e83",
+  "type": "display",
+  "latex": "\\mu_{\\lambda} \\equiv L_{\\odot}/C_э \\equiv 1,8809689 \\cdot 10^{12} \\text{ кг} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "7174",
+    "src": "images/formula_full_460_6_0.webp",
+    "equation_number": "(25.1)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
+    "position": 2291
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7174\" data-src=\"images/formula_full_460_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_{\\lambda} \\equiv L_{\\odot}/C_э \\equiv 1,8809689 \\cdot 10^{12} \\text{ кг} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.1)\n</div>\n</div>"
+}

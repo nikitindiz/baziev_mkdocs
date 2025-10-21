@@ -1,0 +1,15 @@
+{
+  "id": "1384c8fbc776",
+  "type": "inline",
+  "latex": "\\gamma = 3,6473973 \\cdot 10^6 \\text{ Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}",
+  "metadata": {
+    "db_key": "1158",
+    "src": "images/formula_inline_80_6_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 27290
+  },
+  "wrapper_html": "<span data-db-key=\"1158\" data-src=\"images/formula_inline_80_6_3.webp\"> $\\gamma = 3,6473973 \\cdot 10^6 \\text{ Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$ </span>"
+}

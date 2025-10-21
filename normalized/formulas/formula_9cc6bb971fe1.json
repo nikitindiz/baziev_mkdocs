@@ -1,0 +1,15 @@
+{
+  "id": "9cc6bb971fe1",
+  "type": "inline",
+  "latex": "\\alpha = \\beta",
+  "metadata": {
+    "db_key": "2765",
+    "src": "images/formula_inline_174_13_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 115714
+  },
+  "wrapper_html": "<span data-db-key=\"2765\" data-src=\"images/formula_inline_174_13_9.webp\"> $\\alpha = \\beta$ </span>"
+}

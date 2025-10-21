@@ -1,0 +1,15 @@
+{
+  "id": "bc2c4b328c38",
+  "type": "display",
+  "latex": "m_{n ♂} = \\rho_n \\cdot V_{n ♂} = 3,2321159 \\cdot 10^{23} \\text{ кг} = 49,999677 \\% m_♂",
+  "metadata": {
+    "db_key": "8638",
+    "src": "images/formula_full_580_14_0.webp",
+    "equation_number": "(38.68)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 36757
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8638\" data-src=\"images/formula_full_580_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{n ♂} = \\rho_n \\cdot V_{n ♂} = 3,2321159 \\cdot 10^{23} \\text{ кг} = 49,999677 \\% m_♂$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.68)\n</div>\n</div>"
+}

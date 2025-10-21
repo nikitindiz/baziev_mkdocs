@@ -1,0 +1,15 @@
+{
+  "id": "09a9cd731f04",
+  "type": "inline",
+  "latex": "K_2 = (K_0 - I) = 14",
+  "metadata": {
+    "db_key": "3108",
+    "src": "images/formula_inline_197_6_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 203628
+  },
+  "wrapper_html": "<span data-db-key=\"3108\" data-src=\"images/formula_inline_197_6_3.webp\"> $K_2 = (K_0 - I) = 14$ </span>"
+}

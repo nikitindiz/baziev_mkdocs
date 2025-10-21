@@ -1,0 +1,15 @@
+{
+  "id": "83e699667486",
+  "type": "display",
+  "latex": "u_i = v_{s\\oplus} / H_i",
+  "metadata": {
+    "db_key": "6208",
+    "src": "images/formula_full_380_9_0.webp",
+    "equation_number": "(20.157)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 139006
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6208\" data-src=\"images/formula_full_380_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = v_{s\\oplus} / H_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.157)\n</div>\n</div>"
+}

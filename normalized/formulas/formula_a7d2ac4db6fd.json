@@ -1,0 +1,15 @@
+{
+  "id": "a7d2ac4db6fd",
+  "type": "inline",
+  "latex": "\\varepsilon(f) = h \\cdot f(t) = h \\psi_i T_i",
+  "metadata": {
+    "db_key": "1744",
+    "src": "images/formula_inline_120_10_12.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 8189
+  },
+  "wrapper_html": "<span data-db-key=\"1744\" data-src=\"images/formula_inline_120_10_12.webp\"> $\\varepsilon(f) = h \\cdot f(t) = h \\psi_i T_i$ </span>"
+}

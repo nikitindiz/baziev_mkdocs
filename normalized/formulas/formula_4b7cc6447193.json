@@ -1,0 +1,15 @@
+{
+  "id": "4b7cc6447193",
+  "type": "inline",
+  "latex": "5,698 \\cdot 10^{12} с^{-1}",
+  "metadata": {
+    "db_key": "192",
+    "src": "images/formula_inline_14_0_124.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 4280
+  },
+  "wrapper_html": "<span data-db-key=\"192\" data-src=\"images/formula_inline_14_0_124.webp\"> $5,698 \\cdot 10^{12} с^{-1}$ </span>"
+}

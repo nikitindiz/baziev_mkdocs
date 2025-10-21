@@ -1,0 +1,15 @@
+{
+  "id": "21abff1bc16f",
+  "type": "inline",
+  "latex": "\\rho_0^п = 4,85 \\cdot 10^{-3}",
+  "metadata": {
+    "db_key": "4331",
+    "src": "images/formula_inline_266_12_27.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 14823
+  },
+  "wrapper_html": "<span data-db-key=\"4331\" data-src=\"images/formula_inline_266_12_27.webp\"> $\\rho_0^п = 4,85 \\cdot 10^{-3}$ </span>"
+}

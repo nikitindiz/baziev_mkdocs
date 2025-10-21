@@ -1,0 +1,15 @@
+{
+  "id": "053ae3d0f8c1",
+  "type": "inline",
+  "latex": "\\sqrt{-\\lambda_i^2} / 2",
+  "metadata": {
+    "db_key": "2786",
+    "src": "images/formula_inline_175_7_22.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 123602
+  },
+  "wrapper_html": "<span data-db-key=\"2786\" data-src=\"images/formula_inline_175_7_22.webp\"> $\\sqrt{-\\lambda_i^2} / 2$ </span>"
+}

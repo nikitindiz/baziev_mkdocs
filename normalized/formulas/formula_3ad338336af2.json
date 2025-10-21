@@ -1,0 +1,15 @@
+{
+  "id": "3ad338336af2",
+  "type": "display",
+  "latex": "H_{si} = A_{si} \\cdot \\sin \\alpha_{si} -",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 50761
+  },
+  "wrapper_html": null
+}

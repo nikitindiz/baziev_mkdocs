@@ -1,0 +1,15 @@
+{
+  "id": "27b0f4f92047",
+  "type": "display",
+  "latex": "\\varepsilon_s (\\alpha, n) = \\varepsilon (\\alpha, n) - \\varepsilon (f) - \\varepsilon (u) =",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(11.68)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 23235
+  },
+  "wrapper_html": null
+}

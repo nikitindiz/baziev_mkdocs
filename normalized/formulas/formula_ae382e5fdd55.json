@@ -1,0 +1,15 @@
+{
+  "id": "ae382e5fdd55",
+  "type": "display",
+  "latex": "M_k = \\sum_{0}^{71} M = 1,442676333706 \\cdot 10^{28} \\text{ кг}",
+  "metadata": {
+    "db_key": "7442",
+    "src": "images/formula_full_480_4_0.webp",
+    "equation_number": "(27.1)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
+    "position": 252
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7442\" data-src=\"images/formula_full_480_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_k = \\sum_{0}^{71} M = 1,442676333706 \\cdot 10^{28} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.1)\n</div>\n</div>"
+}

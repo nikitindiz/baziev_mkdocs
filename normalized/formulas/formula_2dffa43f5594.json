@@ -1,0 +1,15 @@
+{
+  "id": "2dffa43f5594",
+  "type": "inline",
+  "latex": "P_{эn} = -1,6071644 \\cdot 10^{16} \\text{ Па}",
+  "metadata": {
+    "db_key": "7632",
+    "src": "images/formula_inline_507_11_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 12374
+  },
+  "wrapper_html": "<span data-db-key=\"7632\" data-src=\"images/formula_inline_507_11_0.webp\"> $P_{эn} = -1,6071644 \\cdot 10^{16} \\text{ Па}$ </span>"
+}

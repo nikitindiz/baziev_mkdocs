@@ -1,0 +1,15 @@
+{
+  "id": "08ab72906fac",
+  "type": "display",
+  "latex": "\\varepsilon_{0i} = m_0 v_{0i} u_{0i} \\neq h \\cdot f_{0i}",
+  "metadata": {
+    "db_key": "4305",
+    "src": "images/formula_inline_264_1_0.webp",
+    "equation_number": "(16.4)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 6726
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4305\" data-src=\"images/formula_inline_264_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{0i} = m_0 v_{0i} u_{0i} \\neq h \\cdot f_{0i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.4)\n</div>\n</div>"
+}

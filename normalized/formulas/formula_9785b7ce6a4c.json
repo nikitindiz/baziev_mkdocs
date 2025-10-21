@@ -1,0 +1,15 @@
+{
+  "id": "9785b7ce6a4c",
+  "type": "display",
+  "latex": "\\varepsilon = L_э \\cdot \\omega \\cdot n_m \\cdot n_p \\cdot K_m",
+  "metadata": {
+    "db_key": "6298",
+    "src": "images/formula_full_387_28_0.webp",
+    "equation_number": "(21.27)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 14996
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6298\" data-src=\"images/formula_full_387_28_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon = L_э \\cdot \\omega \\cdot n_m \\cdot n_p \\cdot K_m$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.27)\n</div>\n</div>"
+}

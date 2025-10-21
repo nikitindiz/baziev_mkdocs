@@ -1,0 +1,15 @@
+{
+  "id": "1b520253056a",
+  "type": "inline",
+  "latex": "c' = 2,88 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "5266",
+    "src": "images/formula_inline_327_4_86.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 8976
+  },
+  "wrapper_html": "<span data-db-key=\"5266\" data-src=\"images/formula_inline_327_4_86.webp\"> $c' = 2,88 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+}

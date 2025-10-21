@@ -1,0 +1,15 @@
+{
+  "id": "45b56cea59fb",
+  "type": "display",
+  "latex": "r_{(N-N)} = 2\\gamma \\cdot \\frac{e \\cdot Z_N}{\\varepsilon} = \\frac{-1,8930874 \\cdot 10^{-31}}{-1,5692386 \\cdot 10^{-18}} = 1,2063732 \\cdot 10^{-13} \\text{ м}",
+  "metadata": {
+    "db_key": "6868",
+    "src": "images/formula_full_435_10_0.webp",
+    "equation_number": "(23.110)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 121805
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6868\" data-src=\"images/formula_full_435_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{(N-N)} = 2\\gamma \\cdot \\frac{e \\cdot Z_N}{\\varepsilon} = \\frac{-1,8930874 \\cdot 10^{-31}}{-1,5692386 \\cdot 10^{-18}} = 1,2063732 \\cdot 10^{-13} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.110)\n</div>\n</div>"
+}

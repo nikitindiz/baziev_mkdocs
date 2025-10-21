@@ -1,0 +1,15 @@
+{
+  "id": "1cc2295567cc",
+  "type": "inline",
+  "latex": "(\\lambda_г' = 4,6 \\cdot 10^{-7} \\text{м})",
+  "metadata": {
+    "db_key": "3181",
+    "src": "images/formula_inline_201_2_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 240276
+  },
+  "wrapper_html": "<span data-db-key=\"3181\" data-src=\"images/formula_inline_201_2_18.webp\"> $(\\lambda_г' = 4,6 \\cdot 10^{-7} \\text{м})$ </span>"
+}

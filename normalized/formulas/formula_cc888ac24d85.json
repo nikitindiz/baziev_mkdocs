@@ -1,0 +1,15 @@
+{
+  "id": "cc888ac24d85",
+  "type": "inline",
+  "latex": "t = 22{\\degree}C",
+  "metadata": {
+    "db_key": "3467",
+    "src": "images/formula_inline_216_4_6.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 12757
+  },
+  "wrapper_html": "<span data-db-key=\"3467\" data-src=\"images/formula_inline_216_4_6.webp\"> $t = 22{\\degree}C$ </span>"
+}

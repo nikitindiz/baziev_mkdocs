@@ -1,0 +1,15 @@
+{
+  "id": "1009472b83f5",
+  "type": "display",
+  "latex": "l_{э}(\\text{He}) = u_{э} \\cdot \\tau(h_{э})_{\\min} = 3,5469655 \\cdot 10^{-5} \\, \\text{м}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 21581
+  },
+  "wrapper_html": null
+}

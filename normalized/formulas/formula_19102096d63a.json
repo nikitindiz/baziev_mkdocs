@@ -1,0 +1,15 @@
+{
+  "id": "19102096d63a",
+  "type": "inline",
+  "latex": "E_{i} = h \\cdot f_{i} = k \\cdot T_{i} = m_{i} \\cdot v_i \\mu_{i} \\cdot a",
+  "metadata": {
+    "db_key": "4290",
+    "src": "images/formula_inline_262_5_141.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 2330
+  },
+  "wrapper_html": "<span data-db-key=\"4290\" data-src=\"images/formula_inline_262_5_141.webp\"> $E_{i} = h \\cdot f_{i} = k \\cdot T_{i} = m_{i} \\cdot v_i \\mu_{i} \\cdot a$ </span>"
+}

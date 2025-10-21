@@ -1,0 +1,15 @@
+{
+  "id": "a50b2e364f57",
+  "type": "inline",
+  "latex": "\\rho = 2,75 \\cdot 10^{3}",
+  "metadata": {
+    "db_key": "8523",
+    "src": "images/formula_inline_571_9_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 1106
+  },
+  "wrapper_html": "<span data-db-key=\"8523\" data-src=\"images/formula_inline_571_9_9.webp\"> $\\rho = 2,75 \\cdot 10^{3}$ </span>"
+}

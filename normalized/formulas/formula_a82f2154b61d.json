@@ -1,0 +1,15 @@
+{
+  "id": "a82f2154b61d",
+  "type": "inline",
+  "latex": "\\mu",
+  "metadata": {
+    "db_key": "9283",
+    "src": "images/formula_inline_627_1_242.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 19968
+  },
+  "wrapper_html": "<span data-db-key=\"9283\" data-src=\"images/formula_inline_627_1_242.webp\"> $\\mu$ </span>"
+}

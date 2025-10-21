@@ -1,0 +1,15 @@
+{
+  "id": "545524e4ecab",
+  "type": "display",
+  "latex": "\\Delta R_{☿} = \\frac{t_{☿}}{T_{☿}} \\cdot \\frac{v_{☿}^2 \\cdot A_{☿}-I_{\\odot}}{V_{☿}^2} = 0,6667121 \\cdot \\frac{1,2001998 \\cdot 10^{20} - 1,2001975 \\cdot 10^{20}}{2,1279362 \\cdot 10^{9}} =",
+  "metadata": {
+    "db_key": "8814",
+    "src": "images/formula_full_591_13.webp",
+    "equation_number": "(39.21)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
+    "position": 26035
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8814\" data-src=\"images/formula_full_591_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta R_{☿} = \\frac{t_{☿}}{T_{☿}} \\cdot \\frac{v_{☿}^2 \\cdot A_{☿}-I_{\\odot}}{V_{☿}^2} = 0,6667121 \\cdot \\frac{1,2001998 \\cdot 10^{20} - 1,2001975 \\cdot 10^{20}}{2,1279362 \\cdot 10^{9}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.21)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2a7a6452d905",
+  "type": "display",
+  "latex": "P_c = \\varepsilon_c / (V_{gc} - V_{sc})",
+  "metadata": {
+    "db_key": "5158",
+    "src": "images/formula_full_317_2_0.webp",
+    "equation_number": "(18.161)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 89515
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5158\" data-src=\"images/formula_full_317_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_c = \\varepsilon_c / (V_{gc} - V_{sc})$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.161)\n</div>\n</div>"
+}

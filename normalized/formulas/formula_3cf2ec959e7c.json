@@ -1,0 +1,15 @@
+{
+  "id": "3cf2ec959e7c",
+  "type": "inline",
+  "latex": "e(m)",
+  "metadata": {
+    "db_key": "333",
+    "src": "images/formula_inline_24_0_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 6292
+  },
+  "wrapper_html": "<span data-db-key=\"333\" data-src=\"images/formula_inline_24_0_3.webp\"> $e(m)$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "29626bfe4d39",
+  "type": "display",
+  "latex": "\\eta_{0}' = \\frac{m_s \\cdot f_0}{\\pi \\cdot d_{g0}} = \\frac{6,4017731 \\cdot 10^{-10}}{1,8818167 \\cdot 10^{-8}} = 3,401911 \\cdot 10^{-2} \\text{ Па} \\cdot с",
+  "metadata": {
+    "db_key": "4774",
+    "src": "images/formula_full_292_5_0.webp",
+    "equation_number": "(17.92)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 62915
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4774\" data-src=\"images/formula_full_292_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{0}' = \\frac{m_s \\cdot f_0}{\\pi \\cdot d_{g0}} = \\frac{6,4017731 \\cdot 10^{-10}}{1,8818167 \\cdot 10^{-8}} = 3,401911 \\cdot 10^{-2} \\text{ Па} \\cdot с$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.92)\n</div>\n</div>"
+}

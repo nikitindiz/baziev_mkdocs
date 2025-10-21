@@ -1,0 +1,15 @@
+{
+  "id": "26651497bd3e",
+  "type": "display",
+  "latex": "v^2 \\cdot (v/c - 1) < 0",
+  "metadata": {
+    "db_key": "9126",
+    "src": "images/formula_full_611_2_0.webp",
+    "equation_number": "(42.32)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
+    "position": 22912
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9126\" data-src=\"images/formula_full_611_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v^2 \\cdot (v/c - 1) < 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.32)\n</div>\n</div>"
+}

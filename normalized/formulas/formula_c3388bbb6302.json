@@ -1,0 +1,15 @@
+{
+  "id": "c3388bbb6302",
+  "type": "display",
+  "latex": "v_c = \\sqrt{\\tau} = \\sqrt{59,860585 \\text{м}^2 \\cdot с^{-2}} = 7,7369622 \\text{м} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 13484
+  },
+  "wrapper_html": null
+}

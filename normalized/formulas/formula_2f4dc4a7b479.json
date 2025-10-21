@@ -1,0 +1,15 @@
+{
+  "id": "2f4dc4a7b479",
+  "type": "inline",
+  "latex": "c_1 < c_2",
+  "metadata": {
+    "db_key": "8958",
+    "src": "images/formula_inline_601_7_2.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 11114
+  },
+  "wrapper_html": "<span data-db-key=\"8958\" data-src=\"images/formula_inline_601_7_2.webp\"> $c_1 < c_2$ </span>"
+}

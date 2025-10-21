@@ -1,0 +1,15 @@
+{
+  "id": "25b50715c653",
+  "type": "display",
+  "latex": "[F_{(\\oplus - \\text{☾})}+ \\Delta F] \\geq F_{(\\odot - \\text{☾})}",
+  "metadata": {
+    "db_key": "6167",
+    "src": "images/formula_full_377_9_0.webp",
+    "equation_number": "(20.137)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 125272
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6167\" data-src=\"images/formula_full_377_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$[F_{(\\oplus - \\text{☾})}+ \\Delta F] \\geq F_{(\\odot - \\text{☾})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.137)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d2d363657226",
+  "type": "inline",
+  "latex": "E_{s0}'' = (E_{s0} + \\Delta E_s)",
+  "metadata": {
+    "db_key": "4661",
+    "src": "images/formula_inline_285_2_52.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 21996
+  },
+  "wrapper_html": "<span data-db-key=\"4661\" data-src=\"images/formula_inline_285_2_52.webp\"> $E_{s0}'' = (E_{s0} + \\Delta E_s)$ </span>"
+}

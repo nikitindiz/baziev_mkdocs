@@ -1,0 +1,15 @@
+{
+  "id": "b88ce8753a3f",
+  "type": "inline",
+  "latex": "n_i = I_i / I_{ед}",
+  "metadata": {
+    "db_key": "5454",
+    "src": "images/formula_inline_335_5_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 33909
+  },
+  "wrapper_html": "<span data-db-key=\"5454\" data-src=\"images/formula_inline_335_5_4.webp\"> $n_i = I_i / I_{ед}$ </span>"
+}

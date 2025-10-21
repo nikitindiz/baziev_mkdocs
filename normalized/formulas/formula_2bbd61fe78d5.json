@@ -1,0 +1,15 @@
+{
+  "id": "2bbd61fe78d5",
+  "type": "inline",
+  "latex": "\\lambda = 4,1659 \\cdot 10^{-7} м",
+  "metadata": {
+    "db_key": "3570",
+    "src": "images/formula_inline_222_7_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 34210
+  },
+  "wrapper_html": "<span data-db-key=\"3570\" data-src=\"images/formula_inline_222_7_0.webp\"> $\\lambda = 4,1659 \\cdot 10^{-7} м$ </span>"
+}

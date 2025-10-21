@@ -1,0 +1,15 @@
+{
+  "id": "b60b8bc4a321",
+  "type": "display",
+  "latex": "d_{g0} = \\sqrt[3]{\\frac{6V_{g0}}{\\pi}} = \\sqrt[3]{214,92273 \\cdot 10^{-27}} = 5,9900087 \\cdot 10^{-9} \\, \\text{м}",
+  "metadata": {
+    "db_key": "4539",
+    "src": "images/formula_full_279_19.webp",
+    "equation_number": "(17.11)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 9695
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4539\" data-src=\"images/formula_full_279_19.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{g0} = \\sqrt[3]{\\frac{6V_{g0}}{\\pi}} = \\sqrt[3]{214,92273 \\cdot 10^{-27}} = 5,9900087 \\cdot 10^{-9} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.11)\n</div>\n</div>"
+}

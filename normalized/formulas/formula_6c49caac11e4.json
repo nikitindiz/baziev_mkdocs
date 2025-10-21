@@ -1,0 +1,15 @@
+{
+  "id": "6c49caac11e4",
+  "type": "inline",
+  "latex": "\\Delta l_i = Z_i",
+  "metadata": {
+    "db_key": "3084",
+    "src": "images/formula_inline_196_8_15.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 201430
+  },
+  "wrapper_html": "<span data-db-key=\"3084\" data-src=\"images/formula_inline_196_8_15.webp\"> $\\Delta l_i = Z_i$ </span>"
+}

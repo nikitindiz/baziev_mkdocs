@@ -1,0 +1,15 @@
+{
+  "id": "8d9a67d65d93",
+  "type": "inline",
+  "latex": "\\mathcal{w}_0",
+  "metadata": {
+    "db_key": "9291",
+    "src": "images/formula_inline_627_1_51.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 15519
+  },
+  "wrapper_html": "<span data-db-key=\"9291\" data-src=\"images/formula_inline_627_1_51.webp\"> $\\mathcal{w}_0$ </span>"
+}

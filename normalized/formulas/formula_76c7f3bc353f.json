@@ -1,0 +1,15 @@
+{
+  "id": "76c7f3bc353f",
+  "type": "inline",
+  "latex": "i_2 = m v_1 = 2265,244 \\text{ кг} \\cdot \\text{м} \\cdot с^{-1}",
+  "metadata": {
+    "db_key": "2081",
+    "src": "images/formula_inline_136_12_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 6824
+  },
+  "wrapper_html": "<span data-db-key=\"2081\" data-src=\"images/formula_inline_136_12_1.webp\"> $i_2 = m v_1 = 2265,244 \\text{ кг} \\cdot \\text{м} \\cdot с^{-1}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8023d0199a64",
+  "type": "inline",
+  "latex": "\\Delta n = n_2 - n_1 = 6 \\cdot 10^{-4}",
+  "metadata": {
+    "db_key": "1834",
+    "src": "images/formula_inline_124_0_58.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 20375
+  },
+  "wrapper_html": "<span data-db-key=\"1834\" data-src=\"images/formula_inline_124_0_58.webp\"> $\\Delta n = n_2 - n_1 = 6 \\cdot 10^{-4}$ </span>"
+}

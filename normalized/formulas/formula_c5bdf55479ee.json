@@ -1,0 +1,15 @@
+{
+  "id": "c5bdf55479ee",
+  "type": "display",
+  "latex": "\\delta_{Al} = \\frac{A_{Al}^2}{r_{Al}} = \\frac{(1.9212246 \\cdot 10^{-10})^2}{6.262505 \\cdot 10^{-11}} = 5.8939735 \\cdot 10^{-10}\\,м",
+  "metadata": {
+    "db_key": "5746",
+    "src": "images/formula_full_354_11.webp",
+    "equation_number": "(20.26)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 18548
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5746\" data-src=\"images/formula_full_354_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{Al} = \\frac{A_{Al}^2}{r_{Al}} = \\frac{(1.9212246 \\cdot 10^{-10})^2}{6.262505 \\cdot 10^{-11}} = 5.8939735 \\cdot 10^{-10}\\,м$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.26)\n</div>\n</div>"
+}

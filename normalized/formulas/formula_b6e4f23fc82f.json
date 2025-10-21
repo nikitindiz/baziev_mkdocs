@@ -1,0 +1,15 @@
+{
+  "id": "b6e4f23fc82f",
+  "type": "display",
+  "latex": "a_i = \\sqrt[3]{I_{\\odot} T_i^2 / 16 E_i^2}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(37.7)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 12645
+  },
+  "wrapper_html": null
+}

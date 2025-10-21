@@ -1,0 +1,15 @@
+{
+  "id": "7cda178a47c7",
+  "type": "inline",
+  "latex": "8 \\cdot 10^{-7} - 1,2 \\cdot 10^{-6} \\, м",
+  "metadata": {
+    "db_key": "1448",
+    "src": "images/formula_inline_101_4_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 50702
+  },
+  "wrapper_html": "<span data-db-key=\"1448\" data-src=\"images/formula_inline_101_4_5.webp\"> $8 \\cdot 10^{-7} - 1,2 \\cdot 10^{-6} \\, м$ </span>"
+}

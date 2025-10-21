@@ -1,0 +1,15 @@
+{
+  "id": "809c05423700",
+  "type": "display",
+  "latex": "\\Delta F_{K} = \\frac{\\Delta E_{K}}{a_{1K}} = \\frac{9,8743281 \\cdot 10^{-19}}{3,4879737 \\cdot 10^{-10}} = 2,830964 \\cdot 10^{-29} \\text{ Н}",
+  "metadata": {
+    "db_key": "7087",
+    "src": "images/formula_full_451_5_0.webp",
+    "equation_number": "(23.206)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 210494
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7087\" data-src=\"images/formula_full_451_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{K} = \\frac{\\Delta E_{K}}{a_{1K}} = \\frac{9,8743281 \\cdot 10^{-19}}{3,4879737 \\cdot 10^{-10}} = 2,830964 \\cdot 10^{-29} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.206)\n</div>\n</div>"
+}

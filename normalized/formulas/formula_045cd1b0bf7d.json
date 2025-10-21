@@ -1,0 +1,15 @@
+{
+  "id": "045cd1b0bf7d",
+  "type": "display",
+  "latex": "\\Delta F_{ti} = \\frac{I_{\\odot} \\cdot m_i}{\\left( a_i - \\frac{\\Delta R_{\\odot} \\cdot T_i}{t_{n\\odot}}\\right)^2} - \\frac{I_{\\odot} \\cdot m_i}{a_i^2} =",
+  "metadata": {
+    "db_key": "8448",
+    "src": "images/formula_full_566_6.webp",
+    "equation_number": "(36.54)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 60898
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8448\" data-src=\"images/formula_full_566_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{ti} = \\frac{I_{\\odot} \\cdot m_i}{\\left( a_i - \\frac{\\Delta R_{\\odot} \\cdot T_i}{t_{n\\odot}}\\right)^2} - \\frac{I_{\\odot} \\cdot m_i}{a_i^2} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.54)\n</div>\n</div>"
+}

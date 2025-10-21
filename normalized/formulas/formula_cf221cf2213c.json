@@ -1,0 +1,15 @@
+{
+  "id": "cf221cf2213c",
+  "type": "inline",
+  "latex": "T = \\theta_i",
+  "metadata": {
+    "db_key": "1517",
+    "src": "images/formula_inline_107_0_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 3772
+  },
+  "wrapper_html": "<span data-db-key=\"1517\" data-src=\"images/formula_inline_107_0_0.webp\"> $T = \\theta_i$ </span>"
+}

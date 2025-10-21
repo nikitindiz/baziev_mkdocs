@@ -1,0 +1,15 @@
+{
+  "id": "924f9cfe87a1",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\nn_{5} &=\\frac{q\\left(C_{4} H_{10}\\right)}{q_{C_{3} H_{8}}}=1,3005266 \\\\\nn_{5}' &=V_{O_{2}}\\left(C_{4} H_{10}\\right) / V_{O_{2}}\\left(C_{3} H_{8}\\right)=1,3\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "3388",
+    "src": "images/formula_full_212_13.webp",
+    "equation_number": "(14.5)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 5478
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3388\" data-src=\"images/formula_full_212_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nn_{5} &=\\frac{q\\left(C_{4} H_{10}\\right)}{q_{C_{3} H_{8}}}=1,3005266 \\\\\nn_{5}' &=V_{O_{2}}\\left(C_{4} H_{10}\\right) / V_{O_{2}}\\left(C_{3} H_{8}\\right)=1,3\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.5)\n</div>\n</div>"
+}

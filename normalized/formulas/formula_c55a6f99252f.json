@@ -1,0 +1,15 @@
+{
+  "id": "c55a6f99252f",
+  "type": "display",
+  "latex": "H_{\\perp_1} = \\frac{э\\omega_1 n_1 k_1}{n_1 n_1 k_1} = \\frac{I_1}{l_{m1} \\cdot k_1} = \\frac{5A}{8,5972081 \\cdot 10^{-6}} = 5,8158415 \\cdot 10^{5} \\ A \\cdot м^{-1}",
+  "metadata": {
+    "db_key": "5592",
+    "src": "images/formula_full_344_5_0.webp",
+    "equation_number": "(19.110)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 91397
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5592\" data-src=\"images/formula_full_344_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$H_{\\perp_1} = \\frac{э\\omega_1 n_1 k_1}{n_1 n_1 k_1} = \\frac{I_1}{l_{m1} \\cdot k_1} = \\frac{5A}{8,5972081 \\cdot 10^{-6}} = 5,8158415 \\cdot 10^{5} \\ A \\cdot м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.110)\n</div>\n</div>"
+}

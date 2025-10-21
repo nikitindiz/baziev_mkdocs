@@ -1,0 +1,15 @@
+{
+  "id": "e11bc37a9b65",
+  "type": "inline",
+  "latex": "\\psi_i",
+  "metadata": {
+    "db_key": "447",
+    "src": "images/formula_inline_32_10_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 8442
+  },
+  "wrapper_html": "<span data-db-key=\"447\" data-src=\"images/formula_inline_32_10_9.webp\"> $\\psi_i$ </span>"
+}

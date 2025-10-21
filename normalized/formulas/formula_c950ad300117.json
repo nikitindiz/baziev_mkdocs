@@ -1,0 +1,15 @@
+{
+  "id": "c950ad300117",
+  "type": "inline",
+  "latex": "\\varepsilon_н",
+  "metadata": {
+    "db_key": "6326",
+    "src": "images/formula_inline_389_3_120.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 14480
+  },
+  "wrapper_html": "<span data-db-key=\"6326\" data-src=\"images/formula_inline_389_3_120.webp\"> $\\varepsilon_н$ </span>"
+}

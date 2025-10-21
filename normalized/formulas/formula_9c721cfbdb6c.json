@@ -1,0 +1,15 @@
+{
+  "id": "9c721cfbdb6c",
+  "type": "display",
+  "latex": "K = v_{\\odot} u_{\\odot} = \\frac{2 E_i a_i^2 u_i}{\\pi \\cdot T_i} = 1,9101737 \\cdot 10^{19} \\text{ м}^3 \\cdot \\text{с}^{-2} = \\text{Const}",
+  "metadata": {
+    "db_key": "8340",
+    "src": "images/formula_full_560_14_0.webp",
+    "equation_number": "(36.26)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 25721
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8340\" data-src=\"images/formula_full_560_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K = v_{\\odot} u_{\\odot} = \\frac{2 E_i a_i^2 u_i}{\\pi \\cdot T_i} = 1,9101737 \\cdot 10^{19} \\text{ м}^3 \\cdot \\text{с}^{-2} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.26)\n</div>\n</div>"
+}

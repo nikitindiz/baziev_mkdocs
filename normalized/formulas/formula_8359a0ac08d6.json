@@ -1,0 +1,15 @@
+{
+  "id": "8359a0ac08d6",
+  "type": "display",
+  "latex": "\\varepsilon_1 + \\varepsilon_2 = 2\\varepsilon_{\\text{He}} = \\frac{2m_{\\text{He}} \\cdot v_{\\text{He}} \\cdot u_{\\text{He}}}{f_{\\text{He}} \\cdot \\nu_{\\text{ед}}} = 8{,}2212172 \\cdot 10^{-34} \\text{ Дж}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 14589
+  },
+  "wrapper_html": null
+}

@@ -1,0 +1,15 @@
+{
+  "id": "92dfb47a5437",
+  "type": "inline",
+  "latex": "r_{0, Xe} = 3,99 \\cdot 10^{-14} \\text{ м}",
+  "metadata": {
+    "db_key": "199",
+    "src": "images/formula_inline_14_1_54.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
+    "position": 6193
+  },
+  "wrapper_html": "<span data-db-key=\"199\" data-src=\"images/formula_inline_14_1_54.webp\"> $r_{0, Xe} = 3,99 \\cdot 10^{-14} \\text{ м}$ </span>"
+}

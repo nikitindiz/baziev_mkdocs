@@ -1,0 +1,15 @@
+{
+  "id": "442895a22320",
+  "type": "display",
+  "latex": "< P_0 S_0 B = (90\\degree - \\beta_♇) = 44\\degree 29' = \\gamma_♇",
+  "metadata": {
+    "db_key": "8355",
+    "src": "images/formula_full_561_14.webp",
+    "equation_number": "(36.30)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 41220
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8355\" data-src=\"images/formula_full_561_14.webp\">\n<div style=\"width: 100%;\">\n\n$$< P_0 S_0 B = (90\\degree - \\beta_♇) = 44\\degree 29' = \\gamma_♇$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.30)\n</div>\n</div>"
+}

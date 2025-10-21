@@ -1,0 +1,15 @@
+{
+  "id": "b297552a213c",
+  "type": "display",
+  "latex": "k_{vi} > k_i,",
+  "metadata": {
+    "db_key": "4353",
+    "src": "images/formula_full_267_6_0.webp",
+    "equation_number": "(16.15)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 19803
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4353\" data-src=\"images/formula_full_267_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{vi} > k_i,$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.15)\n</div>\n</div>"
+}

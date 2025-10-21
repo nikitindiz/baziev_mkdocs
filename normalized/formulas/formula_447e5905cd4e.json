@@ -1,0 +1,15 @@
+{
+  "id": "447e5905cd4e",
+  "type": "inline",
+  "latex": "v_c",
+  "metadata": {
+    "db_key": "4296",
+    "src": "images/formula_inline_263_1_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 2919
+  },
+  "wrapper_html": "<span data-db-key=\"4296\" data-src=\"images/formula_inline_263_1_7.webp\"> $v_c$ </span>"
+}

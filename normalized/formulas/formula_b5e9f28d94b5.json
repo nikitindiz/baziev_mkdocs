@@ -1,0 +1,15 @@
+{
+  "id": "b5e9f28d94b5",
+  "type": "inline",
+  "latex": "E(O_2)",
+  "metadata": {
+    "db_key": "3885",
+    "src": "images/formula_inline_240_4_41.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 111551
+  },
+  "wrapper_html": "<span data-db-key=\"3885\" data-src=\"images/formula_inline_240_4_41.webp\"> $E(O_2)$ </span>"
+}

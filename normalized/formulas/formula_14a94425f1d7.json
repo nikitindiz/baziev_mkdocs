@@ -1,0 +1,15 @@
+{
+  "id": "14a94425f1d7",
+  "type": "inline",
+  "latex": "Q_{ед} = 1 Кл, \\nu_0",
+  "metadata": {
+    "db_key": "5452",
+    "src": "images/formula_inline_335_4_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 33339
+  },
+  "wrapper_html": "<span data-db-key=\"5452\" data-src=\"images/formula_inline_335_4_3.webp\"> $Q_{ед} = 1 Кл, \\nu_0$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d88b6e89950a",
+  "type": "inline",
+  "latex": "h_i = a_i c_i",
+  "metadata": {
+    "db_key": "8400",
+    "src": "images/formula_inline_562_20_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 35850
+  },
+  "wrapper_html": "<span data-db-key=\"8400\" data-src=\"images/formula_inline_562_20_3.webp\"> $h_i = a_i c_i$ </span>"
+}

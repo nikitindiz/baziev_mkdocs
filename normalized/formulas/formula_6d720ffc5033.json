@@ -1,0 +1,15 @@
+{
+  "id": "6d720ffc5033",
+  "type": "display",
+  "latex": "\\lambda_{1} = c\\tau_{1} = c\\tau \\cdot \\frac{(1 + v/c)}{(1 - v/c)} = \\lambda \\cdot \\frac{(1 + v/c)}{(1 - v/c)}, м",
+  "metadata": {
+    "db_key": "9082",
+    "src": "images/formula_full_609_5.webp",
+    "equation_number": "(4.12)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
+    "position": 13092
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9082\" data-src=\"images/formula_full_609_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_{1} = c\\tau_{1} = c\\tau \\cdot \\frac{(1 + v/c)}{(1 - v/c)} = \\lambda \\cdot \\frac{(1 + v/c)}{(1 - v/c)}, м$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.12)\n</div>\n</div>"
+}

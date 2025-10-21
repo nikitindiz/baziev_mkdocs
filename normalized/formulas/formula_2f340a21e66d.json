@@ -1,0 +1,15 @@
+{
+  "id": "2f340a21e66d",
+  "type": "inline",
+  "latex": "\\Delta V_n",
+  "metadata": {
+    "db_key": "7788",
+    "src": "images/formula_inline_520_15_9.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 4469
+  },
+  "wrapper_html": "<span data-db-key=\"7788\" data-src=\"images/formula_inline_520_15_9.webp\"> $\\Delta V_n$ </span>"
+}

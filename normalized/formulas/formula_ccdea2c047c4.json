@@ -1,0 +1,15 @@
+{
+  "id": "ccdea2c047c4",
+  "type": "display",
+  "latex": "w_s = 2 Z_s / |e| = 1,829055",
+  "metadata": {
+    "db_key": "6387",
+    "src": "images/formula_full_395_1_0.webp",
+    "equation_number": "(21.1.17)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 8575
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6387\" data-src=\"images/formula_full_395_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$w_s = 2 Z_s / |e| = 1,829055$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.17)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "96de1191c22c",
+  "type": "inline",
+  "latex": "K \\rightarrow 1 \\quad и \\quad z \\rightarrow \\lambda_{i}",
+  "metadata": {
+    "db_key": "3126",
+    "src": "images/formula_inline_198_2_23.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 231111
+  },
+  "wrapper_html": "<span data-db-key=\"3126\" data-src=\"images/formula_inline_198_2_23.webp\"> $K \\rightarrow 1 \\quad и \\quad z \\rightarrow \\lambda_{i}$ </span>"
+}

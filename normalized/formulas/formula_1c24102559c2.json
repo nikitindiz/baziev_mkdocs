@@ -1,0 +1,15 @@
+{
+  "id": "1c24102559c2",
+  "type": "display",
+  "latex": "v_0 = h_i \\cdot \\omega_i = \\text{Const}",
+  "metadata": {
+    "db_key": "5257",
+    "src": "images/formula_full_327_6_0.webp",
+    "equation_number": "(19.4)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 10842
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5257\" data-src=\"images/formula_full_327_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = h_i \\cdot \\omega_i = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.4)\n</div>\n</div>"
+}

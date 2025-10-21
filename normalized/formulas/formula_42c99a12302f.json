@@ -1,0 +1,15 @@
+{
+  "id": "42c99a12302f",
+  "type": "display",
+  "latex": "r_{Xe} = \\frac{э \\cdot \\varphi}{m_{Xe}\\cdot v_{Xe} \\cdot \\nu_{\\text{ед}}} = 399,19766 \\cdot 10^{-12} \\, \\text{м}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 10524
+  },
+  "wrapper_html": null
+}

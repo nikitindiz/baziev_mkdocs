@@ -1,0 +1,15 @@
+{
+  "id": "c54b1d2407b0",
+  "type": "inline",
+  "latex": "T \\rightarrow -\\infty \\quad v_{л} \\rightarrow 0",
+  "metadata": {
+    "db_key": "4889",
+    "src": "images/formula_inline_298_18_14.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 10995
+  },
+  "wrapper_html": "<span data-db-key=\"4889\" data-src=\"images/formula_inline_298_18_14.webp\"> $T \\rightarrow -\\infty \\quad v_{л} \\rightarrow 0$ </span>"
+}

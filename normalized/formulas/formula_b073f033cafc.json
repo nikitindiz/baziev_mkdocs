@@ -1,0 +1,15 @@
+{
+  "id": "b073f033cafc",
+  "type": "display",
+  "latex": "P_{1} = \\frac{n \\cdot E_{1}}{V_{\\rho}} = \\frac{n_{Au} \\cdot \\alpha \\cdot Q_{Au} \\cdot Z}{2abc \\cdot \\sin{(\\gamma/2)} \\cdot \\cos{(\\gamma/2)}} = \\frac{-13,9028824 \\cdot 10^{-19}}{1,69382 \\cdot 10^{-29}} = -8,2079701 \\cdot 10^{10} \\, \\text{Па}",
+  "metadata": {
+    "db_key": "4216",
+    "src": "images/formula_full_258_8.webp",
+    "equation_number": "(15.56)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 63329
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4216\" data-src=\"images/formula_full_258_8.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{1} = \\frac{n \\cdot E_{1}}{V_{\\rho}} = \\frac{n_{Au} \\cdot \\alpha \\cdot Q_{Au} \\cdot Z}{2abc \\cdot \\sin{(\\gamma/2)} \\cdot \\cos{(\\gamma/2)}} = \\frac{-13,9028824 \\cdot 10^{-19}}{1,69382 \\cdot 10^{-29}} = -8,2079701 \\cdot 10^{10} \\, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.56)\n</div>\n</div>"
+}

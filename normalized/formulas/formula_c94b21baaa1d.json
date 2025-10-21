@@ -1,0 +1,15 @@
+{
+  "id": "c94b21baaa1d",
+  "type": "display",
+  "latex": "Q_{gг} = \\frac{M_г \\cdot K_{g}}{P} = \\frac{2,6647655 \\cdot 10^{18}}{\\pm 3,4547938 \\cdot 10^{-9}} = \\pm 7,7132403 \\cdot 10^{26} \\, \\text{Кл}",
+  "metadata": {
+    "db_key": "8473",
+    "src": "images/formula_full_568_3_0.webp",
+    "equation_number": "(37.6)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
+    "position": 3028
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8473\" data-src=\"images/formula_full_568_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{gг} = \\frac{M_г \\cdot K_{g}}{P} = \\frac{2,6647655 \\cdot 10^{18}}{\\pm 3,4547938 \\cdot 10^{-9}} = \\pm 7,7132403 \\cdot 10^{26} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.6)\n</div>\n</div>"
+}

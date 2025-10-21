@@ -1,0 +1,15 @@
+{
+  "id": "b2b1280900d9",
+  "type": "inline",
+  "latex": "\\varphi = G \\cdot M_{\\odot} / R_{\\odot}",
+  "metadata": {
+    "db_key": "7169",
+    "src": "images/formula_inline_459_0_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 15270
+  },
+  "wrapper_html": "<span data-db-key=\"7169\" data-src=\"images/formula_inline_459_0_1.webp\"> $\\varphi = G \\cdot M_{\\odot} / R_{\\odot}$ </span>"
+}

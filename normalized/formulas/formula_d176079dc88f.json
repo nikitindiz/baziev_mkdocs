@@ -1,0 +1,15 @@
+{
+  "id": "d176079dc88f",
+  "type": "display",
+  "latex": "n_{э}(g) = f_e \\cdot \\Delta \\tau = 6,972\\,6069 \\cdot 10^{15}",
+  "metadata": {
+    "db_key": "3970",
+    "src": "images/formula_full_244_12_0.webp",
+    "equation_number": "(14.148)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 166128
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3970\" data-src=\"images/formula_full_244_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{э}(g) = f_e \\cdot \\Delta \\tau = 6,972\\,6069 \\cdot 10^{15}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.148)\n</div>\n</div>"
+}

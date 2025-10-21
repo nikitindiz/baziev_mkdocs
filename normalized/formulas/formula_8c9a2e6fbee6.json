@@ -1,0 +1,15 @@
+{
+  "id": "8c9a2e6fbee6",
+  "type": "display",
+  "latex": "\\frac{\\varepsilon_t}{\\varepsilon_{tл}} = \\frac{\\sin \\alpha_л}{\\sin \\alpha_s}",
+  "metadata": {
+    "db_key": "4862",
+    "src": "images/formula_full_297_17_0.webp",
+    "equation_number": "(18.17)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 13063
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4862\" data-src=\"images/formula_full_297_17_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\varepsilon_t}{\\varepsilon_{tл}} = \\frac{\\sin \\alpha_л}{\\sin \\alpha_s}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.17)\n</div>\n</div>"
+}

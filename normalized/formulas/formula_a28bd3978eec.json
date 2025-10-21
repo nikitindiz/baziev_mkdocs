@@ -1,0 +1,15 @@
+{
+  "id": "a28bd3978eec",
+  "type": "inline",
+  "latex": "G' = 6,672 \\cdot 10^{-11}",
+  "metadata": {
+    "db_key": "7101",
+    "src": "images/formula_inline_453_8_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 793
+  },
+  "wrapper_html": "<span data-db-key=\"7101\" data-src=\"images/formula_inline_453_8_11.webp\"> $G' = 6,672 \\cdot 10^{-11}$ </span>"
+}

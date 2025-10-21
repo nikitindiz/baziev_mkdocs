@@ -1,0 +1,15 @@
+{
+  "id": "6aff486b8ddc",
+  "type": "display",
+  "latex": "\\mu = \\nu_f \\cdot \\lambda_f^2 = 7,4948113 \\cdot 10^{14} \\, \\text{с}^{-1} \\cdot 16 \\cdot 10^{-14} \\, \\text{м}^2 = 119,91698 \\, \\text{м}^2 \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "140",
+    "src": "images/formula_full_10_8.webp",
+    "equation_number": "(2.21)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 16758
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"140\" data-src=\"images/formula_full_10_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu = \\nu_f \\cdot \\lambda_f^2 = 7,4948113 \\cdot 10^{14} \\, \\text{с}^{-1} \\cdot 16 \\cdot 10^{-14} \\, \\text{м}^2 = 119,91698 \\, \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.21)\n</div>\n</div>"
+}

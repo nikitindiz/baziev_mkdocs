@@ -1,0 +1,15 @@
+{
+  "id": "dc82924e2a1e",
+  "type": "inline",
+  "latex": "H_2 = 6 A \\cdot \\text{м}^{-1}",
+  "metadata": {
+    "db_key": "5417",
+    "src": "images/formula_inline_334_10_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 29794
+  },
+  "wrapper_html": "<span data-db-key=\"5417\" data-src=\"images/formula_inline_334_10_11.webp\"> $H_2 = 6 A \\cdot \\text{м}^{-1}$ </span>"
+}

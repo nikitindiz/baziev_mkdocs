@@ -1,0 +1,15 @@
+{
+  "id": "38aa1c6a41ff",
+  "type": "inline",
+  "latex": "\\tau_{ед} = 1 \\, с",
+  "metadata": {
+    "db_key": "95",
+    "src": "images/formula_inline_7_0_13.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 1278
+  },
+  "wrapper_html": "<span data-db-key=\"95\" data-src=\"images/formula_inline_7_0_13.webp\"> $\\tau_{ед} = 1 \\, с$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e7df943e4b47",
+  "type": "display",
+  "latex": "S_0 = \\sum_Ⅰ^X \\Phi = 1360 \\text{ Вт} \\cdot \\text{м}^{-2}",
+  "metadata": {
+    "db_key": "7601",
+    "src": "images/formula_full_503_13.webp",
+    "equation_number": "(29.9)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 15568
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7601\" data-src=\"images/formula_full_503_13.webp\">\n<div style=\"width: 100%;\">\n\n$$S_0 = \\sum_Ⅰ^X \\Phi = 1360 \\text{ Вт} \\cdot \\text{м}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(29.9)\n</div>\n</div>"
+}

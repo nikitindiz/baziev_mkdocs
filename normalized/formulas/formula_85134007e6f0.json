@@ -1,0 +1,15 @@
+{
+  "id": "85134007e6f0",
+  "type": "inline",
+  "latex": "k = q_\\lambda / э = 1,977913 \\cdot 10^6",
+  "metadata": {
+    "db_key": "1046",
+    "src": "images/formula_inline_72_4_41.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 5599
+  },
+  "wrapper_html": "<span data-db-key=\"1046\" data-src=\"images/formula_inline_72_4_41.webp\"> $k = q_\\lambda / э = 1,977913 \\cdot 10^6$ </span>"
+}

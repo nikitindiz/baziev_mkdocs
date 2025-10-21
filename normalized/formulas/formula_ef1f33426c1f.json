@@ -1,0 +1,15 @@
+{
+  "id": "ef1f33426c1f",
+  "type": "inline",
+  "latex": "R_0 = C_0 \\cdot \\sqrt[3]{A_a} = 4{,}01268 \\cdot 10^{-14} \\cdot \\sqrt[3]{15{,}99915} = 1{,}0111139 \\cdot 10^{-13} \\text{ м}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 21279
+  },
+  "wrapper_html": null
+}

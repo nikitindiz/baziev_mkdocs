@@ -1,0 +1,15 @@
+{
+  "id": "eaf2101824ec",
+  "type": "display",
+  "latex": "v_{i1} = \\frac{v_{0i}}{1 + \\delta_{i1}} = \\frac{v_{0i}}{1 + (2\\theta_1 - \\pi)}",
+  "metadata": {
+    "db_key": "1684",
+    "src": "images/formula_full_116_16.webp",
+    "equation_number": "(10.48)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 72971
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1684\" data-src=\"images/formula_full_116_16.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{i1} = \\frac{v_{0i}}{1 + \\delta_{i1}} = \\frac{v_{0i}}{1 + (2\\theta_1 - \\pi)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.48)\n</div>\n</div>"
+}

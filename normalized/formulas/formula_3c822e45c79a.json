@@ -1,0 +1,15 @@
+{
+  "id": "3c822e45c79a",
+  "type": "inline",
+  "latex": "N_э",
+  "metadata": {
+    "db_key": "6337",
+    "src": "images/formula_inline_390_7_1.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
+    "position": 15620
+  },
+  "wrapper_html": "<span data-db-key=\"6337\" data-src=\"images/formula_inline_390_7_1.webp\"> $N_э$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "372cd072e4e8",
+  "type": "inline",
+  "latex": "a_i^3",
+  "metadata": {
+    "db_key": "2674",
+    "src": "images/formula_inline_169_6_59.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 92733
+  },
+  "wrapper_html": "<span data-db-key=\"2674\" data-src=\"images/formula_inline_169_6_59.webp\"> $a_i^3$ </span>"
+}

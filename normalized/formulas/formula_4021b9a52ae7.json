@@ -1,0 +1,15 @@
+{
+  "id": "4021b9a52ae7",
+  "type": "display",
+  "latex": "C_0^п = \\frac{m_0v_0u_0}{m_0} = v_0u_0, \\text{ Дж} \\cdot \\text{кг}^{-1} = \\text{м}^2 \\cdot \\text{с}^{-2}",
+  "metadata": {
+    "db_key": "4428",
+    "src": "images/formula_full_271_5_0.webp",
+    "equation_number": "(16.41)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 37293
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4428\" data-src=\"images/formula_full_271_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_0^п = \\frac{m_0v_0u_0}{m_0} = v_0u_0, \\text{ Дж} \\cdot \\text{кг}^{-1} = \\text{м}^2 \\cdot \\text{с}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.41)\n</div>\n</div>"
+}

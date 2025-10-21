@@ -1,0 +1,15 @@
+{
+  "id": "66a896224cf8",
+  "type": "display",
+  "latex": "v_{es} = \\sqrt{R_s^2 \\cdot \\omega_s^2} = \\sqrt{1,9471643 \\cdot 10^{12} \\text{ м}^2 \\text{ с}^{-2}} = 1,3954082 \\cdot 10^6 \\text{ м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "8189",
+    "src": "images/formula_full_547_9.webp",
+    "equation_number": "(34.75)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 70447
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8189\" data-src=\"images/formula_full_547_9.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{es} = \\sqrt{R_s^2 \\cdot \\omega_s^2} = \\sqrt{1,9471643 \\cdot 10^{12} \\text{ м}^2 \\text{ с}^{-2}} = 1,3954082 \\cdot 10^6 \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.75)\n</div>\n</div>"
+}

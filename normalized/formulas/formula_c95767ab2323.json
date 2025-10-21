@@ -1,0 +1,15 @@
+{
+  "id": "c95767ab2323",
+  "type": "display",
+  "latex": "n_{p1} = \\frac{P_1}{(P_2 + P_3)} = \\frac{-21,190095 \\cdot 10^8}{1,4623164 \\cdot 10^8} = -14,490772",
+  "metadata": {
+    "db_key": "5028",
+    "src": "images/formula_full_309_18_0.webp",
+    "equation_number": "(18.103)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 60340
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5028\" data-src=\"images/formula_full_309_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{p1} = \\frac{P_1}{(P_2 + P_3)} = \\frac{-21,190095 \\cdot 10^8}{1,4623164 \\cdot 10^8} = -14,490772$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.103)\n</div>\n</div>"
+}

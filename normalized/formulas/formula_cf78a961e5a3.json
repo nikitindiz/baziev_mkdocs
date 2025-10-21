@@ -1,0 +1,15 @@
+{
+  "id": "cf78a961e5a3",
+  "type": "display",
+  "latex": "\\nu_f = \\mu / \\lambda_f^2 = 7,4948112 \\cdot 10^{14} \\, с^{-1}$$\n\n</div> <div data-db-key=\"2408\" data-src=\"images/formula_full_156_7.webp\">\n\n$$u_f = 2\\mu/\\lambda_f = 5,9958492 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div> <div data-db-key=\"2409\" data-src=\"images/formula_full_156_8.webp\">\n\n$$c_f = \\sqrt{\\mu \\cdot \\nu_f} = 2,9979246 \\cdot 10^8 \\, м \\cdot с^{-1}$$\n\n</div>\n\n</div>Радиальная сила фотона, удерживающая его на круговой орбите составит\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"2399\" data-src=\"images/formula_full_156_10.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{rf} = - \\frac{m_э \\cdot u_f \\cdot \\nu_{ед}}{2} = - \\frac{m_э \\cdot \\mu \\cdot \\nu_{ед}}{2r_f} = -2,0553043 \\cdot 10^{-27} \\text{ Н}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(13.16)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 37948
+  },
+  "wrapper_html": "<div>\n\n<div data-db-key=\"2407\" data-src=\"images/formula_full_156_6.webp\">\n\n$$\\nu_f = \\mu / \\lambda_f^2 = 7,4948112 \\cdot 10^{14} \\, с^{-1}$$\n\n</div> <div data-db-key=\"2408\" data-src=\"images/formula_full_156_7.webp\">\n\n$$u_f = 2\\mu/\\lambda_f = 5,9958492 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div> <div data-db-key=\"2409\" data-src=\"images/formula_full_156_8.webp\">\n\n$$c_f = \\sqrt{\\mu \\cdot \\nu_f} = 2,9979246 \\cdot 10^8 \\, м \\cdot с^{-1}$$\n\n</div>\n\n</div>Радиальная сила фотона, удерживающая его на круговой орбите составит\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"2399\" data-src=\"images/formula_full_156_10.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{rf} = - \\frac{m_э \\cdot u_f \\cdot \\nu_{ед}}{2} = - \\frac{m_э \\cdot \\mu \\cdot \\nu_{ед}}{2r_f} = -2,0553043 \\cdot 10^{-27} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.16)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "518a6e9060aa",
+  "type": "display",
+  "latex": "\\delta_{i}=\\frac{d_{g i}-A_{i}-r_{i}}{r_{i}}=\\frac{\\left(d_{g i}-A_{i}-r_{i}\\right) \\cdot P_{n}(э) \\cdot A_{i}}{\\sigma_{n}}",
+  "metadata": {
+    "db_key": "1526",
+    "src": "images/formula_full_108_12_0.webp",
+    "equation_number": "(10.15)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 22692
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1526\" data-src=\"images/formula_full_108_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{i}=\\frac{d_{g i}-A_{i}-r_{i}}{r_{i}}=\\frac{\\left(d_{g i}-A_{i}-r_{i}\\right) \\cdot P_{n}(э) \\cdot A_{i}}{\\sigma_{n}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.15)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5c66233361db",
+  "type": "display",
+  "latex": "u_i = \\pi h_i v_{\\odot} / 2 a_i^2 E(e_i), \\quad \\text{м} \\cdot \\text{с}^{-1}",
+  "metadata": {
+    "db_key": "2172",
+    "src": "images/formula_full_142_18_0.webp",
+    "equation_number": "(12.29)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 31642
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2172\" data-src=\"images/formula_full_142_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = \\pi h_i v_{\\odot} / 2 a_i^2 E(e_i), \\quad \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.29)\n</div>\n</div>"
+}

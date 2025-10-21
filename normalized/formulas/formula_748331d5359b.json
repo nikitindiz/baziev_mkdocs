@@ -1,0 +1,15 @@
+{
+  "id": "748331d5359b",
+  "type": "inline",
+  "latex": "A_1 = 2,5169574 \\cdot 10^4 \\, Дж",
+  "metadata": {
+    "db_key": "2128",
+    "src": "images/formula_inline_139_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
+    "position": 15343
+  },
+  "wrapper_html": "<span data-db-key=\"2128\" data-src=\"images/formula_inline_139_1_0.webp\"> $A_1 = 2,5169574 \\cdot 10^4 \\, Дж$ </span>"
+}

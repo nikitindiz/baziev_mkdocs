@@ -1,0 +1,15 @@
+{
+  "id": "7b5067eb42cb",
+  "type": "inline",
+  "latex": "d_{gi} = \\text{Const}",
+  "metadata": {
+    "db_key": "4802",
+    "src": "images/formula_inline_293_4_26.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 41228
+  },
+  "wrapper_html": "<span data-db-key=\"4802\" data-src=\"images/formula_inline_293_4_26.webp\"> $d_{gi} = \\text{Const}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0562640d684a",
+  "type": "display",
+  "latex": "m_{\\odot 4} = m_{\\odot} + (\\mu_{\\tau} - \\mu_{\\odot}) \\tau_4 = m_{\\odot} - 5,9348597 \\cdot 10^{28} \\text{ кг}",
+  "metadata": {
+    "db_key": "7847",
+    "src": "images/formula_full_524_0.webp",
+    "equation_number": "(32.30)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 20178
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7847\" data-src=\"images/formula_full_524_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{\\odot 4} = m_{\\odot} + (\\mu_{\\tau} - \\mu_{\\odot}) \\tau_4 = m_{\\odot} - 5,9348597 \\cdot 10^{28} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.30)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8c8abcd656a8",
+  "type": "inline",
+  "latex": "T_\\odot = 1,5779 \\cdot 10^{17} \\, с = 5 \\cdot 10^9",
+  "metadata": {
+    "db_key": "7267",
+    "src": "images/formula_inline_468_6_13.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 17393
+  },
+  "wrapper_html": "<span data-db-key=\"7267\" data-src=\"images/formula_inline_468_6_13.webp\"> $T_\\odot = 1,5779 \\cdot 10^{17} \\, с = 5 \\cdot 10^9$ </span>"
+}

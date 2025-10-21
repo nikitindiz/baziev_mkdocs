@@ -1,0 +1,15 @@
+{
+  "id": "5328e3fac375",
+  "type": "inline",
+  "latex": "10^{14}-10^{16} Па",
+  "metadata": {
+    "db_key": "6693",
+    "src": "images/formula_inline_420_4_34.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 14550
+  },
+  "wrapper_html": "<span data-db-key=\"6693\" data-src=\"images/formula_inline_420_4_34.webp\"> $10^{14}-10^{16} Па$ </span>"
+}

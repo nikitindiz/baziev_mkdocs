@@ -1,0 +1,15 @@
+{
+  "id": "7b52eac0d94f",
+  "type": "display",
+  "latex": "d_{g0}^{п} = \\sqrt[3]{\\frac{6 \\cdot V_{g0}}{\\pi}} = \\sqrt[3]{6.2231057 \\cdot 10^{-24}} = 1,8393608 \\cdot 10^{-8} \\text{ м}",
+  "metadata": {
+    "db_key": "4492",
+    "src": "images/formula_full_275_5.webp",
+    "equation_number": "(16.60)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
+    "position": 60847
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4492\" data-src=\"images/formula_full_275_5.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{g0}^{п} = \\sqrt[3]{\\frac{6 \\cdot V_{g0}}{\\pi}} = \\sqrt[3]{6.2231057 \\cdot 10^{-24}} = 1,8393608 \\cdot 10^{-8} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.60)\n</div>\n</div>"
+}

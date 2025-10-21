@@ -1,0 +1,15 @@
+{
+  "id": "fa832363261d",
+  "type": "display",
+  "latex": "a_{n} = \\sqrt[3]{V_{n♃}} = \\sqrt[3]{199,76648 \\cdot 10^{12} м^3} = 5,8457586 \\cdot 10^{4} \\mathrm{м}",
+  "metadata": {
+    "db_key": "8671",
+    "src": "images/formula_full_582_15_0.webp",
+    "equation_number": "(38.82)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 45974
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8671\" data-src=\"images/formula_full_582_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{n} = \\sqrt[3]{V_{n♃}} = \\sqrt[3]{199,76648 \\cdot 10^{12} м^3} = 5,8457586 \\cdot 10^{4} \\mathrm{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.82)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "70775bc2d669",
+  "type": "display",
+  "latex": "K_g = \\frac{Z_g \\left( m_{ед} \\right)}{Z \\left( m_{ед} \\right)} = \\frac{3,0242769 \\cdot 10^{-9}}{2,8945287 \\cdot 10^{-8}} = 1,0448253386 \\cdot 10^{-17} = \\text{Const}",
+  "metadata": {
+    "db_key": "7129",
+    "src": "images/formula_full_455_7.webp",
+    "equation_number": "(24.10)"
+  },
+  "source": {
+    "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
+    "position": 7584
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7129\" data-src=\"images/formula_full_455_7.webp\">\n<div style=\"width: 100%;\">\n\n$$K_g = \\frac{Z_g \\left( m_{ед} \\right)}{Z \\left( m_{ед} \\right)} = \\frac{3,0242769 \\cdot 10^{-9}}{2,8945287 \\cdot 10^{-8}} = 1,0448253386 \\cdot 10^{-17} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.10)\n</div>\n</div>"
+}

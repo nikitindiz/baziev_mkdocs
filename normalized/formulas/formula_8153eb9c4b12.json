@@ -1,0 +1,15 @@
+{
+  "id": "8153eb9c4b12",
+  "type": "display",
+  "latex": "R_{cn} \\sqrt[3]{{3V_{n ♃}}/{8 \\pi}}=\\sqrt[3]{23,845367 \\cdot 10^{12} м^{3}}=2,8782908 \\cdot 10^{4} м",
+  "metadata": {
+    "db_key": "8689",
+    "src": "images/formula_full_583_2.webp",
+    "equation_number": "(38.83)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
+    "position": 46788
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8689\" data-src=\"images/formula_full_583_2.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{cn} \\sqrt[3]{{3V_{n ♃}}/{8 \\pi}}=\\sqrt[3]{23,845367 \\cdot 10^{12} м^{3}}=2,8782908 \\cdot 10^{4} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.83)\n</div>\n</div>"
+}

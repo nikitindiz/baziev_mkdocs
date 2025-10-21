@@ -1,0 +1,15 @@
+{
+  "id": "dbd71306ba9f",
+  "type": "display",
+  "latex": "\\delta_{si} = (1 - \\alpha_i^2 \\cdot n_i)",
+  "metadata": {
+    "db_key": "1973",
+    "src": "images/formula_full_130_8_1.webp",
+    "equation_number": "(11.80)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 54712
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1973\" data-src=\"images/formula_full_130_8_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\delta_{si} = (1 - \\alpha_i^2 \\cdot n_i)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.80)\n</div>\n</div>"
+}

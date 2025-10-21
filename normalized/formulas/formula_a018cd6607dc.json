@@ -1,0 +1,15 @@
+{
+  "id": "a018cd6607dc",
+  "type": "display",
+  "latex": "\\hbar = m_i v_i r_i",
+  "metadata": {
+    "db_key": "169",
+    "src": "images/formula_full_12_1_0.webp",
+    "equation_number": "(2.27)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
+    "position": 21504
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"169\" data-src=\"images/formula_full_12_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\hbar = m_i v_i r_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.27)\n</div>\n</div>"
+}

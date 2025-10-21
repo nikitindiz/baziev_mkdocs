@@ -1,0 +1,15 @@
+{
+  "id": "d4460b4d679a",
+  "type": "display",
+  "latex": "2BBr_3 + 3H_2 = 2B + 6HBr",
+  "metadata": {
+    "db_key": "6824",
+    "src": "images/formula_full_431_7_0.webp",
+    "equation_number": "(23.86)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 85347
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6824\" data-src=\"images/formula_full_431_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$2BBr_3 + 3H_2 = 2B + 6HBr$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.86)\n</div>\n</div>"
+}

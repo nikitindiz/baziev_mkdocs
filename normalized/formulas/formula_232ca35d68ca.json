@@ -1,0 +1,15 @@
+{
+  "id": "232ca35d68ca",
+  "type": "display",
+  "latex": "\\frac{e}{m_e} = \\frac{8\\pi^2 \\cdot \\varphi \\cdot n}{B^2 \\cdot l^2}",
+  "metadata": {
+    "db_key": "9003",
+    "src": "images/formula_full_604_11_0.webp",
+    "equation_number": "(41.18)"
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
+    "position": 24861
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9003\" data-src=\"images/formula_full_604_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{e}{m_e} = \\frac{8\\pi^2 \\cdot \\varphi \\cdot n}{B^2 \\cdot l^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.18)\n</div>\n</div>"
+}

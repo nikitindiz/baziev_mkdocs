@@ -1,0 +1,15 @@
+{
+  "id": "424b2b1b63ec",
+  "type": "display",
+  "latex": "E_{71} = f_{71} \\cdot h_{\\odot} = 1,1078742 \\cdot 10^{-4} \\text{ Дж}",
+  "metadata": {
+    "db_key": "7509",
+    "src": "images/formula_full_487_15.webp",
+    "equation_number": "(28.18)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 7607
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7509\" data-src=\"images/formula_full_487_15.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{71} = f_{71} \\cdot h_{\\odot} = 1,1078742 \\cdot 10^{-4} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.18)\n</div>\n</div>"
+}

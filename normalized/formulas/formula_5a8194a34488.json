@@ -1,0 +1,15 @@
+{
+  "id": "5a8194a34488",
+  "type": "display",
+  "latex": "K_m = I_{\\mu \\oplus} / H_{\\oplus} \\cdot a_m = 1,3775636 \\cdot 10^{13}",
+  "metadata": {
+    "db_key": "6223",
+    "src": "images/formula_full_381_9_0.webp",
+    "equation_number": "(20.163)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 142841
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6223\" data-src=\"images/formula_full_381_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_m = I_{\\mu \\oplus} / H_{\\oplus} \\cdot a_m = 1,3775636 \\cdot 10^{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.163)\n</div>\n</div>"
+}

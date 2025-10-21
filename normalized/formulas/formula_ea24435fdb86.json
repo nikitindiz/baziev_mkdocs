@@ -1,0 +1,15 @@
+{
+  "id": "ea24435fdb86",
+  "type": "display",
+  "latex": "\\rho_B \\equiv n_B \\cdot m_n \\equiv 1{,}66057 \\cdot 10^{-27} \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "2888",
+    "src": "images/formula_full_184_16_0.webp",
+    "equation_number": "(13.113б)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 182583
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2888\" data-src=\"images/formula_full_184_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_B \\equiv n_B \\cdot m_n \\equiv 1{,}66057 \\cdot 10^{-27} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.113б)\n</div>\n</div>"
+}

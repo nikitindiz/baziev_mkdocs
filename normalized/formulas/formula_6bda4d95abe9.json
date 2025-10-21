@@ -1,0 +1,15 @@
+{
+  "id": "6bda4d95abe9",
+  "type": "inline",
+  "latex": "A_c \\leq A_2",
+  "metadata": {
+    "db_key": "6049",
+    "src": "images/formula_inline_370_4_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 69585
+  },
+  "wrapper_html": "<span data-db-key=\"6049\" data-src=\"images/formula_inline_370_4_0.webp\"> $A_c \\leq A_2$ </span>"
+}

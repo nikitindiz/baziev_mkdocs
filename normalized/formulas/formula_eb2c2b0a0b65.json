@@ -1,0 +1,15 @@
+{
+  "id": "eb2c2b0a0b65",
+  "type": "inline",
+  "latex": "p_1 = -8,825985 \\cdot 10^{11} \\text{ Па}",
+  "metadata": {
+    "db_key": "6941",
+    "src": "images/formula_inline_440_8_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 142398
+  },
+  "wrapper_html": "<span data-db-key=\"6941\" data-src=\"images/formula_inline_440_8_0.webp\"> $p_1 = -8,825985 \\cdot 10^{11} \\text{ Па}$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "77a6391895d6",
+  "type": "inline",
+  "latex": "2,3 \\cdot 10^{26}",
+  "metadata": {
+    "db_key": "6496",
+    "src": "images/formula_inline_402_20_33.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 42734
+  },
+  "wrapper_html": "<span data-db-key=\"6496\" data-src=\"images/formula_inline_402_20_33.webp\"> $2,3 \\cdot 10^{26}$ </span>"
+}

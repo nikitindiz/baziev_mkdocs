@@ -1,0 +1,15 @@
+{
+  "id": "81a4999aee5c",
+  "type": "display",
+  "latex": "\\sin \\alpha_{\\text{л}} = \\frac{W_{\\text{t0}}}{T_{0}\\left(C^{\\text{л}}m_{\\text{л}} - \\gamma^{\\text{л}}\\cdot k_{0}^ж\\right)} = \\frac{2,8391392\\cdot 10^{-18}}{8,0679662\\cdot 10^{-17}} = 3,5190271\\cdot 10^{-2}",
+  "metadata": {
+    "db_key": "4899",
+    "src": "images/formula_full_299_5_0.webp",
+    "equation_number": "(18.28)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 18473
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4899\" data-src=\"images/formula_full_299_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{\\text{л}} = \\frac{W_{\\text{t0}}}{T_{0}\\left(C^{\\text{л}}m_{\\text{л}} - \\gamma^{\\text{л}}\\cdot k_{0}^ж\\right)} = \\frac{2,8391392\\cdot 10^{-18}}{8,0679662\\cdot 10^{-17}} = 3,5190271\\cdot 10^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.28)\n</div>\n</div>"
+}

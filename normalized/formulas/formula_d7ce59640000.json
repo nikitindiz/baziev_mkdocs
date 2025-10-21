@@ -1,0 +1,15 @@
+{
+  "id": "d7ce59640000",
+  "type": "display",
+  "latex": "\\alpha_{i} = z_{i}^{2} / \\sigma_{i} = z_{i}^{2} \\cdot \\Phi_{0i} / \\Phi_{i}",
+  "metadata": {
+    "db_key": "7609",
+    "src": "images/formula_full_504_7_0.webp",
+    "equation_number": "(29.12)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
+    "position": 17774
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7609\" data-src=\"images/formula_full_504_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_{i} = z_{i}^{2} / \\sigma_{i} = z_{i}^{2} \\cdot \\Phi_{0i} / \\Phi_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(29.12)\n</div>\n</div>"
+}

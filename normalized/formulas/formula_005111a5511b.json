@@ -1,0 +1,15 @@
+{
+  "id": "005111a5511b",
+  "type": "display",
+  "latex": "u_i = \\sqrt{\\frac{2\\gamma \\cdot Z_n^2 \\cdot A_i^2}{m_i \\cdot R_i}}, \\frac{м}{с}; \\quad u(\\text{He}) = 2{,}3190445 \\cdot 10^5",
+  "metadata": {
+    "db_key": "1597",
+    "src": "images/formula_full_112_13.webp",
+    "equation_number": "(10.29)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 46585
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1597\" data-src=\"images/formula_full_112_13.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = \\sqrt{\\frac{2\\gamma \\cdot Z_n^2 \\cdot A_i^2}{m_i \\cdot R_i}}, \\frac{м}{с}; \\quad u(\\text{He}) = 2{,}3190445 \\cdot 10^5$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.29)\n</div>\n</div>"
+}

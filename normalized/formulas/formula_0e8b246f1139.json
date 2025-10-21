@@ -1,0 +1,15 @@
+{
+  "id": "0e8b246f1139",
+  "type": "display",
+  "latex": "n_4 = \\frac{N_э(O)}{2n_a} = \\frac{22,408689 \\cdot 10^{25}}{3,3808381 \\cdot 10^{18}} = 6,6281461 \\cdot 10^7 , \\frac{3}{O}",
+  "metadata": {
+    "db_key": "6507",
+    "src": "images/formula_full_403_15.webp",
+    "equation_number": "(21.1.70)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 60980
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6507\" data-src=\"images/formula_full_403_15.webp\">\n<div style=\"width: 100%;\">\n\n$$n_4 = \\frac{N_э(O)}{2n_a} = \\frac{22,408689 \\cdot 10^{25}}{3,3808381 \\cdot 10^{18}} = 6,6281461 \\cdot 10^7 , \\frac{3}{O}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.70)\n</div>\n</div>"
+}

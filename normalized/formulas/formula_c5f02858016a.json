@@ -1,0 +1,15 @@
+{
+  "id": "c5f02858016a",
+  "type": "display",
+  "latex": "\\frac{T_{0i}}{\\theta_{i}} = \\frac{v_{0i}}{v_0(\\theta_i)} = \\frac{r_{0i} + s_{0i}}{r_{0i}}",
+  "metadata": {
+    "db_key": "1493",
+    "src": "images/formula_full_106_14_0.webp",
+    "equation_number": "(10.8)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
+    "position": 5440
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1493\" data-src=\"images/formula_full_106_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{T_{0i}}{\\theta_{i}} = \\frac{v_{0i}}{v_0(\\theta_i)} = \\frac{r_{0i} + s_{0i}}{r_{0i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.8)\n</div>\n</div>"
+}

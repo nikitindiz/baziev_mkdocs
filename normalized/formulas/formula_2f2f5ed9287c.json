@@ -1,0 +1,15 @@
+{
+  "id": "2f2f5ed9287c",
+  "type": "inline",
+  "latex": "\\varepsilon_{3} = f(c, m)",
+  "metadata": {
+    "db_key": "6007",
+    "src": "images/formula_inline_368_0_38.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 63086
+  },
+  "wrapper_html": "<span data-db-key=\"6007\" data-src=\"images/formula_inline_368_0_38.webp\"> $\\varepsilon_{3} = f(c, m)$ </span>"
+}

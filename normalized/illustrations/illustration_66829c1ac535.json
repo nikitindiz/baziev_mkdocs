@@ -1,0 +1,31 @@
+{
+  "id": "66829c1ac535",
+  "type": "svg",
+  "svg_content": "<svg id=\"uuid-193934e1-f229-4bb2-9acd-568929ad7836\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 323.2 86.6\">   <text transform=\"translate(59.04 53.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">BN = B</tspan></text>   <text transform=\"translate(156.26 42.1) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">+</tspan></text>   <text transform=\"translate(230.22 53.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">N</tspan></text>   <text transform=\"translate(252.93 42.1) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">+</tspan></text>   <text transform=\"translate(186.62 26.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   <text transform=\"translate(186.62 80.07)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   <text transform=\"translate(198.24 26.77) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(211.31 71.87) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(157.36 48.13) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(169.72 50.07) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg>",
+  "caption": null,
+  "metadata": {
+    "db_key": "6840",
+    "src": "images/illustration_432_3.webp",
+    "svg_id": "uuid-193934e1-f229-4bb2-9acd-568929ad7836",
+    "svg_viewbox": "0 0 323.2 86.6",
+    "element_counts": {
+      "path": 0,
+      "text": 10,
+      "line": 0,
+      "circle": 0,
+      "rect": 0,
+      "g": 0,
+      "polygon": 0,
+      "polyline": 0
+    },
+    "has_caption": false,
+    "caption_has_formulas": false,
+    "caption_formula_refs": [],
+    "wrapper_type": "simple"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 63704
+  },
+  "wrapper_html": "<div data-db-key=\"6840\" data-src=\"images/illustration_432_3.webp\"> <svg id=\"uuid-193934e1-f229-4bb2-9acd-568929ad7836\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 323.2 86.6\">   <text transform=\"translate(59.04 53.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">BN = B</tspan></text>   <text transform=\"translate(156.26 42.1) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">+</tspan></text>   <text transform=\"translate(230.22 53.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">N</tspan></text>   <text transform=\"translate(252.93 42.1) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">+</tspan></text>   <text transform=\"translate(186.62 26.34)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   <text transform=\"translate(186.62 80.07)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e</tspan></text>   <text transform=\"translate(198.24 26.77) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(211.31 71.87) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(157.36 48.13) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(169.72 50.07) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg> </div>"
+}

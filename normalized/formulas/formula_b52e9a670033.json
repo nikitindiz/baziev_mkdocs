@@ -1,0 +1,15 @@
+{
+  "id": "b52e9a670033",
+  "type": "display",
+  "latex": "i_{2}' = - \\frac{\\alpha \\cdot э^{2}}{\\lambda_{i}\\nu_{\\text{ед}}} = - \\frac{F_{\\text{t0}}}{\\nu_{\\text{ед}}}",
+  "metadata": {
+    "db_key": "2851",
+    "src": "images/formula_full_181_18_0.webp",
+    "equation_number": "(13.96)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 169606
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2851\" data-src=\"images/formula_full_181_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{2}' = - \\frac{\\alpha \\cdot э^{2}}{\\lambda_{i}\\nu_{\\text{ед}}} = - \\frac{F_{\\text{t0}}}{\\nu_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.96)\n</div>\n</div>"
+}

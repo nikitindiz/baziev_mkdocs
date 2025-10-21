@@ -1,0 +1,15 @@
+{
+  "id": "62e3af409214",
+  "type": "inline",
+  "latex": "I_\\odot",
+  "metadata": {
+    "db_key": "7452",
+    "src": "images/formula_inline_480_4_14.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
+    "position": 472
+  },
+  "wrapper_html": "<span data-db-key=\"7452\" data-src=\"images/formula_inline_480_4_14.webp\"> $I_\\odot$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fd397a60b6ad",
+  "type": "display",
+  "latex": "C (\\Delta m) = \\frac{n_э (O) \\cdot \\mathscr{P}}{\\Delta m} = \\frac{3.731 \\ 3643 \\cdot 10^{-19}}{\\Delta m} = 1.901 \\ 7419 \\cdot 10^{14} \\ \\text{Дж} \\cdot \\text{кг}^{-1}",
+  "metadata": {
+    "db_key": "3986",
+    "src": "images/formula_full_245_4_0.webp",
+    "equation_number": "(14.154)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
+    "position": 169464
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3986\" data-src=\"images/formula_full_245_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C (\\Delta m) = \\frac{n_э (O) \\cdot \\mathscr{P}}{\\Delta m} = \\frac{3.731 \\ 3643 \\cdot 10^{-19}}{\\Delta m} = 1.901 \\ 7419 \\cdot 10^{14} \\ \\text{Дж} \\cdot \\text{кг}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.154)\n</div>\n</div>"
+}

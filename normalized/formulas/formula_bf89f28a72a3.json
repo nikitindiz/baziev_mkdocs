@@ -1,0 +1,15 @@
+{
+  "id": "bf89f28a72a3",
+  "type": "display",
+  "latex": "\\eta_0 = \\frac{m_0 \\cdot f_0}{\\pi \\cdot A_0} = \\frac{m_0 \\cdot \\varphi_в \\cdot T_0}{\\pi \\cdot A_0} = 1.7921 \\cdot 10^{-3} \\text{ Па} \\cdot с",
+  "metadata": {
+    "db_key": "4684",
+    "src": "images/formula_full_287_2.webp",
+    "equation_number": "(17.59)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 39728
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4684\" data-src=\"images/formula_full_287_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_0 = \\frac{m_0 \\cdot f_0}{\\pi \\cdot A_0} = \\frac{m_0 \\cdot \\varphi_в \\cdot T_0}{\\pi \\cdot A_0} = 1.7921 \\cdot 10^{-3} \\text{ Па} \\cdot с$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.59)\n</div>\n</div>"
+}

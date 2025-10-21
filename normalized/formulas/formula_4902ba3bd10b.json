@@ -1,0 +1,15 @@
+{
+  "id": "4902ba3bd10b",
+  "type": "display",
+  "latex": "F_{\\lambda i} = \\frac{q_{\\lambda} \\cdot \\varphi}{r_i} , Н",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": "(8.11)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
+    "position": 6830
+  },
+  "wrapper_html": null
+}

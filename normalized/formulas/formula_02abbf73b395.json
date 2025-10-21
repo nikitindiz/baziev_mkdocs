@@ -1,0 +1,15 @@
+{
+  "id": "02abbf73b395",
+  "type": "display",
+  "latex": "m_{\\text{л}} = \\frac{C^ж \\cdot m_s \\cdot T_0}{(C^{\\text{л}} \\cdot T_0 + q^{\\text{л}})} = \\frac{12,877369 \\cdot 10^{-17}}{9,045835 \\cdot 10^5} = 1,4235688 \\cdot 10^{-22} \\text{ кг}",
+  "metadata": {
+    "db_key": "4848",
+    "src": "images/formula_full_296_20.webp",
+    "equation_number": "(18.10)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 8767
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4848\" data-src=\"images/formula_full_296_20.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{\\text{л}} = \\frac{C^ж \\cdot m_s \\cdot T_0}{(C^{\\text{л}} \\cdot T_0 + q^{\\text{л}})} = \\frac{12,877369 \\cdot 10^{-17}}{9,045835 \\cdot 10^5} = 1,4235688 \\cdot 10^{-22} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.10)\n</div>\n</div>"
+}

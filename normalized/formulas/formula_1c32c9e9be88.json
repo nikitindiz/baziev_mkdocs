@@ -1,0 +1,15 @@
+{
+  "id": "1c32c9e9be88",
+  "type": "display",
+  "latex": "H_{71} = (R_{71} - R_{\\odot})",
+  "metadata": {
+    "db_key": "7232",
+    "src": "images/formula_full_464_17.webp",
+    "equation_number": "(26.11)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 7243
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7232\" data-src=\"images/formula_full_464_17.webp\">\n<div style=\"width: 100%;\">\n\n$$H_{71} = (R_{71} - R_{\\odot})$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.11)\n</div>\n</div>"
+}

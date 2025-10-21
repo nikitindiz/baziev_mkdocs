@@ -1,0 +1,15 @@
+{
+  "id": "e32c5df23104",
+  "type": "inline",
+  "latex": "S_n",
+  "metadata": {
+    "db_key": "9212",
+    "src": "images/formula_inline_626_1_177.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 10481
+  },
+  "wrapper_html": "<span data-db-key=\"9212\" data-src=\"images/formula_inline_626_1_177.webp\"> $S_n$ </span>"
+}

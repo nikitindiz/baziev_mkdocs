@@ -1,0 +1,15 @@
+{
+  "id": "9894d0259094",
+  "type": "display",
+  "latex": "q_{Be} = (4Z + 6q)/10 = -9.042611 \\cdot 10^{-20} Кл",
+  "metadata": {
+    "db_key": "6803",
+    "src": "images/formula_full_429_2_0.webp",
+    "equation_number": "(23.72)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 73141
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6803\" data-src=\"images/formula_full_429_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{Be} = (4Z + 6q)/10 = -9.042611 \\cdot 10^{-20} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.72)\n</div>\n</div>"
+}

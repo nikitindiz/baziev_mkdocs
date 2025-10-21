@@ -1,0 +1,15 @@
+{
+  "id": "37033097255e",
+  "type": "inline",
+  "latex": "\\Delta \\tau = \\tau_1 - \\tau_0",
+  "metadata": {
+    "db_key": "571",
+    "src": "images/formula_inline_42_2_111.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 17084
+  },
+  "wrapper_html": "<span data-db-key=\"571\" data-src=\"images/formula_inline_42_2_111.webp\"> $\\Delta \\tau = \\tau_1 - \\tau_0$ </span>"
+}

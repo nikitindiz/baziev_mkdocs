@@ -1,0 +1,15 @@
+{
+  "id": "f00f1347291d",
+  "type": "display",
+  "latex": "h_\\odot = \\frac{\\varepsilon_q}{\\nu_{\\text{ед}}} = \\alpha \\cdot \\frac{q_\\lambda^2}{2\\nu_{\\text{ед}}} = 8,0231385 \\cdot 10^{-22} \\, \\text{кг} \\cdot \\text{м}^2 \\cdot с^{-1} = \\text{Const}",
+  "metadata": {
+    "db_key": null,
+    "src": null,
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 13512
+  },
+  "wrapper_html": null
+}

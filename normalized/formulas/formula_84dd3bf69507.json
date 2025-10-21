@@ -1,0 +1,15 @@
+{
+  "id": "84dd3bf69507",
+  "type": "inline",
+  "latex": "\\sigma_e",
+  "metadata": {
+    "db_key": "9246",
+    "src": "images/formula_inline_627_0_11.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 13494
+  },
+  "wrapper_html": "<span data-db-key=\"9246\" data-src=\"images/formula_inline_627_0_11.webp\"> $\\sigma_e$ </span>"
+}

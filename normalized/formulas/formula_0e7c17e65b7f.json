@@ -1,0 +1,15 @@
+{
+  "id": "0e7c17e65b7f",
+  "type": "display",
+  "latex": "\\Delta m (\\Delta n_e) = \\Delta n_e \\cdot m_e = 1,4876908 \\cdot 10^{-28} \\text{ кг}",
+  "metadata": {
+    "db_key": "1323",
+    "src": "images/formula_full_92_1_0.webp",
+    "equation_number": "(9.51)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 36723
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1323\" data-src=\"images/formula_full_92_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m (\\Delta n_e) = \\Delta n_e \\cdot m_e = 1,4876908 \\cdot 10^{-28} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.51)\n</div>\n</div>"
+}

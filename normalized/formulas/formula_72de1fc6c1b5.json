@@ -1,0 +1,15 @@
+{
+  "id": "72de1fc6c1b5",
+  "type": "inline",
+  "latex": "H_2O",
+  "metadata": {
+    "db_key": "5001",
+    "src": "images/formula_inline_306_12_4.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 28742
+  },
+  "wrapper_html": "<span data-db-key=\"5001\" data-src=\"images/formula_inline_306_12_4.webp\"> $H_2O$ </span>"
+}

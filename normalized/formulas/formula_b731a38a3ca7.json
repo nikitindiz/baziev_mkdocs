@@ -1,0 +1,15 @@
+{
+  "id": "b731a38a3ca7",
+  "type": "display",
+  "latex": "M_г = I_г/G = 2,5504413 \\cdot 10^{35} \\; \\text{кг}",
+  "metadata": {
+    "db_key": "8472",
+    "src": "images/formula_full_568_1_0.webp",
+    "equation_number": "(37.5)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
+    "position": 2745
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8472\" data-src=\"images/formula_full_568_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_г = I_г/G = 2,5504413 \\cdot 10^{35} \\; \\text{кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.5)\n</div>\n</div>"
+}

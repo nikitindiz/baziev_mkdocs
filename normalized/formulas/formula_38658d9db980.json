@@ -1,0 +1,15 @@
+{
+  "id": "38658d9db980",
+  "type": "display",
+  "latex": "P_3 = \\frac{k \\cdot T_1}{s_1 \\cdot r_1} = \\frac{15,643068 \\cdot 10^{-21}}{7,1925441 \\cdot 10^{-30}} = 2,1749005 \\cdot 10^9 \\text{ Па}",
+  "metadata": {
+    "db_key": "6787",
+    "src": "images/formula_full_427_7.webp",
+    "equation_number": "(23.58)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
+    "position": 66297
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6787\" data-src=\"images/formula_full_427_7.webp\">\n<div style=\"width: 100%;\">\n\n$$P_3 = \\frac{k \\cdot T_1}{s_1 \\cdot r_1} = \\frac{15,643068 \\cdot 10^{-21}}{7,1925441 \\cdot 10^{-30}} = 2,1749005 \\cdot 10^9 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.58)\n</div>\n</div>"
+}

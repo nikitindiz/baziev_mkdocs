@@ -1,0 +1,15 @@
+{
+  "id": "de9e9b5d56c7",
+  "type": "inline",
+  "latex": "\\cos \\varphi",
+  "metadata": {
+    "db_key": "5523",
+    "src": "images/formula_inline_340_2_26.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 56503
+  },
+  "wrapper_html": "<span data-db-key=\"5523\" data-src=\"images/formula_inline_340_2_26.webp\"> $\\cos \\varphi$ </span>"
+}

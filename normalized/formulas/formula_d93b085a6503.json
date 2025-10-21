@@ -1,0 +1,15 @@
+{
+  "id": "d93b085a6503",
+  "type": "display",
+  "latex": "m_{e^+} = m_{э} \\cdot \\frac{|e^{+}|}{э} = 5,5261947 \\cdot 10^{-28} кг = 611,4 \\cdot m_{e}",
+  "metadata": {
+    "db_key": "6616",
+    "src": "images/formula_full_413_5_0.webp",
+    "equation_number": "(22.1)"
+  },
+  "source": {
+    "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/22-элементарные-и-истинно-элементарные-частицы.md",
+    "position": 7349
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6616\" data-src=\"images/formula_full_413_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{e^+} = m_{э} \\cdot \\frac{|e^{+}|}{э} = 5,5261947 \\cdot 10^{-28} кг = 611,4 \\cdot m_{e}$$\n\n</div>\n<div style=\"width: 80px;\">\n(22.1)\n</div>\n</div>"
+}

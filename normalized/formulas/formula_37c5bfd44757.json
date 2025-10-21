@@ -1,0 +1,15 @@
+{
+  "id": "37c5bfd44757",
+  "type": "display",
+  "latex": "\\varepsilon_n = P_n \\cdot V_n = \\sigma_n \\cdot S_n = \\text{Const}",
+  "metadata": {
+    "db_key": "1195",
+    "src": "images/formula_full_84_10.webp",
+    "equation_number": "(9.10)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 5729
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1195\" data-src=\"images/formula_full_84_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_n = P_n \\cdot V_n = \\sigma_n \\cdot S_n = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.10)\n</div>\n</div>"
+}

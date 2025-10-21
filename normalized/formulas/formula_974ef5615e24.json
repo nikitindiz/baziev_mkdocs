@@ -1,0 +1,15 @@
+{
+  "id": "974ef5615e24",
+  "type": "inline",
+  "latex": "V_{ед}",
+  "metadata": {
+    "db_key": "9204",
+    "src": "images/formula_inline_626_1_135.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 9610
+  },
+  "wrapper_html": "<span data-db-key=\"9204\" data-src=\"images/formula_inline_626_1_135.webp\"> $V_{ед}$ </span>"
+}

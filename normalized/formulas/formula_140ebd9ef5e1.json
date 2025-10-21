@@ -1,0 +1,15 @@
+{
+  "id": "140ebd9ef5e1",
+  "type": "display",
+  "latex": "\\Delta m_{\\oplus} = n_{n \\oplus} \\cdot m_{n} = 1,4577514 \\cdot 10^{25} \\text{ кг}",
+  "metadata": {
+    "db_key": "6205",
+    "src": "images/formula_full_380_0_0.webp",
+    "equation_number": "(20.154)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 135472
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6205\" data-src=\"images/formula_full_380_0_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$\\Delta m_{\\oplus} = n_{n \\oplus} \\cdot m_{n} = 1,4577514 \\cdot 10^{25} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.154)\n</div>\n</div>"
+}

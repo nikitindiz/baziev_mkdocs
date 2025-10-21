@@ -1,0 +1,15 @@
+{
+  "id": "a47fe38820a1",
+  "type": "display",
+  "latex": "n = \\frac{\\varepsilon_U}{\\varepsilon_U'} = \\frac{m_U}{\\Delta m_U} = \\frac{{}^{235}A_U}{n_n(U)} = 4,2832373",
+  "metadata": {
+    "db_key": "1344",
+    "src": "images/formula_full_93_10.webp",
+    "equation_number": "(9.58)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 42516
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1344\" data-src=\"images/formula_full_93_10.webp\">\n<div style=\"width: 100%;\">\n\n$$n = \\frac{\\varepsilon_U}{\\varepsilon_U'} = \\frac{m_U}{\\Delta m_U} = \\frac{{}^{235}A_U}{n_n(U)} = 4,2832373$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.58)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7c193a4c9714",
+  "type": "display",
+  "latex": "\\mu_0 = \\frac{h_i \\cdot V_{ri}}{э \\cdot v_0^2} = \\frac{h_i \\Phi_0 \\cdot \\omega_i}{э \\cdot v_0^2} = \\frac{\\Phi_0 \\cdot v_0}{э \\cdot v_0^2} = \\frac{\\Phi_0}{э \\cdot v_0} = \\frac{\\Phi_0}{I_0}",
+  "metadata": {
+    "db_key": "5361",
+    "src": "images/formula_full_332_6.webp",
+    "equation_number": "(19.35)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 31205
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5361\" data-src=\"images/formula_full_332_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_0 = \\frac{h_i \\cdot V_{ri}}{э \\cdot v_0^2} = \\frac{h_i \\Phi_0 \\cdot \\omega_i}{э \\cdot v_0^2} = \\frac{\\Phi_0 \\cdot v_0}{э \\cdot v_0^2} = \\frac{\\Phi_0}{э \\cdot v_0} = \\frac{\\Phi_0}{I_0}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.35)\n</div>\n</div>"
+}

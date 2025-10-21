@@ -1,0 +1,15 @@
+{
+  "id": "b43c4448eb97",
+  "type": "display",
+  "latex": "\\lambda = \\frac{1,4142135 \\cdot 2,7482468 \\cdot 10^{-10}}{2} = 1,9433038 \\cdot 10^{-10} \\text{м}",
+  "metadata": {
+    "db_key": "1386",
+    "src": "images/formula_full_97_12_0.webp",
+    "equation_number": "(9.75)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 58144
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1386\" data-src=\"images/formula_full_97_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda = \\frac{1,4142135 \\cdot 2,7482468 \\cdot 10^{-10}}{2} = 1,9433038 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.75)\n</div>\n</div>"
+}

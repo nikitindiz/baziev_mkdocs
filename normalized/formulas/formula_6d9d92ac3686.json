@@ -1,0 +1,15 @@
+{
+  "id": "6d9d92ac3686",
+  "type": "display",
+  "latex": "h_♇ = a_♇ \\cdot c_♇ = 1,8289215 \\cdot 10^{13} \\text{ м}",
+  "metadata": {
+    "db_key": "8333",
+    "src": "images/formula_full_559_20_0.webp",
+    "equation_number": "(36.18)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
+    "position": 22134
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8333\" data-src=\"images/formula_full_559_20_0.webp\">\n<div style=\"width: 100%;\">\n\n$$h_♇ = a_♇ \\cdot c_♇ = 1,8289215 \\cdot 10^{13} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.18)\n</div>\n</div>"
+}

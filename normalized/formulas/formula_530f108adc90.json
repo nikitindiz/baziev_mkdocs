@@ -1,0 +1,15 @@
+{
+  "id": "530f108adc90",
+  "type": "display",
+  "latex": "M_{n \\odot} = M_{N \\odot} \\cdot k_{N}",
+  "metadata": {
+    "db_key": "7480",
+    "src": "images/formula_full_484_1_0.webp",
+    "equation_number": "(27.22)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
+    "position": 16781
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7480\" data-src=\"images/formula_full_484_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_{n \\odot} = M_{N \\odot} \\cdot k_{N}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.22)\n</div>\n</div>"
+}

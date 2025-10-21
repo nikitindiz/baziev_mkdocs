@@ -1,0 +1,15 @@
+{
+  "id": "e5eb4ad291bd",
+  "type": "inline",
+  "latex": "h_e",
+  "metadata": {
+    "db_key": "9286",
+    "src": "images/formula_inline_627_1_254.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_условные-обозначения/index.md",
+    "position": 20322
+  },
+  "wrapper_html": "<span data-db-key=\"9286\" data-src=\"images/formula_inline_627_1_254.webp\"> $h_e$ </span>"
+}

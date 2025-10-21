@@ -1,0 +1,15 @@
+{
+  "id": "bfeb4a5311da",
+  "type": "inline",
+  "latex": "E = mv^2/2",
+  "metadata": {
+    "db_key": "31",
+    "src": "images/formula_inline_2_10_17.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 7800
+  },
+  "wrapper_html": "<span data-db-key=\"31\" data-src=\"images/formula_inline_2_10_17.webp\"> $E = mv^2/2$ </span>"
+}

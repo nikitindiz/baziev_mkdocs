@@ -1,0 +1,15 @@
+{
+  "id": "936f1ffc682c",
+  "type": "display",
+  "latex": "K = \\sqrt[(n-1)]{C_a} = \\sqrt[73]{504,13276} = 1,0889831",
+  "metadata": {
+    "db_key": "7392",
+    "src": "images/formula_full_477_0_0.webp",
+    "equation_number": "(26.71)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 55984
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7392\" data-src=\"images/formula_full_477_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K = \\sqrt[(n-1)]{C_a} = \\sqrt[73]{504,13276} = 1,0889831$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.71)\n</div>\n</div>"
+}

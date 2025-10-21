@@ -1,0 +1,31 @@
+{
+  "id": "57a02a276e5f",
+  "type": "svg",
+  "svg_content": "<svg id=\"uuid-d84bb1ba-9c4c-41c3-a2db-ae76ea1619de\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 235.58 107.86\">   <text transform=\"translate(78.64 63.81)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e − O − e</tspan></text>   <text transform=\"translate(14.36 82.87) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">(</tspan></text>   <text transform=\"translate(211.26 83.02) rotate(-.9) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">)</tspan></text>   <text transform=\"translate(31.86 36.81)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   <text transform=\"translate(31.86 95.54)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   <text transform=\"translate(46.49 37.24) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(59.55 82.33) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg>",
+  "caption": null,
+  "metadata": {
+    "db_key": "6568",
+    "src": "images/illustration_408_18.webp",
+    "svg_id": "uuid-d84bb1ba-9c4c-41c3-a2db-ae76ea1619de",
+    "svg_viewbox": "0 0 235.58 107.86",
+    "element_counts": {
+      "path": 0,
+      "text": 7,
+      "line": 0,
+      "circle": 0,
+      "rect": 0,
+      "g": 0,
+      "polygon": 0,
+      "polyline": 0
+    },
+    "has_caption": false,
+    "caption_has_formulas": false,
+    "caption_formula_refs": [],
+    "wrapper_type": "simple"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 65148
+  },
+  "wrapper_html": "<div data-db-key=\"6568\" data-src=\"images/illustration_408_18.webp\"> <svg id=\"uuid-d84bb1ba-9c4c-41c3-a2db-ae76ea1619de\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 235.58 107.86\">   <text transform=\"translate(78.64 63.81)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e − O − e</tspan></text>   <text transform=\"translate(14.36 82.87) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">(</tspan></text>   <text transform=\"translate(211.26 83.02) rotate(-.9) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">)</tspan></text>   <text transform=\"translate(31.86 36.81)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   <text transform=\"translate(31.86 95.54)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text>   <text transform=\"translate(46.49 37.24) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text>   <text transform=\"translate(59.55 82.33) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg> </div>"
+}

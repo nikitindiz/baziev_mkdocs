@@ -1,0 +1,15 @@
+{
+  "id": "8ca6b941d666",
+  "type": "inline",
+  "latex": "\\mu_i' = f(H)",
+  "metadata": {
+    "db_key": "5435",
+    "src": "images/formula_inline_334_7_5.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 29335
+  },
+  "wrapper_html": "<span data-db-key=\"5435\" data-src=\"images/formula_inline_334_7_5.webp\"> $\\mu_i' = f(H)$ </span>"
+}

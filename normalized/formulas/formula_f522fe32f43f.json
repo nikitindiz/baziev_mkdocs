@@ -1,0 +1,15 @@
+{
+  "id": "f522fe32f43f",
+  "type": "inline",
+  "latex": "T_в",
+  "metadata": {
+    "db_key": "4779",
+    "src": "images/formula_inline_292_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 36777
+  },
+  "wrapper_html": "<span data-db-key=\"4779\" data-src=\"images/formula_inline_292_1_0.webp\"> $T_в$ </span>"
+}

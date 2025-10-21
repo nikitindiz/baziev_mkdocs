@@ -1,0 +1,15 @@
+{
+  "id": "ae56c61db336",
+  "type": "display",
+  "latex": "E_0 = P_0 \\cdot V_{g0} = 3,7701389 \\cdot 10^{-21} \\text{ Дж}",
+  "metadata": {
+    "db_key": "24",
+    "src": "images/formula_full_2_0_0.webp",
+    "equation_number": "(1.6)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
+    "position": 7121
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"24\" data-src=\"images/formula_full_2_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_0 = P_0 \\cdot V_{g0} = 3,7701389 \\cdot 10^{-21} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.6)\n</div>\n</div>"
+}

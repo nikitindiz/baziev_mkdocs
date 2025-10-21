@@ -1,0 +1,15 @@
+{
+  "id": "238cbbe84682",
+  "type": "inline",
+  "latex": "\\rho (T)_i, \\cos \\alpha",
+  "metadata": {
+    "db_key": "5808",
+    "src": "images/formula_inline_357_4_25.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 20063
+  },
+  "wrapper_html": "<span data-db-key=\"5808\" data-src=\"images/formula_inline_357_4_25.webp\"> $\\rho (T)_i, \\cos \\alpha$ </span>"
+}

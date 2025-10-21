@@ -1,0 +1,15 @@
+{
+  "id": "46ac30a74521",
+  "type": "inline",
+  "latex": "m_{n} \\cdot \\tau",
+  "metadata": {
+    "db_key": "997",
+    "src": "images/formula_inline_68_3_7.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 13968
+  },
+  "wrapper_html": "<span data-db-key=\"997\" data-src=\"images/formula_inline_68_3_7.webp\"> $m_{n} \\cdot \\tau$ </span>"
+}

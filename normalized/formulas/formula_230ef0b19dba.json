@@ -1,0 +1,15 @@
+{
+  "id": "230ef0b19dba",
+  "type": "inline",
+  "latex": "k = 3",
+  "metadata": {
+    "db_key": "1446",
+    "src": "images/formula_inline_101_1_82.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
+    "position": 49162
+  },
+  "wrapper_html": "<span data-db-key=\"1446\" data-src=\"images/formula_inline_101_1_82.webp\"> $k = 3$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5b2dc5101e52",
+  "type": "display",
+  "latex": "C_P = \\frac{5}{2} \\cdot \\frac{k_i}{m_i}, \\frac{\\text{Дж}}{\\text{кг} \\cdot \\text{K}}",
+  "metadata": {
+    "db_key": "746",
+    "src": "images/formula_inline_51_13_0.webp",
+    "equation_number": "(6.53)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 61020
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"746\" data-src=\"images/formula_inline_51_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_P = \\frac{5}{2} \\cdot \\frac{k_i}{m_i}, \\frac{\\text{Дж}}{\\text{кг} \\cdot \\text{K}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.53)\n</div>\n</div>"
+}

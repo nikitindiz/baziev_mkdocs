@@ -1,0 +1,15 @@
+{
+  "id": "c38a9fafd0e5",
+  "type": "display",
+  "latex": "k_i = \\nu_i / n_i \\omega_i = R_0 / R_i",
+  "metadata": {
+    "db_key": "5556",
+    "src": "images/formula_full_342_20_0.webp",
+    "equation_number": "(19.93)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
+    "position": 85664
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5556\" data-src=\"images/formula_full_342_20_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_i = \\nu_i / n_i \\omega_i = R_0 / R_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.93)\n</div>\n</div>"
+}

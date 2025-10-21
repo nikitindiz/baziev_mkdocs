@@ -1,0 +1,15 @@
+{
+  "id": "93e6a03ccb2e",
+  "type": "inline",
+  "latex": "q_n = Z_n / 2",
+  "metadata": {
+    "db_key": "1006",
+    "src": "images/formula_inline_68_8_3.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
+    "position": 16028
+  },
+  "wrapper_html": "<span data-db-key=\"1006\" data-src=\"images/formula_inline_68_8_3.webp\"> $q_n = Z_n / 2$ </span>"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dee70cf9ae37",
+  "type": "svg",
+  "svg_content": "<svg id=\"uuid-92465629-c3d4-42ce-b3e6-bb6d68c364fc\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320.9 127\"> <text transform=\"translate(120.18 73.38)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e − O − e</tspan></text> <text transform=\"translate(55.9 92.44) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">(</tspan></text> <text transform=\"translate(252.8 92.59) rotate(-.9) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">)</tspan></text> <text transform=\"translate(261.17 28.15) rotate(-.9) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px; letter-spacing: -.08em;\"><tspan x=\"0\" y=\"0\">-</tspan></text> <text transform=\"translate(73.4 46.38)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text> <text transform=\"translate(73.4 105.11)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text> <text transform=\"translate(88.03 46.81) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> <text transform=\"translate(101.09 91.91) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg>",
+  "caption": null,
+  "metadata": {
+    "db_key": "6567",
+    "src": "images/illustration_408_1.webp",
+    "svg_id": "uuid-92465629-c3d4-42ce-b3e6-bb6d68c364fc",
+    "svg_viewbox": "0 0 320.9 127",
+    "element_counts": {
+      "path": 0,
+      "text": 8,
+      "line": 0,
+      "circle": 0,
+      "rect": 0,
+      "g": 0,
+      "polygon": 0,
+      "polyline": 0
+    },
+    "has_caption": false,
+    "caption_has_formulas": false,
+    "caption_formula_refs": [],
+    "wrapper_type": "simple"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 53854
+  },
+  "wrapper_html": "<div data-db-key=\"6567\" data-src=\"images/illustration_408_1.webp\"> <svg id=\"uuid-92465629-c3d4-42ce-b3e6-bb6d68c364fc\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320.9 127\"> <text transform=\"translate(120.18 73.38)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">e − O − e</tspan></text> <text transform=\"translate(55.9 92.44) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">(</tspan></text> <text transform=\"translate(252.8 92.59) rotate(-.9) scale(.34 1)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 98.7px;\"><tspan x=\"0\" y=\"0\">)</tspan></text> <text transform=\"translate(261.17 28.15) rotate(-.9) scale(.58)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px; letter-spacing: -.08em;\"><tspan x=\"0\" y=\"0\">-</tspan></text> <text transform=\"translate(73.4 46.38)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text> <text transform=\"translate(73.4 105.11)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\">H</tspan></text> <text transform=\"translate(88.03 46.81) rotate(45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> <text transform=\"translate(101.09 91.91) rotate(-45)\" style=\"fill: currentColor; font-family: PTSans-Regular, 'PT Sans'; font-size: 33.76px;\"><tspan x=\"0\" y=\"0\" xml:space=\"preserve\"> − </tspan></text> </svg> </div>"
+}

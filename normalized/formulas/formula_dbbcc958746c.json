@@ -1,0 +1,15 @@
+{
+  "id": "dbbcc958746c",
+  "type": "display",
+  "latex": "a_1 = \\sqrt{\\frac{-33,405112 \\cdot 10^{-30}}{-3,5746307 \\cdot 10^{-10}}} = 3,0569678 \\cdot 10^{-10} \\, \\text{м}",
+  "metadata": {
+    "db_key": "4727",
+    "src": "images/formula_full_290_19.webp",
+    "equation_number": "(17.85)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
+    "position": 55827
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4727\" data-src=\"images/formula_full_290_19.webp\">\n<div style=\"width: 100%;\">\n\n$$a_1 = \\sqrt{\\frac{-33,405112 \\cdot 10^{-30}}{-3,5746307 \\cdot 10^{-10}}} = 3,0569678 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.85)\n</div>\n</div>"
+}

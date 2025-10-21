@@ -1,0 +1,15 @@
+{
+  "id": "6f9100e916e6",
+  "type": "display",
+  "latex": "P_{1}'=\\frac{-8,2079701 \\cdot 10^{10}}{1,0451542}=-7,853358 \\cdot 10^{10} \\text { Па }",
+  "metadata": {
+    "db_key": "4224",
+    "src": "images/formula_full_259_11.webp",
+    "equation_number": "(15.63)"
+  },
+  "source": {
+    "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
+    "position": 68357
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4224\" data-src=\"images/formula_full_259_11.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{1}'=\\frac{-8,2079701 \\cdot 10^{10}}{1,0451542}=-7,853358 \\cdot 10^{10} \\text { Па }$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.63)\n</div>\n</div>"
+}

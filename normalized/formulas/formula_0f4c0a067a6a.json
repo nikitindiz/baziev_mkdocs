@@ -1,0 +1,15 @@
+{
+  "id": "0f4c0a067a6a",
+  "type": "inline",
+  "latex": "(H-e)^-",
+  "metadata": {
+    "db_key": "6588",
+    "src": "images/formula_inline_409_8_37.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
+    "position": 81806
+  },
+  "wrapper_html": "<span data-db-key=\"6588\" data-src=\"images/formula_inline_409_8_37.webp\"> $(H-e)^-$ </span>"
+}

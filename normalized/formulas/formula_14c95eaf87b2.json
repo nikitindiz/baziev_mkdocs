@@ -1,0 +1,15 @@
+{
+  "id": "14c95eaf87b2",
+  "type": "display",
+  "latex": "n = S_i/S_2 = 3.217621 \\cdot 10^{13}",
+  "metadata": {
+    "db_key": "4956",
+    "src": "images/formula_full_303_6.webp",
+    "equation_number": "(18.53)"
+  },
+  "source": {
+    "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
+    "position": 36110
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4956\" data-src=\"images/formula_full_303_6.webp\">\n<div style=\"width: 100%;\">\n\n$$n = S_i/S_2 = 3.217621 \\cdot 10^{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.53)\n</div>\n</div>"
+}

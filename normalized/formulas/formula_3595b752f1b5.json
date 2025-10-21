@@ -1,0 +1,15 @@
+{
+  "id": "3595b752f1b5",
+  "type": "display",
+  "latex": "\\nu_{\\rho i}=\\frac{A_{i}^{2}}{8\\left(a_{i}-A_{i}\\right)} \\cdot \\frac{I_{i}}{I_{0}} \\cdot f_{i} \\cdot \\frac{l_{i}}{s_{i}}, с^{-1}",
+  "metadata": {
+    "db_key": "5782",
+    "src": "images/formula_full_356_8.webp",
+    "equation_number": "(20.35)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 26181
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5782\" data-src=\"images/formula_full_356_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\rho i}=\\frac{A_{i}^{2}}{8\\left(a_{i}-A_{i}\\right)} \\cdot \\frac{I_{i}}{I_{0}} \\cdot f_{i} \\cdot \\frac{l_{i}}{s_{i}}, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.35)\n</div>\n</div>"
+}

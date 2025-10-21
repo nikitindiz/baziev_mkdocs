@@ -1,0 +1,15 @@
+{
+  "id": "ac4283b71752",
+  "type": "display",
+  "latex": "\\eta_{\\odot} = \\frac{L_{\\odot}}{W_{0k}} = 0,953637",
+  "metadata": {
+    "db_key": "7541",
+    "src": "images/formula_full_497_3.webp",
+    "equation_number": "(28.33)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
+    "position": 62460
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7541\" data-src=\"images/formula_full_497_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{\\odot} = \\frac{L_{\\odot}}{W_{0k}} = 0,953637$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.33)\n</div>\n</div>"
+}

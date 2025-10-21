@@ -1,0 +1,15 @@
+{
+  "id": "e7a4833bc665",
+  "type": "display",
+  "latex": "\\rho_e = \\frac{6m_e}{\\pi \\cdot d_e^3} = 9.6591303 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}",
+  "metadata": {
+    "db_key": "291",
+    "src": "images/formula_full_22_3.webp",
+    "equation_number": "(4.1)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
+    "position": 705
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"291\" data-src=\"images/formula_full_22_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_e = \\frac{6m_e}{\\pi \\cdot d_e^3} = 9.6591303 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.1)\n</div>\n</div>"
+}

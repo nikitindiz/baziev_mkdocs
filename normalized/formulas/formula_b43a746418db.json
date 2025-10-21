@@ -1,0 +1,15 @@
+{
+  "id": "b43a746418db",
+  "type": "inline",
+  "latex": "F = 2 \\cdot 10^{-7} \\text{ Н}",
+  "metadata": {
+    "db_key": "6157",
+    "src": "images/formula_inline_376_7_30.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 89189
+  },
+  "wrapper_html": "<span data-db-key=\"6157\" data-src=\"images/formula_inline_376_7_30.webp\"> $F = 2 \\cdot 10^{-7} \\text{ Н}$ </span>"
+}

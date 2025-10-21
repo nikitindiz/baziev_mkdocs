@@ -1,0 +1,15 @@
+{
+  "id": "d7768c221c37",
+  "type": "inline",
+  "latex": "t>0\\degree C",
+  "metadata": {
+    "db_key": "1994",
+    "src": "images/formula_inline_131_26_46.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
+    "position": 38312
+  },
+  "wrapper_html": "<span data-db-key=\"1994\" data-src=\"images/formula_inline_131_26_46.webp\"> $t>0\\degree C$ </span>"
+}

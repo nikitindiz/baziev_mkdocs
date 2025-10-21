@@ -1,0 +1,15 @@
+{
+  "id": "0a9c90efef9b",
+  "type": "inline",
+  "latex": "t_r = 1/\\nu_r",
+  "metadata": {
+    "db_key": "2972",
+    "src": "images/formula_inline_189_1_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 164872
+  },
+  "wrapper_html": "<span data-db-key=\"2972\" data-src=\"images/formula_inline_189_1_0.webp\"> $t_r = 1/\\nu_r$ </span>"
+}

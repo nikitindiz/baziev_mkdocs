@@ -1,0 +1,15 @@
+{
+  "id": "ff5b25f6a86b",
+  "type": "display",
+  "latex": "\\alpha = \\angle DAO - \\angle BAO = \\frac{\\pi}{2} - 50\\degree 55' = 39\\degree 5'",
+  "metadata": {
+    "db_key": "8079",
+    "src": "images/formula_full_541_21_0.webp",
+    "equation_number": "(34.44)"
+  },
+  "source": {
+    "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
+    "position": 37742
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8079\" data-src=\"images/formula_full_541_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha = \\angle DAO - \\angle BAO = \\frac{\\pi}{2} - 50\\degree 55' = 39\\degree 5'$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.44)\n</div>\n</div>"
+}

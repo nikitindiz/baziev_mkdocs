@@ -1,0 +1,15 @@
+{
+  "id": "aeec967a2b68",
+  "type": "inline",
+  "latex": "5,25 \\cdot 10^{5}",
+  "metadata": {
+    "db_key": "2820",
+    "src": "images/formula_inline_177_6_18.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
+    "position": 131011
+  },
+  "wrapper_html": "<span data-db-key=\"2820\" data-src=\"images/formula_inline_177_6_18.webp\"> $5,25 \\cdot 10^{5}$ </span>"
+}

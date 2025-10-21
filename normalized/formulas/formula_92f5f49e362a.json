@@ -1,0 +1,15 @@
+{
+  "id": "92f5f49e362a",
+  "type": "inline",
+  "latex": "5,9958492 \\cdot 10^{13} - 1,6883811 \\cdot 10^{15} \\, с^{-1}",
+  "metadata": {
+    "db_key": "7683",
+    "src": "images/formula_inline_511_3_0.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
+    "position": 23916
+  },
+  "wrapper_html": "<span data-db-key=\"7683\" data-src=\"images/formula_inline_511_3_0.webp\"> $5,9958492 \\cdot 10^{13} - 1,6883811 \\cdot 10^{15} \\, с^{-1}$ </span>"
+}

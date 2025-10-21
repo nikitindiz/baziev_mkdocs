@@ -1,0 +1,15 @@
+{
+  "id": "dd5ae7606bf2",
+  "type": "display",
+  "latex": "a_i = a_{ho}/s_i",
+  "metadata": {
+    "db_key": "7395",
+    "src": "images/formula_full_477_3_0.webp",
+    "equation_number": "(26.73)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
+    "position": 56538
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7395\" data-src=\"images/formula_full_477_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_i = a_{ho}/s_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.73)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9ecd23230d0b",
+  "type": "display",
+  "latex": "\\rho_i = R_0 \\cdot \\frac{S(A_i)}{\\pi \\cdot r_i}, \\quad \\text{Ом} \\cdot \\text{м}",
+  "metadata": {
+    "db_key": "5710",
+    "src": "images/formula_full_352_1_0.webp",
+    "equation_number": "(20.8)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 7631
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5710\" data-src=\"images/formula_full_352_1_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$\\rho_i = R_0 \\cdot \\frac{S(A_i)}{\\pi \\cdot r_i}, \\quad \\text{Ом} \\cdot \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.8)\n</div>\n</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3b5e36e003df",
+  "type": "display",
+  "latex": "K_{2} = \\frac{E_2 V_2 \\cdot a_2^2 \\cdot r_2 - \\varepsilon_3 \\cdot V_2}{a_2^2 \\cdot r_2 (\\varepsilon_1 + \\varepsilon_2)} = \\frac{-1,8240282 \\cdot 10^{-47}}{-1,145293 \\cdot 10^{-51}} = 1,5926301 \\cdot 10^4",
+  "metadata": {
+    "db_key": "6003",
+    "src": "images/formula_full_368_8.webp",
+    "equation_number": "(20.94)"
+  },
+  "source": {
+    "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
+    "position": 88193
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6003\" data-src=\"images/formula_full_368_8.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{2} = \\frac{E_2 V_2 \\cdot a_2^2 \\cdot r_2 - \\varepsilon_3 \\cdot V_2}{a_2^2 \\cdot r_2 (\\varepsilon_1 + \\varepsilon_2)} = \\frac{-1,8240282 \\cdot 10^{-47}}{-1,145293 \\cdot 10^{-51}} = 1,5926301 \\cdot 10^4$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.94)\n</div>\n</div>"
+}

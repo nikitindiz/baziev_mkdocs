@@ -1,0 +1,15 @@
+{
+  "id": "fce72074cf25",
+  "type": "inline",
+  "latex": "(1 - v/c_0)^2",
+  "metadata": {
+    "db_key": "9116",
+    "src": "images/formula_inline_610_24_34.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
+    "position": 15035
+  },
+  "wrapper_html": "<span data-db-key=\"9116\" data-src=\"images/formula_inline_610_24_34.webp\"> $(1 - v/c_0)^2$ </span>"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "296a94edc0d4",
+  "type": "display",
+  "latex": "\\begin{rcases}\n\\begin{aligned}\n\\tau_4 &= 1 \\cdot 10^9 \\text{ лет } = 3{,}155815 \\cdot 10^{16} \\text{ c,} \\\\\nM_{k4} &= 1{,}7312115 \\cdot 10^{28} \\text{ кг } = 120\\% \\, M_k,\\\\\nM_{n4} &= 1{,}7221951 \\cdot 10^{30} \\text{ кг } = 96{,}512385 \\, M_{n\\odot}\n\\end{aligned}\n\\end{rcases}",
+  "metadata": {
+    "db_key": "7836",
+    "src": "images/formula_full_523_12_0.webp",
+    "equation_number": "(32.28)"
+  },
+  "source": {
+    "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
+    "position": 19700
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7836\" data-src=\"images/formula_full_523_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\tau_4 &= 1 \\cdot 10^9 \\text{ лет } = 3{,}155815 \\cdot 10^{16} \\text{ c,} \\\\\nM_{k4} &= 1{,}7312115 \\cdot 10^{28} \\text{ кг } = 120\\% \\, M_k,\\\\\nM_{n4} &= 1{,}7221951 \\cdot 10^{30} \\text{ кг } = 96{,}512385 \\, M_{n\\odot}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.28)\n</div>\n</div>"
+}

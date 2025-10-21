@@ -1,0 +1,15 @@
+{
+  "id": "88a6f8d73f6f",
+  "type": "inline",
+  "latex": "d^3_{gi} = d^3_{g2}",
+  "metadata": {
+    "db_key": "679",
+    "src": "images/formula_inline_48_13_52.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 38738
+  },
+  "wrapper_html": "<span data-db-key=\"679\" data-src=\"images/formula_inline_48_13_52.webp\"> $d^3_{gi} = d^3_{g2}$ </span>"
+}

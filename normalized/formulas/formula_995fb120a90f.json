@@ -1,0 +1,15 @@
+{
+  "id": "995fb120a90f",
+  "type": "display",
+  "latex": "\\psi_i = k_i / h, К \\cdot с",
+  "metadata": {
+    "db_key": "441",
+    "src": "images/formula_full_32_10_0.webp",
+    "equation_number": "(5.17)"
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
+    "position": 11835
+  },
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"441\" data-src=\"images/formula_full_32_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\psi_i = k_i / h, К \\cdot с$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.17)\n</div>\n</div>"
+}

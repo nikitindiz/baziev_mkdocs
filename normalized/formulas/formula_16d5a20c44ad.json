@@ -1,0 +1,15 @@
+{
+  "id": "16d5a20c44ad",
+  "type": "inline",
+  "latex": "Z_{ед} = 1\\,м",
+  "metadata": {
+    "db_key": "768",
+    "src": "images/formula_inline_52_5_31.webp",
+    "equation_number": null
+  },
+  "source": {
+    "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
+    "position": 50001
+  },
+  "wrapper_html": "<span data-db-key=\"768\" data-src=\"images/formula_inline_52_5_31.webp\"> $Z_{ед} = 1\\,м$ </span>"
+}
