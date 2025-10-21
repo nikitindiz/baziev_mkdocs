@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "C_V (u_к) = C_V (T_0) - C_V (f) - C_V (\\gamma) = 563.55609 \\frac{\\text{Дж}}{м^3 \\cdot \\text{К}}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "821",
+    "src": "images/formula_full_55_20.webp",
     "equation_number": "(6.67)"
   },
   "source": {

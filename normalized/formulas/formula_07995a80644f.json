@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "P_i = \\frac{\\varepsilon (\\alpha, n) R (\\gamma)}{V (\\alpha, n)} = \\frac{[\\varepsilon_s (\\gamma) + \\varepsilon (f) + \\varepsilon (u)] R_{0i} \\gamma_i}{V_{ед} \\alpha_i^3 / \\gamma_i} =",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "2018",
+    "src": "images/formula_full_133_12.webp",
     "equation_number": "(11.105)"
   },
   "source": {

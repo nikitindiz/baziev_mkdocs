@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "d_i = \\sqrt[3]{\\frac{6A_i \\cdot k \\cdot (V_n + V_{\\pi}) - 3V_{\\pi}}{\\pi}} =",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "373",
+    "src": "images/formula_inline_26_6_18.webp",
     "equation_number": "(4.23)"
   },
   "source": {

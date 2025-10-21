@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{align*}\nm_u &= 1.66057 \\cdot 10^{-27} \\text{ кг} = 1 \\text{ а. е. м.} \\\\\nm_n' &= 1.6749543 \\cdot 10^{-27} \\text{ кг} \\\\\nm_p' &= 1.6726485 \\cdot 10^{-27} \\text{ кг} \\\\\nm_e' &= 9.109534 \\cdot 10^{-31} \\text{ кг} \\\\\n\\gamma' &= m_p' / m_e' = 1836.15152 \\\\\ne &= -1.6021892 \\cdot 10^{-19} \\text{ Кл}\n\\end{align*}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "203",
+    "src": "images/formula_full_15_2.webp",
     "equation_number": "(3.1)"
   },
   "source": {
