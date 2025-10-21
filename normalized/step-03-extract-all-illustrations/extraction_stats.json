@@ -1,8 +1,10 @@
 {
-  "total_illustrations": 37,
-  "svg_illustrations": 37,
+  "total_illustrations": 69,
+  "svg_illustrations": 69,
   "files_processed": 59,
-  "illustrations_with_metadata": 37,
+  "illustrations_with_metadata": 69,
   "illustrations_with_captions": 37,
-  "captions_with_formulas": 27
+  "captions_with_formulas": 27,
+  "full_wrapper": 37,
+  "simple_wrapper": 32
 }

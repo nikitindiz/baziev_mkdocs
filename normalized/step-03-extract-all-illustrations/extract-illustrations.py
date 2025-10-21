@@ -4,7 +4,7 @@ Illustration Extraction Script for Baziev Physics Book
 Extracts SVG illustrations from markdown files.
 
 Features:
-- Extracts SVG illustrations wrapped in div layouts
+- Extracts SVG illustrations wrapped in div layouts (both full and simple wrappers)
 - Handles metadata attributes (data-db-key, data-src)
 - Preserves figure captions (including formulas)
 - Generates hash-based unique IDs
@@ -53,7 +53,9 @@ class IllustrationExtractor:
             'files_processed': 0,
             'illustrations_with_metadata': 0,
             'illustrations_with_captions': 0,
-            'captions_with_formulas': 0
+            'captions_with_formulas': 0,
+            'full_wrapper': 0,
+            'simple_wrapper': 0
         }
     
     def generate_illustration_id(self, svg_content: str, metadata: Dict, source: str, position: int) -> str:
@@ -117,11 +119,11 @@ class IllustrationExtractor:
         return counts
     
     def extract_svg_illustrations(self, content: str, file_path: str) -> Tuple[str, List[Illustration]]:
-        """Extract SVG illustrations wrapped in div layouts"""
+        """Extract SVG illustrations with both full and simple wrappers"""
         illustrations = []
         modified_content = content
         
-        # Pattern for SVG illustrations in div structure
+        # Pattern 1: Full wrapper with flex div
         # Structure: 
         # <div style="display: flex; ...">
         #   <div ...>
@@ -132,21 +134,34 @@ class IllustrationExtractor:
         #   <div style="font-style: italic; ...">Caption</div>
         # </div>
         
-        # More robust pattern that captures the full wrapper
-        pattern = r'<div\s+style="[^"]*display:\s*flex[^"]*"[^>]*>\s*<div[^>]*>\s*<div([^>]*)>\s*(<svg[^>]*>.*?</svg>)\s*</div>\s*</div>\s*(?:<div\s+style="[^"]*font-style:\s*italic[^"]*"[^>]*>(.*?)</div>\s*)?</div>'
+        pattern_full = r'<div\s+style="[^"]*display:\s*flex[^"]*"[^>]*>\s*<div[^>]*>\s*<div([^>]*)>\s*(<svg[^>]*>.*?</svg>)\s*</div>\s*</div>\s*(?:<div\s+style="[^"]*font-style:\s*italic[^"]*"[^>]*>(.*?)</div>\s*)?</div>'
         
-        matches = list(re.finditer(pattern, content, flags=re.DOTALL | re.IGNORECASE))
+        # Pattern 2: Simple wrapper (just data-db-key div with SVG, no flex wrapper)
+        # Structure:
+        # <div data-db-key="..." data-src="...">
+        # <svg>...</svg>
+        # </div>
+        # Optional caption below
         
-        # Process in reverse to preserve positions
-        for match in reversed(matches):
+        pattern_simple = r'<div([^>]*data-db-key[^>]*)>\s*(<svg[^>]*>.*?</svg>)\s*</div>(?:\s*<div[^>]*>([^<]*(?:{{[^}]+}}[^<]*)*)</div>)?'
+        
+        # First, extract full wrappers
+        matches_full = list(re.finditer(pattern_full, content, flags=re.DOTALL | re.IGNORECASE))
+        
+        # Track positions to avoid double-extraction
+        extracted_positions = set()
+        
+        # Process full wrappers in reverse to preserve positions
+        for match in reversed(matches_full):
             wrapper_start = match.start()
             wrapper_end = match.end()
+            extracted_positions.add((wrapper_start, wrapper_end))
             wrapper_html = match.group(0)
             inner_div_attrs = match.group(1)
             svg_content = match.group(2)
             caption = match.group(3) if match.group(3) else None
             
-            # Clean up caption (remove excessive whitespace)
+            # Clean up caption
             if caption:
                 caption = caption.strip()
                 caption = re.sub(r'\s+', ' ', caption)
@@ -188,7 +203,8 @@ class IllustrationExtractor:
                     'element_counts': element_counts,
                     'has_caption': caption is not None,
                     'caption_has_formulas': has_formulas_in_caption,
-                    'caption_formula_refs': formula_refs
+                    'caption_formula_refs': formula_refs,
+                    'wrapper_type': 'full'
                 },
                 source={
                     'file': str(file_path),
@@ -199,6 +215,106 @@ class IllustrationExtractor:
             
             illustrations.append(illustration)
             self.stats['svg_illustrations'] += 1
+            self.stats['full_wrapper'] += 1
+            
+            if metadata.get('db_key') or metadata.get('src'):
+                self.stats['illustrations_with_metadata'] += 1
+            
+            if caption:
+                self.stats['illustrations_with_captions'] += 1
+            
+            if has_formulas_in_caption:
+                self.stats['captions_with_formulas'] += 1
+            
+            # Replace with reference
+            ref = f"{{{{illustration:{illustration_id}}}}}"
+            modified_content = modified_content[:wrapper_start] + ref + modified_content[wrapper_end:]
+        
+        # Now extract simple wrappers (not already extracted)
+        matches_simple = list(re.finditer(pattern_simple, modified_content, flags=re.DOTALL | re.IGNORECASE))
+        
+        for match in reversed(matches_simple):
+            wrapper_start = match.start()
+            wrapper_end = match.end()
+            
+            # Skip if already extracted or if it's not really a data-db-key div
+            inner_div_attrs = match.group(1)
+            if 'data-db-key' not in inner_div_attrs:
+                continue
+            
+            # Check if this position overlaps with already extracted
+            overlap = False
+            for start, end in extracted_positions:
+                if not (wrapper_end <= start or wrapper_start >= end):
+                    overlap = True
+                    break
+            
+            if overlap:
+                continue
+            
+            wrapper_html = match.group(0)
+            svg_content = match.group(2)
+            caption = match.group(3) if match.group(3) else None
+            
+            # Clean up caption
+            if caption:
+                caption = caption.strip()
+                caption = re.sub(r'\s+', ' ', caption)
+                # Simple wrapper captions are often just text on next line
+                # Check if it looks like a real caption (has "Рис" or formulas)
+                if not ('Рис' in caption or 'рис' in caption or '{{formula:' in caption or '{{table:' in caption):
+                    caption = None
+            
+            # Extract metadata
+            metadata = self.extract_metadata_from_tag(inner_div_attrs)
+            
+            # Extract SVG properties
+            svg_id = self.extract_svg_id(svg_content)
+            svg_viewbox = self.extract_svg_viewbox(svg_content)
+            element_counts = self.count_svg_elements(svg_content)
+            
+            # Find formula references in caption
+            formula_refs = []
+            has_formulas_in_caption = False
+            if caption:
+                formula_refs = self.find_formula_refs(caption)
+                has_formulas_in_caption = len(formula_refs) > 0
+            
+            # Generate illustration ID
+            illustration_id = self.generate_illustration_id(
+                svg_content,
+                metadata,
+                str(file_path),
+                wrapper_start
+            )
+            
+            # Create illustration object
+            illustration = Illustration(
+                id=illustration_id,
+                type='svg',
+                svg_content=svg_content,
+                caption=caption,
+                metadata={
+                    'db_key': metadata.get('db_key'),
+                    'src': metadata.get('src'),
+                    'svg_id': svg_id,
+                    'svg_viewbox': svg_viewbox,
+                    'element_counts': element_counts,
+                    'has_caption': caption is not None,
+                    'caption_has_formulas': has_formulas_in_caption,
+                    'caption_formula_refs': formula_refs,
+                    'wrapper_type': 'simple'
+                },
+                source={
+                    'file': str(file_path),
+                    'position': wrapper_start
+                },
+                wrapper_html=wrapper_html
+            )
+            
+            illustrations.append(illustration)
+            self.stats['svg_illustrations'] += 1
+            self.stats['simple_wrapper'] += 1
             
             if metadata.get('db_key') or metadata.get('src'):
                 self.stats['illustrations_with_metadata'] += 1
@@ -290,7 +406,7 @@ class IllustrationExtractor:
     def process_all(self):
         """Process all markdown files"""
         print("=" * 80)
-        print("Illustration Extraction Script")
+        print("Illustration Extraction Script (FIXED - handles both wrapper types)")
         print("=" * 80)
         print()
         
@@ -308,6 +424,8 @@ class IllustrationExtractor:
         print(f"Files processed:                 {self.stats['files_processed']}")
         print(f"Total illustrations extracted:   {self.stats['total_illustrations']}")
         print(f"  - SVG illustrations:           {self.stats['svg_illustrations']}")
+        print(f"  - Full wrapper (flex div):     {self.stats['full_wrapper']}")
+        print(f"  - Simple wrapper (no flex):    {self.stats['simple_wrapper']}")
         print(f"Illustrations with metadata:     {self.stats['illustrations_with_metadata']}")
         print(f"Illustrations with captions:     {self.stats['illustrations_with_captions']}")
         print(f"Captions with formula refs:      {self.stats['captions_with_formulas']}")
