@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{align*}\nm_e &= 9,038487 \\cdot 10^{-31} \\text{ кг} \\\\\nm_p &= 1,6596662 \\cdot 10^{-27} \\text{ кг} \\\\\nm_n &= 1,66057 \\cdot 10^{-27} \\text{ кг} \\\\\n\\gamma &= m_p / m_e = 1836,2213 \\\\\nn_e &= 3 \\\\\nn_э &= 2,4181989 \\cdot 10^8 \\\\\nэ &= + 1,9876643 \\cdot 10^{-27} \\text{ Кл}\n\\end{align*}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "277",
+    "src": "images/formula_full_21_2.webp",
     "equation_number": null
   },
   "source": {

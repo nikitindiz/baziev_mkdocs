@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\gamma_i = \\frac{\\varepsilon_{0i} \\cdot \\beta \\left( n \\right)}{k_i} = \\frac{\\varepsilon_{0i} \\left( n - 1 \\right)}{k_i t}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "1769",
+    "src": "images/formula_full_121_19.webp",
     "equation_number": null
   },
   "source": {

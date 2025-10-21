@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "v = \\frac{V_p}{S \\cdot \\tau} = \\frac{3,2452245 \\cdot 10^{-2} \\, \\text{м}^3}{2,2 \\cdot 10^{-2} \\, \\text{м}^2 \\cdot \\text{с}} = 1,475102 \\, \\text{м} \\cdot с^{-1}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "3463",
+    "src": "images/formula_full_216_5.webp",
     "equation_number": null
   },
   "source": {

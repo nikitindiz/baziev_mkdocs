@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{align*}\nS_1 &= 3,39 \\cdot 10^{-13} \\, \\mathrm{м} \\quad (t_1 = 50\\degree \\mathrm{C}; P_1 = 1 \\, \\mathrm{ат}) \\\\\nS_2 &= 5,901 \\cdot 10^{-13} \\, \\mathrm{м} \\quad (t_1 = 100\\degree \\mathrm{C}; P_2 = P_1) \\\\\nS_3 &= 9,45 \\cdot 10^{-13} \\, \\mathrm{м} \\quad (t_3 = 200\\degree \\mathrm{C}; P_3 = P_1)\n\\end{align*}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "1527",
+    "src": "images/formula_full_108_4.webp",
     "equation_number": null
   },
   "source": {

@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{cases}\n\\Delta V = \\Delta V_g \\cdot N_0 \\cdot V_{0,\\text{ед}} = \\Delta V_g \\cdot N_1 \\cdot V_{\\text{1ед}}, {(6.79)}\\\\\n\\Delta V = V_1 - V_0 = V_{\\text{ед,}0} (1 + \\beta \\cdot t_{\\text{ед}}) - V_{\\text{ед}0} = V_{\\text{ед}0} \\cdot \\beta \\cdot t_{\\text{ед}} {(6.80)}\n\\end{cases}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "864",
+    "src": "images/formula_full_58_5_0.webp",
     "equation_number": null
   },
   "source": {

@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{aligned}\n& t > 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty \\\\\n& \\gamma_{i} = \\frac{\\beta(n)}{\\beta_{0i}} = \\frac{(n-1)}{\\beta_{0i} \\cdot t} {(11.17)} \\\\\n& t < 0{\\degree} \\text{C} \\\\\n& P \\rightarrow \\infty\n\\end{aligned}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "1787",
+    "src": "images/formula_full_122_2.webp",
     "equation_number": null
   },
   "source": {

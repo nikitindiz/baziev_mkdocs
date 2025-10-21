@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{align*}\nP_a &= \\frac{h \\cdot f_{\\min}}{V_a} = 9,6492467 \\cdot 10^{-47} \\text{ Па, Дж} \\cdot \\text{м}^{-3} \\\\\n\\rho_a &= m_{\\text{He}} / V_a = 9,6788506 \\cdot 10^{-40} \\text{ кг} \\cdot \\text{м}^{-3} \\\\\nT(f_{\\min}) &= \\xi_{\\text{He}} \\cdot f_{\\min} = 4,8011734 \\cdot 10^{-11} \\text{ К}\n\\end{align*}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "506",
+    "src": "images/formula_full_36_3.webp",
     "equation_number": null
   },
   "source": {

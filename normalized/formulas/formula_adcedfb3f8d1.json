@@ -3,8 +3,8 @@
   "type": "display",
   "latex": "\\begin{aligned}\n& T_{\\text{max}} \\approx 70\\degree \\text{C} \\approx 343 \\text{ К} \\\\\n& f_{\\text{max}} = \\psi \\cdot T_{\\text{max}} = 7,14126 \\cdot 10^{12} \\, \\text{с}^{-1}\n\\end{aligned}",
   "metadata": {
-    "db_key": null,
-    "src": null,
+    "db_key": "557",
+    "src": "images/formula_full_41_3.webp",
     "equation_number": null
   },
   "source": {
