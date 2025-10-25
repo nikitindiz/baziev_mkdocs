@@ -86,18 +86,37 @@ LIMIT 10;
 
 После импорта всех данных граф содержит:
 
-- **Узлы**: ~3000-5000
+- **Узлы**: 17,154
   - Book: 1
-  - Chapter: 10+
-  - Section: 100+
-  - Paragraph: 2000+
-  - Formula: ~1000+
-  - Symbol: ~200+
-  - Illustration: ~65
-  - Table: ~36
-  - Literature: ~48
+  - Chapter: 15
+  - Section: 43
+  - Paragraph: 6,921
+  - Formula: 9,815
+  - Symbol: 206
+  - Illustration: 69
+  - Table: 36
+  - Literature: 48
 
-- **Связи**: ~10000-20000
+- **Связи**: 23,756
+  - HAS_CHAPTER: 15
+  - HAS_SECTION: 43
+  - HAS_PARAGRAPH: 6,921
+  - NEXT: 6,925 (6,878 между параграфами + 33 между секциями)
+  - CONTAINS_FORMULA: 5,730
+  - CONTAINS_TABLE: 36 (22 от Paragraph + 14 от Chapter)
+  - CONTAINS_ILLUSTRATION: 69
+  - CITES: 32
+
+**Особенности импорта**:
+- Все 36 таблиц имеют связи (100% покрытие)
+- Все 69 иллюстраций имеют связи (100% покрытие)
+- 5,722 формулы связаны с параграфами (~58% покрытие)
+- 23 источника литературы цитируются в тексте
+
+**Проверка статистики**:
+```bash
+python graph_stats.py
+```
 
 - **Размер базы**: ~100-500 MB
 
