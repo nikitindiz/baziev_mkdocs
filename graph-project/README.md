@@ -53,6 +53,7 @@ LIMIT 10;
 - ✅ **Экспорт** - JSON, GraphML, Markdown (глоссарий, указатель формул)
 - ✅ **CLI интерфейс** - удобная работа через командную строку
 - ✅ **Визуализация** - интерактивные графы (опционально)
+- ✅ **Backup & Restore** - автоматическое резервное копирование базы данных
 
 ## 📊 Архитектура графа
 
@@ -293,6 +294,7 @@ python examples.py
 
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** - подробная архитектура проекта
 - **[USAGE.md](USAGE.md)** - руководство по использованию
+- **[BACKUP_GUIDE.md](BACKUP_GUIDE.md)** - резервное копирование и восстановление базы данных
 - **[graph-arch.md](../normalized/graph-arch.md)** - спецификация графа знаний
 - **[examples.py](examples.py)** - примеры работы с API
 - **[src/queries/examples.cypher](src/queries/examples.cypher)** - примеры Cypher запросов
