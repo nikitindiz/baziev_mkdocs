@@ -14,10 +14,12 @@ beautifulsoup4>=4.12.0
 spacy>=3.7.0
 # python -m spacy download ru_core_news_lg
 
-# GraphQL API (optional)
-graphene>=3.3.0
+# GraphQL API (optional) - Using compatible versions
+graphene==2.1.9
 flask>=3.0.0
-flask-graphql>=2.0.1
+flask-graphql==2.0.1
+graphql-core==2.3.2
+graphql-relay==2.0.1
 
 # Data processing
 tqdm>=4.66.0
