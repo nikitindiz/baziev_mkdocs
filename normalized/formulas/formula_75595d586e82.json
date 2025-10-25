@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 28941
   },
-  "wrapper_html": "<span data-db-key=\"3536\" data-src=\"images/formula_inline_220_10_3.webp\"> $\\mathscr{P} = -1,3037881 \\cdot 10^{-21} \\text{ Дж}$ </span>"
+  "wrapper_html": "<span data-db-key=\"3536\" data-src=\"images/formula_inline_220_10_3.webp\"> $\\mathscr{P} = -1,3037881 \\cdot 10^{-21} \\text{ Дж}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

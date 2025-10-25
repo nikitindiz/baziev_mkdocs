@@ -11,5 +11,9 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 23810
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4040\" data-src=\"images/formula_full_250_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\rho} = m / \\rho_1 = 1,69382 \\cdot 10^{-29} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.7)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4040\" data-src=\"images/formula_full_250_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\rho} = m / \\rho_1 = 1,69382 \\cdot 10^{-29} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.7)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

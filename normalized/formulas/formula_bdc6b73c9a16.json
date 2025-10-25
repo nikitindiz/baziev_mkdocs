@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 43916
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4703\" data-src=\"images/formula_full_288_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{s0} = \\frac{\\frac{a_{s0}}{2} + \\frac{a_{s0} \\cdot \\sqrt{2}}{2}}{2} = \\frac{a_{s0} \\cdot (1 + \\sqrt{2})}{4} = 2,5489532 \\cdot 10^{-9} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.67)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4703\" data-src=\"images/formula_full_288_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{s0} = \\frac{\\frac{a_{s0}}{2} + \\frac{a_{s0} \\cdot \\sqrt{2}}{2}}{2} = \\frac{a_{s0} \\cdot (1 + \\sqrt{2})}{4} = 2,5489532 \\cdot 10^{-9} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.67)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

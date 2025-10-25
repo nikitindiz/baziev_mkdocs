@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 7107
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8544\" data-src=\"images/formula_full_573_0_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$l_{\\text{Б}} = R_{c\\oplus} - a_{n\\oplus} = 9,9228 \\cdot 10^4 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.16)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8544\" data-src=\"images/formula_full_573_0_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$l_{\\text{Б}} = R_{c\\oplus} - a_{n\\oplus} = 9,9228 \\cdot 10^4 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.16)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

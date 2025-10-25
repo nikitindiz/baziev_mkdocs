@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 66104
   },
-  "wrapper_html": "<span data-db-key=\"882\" data-src=\"images/formula_inline_59_1_5.webp\"> $\\Delta E_P \\approx \\Delta Q_V (f)$ </span>"
+  "wrapper_html": "<span data-db-key=\"882\" data-src=\"images/formula_inline_59_1_5.webp\"> $\\Delta E_P \\approx \\Delta Q_V (f)$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

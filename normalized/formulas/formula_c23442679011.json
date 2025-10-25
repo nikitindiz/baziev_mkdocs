@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 51256
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5015\" data-src=\"images/formula_full_307_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gs1} = m_s/\\rho_1 = 1,1740164 \\cdot 10^{-25} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.86)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5015\" data-src=\"images/formula_full_307_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gs1} = m_s/\\rho_1 = 1,1740164 \\cdot 10^{-25} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.86)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

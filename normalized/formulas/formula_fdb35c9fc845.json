@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 101336
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6057\" data-src=\"images/formula_full_371_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C(T) = C_1 \\cdot A^2(T) \\cdot \\frac{H(T)}{A(T)} = C_1 \\cdot H(T) \\cdot A(T)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.109)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6057\" data-src=\"images/formula_full_371_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C(T) = C_1 \\cdot A^2(T) \\cdot \\frac{H(T)}{A(T)} = C_1 \\cdot H(T) \\cdot A(T)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.109)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

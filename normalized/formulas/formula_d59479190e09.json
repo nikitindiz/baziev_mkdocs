@@ -11,5 +11,9 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 64190
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4211\" data-src=\"images/formula_full_258_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_3 = \\frac{k_{Au} \\cdot T_i}{S \\cdot r} = \\frac{12,464727 \\cdot 10^{-21}}{4,1012549 \\cdot 10^{-30}} = 3,039247 \\cdot 10^{9} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.58)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4211\" data-src=\"images/formula_full_258_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_3 = \\frac{k_{Au} \\cdot T_i}{S \\cdot r} = \\frac{12,464727 \\cdot 10^{-21}}{4,1012549 \\cdot 10^{-30}} = 3,039247 \\cdot 10^{9} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.58)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

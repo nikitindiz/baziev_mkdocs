@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 95966
   },
-  "wrapper_html": "<span data-db-key=\"2688\" data-src=\"images/formula_inline_170_5_37.webp\"> $F = m_{\\text{э}} \\cdot с_1 \\cdot \\nu_{\\text{ед}}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2688\" data-src=\"images/formula_inline_170_5_37.webp\"> $F = m_{\\text{э}} \\cdot с_1 \\cdot \\nu_{\\text{ед}}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

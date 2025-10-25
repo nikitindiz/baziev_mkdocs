@@ -11,5 +11,6 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 31937
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5798\" data-src=\"images/formula_full_357_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_н = W_н / V_н = 937,5 A$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.42)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5798\" data-src=\"images/formula_full_357_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_н = W_н / V_н = 937,5 A$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.42)\n</div>\n</div>",
+  "symbols": []
 }

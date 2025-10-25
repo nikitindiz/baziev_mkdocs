@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 74713
   },
-  "wrapper_html": "<span data-db-key=\"2594\" data-src=\"images/formula_inline_165_0_7.webp\"> $\\sin(\\pi/2) = 1$ </span>"
+  "wrapper_html": "<span data-db-key=\"2594\" data-src=\"images/formula_inline_165_0_7.webp\"> $\\sin(\\pi/2) = 1$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 32693
   },
-  "wrapper_html": "<span data-db-key=\"1183\" data-src=\"images/formula_inline_82_8_2.webp\"> $\\Theta_0 = \\pi - \\frac{1,611992}{2} = 2,3355966 \\quad \\text{рад} =$ </span>"
+  "wrapper_html": "<span data-db-key=\"1183\" data-src=\"images/formula_inline_82_8_2.webp\"> $\\Theta_0 = \\pi - \\frac{1,611992}{2} = 2,3355966 \\quad \\text{рад} =$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "572d0da78fdc"
+  ]
 }

@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 39312
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1576\" data-src=\"images/formula_full_111_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\angle OAA_1 = \\frac{\\pi - \\delta_1}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.20)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1576\" data-src=\"images/formula_full_111_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\angle OAA_1 = \\frac{\\pi - \\delta_1}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.20)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "d61a4d7eea23",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

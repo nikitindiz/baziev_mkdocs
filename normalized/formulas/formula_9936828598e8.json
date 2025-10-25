@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 50760
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7364\" data-src=\"images/formula_full_475_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g_{71}} = a_{71}^3 = 2,5591852 \\cdot 10^{-23} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.58)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7364\" data-src=\"images/formula_full_475_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g_{71}} = a_{71}^3 = 2,5591852 \\cdot 10^{-23} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.58)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

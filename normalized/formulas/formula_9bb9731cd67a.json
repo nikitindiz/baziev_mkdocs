@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 67373
   },
-  "wrapper_html": "<span data-db-key=\"6034\" data-src=\"images/formula_inline_369_7_3.webp\"> $T_a = \\xi_{0He} \\cdot \\nu_{ед} = 4,8011734 \\cdot 10^{-11} K$ </span>"
+  "wrapper_html": "<span data-db-key=\"6034\" data-src=\"images/formula_inline_369_7_3.webp\"> $T_a = \\xi_{0He} \\cdot \\nu_{ед} = 4,8011734 \\cdot 10^{-11} K$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 6249
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"107\" data-src=\"images/formula_full_8_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{si} = 2A_i u_i a$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.10)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"107\" data-src=\"images/formula_full_8_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{si} = 2A_i u_i a$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.10)\n</div>\n</div>",
+  "symbols": [
+    "da4041efbcb0",
+    "b5b0c2b51293"
+  ]
 }

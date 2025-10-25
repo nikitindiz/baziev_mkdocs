@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 54252
   },
-  "wrapper_html": "<span data-db-key=\"5504\" data-src=\"images/formula_inline_339_7_136.webp\"> $\\Delta \\tau = 1/50 \\text{ гц} = 2 \\cdot 10^{-2} \\text{ с}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5504\" data-src=\"images/formula_inline_339_7_136.webp\"> $\\Delta \\tau = 1/50 \\text{ гц} = 2 \\cdot 10^{-2} \\text{ с}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 128213
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6179\" data-src=\"images/formula_full_378_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q_{g \\oplus} = \\frac{[F_{(\\oplus - ☾)} + \\Delta F] \\cdot a_{☾}^2 - 2 \\gamma \\cdot Q_{g \\oplus} \\cdot Z_{g ☾}}{\\gamma \\cdot Z_{g ☾}} = -4.4086444 \\cdot 10^{16} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.143)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6179\" data-src=\"images/formula_full_378_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q_{g \\oplus} = \\frac{[F_{(\\oplus - ☾)} + \\Delta F] \\cdot a_{☾}^2 - 2 \\gamma \\cdot Q_{g \\oplus} \\cdot Z_{g ☾}}{\\gamma \\cdot Z_{g ☾}} = -4.4086444 \\cdot 10^{16} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.143)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0"
+  ]
 }

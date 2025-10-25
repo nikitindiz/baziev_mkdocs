@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 43956
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2430\" data-src=\"images/formula_full_158_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\beta = \\frac{\\gamma - \\pi}{2} = 0,4292037 \\text{ рад.} = 24\\degree59156$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.25)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2430\" data-src=\"images/formula_full_158_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\beta = \\frac{\\gamma - \\pi}{2} = 0,4292037 \\text{ рад.} = 24\\degree59156$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.25)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "606678d17268",
+    "773fb8579a52",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

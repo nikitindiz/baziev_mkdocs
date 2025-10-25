@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 9313
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7803\" data-src=\"images/formula_full_521_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_{\\odot}' = m_{\\odot} + m'(T_{\\odot}) + M_{\\pi} - m_{\\hbar} - m_{\\text{♇}} = 2.0982523 \\cdot 10^{30} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.12)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7803\" data-src=\"images/formula_full_521_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$M_{\\odot}' = m_{\\odot} + m'(T_{\\odot}) + M_{\\pi} - m_{\\hbar} - m_{\\text{♇}} = 2.0982523 \\cdot 10^{30} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.12)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "75b31c1633db"
+  ]
 }

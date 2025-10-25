@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 1138
   },
-  "wrapper_html": "<span data-db-key=\"97\" data-src=\"images/formula_inline_7_0_7.webp\"> $n_i = f_i \\cdot \\tau_{ед}$ </span>"
+  "wrapper_html": "<span data-db-key=\"97\" data-src=\"images/formula_inline_7_0_7.webp\"> $n_i = f_i \\cdot \\tau_{ед}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

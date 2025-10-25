@@ -11,5 +11,14 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 62160
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8161\" data-src=\"images/formula_full_546_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n&M_s = F_{\\omega s} \\cdot \\pi R_s \\cdot \\sin \\varphi \\\\\n&M_s = m_s \\cdot R_s^2 \\cdot \\omega_s^2\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.67)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8161\" data-src=\"images/formula_full_546_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n&M_s = F_{\\omega s} \\cdot \\pi R_s \\cdot \\sin \\varphi \\\\\n&M_s = m_s \\cdot R_s^2 \\cdot \\omega_s^2\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.67)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

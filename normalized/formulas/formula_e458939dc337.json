@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 12073
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2103\" data-src=\"images/formula_full_137_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = m_i v_i \\nu_{ед} \\cdot \\cos \\alpha$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.3)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2103\" data-src=\"images/formula_full_137_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = m_i v_i \\nu_{ед} \\cdot \\cos \\alpha$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.3)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

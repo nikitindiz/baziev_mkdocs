@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
     "position": 13037
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"455\" data-src=\"images/formula_full_33_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_{0i} = \\xi_i f_{0i}, К$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.19)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"455\" data-src=\"images/formula_full_33_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_{0i} = \\xi_i f_{0i}, К$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.19)\n</div>\n</div>",
+  "symbols": [
+    "954f2960e119"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
     "position": 14781
   },
-  "wrapper_html": "<span data-db-key=\"998\" data-src=\"images/formula_inline_68_3_74.webp\"> $E(\\tau) =$ </span>"
+  "wrapper_html": "<span data-db-key=\"998\" data-src=\"images/formula_inline_68_3_74.webp\"> $E(\\tau) =$ </span>",
+  "symbols": [
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

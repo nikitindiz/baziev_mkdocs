@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 17808
   },
-  "wrapper_html": "<span data-db-key=\"5795\" data-src=\"images/formula_inline_356_9_3.webp\"> $S_i = \\pi b_i^2$ </span>"
+  "wrapper_html": "<span data-db-key=\"5795\" data-src=\"images/formula_inline_356_9_3.webp\"> $S_i = \\pi b_i^2$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

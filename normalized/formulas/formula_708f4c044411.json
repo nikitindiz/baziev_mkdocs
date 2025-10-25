@@ -11,5 +11,12 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 13927
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7639\" data-src=\"images/formula_full_508_3.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{эn} = \\frac{2\\beta \\cdot e \\cdot Z_i}{\\lambda_i n_{gi} \\pi R_э^2} = \\frac{2\\beta \\cdot e}{\\pi R_э^2} \\cdot \\frac{Z_i}{\\lambda_i \\cdot \\frac{4\\lambda_i^2}{d_{gi}^2}} = \\frac{\\beta \\cdot e}{\\pi R_э^2} \\cdot \\frac{Z_i d_{gi}^2}{2\\lambda_i^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.5)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7639\" data-src=\"images/formula_full_508_3.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{эn} = \\frac{2\\beta \\cdot e \\cdot Z_i}{\\lambda_i n_{gi} \\pi R_э^2} = \\frac{2\\beta \\cdot e}{\\pi R_э^2} \\cdot \\frac{Z_i}{\\lambda_i \\cdot \\frac{4\\lambda_i^2}{d_{gi}^2}} = \\frac{\\beta \\cdot e}{\\pi R_э^2} \\cdot \\frac{Z_i d_{gi}^2}{2\\lambda_i^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.5)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "773fb8579a52",
+    "b5b0c2b51293"
+  ]
 }

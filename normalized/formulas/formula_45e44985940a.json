@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 108196
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5661\" data-src=\"images/formula_full_348_4.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{mi} = \\frac{\\Phi_0 \\cdot n_i \\cdot v_{si}}{2\\pi b_i \\cdot V_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.129)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5661\" data-src=\"images/formula_full_348_4.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{mi} = \\frac{\\Phi_0 \\cdot n_i \\cdot v_{si}}{2\\pi b_i \\cdot V_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.129)\n</div>\n</div>",
+  "symbols": [
+    "da4041efbcb0",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

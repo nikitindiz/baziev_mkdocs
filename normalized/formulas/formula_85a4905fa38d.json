@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 72504
   },
-  "wrapper_html": "<span data-db-key=\"6065\" data-src=\"images/formula_inline_371_3_14.webp\"> $\\Delta t = 0,01$ </span>"
+  "wrapper_html": "<span data-db-key=\"6065\" data-src=\"images/formula_inline_371_3_14.webp\"> $\\Delta t = 0,01$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

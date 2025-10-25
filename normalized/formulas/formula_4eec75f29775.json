@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 15027
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"543\" data-src=\"images/formula_full_40_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_1 = \\frac{T_1}{T_2} = \\frac{290,00}{258,15} = 1,123378$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.16)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"543\" data-src=\"images/formula_full_40_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_1 = \\frac{T_1}{T_2} = \\frac{290,00}{258,15} = 1,123378$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.16)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

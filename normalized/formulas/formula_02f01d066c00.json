@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
     "position": 6533
   },
-  "wrapper_html": "<span data-db-key=\"7191\" data-src=\"images/formula_inline_461_15_35.webp\"> $\\rho_n = 9,2019428 \\cdot 10^{12} \\, \\text{ кг } \\cdot \\text{м}^{-3}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7191\" data-src=\"images/formula_inline_461_15_35.webp\"> $\\rho_n = 9,2019428 \\cdot 10^{12} \\, \\text{ кг } \\cdot \\text{м}^{-3}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

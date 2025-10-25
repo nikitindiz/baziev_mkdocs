@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 75733
   },
-  "wrapper_html": "<span data-db-key=\"6085\" data-src=\"images/formula_inline_372_0_15.webp\"> $A_c = n_A \\cdot A_2 =$ </span>"
+  "wrapper_html": "<span data-db-key=\"6085\" data-src=\"images/formula_inline_372_0_15.webp\"> $A_c = n_A \\cdot A_2 =$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

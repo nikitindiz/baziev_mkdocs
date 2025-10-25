@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 48863
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4462\" data-src=\"images/formula_full_273_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{\\text{T} 1} = 2Z_{\\text{H}_2\\text{O}} + q_{\\text{H}_2\\text{O}} = -1,3734179 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.58)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4462\" data-src=\"images/formula_full_273_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{\\text{T} 1} = 2Z_{\\text{H}_2\\text{O}} + q_{\\text{H}_2\\text{O}} = -1,3734179 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.58)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

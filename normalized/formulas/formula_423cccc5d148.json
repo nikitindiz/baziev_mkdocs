@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
     "position": 4064
   },
-  "wrapper_html": "<span data-db-key=\"7193\" data-src=\"images/formula_inline_461_3_0.webp\"> $R_{\\odot} = 6{,}7308401 \\cdot 10^8 \\, \\text{ м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7193\" data-src=\"images/formula_inline_461_3_0.webp\"> $R_{\\odot} = 6{,}7308401 \\cdot 10^8 \\, \\text{ м}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

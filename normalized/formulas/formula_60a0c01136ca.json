@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 21823
   },
-  "wrapper_html": "<span data-db-key=\"4660\" data-src=\"images/formula_inline_285_2_45.webp\"> $V_0^{\\prime\\prime} = (V_0 - \\Delta V)$ </span>"
+  "wrapper_html": "<span data-db-key=\"4660\" data-src=\"images/formula_inline_285_2_45.webp\"> $V_0^{\\prime\\prime} = (V_0 - \\Delta V)$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

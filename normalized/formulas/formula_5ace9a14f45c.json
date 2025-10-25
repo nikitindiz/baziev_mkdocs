@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 44130
   },
-  "wrapper_html": "<span data-db-key=\"6522\" data-src=\"images/formula_inline_403_4_4.webp\"> $\\psi = 2,0839897 \\cdot 10^{10} \\ K^{-1} \\cdot с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6522\" data-src=\"images/formula_inline_403_4_4.webp\"> $\\psi = 2,0839897 \\cdot 10^{10} \\ K^{-1} \\cdot с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

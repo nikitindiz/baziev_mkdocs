@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 48062
   },
-  "wrapper_html": "<span data-db-key=\"6538\" data-src=\"images/formula_inline_404_6_4.webp\"> $\\alpha = 1,0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6538\" data-src=\"images/formula_inline_404_6_4.webp\"> $\\alpha = 1,0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

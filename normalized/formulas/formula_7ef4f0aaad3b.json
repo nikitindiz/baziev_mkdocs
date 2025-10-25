@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 37312
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1325\" data-src=\"images/formula_full_92_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\varepsilon_f = n_f \\cdot \\mathscr{P} = 1,7297953 \\cdot 10^{-11} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.53)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1325\" data-src=\"images/formula_full_92_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\varepsilon_f = n_f \\cdot \\mathscr{P} = 1,7297953 \\cdot 10^{-11} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.53)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

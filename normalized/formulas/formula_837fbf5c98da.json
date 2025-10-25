@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 15954
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1077\" data-src=\"images/formula_full_75_4.webp\">\n<div style=\"width: 100%;\">\n\n$$u_э = \\mu/r_{He} = \\frac{119,91698 \\text{ м}^2 \\cdot \\text{с}^{-1}}{1,3112467 \\cdot 10^{-12}} = 9,1452645 \\cdot 10^{13} \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.16)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1077\" data-src=\"images/formula_full_75_4.webp\">\n<div style=\"width: 100%;\">\n\n$$u_э = \\mu/r_{He} = \\frac{119,91698 \\text{ м}^2 \\cdot \\text{с}^{-1}}{1,3112467 \\cdot 10^{-12}} = 9,1452645 \\cdot 10^{13} \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.16)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

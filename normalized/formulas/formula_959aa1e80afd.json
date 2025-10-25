@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 78979
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5534\" data-src=\"images/formula_full_341_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I'_1 = V_1 / R_0 = 5,6475362 \\cdot 10^{-1} A$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.81)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5534\" data-src=\"images/formula_full_341_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I'_1 = V_1 / R_0 = 5,6475362 \\cdot 10^{-1} A$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.81)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

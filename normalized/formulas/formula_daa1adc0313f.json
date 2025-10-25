@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 29583
   },
-  "wrapper_html": "<span data-db-key=\"1168\" data-src=\"images/formula_inline_81_4_0.webp\"> $u_э (Xe) = \\mu / r_{0, Xe} = 3,00395 \\cdot 10^{15} \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1168\" data-src=\"images/formula_inline_81_4_0.webp\"> $u_э (Xe) = \\mu / r_{0, Xe} = 3,00395 \\cdot 10^{15} \\text{м} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

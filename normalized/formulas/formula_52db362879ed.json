@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 2161
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4519\" data-src=\"images/formula_full_277_20.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^ж = \\frac{\\gamma^{\\text{п}} \\cdot \\rho_0 \\cdot P_0^{\\text{п}}}{\\rho_0^{\\text{п}} \\cdot P_0} = \\frac{1,8319826 \\cdot 10^6}{1,4612592 \\cdot 10^3} = 1,2537013 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.2)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4519\" data-src=\"images/formula_full_277_20.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^ж = \\frac{\\gamma^{\\text{п}} \\cdot \\rho_0 \\cdot P_0^{\\text{п}}}{\\rho_0^{\\text{п}} \\cdot P_0} = \\frac{1,8319826 \\cdot 10^6}{1,4612592 \\cdot 10^3} = 1,2537013 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.2)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

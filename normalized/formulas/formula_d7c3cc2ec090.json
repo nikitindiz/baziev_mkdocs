@@ -11,5 +11,10 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
     "position": 20396
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9103\" data-src=\"images/formula_full_610_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_2 = \\frac{c_2^2}{\\mu} = \\frac{c_0^2 \\cdot (1 + v/c_0)^2}{\\mu} = \\nu_0 \\cdot (1 + v/c_0)^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.27)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9103\" data-src=\"images/formula_full_610_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_2 = \\frac{c_2^2}{\\mu} = \\frac{c_0^2 \\cdot (1 + v/c_0)^2}{\\mu} = \\nu_0 \\cdot (1 + v/c_0)^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.27)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

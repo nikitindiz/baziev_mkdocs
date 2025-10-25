@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 49978
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"703\" data-src=\"images/formula_full_49_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{i} = \\frac{\\alpha_{i} \\cdot 3\\pi \\cdot d_{gi1}^3}{2h \\cdot \\psi_{i}^{2} \\cdot T_{2} \\cdot r_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.42)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"703\" data-src=\"images/formula_full_49_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{i} = \\frac{\\alpha_{i} \\cdot 3\\pi \\cdot d_{gi1}^3}{2h \\cdot \\psi_{i}^{2} \\cdot T_{2} \\cdot r_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.42)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "d61a4d7eea23",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

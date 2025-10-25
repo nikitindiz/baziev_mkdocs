@@ -11,5 +11,11 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
     "position": 6165
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8471\" data-src=\"images/formula_full_568_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(г-\\odot)} = 2\\gamma \\cdot \\frac{Q_{gг} \\cdot Z_{g\\odot}}{a_{\\odot}^2} = \\frac{30,610326 \\cdot 10^{54}}{9,6610663 \\cdot 10^{36}} = 3,168421 \\cdot 10^{18} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.15)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8471\" data-src=\"images/formula_full_568_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(г-\\odot)} = 2\\gamma \\cdot \\frac{Q_{gг} \\cdot Z_{g\\odot}}{a_{\\odot}^2} = \\frac{30,610326 \\cdot 10^{54}}{9,6610663 \\cdot 10^{36}} = 3,168421 \\cdot 10^{18} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.15)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

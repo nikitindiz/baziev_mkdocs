@@ -11,5 +11,12 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 14449
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7640\" data-src=\"images/formula_full_508_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_i = \\sqrt[3]{\\frac{\\beta \\cdot e \\cdot Z_i \\cdot d_{gi}^2}{\\pi R_э^2 \\cdot P_{эn}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.6)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7640\" data-src=\"images/formula_full_508_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_i = \\sqrt[3]{\\frac{\\beta \\cdot e \\cdot Z_i \\cdot d_{gi}^2}{\\pi R_э^2 \\cdot P_{эn}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.6)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "773fb8579a52",
+    "b5b0c2b51293"
+  ]
 }

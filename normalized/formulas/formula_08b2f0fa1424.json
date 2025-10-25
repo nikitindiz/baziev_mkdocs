@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 19375
   },
-  "wrapper_html": "<span data-db-key=\"6346\" data-src=\"images/formula_inline_391_2_32.webp\"> $\\gamma$ </span>"
+  "wrapper_html": "<span data-db-key=\"6346\" data-src=\"images/formula_inline_391_2_32.webp\"> $\\gamma$ </span>",
+  "symbols": [
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "ff905a84b912"
+  ]
 }

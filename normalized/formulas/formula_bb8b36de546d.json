@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
     "position": 28745
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"261\" data-src=\"images/formula_full_20_3.webp\">\n<div style=\"width: 100%;\">\n\n$$э = \\frac{n_e \\cdot e}{n_э}$$\n\n</div>\n<div style=\"width: 80px;\">\n(3.23)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"261\" data-src=\"images/formula_full_20_3.webp\">\n<div style=\"width: 100%;\">\n\n$$э = \\frac{n_e \\cdot e}{n_э}$$\n\n</div>\n<div style=\"width: 80px;\">\n(3.23)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

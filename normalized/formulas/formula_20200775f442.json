@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 9692
   },
-  "wrapper_html": "<span data-db-key=\"7590\" data-src=\"images/formula_inline_502_2_0.webp\"> $(6 \\cdot 10^{17} \\, с^{-1})$ </span>"
+  "wrapper_html": "<span data-db-key=\"7590\" data-src=\"images/formula_inline_502_2_0.webp\"> $(6 \\cdot 10^{17} \\, с^{-1})$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

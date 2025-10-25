@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 62454
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5938\" data-src=\"images/formula_full_364_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_2 = \\rho_{20} \\cdot (1 - 0,9996574) = 9,84 \\cdot 10^{-13} \\, \\text{Ом} \\cdot \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.81)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5938\" data-src=\"images/formula_full_364_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_2 = \\rho_{20} \\cdot (1 - 0,9996574) = 9,84 \\cdot 10^{-13} \\, \\text{Ом} \\cdot \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.81)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

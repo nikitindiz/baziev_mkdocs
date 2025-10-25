@@ -11,5 +11,13 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 25075
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4601\" data-src=\"images/formula_full_283_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{H_2O} = \\alpha \\cdot Z_{H_2O} = 7,9341486 \\cdot 10^{-1} В = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.36)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4601\" data-src=\"images/formula_full_283_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{H_2O} = \\alpha \\cdot Z_{H_2O} = 7,9341486 \\cdot 10^{-1} В = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.36)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
+  ]
 }

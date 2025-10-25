@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 69387
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4794\" data-src=\"images/formula_full_293_11.webp\">\n<div style=\"width: 100%;\">\n\n$$C^{\\text{ж}} = \\frac{m_s \\cdot [v_c^2 + v_s u_s (r) \\cdot a + B_0 u_0 + v_s u_s]}{m_s \\cdot T_{в0}} = \\frac{[v_c^2 + v_s u_s (r) a + v_0 u_0 + v_s u_s]}{T_{в0}}, м^2 \\cdot с^{-2} \\cdot K^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.97)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4794\" data-src=\"images/formula_full_293_11.webp\">\n<div style=\"width: 100%;\">\n\n$$C^{\\text{ж}} = \\frac{m_s \\cdot [v_c^2 + v_s u_s (r) \\cdot a + B_0 u_0 + v_s u_s]}{m_s \\cdot T_{в0}} = \\frac{[v_c^2 + v_s u_s (r) a + v_0 u_0 + v_s u_s]}{T_{в0}}, м^2 \\cdot с^{-2} \\cdot K^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.97)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

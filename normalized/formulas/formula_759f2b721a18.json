@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 35671
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1302\" data-src=\"images/formula_full_91_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_U = m_U - m_U' = A_U \\cdot m_n - [A_U - n_n (U)] \\cdot m_n$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.47)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1302\" data-src=\"images/formula_full_91_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_U = m_U - m_U' = A_U \\cdot m_n - [A_U - n_n (U)] \\cdot m_n$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.47)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

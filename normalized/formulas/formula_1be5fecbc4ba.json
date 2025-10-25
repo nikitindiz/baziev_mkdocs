@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 279487
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3138\" data-src=\"images/formula_full_199_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\nz_d' = \\left( \\frac{\\Delta X_1}{\\text{tg } \\varphi_1} + \\frac{\\Delta X_2}{\\text{tg } \\varphi_2} + \\frac{\\Delta X_3}{\\text{tg } \\varphi_3} \\right) = \\\\\n= (2.6927333 \\cdot \\lambda_г' + 4.4154865 \\lambda_г' + 6.1732787 \\cdot \\lambda_г') = \\\\\n= 13.281498 \\cdot \\lambda_г'.\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.162)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3138\" data-src=\"images/formula_full_199_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\nz_d' = \\left( \\frac{\\Delta X_1}{\\text{tg } \\varphi_1} + \\frac{\\Delta X_2}{\\text{tg } \\varphi_2} + \\frac{\\Delta X_3}{\\text{tg } \\varphi_3} \\right) = \\\\\n= (2.6927333 \\cdot \\lambda_г' + 4.4154865 \\lambda_г' + 6.1732787 \\cdot \\lambda_г') = \\\\\n= 13.281498 \\cdot \\lambda_г'.\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.162)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

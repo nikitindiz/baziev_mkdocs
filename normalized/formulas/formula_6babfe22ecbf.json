@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 12719
   },
-  "wrapper_html": "<span data-db-key=\"7858\" data-src=\"images/formula_inline_524_9_19.webp\"> $\\sigma_\\odot = \\text{Const}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7858\" data-src=\"images/formula_inline_524_9_19.webp\"> $\\sigma_\\odot = \\text{Const}$ </span>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

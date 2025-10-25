@@ -11,5 +11,15 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 37642
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1144\" data-src=\"images/formula_full_80_12.webp\">\n<div style=\"width: 100%;\">\n\n$$h_{э i} = \\sqrt{\\frac{2 \\gamma \\cdot э^2 \\cdot r_{0i}}{q_\\lambda \\cdot \\varphi}} , м$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.39)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1144\" data-src=\"images/formula_full_80_12.webp\">\n<div style=\"width: 100%;\">\n\n$$h_{э i} = \\sqrt{\\frac{2 \\gamma \\cdot э^2 \\cdot r_{0i}}{q_\\lambda \\cdot \\varphi}} , м$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.39)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "d107c64fe193",
+    "606678d17268",
+    "c18f47f412f4",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

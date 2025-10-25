@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
     "position": 4334
   },
-  "wrapper_html": "<span data-db-key=\"16\" data-src=\"images/formula_inline_1_4_16.webp\"> $V_{ед} = 1 \\, м^3$ </span>"
+  "wrapper_html": "<span data-db-key=\"16\" data-src=\"images/formula_inline_1_4_16.webp\"> $V_{ед} = 1 \\, м^3$ </span>",
+  "symbols": [
+    "4650f5dfc1df"
+  ]
 }

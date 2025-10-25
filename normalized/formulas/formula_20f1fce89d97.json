@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
     "position": 2538
   },
-  "wrapper_html": "<span data-db-key=\"7183\" data-src=\"images/formula_inline_460_6_20.webp\"> $\\Delta m_{\\lambda}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7183\" data-src=\"images/formula_inline_460_6_20.webp\"> $\\Delta m_{\\lambda}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

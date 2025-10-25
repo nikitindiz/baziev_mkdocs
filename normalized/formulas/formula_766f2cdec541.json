@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 22389
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8334\" data-src=\"images/formula_full_559_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\odot} (☿) = \\frac{h_{☿}}{T_{☿}} = \\frac{17,783733 \\cdot 10^9}{7,6005216 \\cdot 10^6 \\, с} = 2,3398042 \\cdot 10^3 \\text{ м} \\cdot с^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.19)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8334\" data-src=\"images/formula_full_559_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\odot} (☿) = \\frac{h_{☿}}{T_{☿}} = \\frac{17,783733 \\cdot 10^9}{7,6005216 \\cdot 10^6 \\, с} = 2,3398042 \\cdot 10^3 \\text{ м} \\cdot с^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.19)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

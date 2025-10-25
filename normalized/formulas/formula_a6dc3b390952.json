@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 588
   },
-  "wrapper_html": "<span data-db-key=\"5240\" data-src=\"images/formula_inline_324_6_0.webp\"> $v = 5 \\cdot 10^{-3} \\text{м} \\cdot с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5240\" data-src=\"images/formula_inline_324_6_0.webp\"> $v = 5 \\cdot 10^{-3} \\text{м} \\cdot с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

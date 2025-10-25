@@ -11,5 +11,14 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 120433
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6147\" data-src=\"images/formula_full_376_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{э \\cdot \\varphi_i}{r_{ci}} \\geq \\frac{э \\cdot \\varphi_\\oplus}{R_\\oplus}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.129)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6147\" data-src=\"images/formula_full_376_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{э \\cdot \\varphi_i}{r_{ci}} \\geq \\frac{э \\cdot \\varphi_\\oplus}{R_\\oplus}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.129)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

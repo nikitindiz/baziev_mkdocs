@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 15440
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1235\" data-src=\"images/formula_full_86_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_e = \\frac{-\\varphi_{e}}{n_e} = -3.7870703 \\cdot 10^{5} \\text{ В} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.23)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1235\" data-src=\"images/formula_full_86_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_e = \\frac{-\\varphi_{e}}{n_e} = -3.7870703 \\cdot 10^{5} \\text{ В} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.23)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
+  ]
 }

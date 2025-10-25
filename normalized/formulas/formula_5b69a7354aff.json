@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 25364
   },
-  "wrapper_html": "<span data-db-key=\"4692\" data-src=\"images/formula_inline_287_14_2.webp\"> $c^ж = 4,19 \\cdot 10^3 \\text{ Дж} \\cdot \\text{кг}^{-1} \\cdot \\text{K}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4692\" data-src=\"images/formula_inline_287_14_2.webp\"> $c^ж = 4,19 \\cdot 10^3 \\text{ Дж} \\cdot \\text{кг}^{-1} \\cdot \\text{K}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

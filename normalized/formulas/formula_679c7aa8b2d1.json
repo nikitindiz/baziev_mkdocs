@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 30047
   },
-  "wrapper_html": "<span data-db-key=\"4724\" data-src=\"images/formula_inline_289_9_26.webp\"> $a_1 = \\sqrt[3]{V_{si}}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4724\" data-src=\"images/formula_inline_289_9_26.webp\"> $a_1 = \\sqrt[3]{V_{si}}$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

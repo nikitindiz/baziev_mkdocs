@@ -11,5 +11,8 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 17886
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6690\" data-src=\"images/formula_full_420_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Li^+ + Li^- + 2H^+ + e = Li^+ - e - H^+ + Li^- - H^+$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6690\" data-src=\"images/formula_full_420_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Li^+ + Li^- + 2H^+ + e = Li^+ - e - H^+ + Li^- - H^+$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.17)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

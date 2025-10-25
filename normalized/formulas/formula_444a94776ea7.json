@@ -11,5 +11,9 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
     "position": 13397
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9083\" data-src=\"images/formula_full_609_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_2 = \\lambda \\cdot \\frac{(1 - v/c)}{(1 + v/c)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.13)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9083\" data-src=\"images/formula_full_609_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_2 = \\lambda \\cdot \\frac{(1 - v/c)}{(1 + v/c)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.13)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

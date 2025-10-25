@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 27894
   },
-  "wrapper_html": "<span data-db-key=\"2209\" data-src=\"images/formula_inline_144_2_0.webp\"> $A_0 = 1,4467460 \\cdot 10^{11} \\, \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2209\" data-src=\"images/formula_inline_144_2_0.webp\"> $A_0 = 1,4467460 \\cdot 10^{11} \\, \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

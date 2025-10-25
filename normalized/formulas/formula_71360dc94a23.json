@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 21017
   },
-  "wrapper_html": "<span data-db-key=\"5812\" data-src=\"images/formula_inline_357_8_0.webp\"> $W_н = 7,5 \\cdot 10^8 \\text{ Вт}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5812\" data-src=\"images/formula_inline_357_8_0.webp\"> $W_н = 7,5 \\cdot 10^8 \\text{ Вт}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

@@ -11,5 +11,14 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 50451
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4714\" data-src=\"images/formula_full_289_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_i^ж = \\frac{k_1 \\cdot \\gamma \\cdot q \\cdot z}{a_1^2 \\cdot d_{gi}} \\cdot n_{\\alpha}', \\text{ Н} \\cdot \\text{м}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.80)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4714\" data-src=\"images/formula_full_289_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_i^ж = \\frac{k_1 \\cdot \\gamma \\cdot q \\cdot z}{a_1^2 \\cdot d_{gi}} \\cdot n_{\\alpha}', \\text{ Н} \\cdot \\text{м}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.80)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

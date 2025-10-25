@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 13383
   },
-  "wrapper_html": "<span data-db-key=\"1080\" data-src=\"images/formula_inline_75_13_6.webp\"> $\\pi$ </span>"
+  "wrapper_html": "<span data-db-key=\"1080\" data-src=\"images/formula_inline_75_13_6.webp\"> $\\pi$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

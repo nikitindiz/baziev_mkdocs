@@ -11,5 +11,6 @@
     "file": "chapter_условные-обозначения/index.md",
     "position": 20201
   },
-  "wrapper_html": "<span data-db-key=\"9285\" data-src=\"images/formula_inline_627_1_250.webp\"> $\\mathcal{K}$ </span>"
+  "wrapper_html": "<span data-db-key=\"9285\" data-src=\"images/formula_inline_627_1_250.webp\"> $\\mathcal{K}$ </span>",
+  "symbols": []
 }

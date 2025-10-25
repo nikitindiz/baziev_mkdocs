@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 40141
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5851\" data-src=\"images/formula_full_359_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\rho 1} = \\nu_{\\rho f} \\cdot \\sigma = 2,2497412 \\cdot 10^{27} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.59а)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5851\" data-src=\"images/formula_full_359_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\rho 1} = \\nu_{\\rho f} \\cdot \\sigma = 2,2497412 \\cdot 10^{27} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.59а)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

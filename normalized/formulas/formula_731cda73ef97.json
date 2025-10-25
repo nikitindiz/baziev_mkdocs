@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 30081
   },
-  "wrapper_html": "<span data-db-key=\"5420\" data-src=\"images/formula_inline_334_11_0.webp\"> $\\mu_{\\max}' = 8 \\cdot 10^4$ </span>"
+  "wrapper_html": "<span data-db-key=\"5420\" data-src=\"images/formula_inline_334_11_0.webp\"> $\\mu_{\\max}' = 8 \\cdot 10^4$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

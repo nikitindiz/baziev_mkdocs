@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 40298
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"650\" data-src=\"images/formula_full_47_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta W = W(\\nu) - W(f_2) = h \\cdot \\nu \\cdot \\omega(S) \\cdot \\delta_i - h \\cdot f_2 \\cdot \\omega(S) \\cdot \\delta_i = h \\cdot \\omega(S) \\cdot \\delta_i(\\nu - f_2)$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.32)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"650\" data-src=\"images/formula_full_47_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta W = W(\\nu) - W(f_2) = h \\cdot \\nu \\cdot \\omega(S) \\cdot \\delta_i - h \\cdot f_2 \\cdot \\omega(S) \\cdot \\delta_i = h \\cdot \\omega(S) \\cdot \\delta_i(\\nu - f_2)$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.32)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "d61a4d7eea23",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

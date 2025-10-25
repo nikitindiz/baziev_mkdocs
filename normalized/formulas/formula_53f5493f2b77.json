@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
     "position": 22422
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1009\" data-src=\"images/formula_full_69_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{ci} = \\frac{1}{2} m_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.19)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1009\" data-src=\"images/formula_full_69_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{ci} = \\frac{1}{2} m_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.19)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 16724
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8572\" data-src=\"images/formula_full_575_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N0} = m_{N0} / V_{N0} = 8,9779908 \\cdot 10^{8} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.30)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8572\" data-src=\"images/formula_full_575_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N0} = m_{N0} / V_{N0} = 8,9779908 \\cdot 10^{8} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.30)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

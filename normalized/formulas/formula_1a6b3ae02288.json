@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 60679
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4755\" data-src=\"images/formula_full_291_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{i} = \\frac{m_{0i} \\cdot f_{i}}{\\pi \\cdot \\Delta d_{gi}} = \\frac{m_{0i} \\cdot \\psi_в \\cdot T_в}{\\pi \\cdot A_{0i}}, \\quad \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.91)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4755\" data-src=\"images/formula_full_291_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{i} = \\frac{m_{0i} \\cdot f_{i}}{\\pi \\cdot \\Delta d_{gi}} = \\frac{m_{0i} \\cdot \\psi_в \\cdot T_в}{\\pi \\cdot A_{0i}}, \\quad \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.91)\n</div>\n</div>",
+  "symbols": [
+    "1cced234f7e5",
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0"
+  ]
 }

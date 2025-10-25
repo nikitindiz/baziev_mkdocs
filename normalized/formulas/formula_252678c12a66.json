@@ -11,5 +11,11 @@
     "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
     "position": 4390
   },
-  "wrapper_html": "<span data-db-key=\"7195\" data-src=\"images/formula_inline_461_5_0.webp\"> $\\omega(17{\\degree}) = 2,865 \\cdot 10^{-6} \\, \\text{рад} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7195\" data-src=\"images/formula_inline_461_5_0.webp\"> $\\omega(17{\\degree}) = 2,865 \\cdot 10^{-6} \\, \\text{рад} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

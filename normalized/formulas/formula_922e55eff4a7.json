@@ -11,5 +11,15 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 27736
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4631\" data-src=\"images/formula_full_284_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\left.\n\\begin{aligned}\nk_0^ж &= \\frac{m_0 v_0 U_0}{T_0} = \\frac{m_0 v_0 \\cdot v_0 \\sin (\\alpha_0/2)}{T_0} = \\frac{m_0 v_0^2 \\cdot \\sin \\alpha_0}{2T_0} \\\\\nk_0^ж &= \\frac{2V_0 \\cdot E_{s0} - \\varphi_{H_2O} \\cdot (z + q)}{2T_0}\n\\end{aligned}\n\\right\\}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.39)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4631\" data-src=\"images/formula_full_284_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\left.\n\\begin{aligned}\nk_0^ж &= \\frac{m_0 v_0 U_0}{T_0} = \\frac{m_0 v_0 \\cdot v_0 \\sin (\\alpha_0/2)}{T_0} = \\frac{m_0 v_0^2 \\cdot \\sin \\alpha_0}{2T_0} \\\\\nk_0^ж &= \\frac{2V_0 \\cdot E_{s0} - \\varphi_{H_2O} \\cdot (z + q)}{2T_0}\n\\end{aligned}\n\\right\\}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.39)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "8fd7476253af",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

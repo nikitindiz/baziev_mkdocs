@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 35305
   },
-  "wrapper_html": "<span data-db-key=\"5907\" data-src=\"images/formula_inline_362_5_20.webp\"> $Z_{\\lambda} = 2,1125234 \\cdot 10^{-24} \\text{ Кл}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5907\" data-src=\"images/formula_inline_362_5_20.webp\"> $Z_{\\lambda} = 2,1125234 \\cdot 10^{-24} \\text{ Кл}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

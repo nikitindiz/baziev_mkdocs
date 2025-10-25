@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 28673
   },
-  "wrapper_html": "<span data-db-key=\"6416\" data-src=\"images/formula_inline_397_6_0.webp\"> $w_{H^-} = 2q_{H^-} / |e| = -1,9522821$ </span>"
+  "wrapper_html": "<span data-db-key=\"6416\" data-src=\"images/formula_inline_397_6_0.webp\"> $w_{H^-} = 2q_{H^-} / |e| = -1,9522821$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "69b88a8d50a2"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 9858
   },
-  "wrapper_html": "<span data-db-key=\"351\" data-src=\"images/formula_inline_25_2_29.webp\"> $\\rho_n = m_n / V_n = 9,2019428 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+  "wrapper_html": "<span data-db-key=\"351\" data-src=\"images/formula_inline_25_2_29.webp\"> $\\rho_n = m_n / V_n = 9,2019428 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

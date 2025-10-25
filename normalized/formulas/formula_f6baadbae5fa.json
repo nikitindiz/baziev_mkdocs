@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 11205
   },
-  "wrapper_html": "<span data-db-key=\"359\" data-src=\"images/formula_inline_25_7_9.webp\"> $э(n) = n_э \\cdot э = +4.8065676 \\cdot 10^{-19} \\text{ Кл} = 50\\% \\text{ от } Z_n$ </span>"
+  "wrapper_html": "<span data-db-key=\"359\" data-src=\"images/formula_inline_25_7_9.webp\"> $э(n) = n_э \\cdot э = +4.8065676 \\cdot 10^{-19} \\text{ Кл} = 50\\% \\text{ от } Z_n$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

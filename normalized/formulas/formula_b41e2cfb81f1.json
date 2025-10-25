@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 15411
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6304\" data-src=\"images/formula_full_388_1.webp\">\n<div style=\"width: 100%;\">\n\n$$k_m = \\frac{\\varepsilon}{L_э \\cdot \\omega \\cdot n_m \\cdot n_p} = \\frac{2 \\text{ Дж}}{1,4279517 \\cdot 10^{-4} \\text{ Дж}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.28)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6304\" data-src=\"images/formula_full_388_1.webp\">\n<div style=\"width: 100%;\">\n\n$$k_m = \\frac{\\varepsilon}{L_э \\cdot \\omega \\cdot n_m \\cdot n_p} = \\frac{2 \\text{ Дж}}{1,4279517 \\cdot 10^{-4} \\text{ Дж}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.28)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 31843
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8636\" data-src=\"images/formula_full_579_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{\\mu ☿} = \\frac{(m_{☿} - m_{n ☿})}{(V_{☿} - V_{n ☿})} = 2,7569358 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.57)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8636\" data-src=\"images/formula_full_579_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{\\mu ☿} = \\frac{(m_{☿} - m_{n ☿})}{(V_{☿} - V_{n ☿})} = 2,7569358 \\cdot 10^3 \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.57)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "9af9381839c9",
+    "572d0da78fdc"
+  ]
 }

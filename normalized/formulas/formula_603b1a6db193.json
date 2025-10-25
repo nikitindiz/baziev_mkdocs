@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 39398
   },
-  "wrapper_html": "<span data-db-key=\"2282\" data-src=\"images/formula_inline_148_18_4.webp\"> $R_{ci} = f(\\rho_{ci})$ </span>"
+  "wrapper_html": "<span data-db-key=\"2282\" data-src=\"images/formula_inline_148_18_4.webp\"> $R_{ci} = f(\\rho_{ci})$ </span>",
+  "symbols": [
+    "eaf4d057776d",
+    "572d0da78fdc"
+  ]
 }

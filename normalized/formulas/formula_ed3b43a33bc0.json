@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 2865
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8292\" data-src=\"images/formula_full_555_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\odot} (\\text{☿}) = u_{\\text{☿}} \\cdot a_{\\text{☿}} = n_{\\text{☿}} \\cdot a_{\\text{☿}}^2, \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.4)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8292\" data-src=\"images/formula_full_555_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\odot} (\\text{☿}) = u_{\\text{☿}} \\cdot a_{\\text{☿}} = n_{\\text{☿}} \\cdot a_{\\text{☿}}^2, \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.4)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

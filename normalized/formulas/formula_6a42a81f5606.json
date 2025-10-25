@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 30235
   },
-  "wrapper_html": "<span data-db-key=\"7706\" data-src=\"images/formula_inline_512_5_106.webp\"> $\\nu = 3 \\cdot 10^5 \\, с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7706\" data-src=\"images/formula_inline_512_5_106.webp\"> $\\nu = 3 \\cdot 10^5 \\, с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

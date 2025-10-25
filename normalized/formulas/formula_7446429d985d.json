@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 2012
   },
-  "wrapper_html": "<span data-db-key=\"6363\" data-src=\"images/formula_inline_393_5_6.webp\"> $m_e = 9,038487 \\cdot 10^{-31} \\, \\text{кг}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6363\" data-src=\"images/formula_inline_393_5_6.webp\"> $m_e = 9,038487 \\cdot 10^{-31} \\, \\text{кг}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

@@ -11,5 +11,13 @@
     "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
     "position": 5950
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7125\" data-src=\"images/formula_full_455_1_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$F_0 = \\gamma \\cdot \\left[ -\\frac{q_g^2}{r_{ед}^2} + \\left( -\\frac{q_g^2}{r_{ед}^2} \\right) \\right] = -2 \\gamma \\cdot \\frac{q_g^2}{r_{ед}^2} \\text{, Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.7)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7125\" data-src=\"images/formula_full_455_1_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$F_0 = \\gamma \\cdot \\left[ -\\frac{q_g^2}{r_{ед}^2} + \\left( -\\frac{q_g^2}{r_{ед}^2} \\right) \\right] = -2 \\gamma \\cdot \\frac{q_g^2}{r_{ед}^2} \\text{, Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.7)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

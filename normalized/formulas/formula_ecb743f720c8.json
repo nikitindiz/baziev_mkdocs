@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 70908
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4820\" data-src=\"images/formula_full_294_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{м}^2 \\cdot \\text{с}^{-2} \\cdot \\text{K}^{-1} = 2,9277 \\cdot 10^{-3}\\%$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.100)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4820\" data-src=\"images/formula_full_294_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{м}^2 \\cdot \\text{с}^{-2} \\cdot \\text{K}^{-1} = 2,9277 \\cdot 10^{-3}\\%$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.100)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

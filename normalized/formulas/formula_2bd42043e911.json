@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 6563
   },
-  "wrapper_html": "<span data-db-key=\"2079\" data-src=\"images/formula_inline_136_10_1.webp\"> $a_2 = 0 \\text{ (ввиду } v_1 = \\text{Const)}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2079\" data-src=\"images/formula_inline_136_10_1.webp\"> $a_2 = 0 \\text{ (ввиду } v_1 = \\text{Const)}$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,13 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 70707
   },
-  "wrapper_html": "<span data-db-key=\"6053\" data-src=\"images/formula_inline_370_9_3.webp\"> $T_2 = (T_c + \\Delta t) = 1,19 \\, \\text{K}; \\, \\alpha_2$ </span>"
+  "wrapper_html": "<span data-db-key=\"6053\" data-src=\"images/formula_inline_370_9_3.webp\"> $T_2 = (T_c + \\Delta t) = 1,19 \\, \\text{K}; \\, \\alpha_2$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

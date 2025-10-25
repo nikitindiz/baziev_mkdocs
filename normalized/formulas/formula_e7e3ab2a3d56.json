@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 36379
   },
-  "wrapper_html": "<span data-db-key=\"7369\" data-src=\"images/formula_inline_475_13_11.webp\"> $a_{i} \\leq a_{70_{\\max}}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7369\" data-src=\"images/formula_inline_475_13_11.webp\"> $a_{i} \\leq a_{70_{\\max}}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

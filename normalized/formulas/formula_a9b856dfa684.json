@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
     "position": 6831
   },
-  "wrapper_html": "<span data-db-key=\"449\" data-src=\"images/formula_inline_32_1_9.webp\"> $\\gamma_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"449\" data-src=\"images/formula_inline_32_1_9.webp\"> $\\gamma_i$ </span>",
+  "symbols": [
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

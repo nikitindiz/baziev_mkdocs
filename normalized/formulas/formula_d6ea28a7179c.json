@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 27954
   },
-  "wrapper_html": "<span data-db-key=\"7315\" data-src=\"images/formula_full_472_8_12.webp\"> $a_k^5 = \\lambda_{ok}^5$ </span>"
+  "wrapper_html": "<span data-db-key=\"7315\" data-src=\"images/formula_full_472_8_12.webp\"> $a_k^5 = \\lambda_{ok}^5$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

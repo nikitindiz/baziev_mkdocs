@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 21794
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4904\" data-src=\"images/formula_full_300_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V(h) = (V_{sл} + \\Delta V_{gл}) = 9.5367641 \\cdot 10^{-26} \\, \\text{м}^3 = 61.431613 \\% V_{gл} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.37)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4904\" data-src=\"images/formula_full_300_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V(h) = (V_{sл} + \\Delta V_{gл}) = 9.5367641 \\cdot 10^{-26} \\, \\text{м}^3 = 61.431613 \\% V_{gл} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.37)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

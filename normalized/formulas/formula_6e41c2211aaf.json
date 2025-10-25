@@ -11,5 +11,13 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 45619
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4141\" data-src=\"images/formula_full_254_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_i = m_i v_i u_i = m_i \\cdot d_{gi}^2 \\cdot \\psi_в^2 \\cdot T_i^2 \\cdot \\sin \\alpha \\cdot (1 + \\cos \\alpha) = m_i \\cdot d_{gi}^2 \\cdot f_i^2 \\cdot \\sin \\alpha \\cdot (1 + \\cos \\alpha), \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.33)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4141\" data-src=\"images/formula_full_254_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_i = m_i v_i u_i = m_i \\cdot d_{gi}^2 \\cdot \\psi_в^2 \\cdot T_i^2 \\cdot \\sin \\alpha \\cdot (1 + \\cos \\alpha) = m_i \\cdot d_{gi}^2 \\cdot f_i^2 \\cdot \\sin \\alpha \\cdot (1 + \\cos \\alpha), \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.33)\n</div>\n</div>",
+  "symbols": [
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "8fd7476253af",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

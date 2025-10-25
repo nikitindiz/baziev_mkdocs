@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 78578
   },
-  "wrapper_html": "<span data-db-key=\"6106\" data-src=\"images/formula_inline_373_0_9.webp\"> $S = \\pi A_s^2 / 4$ </span>"
+  "wrapper_html": "<span data-db-key=\"6106\" data-src=\"images/formula_inline_373_0_9.webp\"> $S = \\pi A_s^2 / 4$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

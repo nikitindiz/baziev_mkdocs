@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 13228
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6292\" data-src=\"images/formula_full_387_14.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon = I_{\\lambda} \\cdot V_{\\lambda} \\cdot \\tau_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.22)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6292\" data-src=\"images/formula_full_387_14.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon = I_{\\lambda} \\cdot V_{\\lambda} \\cdot \\tau_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.22)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

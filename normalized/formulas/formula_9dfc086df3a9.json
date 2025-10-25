@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 11489
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6294\" data-src=\"images/formula_full_387_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$L_э = m_э \\cdot v_{s\\lambda} = 4.6879353 \\cdot 10^{-28} \\text{ кг} \\cdot \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6294\" data-src=\"images/formula_full_387_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$L_э = m_э \\cdot v_{s\\lambda} = 4.6879353 \\cdot 10^{-28} \\text{ кг} \\cdot \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.17)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

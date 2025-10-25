@@ -11,5 +11,10 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 90349
   },
-  "wrapper_html": "<span data-db-key=\"6855\" data-src=\"images/formula_inline_433_2_18.webp\"> $\\Delta m = K_1 \\cdot m_э = m_e$ </span>"
+  "wrapper_html": "<span data-db-key=\"6855\" data-src=\"images/formula_inline_433_2_18.webp\"> $\\Delta m = K_1 \\cdot m_э = m_e$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

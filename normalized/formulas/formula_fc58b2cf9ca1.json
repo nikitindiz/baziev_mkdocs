@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 77444
   },
-  "wrapper_html": "<span data-db-key=\"2604\" data-src=\"images/formula_inline_165_6_0.webp\"> $n = (\\pi + 2tg\\beta) = 4,0569 \\approx 4$ </span>"
+  "wrapper_html": "<span data-db-key=\"2604\" data-src=\"images/formula_inline_165_6_0.webp\"> $n = (\\pi + 2tg\\beta) = 4,0569 \\approx 4$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "606678d17268",
+    "773fb8579a52",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 7808
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7235\" data-src=\"images/formula_full_464_21.webp\">\n<div style=\"width: 100%;\">\n\n$$R_i = \\sqrt[3]{[3V_i + 4\\pi R_{(i+1)}^3]/4\\pi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.13)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7235\" data-src=\"images/formula_full_464_21.webp\">\n<div style=\"width: 100%;\">\n\n$$R_i = \\sqrt[3]{[3V_i + 4\\pi R_{(i+1)}^3]/4\\pi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.13)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

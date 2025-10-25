@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 236394
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3046\" data-src=\"images/formula_full_195_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_к = \\gamma \\cdot \\left[ \\frac{K_1 \\cdot э_1}{l_\\lambda} \\cdot \\frac{K_1 (-э_2)}{l_\\lambda} + \\frac{K_2 \\cdot э_2}{l_\\lambda} \\cdot \\frac{K_2 (-э_1)}{l_\\lambda} \\right]$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.148)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3046\" data-src=\"images/formula_full_195_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_к = \\gamma \\cdot \\left[ \\frac{K_1 \\cdot э_1}{l_\\lambda} \\cdot \\frac{K_1 (-э_2)}{l_\\lambda} + \\frac{K_2 \\cdot э_2}{l_\\lambda} \\cdot \\frac{K_2 (-э_1)}{l_\\lambda} \\right]$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.148)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

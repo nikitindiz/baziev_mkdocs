@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/40-решение-задачи-четырех-тел.md",
     "position": 2234
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8916\" data-src=\"images/formula_full_597_5.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(\\oplus - ☾)} = \\frac{3,6473973 \\cdot 10^6 \\cdot [2(-1,8065802 \\cdot 10^{16}) - 4,4086444 \\cdot 10^{16}] \\cdot 2,2213431 \\cdot 10^{14}}{(3,833 6251 \\cdot 10^8 \\, \\text{м})^2} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(40.3)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8916\" data-src=\"images/formula_full_597_5.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(\\oplus - ☾)} = \\frac{3,6473973 \\cdot 10^6 \\cdot [2(-1,8065802 \\cdot 10^{16}) - 4,4086444 \\cdot 10^{16}] \\cdot 2,2213431 \\cdot 10^{14}}{(3,833 6251 \\cdot 10^8 \\, \\text{м})^2} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(40.3)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 42156
   },
-  "wrapper_html": "<span data-db-key=\"5944\" data-src=\"images/formula_inline_364_4_15.webp\"> $t_2 = (t_c + \\Delta t) = -271,96\\degree C$ </span>"
+  "wrapper_html": "<span data-db-key=\"5944\" data-src=\"images/formula_inline_364_4_15.webp\"> $t_2 = (t_c + \\Delta t) = -271,96\\degree C$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

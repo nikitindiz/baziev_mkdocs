@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 102884
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5185\" data-src=\"images/formula_full_319_12.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{\\max} = \\sqrt{a^2 + b^2} = \\sqrt{4a_c^2 + 9a_c^2} = a_c \\cdot \\sqrt{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.178)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5185\" data-src=\"images/formula_full_319_12.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{\\max} = \\sqrt{a^2 + b^2} = \\sqrt{4a_c^2 + 9a_c^2} = a_c \\cdot \\sqrt{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.178)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

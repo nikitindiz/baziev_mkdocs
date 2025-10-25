@@ -11,5 +11,9 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 191480
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6998\" data-src=\"images/formula_full_446_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z = n_\\lambda \\cdot z_\\lambda = 1,5843925 \\cdot 10^{-22} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.165)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6998\" data-src=\"images/formula_full_446_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z = n_\\lambda \\cdot z_\\lambda = 1,5843925 \\cdot 10^{-22} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.165)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

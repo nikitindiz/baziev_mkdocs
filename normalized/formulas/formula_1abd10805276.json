@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 143735
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6234\" data-src=\"images/formula_full_382_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\mu \\oplus} = v_{s \\oplus} / l_{\\mu} \\cdot r_{m}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.165)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6234\" data-src=\"images/formula_full_382_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\mu \\oplus} = v_{s \\oplus} / l_{\\mu} \\cdot r_{m}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.165)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "9af9381839c9",
+    "ff905a84b912"
+  ]
 }

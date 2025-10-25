@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 57778
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1385\" data-src=\"images/formula_full_97_10.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{U} = \\sqrt[3]{\\frac{m_{U}}{\\rho_{U}}} = \\frac{3.9521566 \\cdot 10^{-25} \\text{ кг}}{1.904 \\cdot 10^{4} \\text{ кг} \\cdot \\text{м}^{-3}} = 2.7482468 \\cdot 10^{-10} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.74)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1385\" data-src=\"images/formula_full_97_10.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{U} = \\sqrt[3]{\\frac{m_{U}}{\\rho_{U}}} = \\frac{3.9521566 \\cdot 10^{-25} \\text{ кг}}{1.904 \\cdot 10^{4} \\text{ кг} \\cdot \\text{м}^{-3}} = 2.7482468 \\cdot 10^{-10} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.74)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

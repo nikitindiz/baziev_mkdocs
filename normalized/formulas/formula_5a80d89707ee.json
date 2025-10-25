@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 13703
   },
-  "wrapper_html": "<span data-db-key=\"7603\" data-src=\"images/formula_inline_503_14_1.webp\"> $\\eta_{\\odot} = 0,9536367$ </span>"
+  "wrapper_html": "<span data-db-key=\"7603\" data-src=\"images/formula_inline_503_14_1.webp\"> $\\eta_{\\odot} = 0,9536367$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

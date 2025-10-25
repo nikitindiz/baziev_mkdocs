@@ -11,5 +11,12 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 15326
   },
-  "wrapper_html": "<span data-db-key=\"8978\" data-src=\"images/formula_inline_602_5_29.webp\"> $\\sin \\alpha_i = F_{\\perp} / F_i = e \\varepsilon / m_e v_i \\nu_{\\text{ед}}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8978\" data-src=\"images/formula_inline_602_5_29.webp\"> $\\sin \\alpha_i = F_{\\perp} / F_i = e \\varepsilon / m_e v_i \\nu_{\\text{ед}}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

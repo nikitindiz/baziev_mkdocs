@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 204065
   },
-  "wrapper_html": "<span data-db-key=\"3111\" data-src=\"images/formula_inline_197_9_2.webp\"> $\\Delta l_1 = 16 \\cdot \\lambda_i = Z_{1i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"3111\" data-src=\"images/formula_inline_197_9_2.webp\"> $\\Delta l_1 = 16 \\cdot \\lambda_i = Z_{1i}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

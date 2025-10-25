@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 14546
   },
-  "wrapper_html": "<span data-db-key=\"2330\" data-src=\"images/formula_inline_151_8_24.webp\"> $OA = AB = BC = \\lambda_{i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2330\" data-src=\"images/formula_inline_151_8_24.webp\"> $OA = AB = BC = \\lambda_{i}$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

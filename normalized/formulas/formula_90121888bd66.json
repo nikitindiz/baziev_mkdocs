@@ -11,5 +11,6 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 7700
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4845\" data-src=\"images/formula_full_296_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_d = (E_{st} + E'_f)$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.8)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4845\" data-src=\"images/formula_full_296_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_d = (E_{st} + E'_f)$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.8)\n</div>\n</div>",
+  "symbols": []
 }

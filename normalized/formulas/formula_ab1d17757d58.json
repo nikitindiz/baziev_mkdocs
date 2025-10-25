@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 3785
   },
-  "wrapper_html": "<span data-db-key=\"320\" data-src=\"images/formula_inline_23_2_4.webp\"> $a = 1,4886022$ </span>"
+  "wrapper_html": "<span data-db-key=\"320\" data-src=\"images/formula_inline_23_2_4.webp\"> $a = 1,4886022$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

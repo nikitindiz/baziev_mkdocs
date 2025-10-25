@@ -11,5 +11,8 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 18569
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8982\" data-src=\"images/formula_full_603_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{re} = eV/r$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.6)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8982\" data-src=\"images/formula_full_603_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{re} = eV/r$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.6)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

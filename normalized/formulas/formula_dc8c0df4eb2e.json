@@ -11,5 +11,13 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 84715
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5980\" data-src=\"images/formula_full_367_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_2 = \\alpha \\cdot Z_{Al} \\cdot z_\\lambda = n_\\lambda (Al) \\cdot \\alpha \\cdot Z_\\lambda^2 = 3,7610411 \\cdot 10^{-26} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.90)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5980\" data-src=\"images/formula_full_367_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_2 = \\alpha \\cdot Z_{Al} \\cdot z_\\lambda = n_\\lambda (Al) \\cdot \\alpha \\cdot Z_\\lambda^2 = 3,7610411 \\cdot 10^{-26} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.90)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

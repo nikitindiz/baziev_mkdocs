@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 9068
   },
-  "wrapper_html": "<span data-db-key=\"4875\" data-src=\"images/formula_inline_297_15_59.webp\"> $\\sin \\alpha_{л} > \\sin \\alpha_{s}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4875\" data-src=\"images/formula_inline_297_15_59.webp\"> $\\sin \\alpha_{л} > \\sin \\alpha_{s}$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af"
+  ]
 }

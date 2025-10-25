@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 44579
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4705\" data-src=\"images/formula_full_288_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{s0} = (d_{g0} - d_{s0}) = 8,921023 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.69)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4705\" data-src=\"images/formula_full_288_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{s0} = (d_{g0} - d_{s0}) = 8,921023 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.69)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

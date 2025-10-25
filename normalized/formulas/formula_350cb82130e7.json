@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 10964
   },
-  "wrapper_html": "<span data-db-key=\"7598\" data-src=\"images/formula_inline_502_8_4.webp\"> $a_{h1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7598\" data-src=\"images/formula_inline_502_8_4.webp\"> $a_{h1}$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

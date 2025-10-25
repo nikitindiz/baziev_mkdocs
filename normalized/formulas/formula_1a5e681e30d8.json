@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 83535
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5131\" data-src=\"images/formula_full_315_9.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3d}(2) = \\frac{k_0^ж \\cdot T_0}{a_0^2(a_0 - A_{2d})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.150)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5131\" data-src=\"images/formula_full_315_9.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3d}(2) = \\frac{k_0^ж \\cdot T_0}{a_0^2(a_0 - A_{2d})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.150)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

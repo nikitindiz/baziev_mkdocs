@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 79922
   },
-  "wrapper_html": "<span data-db-key=\"6110\" data-src=\"images/formula_inline_373_19_0.webp\"> $B_c = 2,79 \\cdot 10^{-3} \\text{ Тл}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6110\" data-src=\"images/formula_inline_373_19_0.webp\"> $B_c = 2,79 \\cdot 10^{-3} \\text{ Тл}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

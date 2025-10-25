@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 11512
   },
-  "wrapper_html": "<span data-db-key=\"5755\" data-src=\"images/formula_inline_354_1_32.webp\"> $a_i = \\sqrt[3]{\\frac{m_i}{\\rho_i}}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5755\" data-src=\"images/formula_inline_354_1_32.webp\"> $a_i = \\sqrt[3]{\\frac{m_i}{\\rho_i}}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

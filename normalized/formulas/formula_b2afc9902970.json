@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 101974
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5194\" data-src=\"images/formula_full_319_7.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3c} = \\frac{k_0^ж \\cdot T_c}{V_c} = \\frac{2,9360376 \\cdot 10^{-22}}{V_c} = 1,1222778 \\cdot 10^7 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.176)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5194\" data-src=\"images/formula_full_319_7.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3c} = \\frac{k_0^ж \\cdot T_c}{V_c} = \\frac{2,9360376 \\cdot 10^{-22}}{V_c} = 1,1222778 \\cdot 10^7 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.176)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

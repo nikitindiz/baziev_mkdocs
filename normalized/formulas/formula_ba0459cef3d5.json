@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 37427
   },
-  "wrapper_html": "<span data-db-key=\"3591\" data-src=\"images/formula_inline_223_8_0.webp\"> $Z_H = K_э \\cdot э = 3,8226563 \\cdot 10^{-21} Кл$ </span>"
+  "wrapper_html": "<span data-db-key=\"3591\" data-src=\"images/formula_inline_223_8_0.webp\"> $Z_H = K_э \\cdot э = 3,8226563 \\cdot 10^{-21} Кл$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

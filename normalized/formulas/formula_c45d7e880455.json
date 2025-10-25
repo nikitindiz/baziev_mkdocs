@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 54759
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4478\" data-src=\"images/formula_full_274_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{T2} = Z_{H_2O} + 2 q_{H_2O} = -2,9756071 \\cdot 10^{-19} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.59)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4478\" data-src=\"images/formula_full_274_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{T2} = Z_{H_2O} + 2 q_{H_2O} = -2,9756071 \\cdot 10^{-19} \\, \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.59)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

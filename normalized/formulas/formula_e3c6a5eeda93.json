@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 16164
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4571\" data-src=\"images/formula_full_281_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_0 = 2 a_0^2 \\cdot \\sin(\\gamma/2) \\cdot \\cos(\\gamma/2) = 6.386556 \\cdot 10^{-20} м^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.23)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4571\" data-src=\"images/formula_full_281_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_0 = 2 a_0^2 \\cdot \\sin(\\gamma/2) \\cdot \\cos(\\gamma/2) = 6.386556 \\cdot 10^{-20} м^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.23)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

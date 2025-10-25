@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 25604
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"390\" data-src=\"images/formula_full_28_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n \\left(m_{\\text {ед}}\\right)_i = \\frac{m_{\\text {ед}}}{m_i} = \\frac{m_n \\cdot N_A}{m_n \\cdot A_i} = \\frac{N_A}{A_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.28)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"390\" data-src=\"images/formula_full_28_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n \\left(m_{\\text {ед}}\\right)_i = \\frac{m_{\\text {ед}}}{m_i} = \\frac{m_n \\cdot N_A}{m_n \\cdot A_i} = \\frac{N_A}{A_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.28)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 10244
   },
-  "wrapper_html": "<span data-db-key=\"4573\" data-src=\"images/formula_inline_281_11_15.webp\"> $A_{0x} = A_{0y} \\neq A_{0z}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4573\" data-src=\"images/formula_inline_281_11_15.webp\"> $A_{0x} = A_{0y} \\neq A_{0z}$ </span>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

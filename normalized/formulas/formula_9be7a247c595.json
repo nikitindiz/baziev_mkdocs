@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
     "position": 30078
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8828\" data-src=\"images/formula_full_592_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n_{\\oplus} = 1.7651878 \\cdot 10^{-12} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.32)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8828\" data-src=\"images/formula_full_592_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n_{\\oplus} = 1.7651878 \\cdot 10^{-12} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.32)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 15729
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6306\" data-src=\"images/formula_full_388_4.webp\">\n<div style=\"width: 100%;\">\n\n$$R_m = R_0/k_m = \\frac{3,895504 \\cdot 10^2}{k_m} = 2,7812956 \\cdot 10^{-2} \\, \\text{Ом}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.29)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6306\" data-src=\"images/formula_full_388_4.webp\">\n<div style=\"width: 100%;\">\n\n$$R_m = R_0/k_m = \\frac{3,895504 \\cdot 10^2}{k_m} = 2,7812956 \\cdot 10^{-2} \\, \\text{Ом}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.29)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

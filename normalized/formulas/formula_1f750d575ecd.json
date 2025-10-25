@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 1248
   },
-  "wrapper_html": "<span data-db-key=\"2068\" data-src=\"images/formula_inline_135_3_0.webp\"> $a = \\Delta v / \\Delta t$ </span>"
+  "wrapper_html": "<span data-db-key=\"2068\" data-src=\"images/formula_inline_135_3_0.webp\"> $a = \\Delta v / \\Delta t$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 2705
   },
-  "wrapper_html": "<span data-db-key=\"6276\" data-src=\"images/formula_inline_385_2_10.webp\"> $s = \\pi d^2 / 4$ </span>"
+  "wrapper_html": "<span data-db-key=\"6276\" data-src=\"images/formula_inline_385_2_10.webp\"> $s = \\pi d^2 / 4$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 49602
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8121\" data-src=\"images/formula_full_543_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\omega s} = F_2' / 2 = 3,9238265 \\cdot 10^{33} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.48)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8121\" data-src=\"images/formula_full_543_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\omega s} = F_2' / 2 = 3,9238265 \\cdot 10^{33} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.48)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

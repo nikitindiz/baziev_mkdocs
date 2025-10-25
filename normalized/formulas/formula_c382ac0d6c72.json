@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 34354
   },
-  "wrapper_html": "<span data-db-key=\"5891\" data-src=\"images/formula_inline_361_8_0.webp\"> $d_э = 1 \\cdot 10^{-16} \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5891\" data-src=\"images/formula_inline_361_8_0.webp\"> $d_э = 1 \\cdot 10^{-16} \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

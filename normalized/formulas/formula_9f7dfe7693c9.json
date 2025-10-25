@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 35806
   },
-  "wrapper_html": "<span data-db-key=\"7372\" data-src=\"images/formula_inline_475_7_0.webp\"> $r_{70} = a_{70} / 2$ </span>"
+  "wrapper_html": "<span data-db-key=\"7372\" data-src=\"images/formula_inline_475_7_0.webp\"> $r_{70} = a_{70} / 2$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

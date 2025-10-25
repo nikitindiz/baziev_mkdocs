@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 13225
   },
-  "wrapper_html": "<span data-db-key=\"6324\" data-src=\"images/formula_inline_389_2_93.webp\"> $V_{s} = \\pi \\cdot d_{s}^{2} \\cdot l_{s} / 4 =$ </span>"
+  "wrapper_html": "<span data-db-key=\"6324\" data-src=\"images/formula_inline_389_2_93.webp\"> $V_{s} = \\pi \\cdot d_{s}^{2} \\cdot l_{s} / 4 =$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

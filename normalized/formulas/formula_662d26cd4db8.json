@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 7776
   },
-  "wrapper_html": "<span data-db-key=\"8565\" data-src=\"images/formula_inline_574_2_147.webp\"> $P_\\pi < P_g$ </span>"
+  "wrapper_html": "<span data-db-key=\"8565\" data-src=\"images/formula_inline_574_2_147.webp\"> $P_\\pi < P_g$ </span>",
+  "symbols": [
+    "606678d17268",
+    "ff905a84b912"
+  ]
 }

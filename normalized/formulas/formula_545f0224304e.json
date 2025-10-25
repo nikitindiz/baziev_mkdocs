@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 5591
   },
-  "wrapper_html": "<span data-db-key=\"7579\" data-src=\"images/formula_inline_501_5_42.webp\"> $\\lambda_i = \\sqrt{\\mu / \\nu_i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7579\" data-src=\"images/formula_inline_501_5_42.webp\"> $\\lambda_i = \\sqrt{\\mu / \\nu_i}$ </span>",
+  "symbols": [
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

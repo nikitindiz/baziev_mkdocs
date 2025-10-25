@@ -11,5 +11,9 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 205841
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7069\" data-src=\"images/formula_full_450_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1 = \\frac{P \\cdot V_1 \\cdot B - E_3 V_1}{B \\cdot (E_1 + E_2)} = \\frac{-57,824183 \\cdot 10^{-47} - 1,5872914 \\cdot 10^{-48}}{-9,9429539 \\cdot 10^{-51}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.196)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7069\" data-src=\"images/formula_full_450_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1 = \\frac{P \\cdot V_1 \\cdot B - E_3 V_1}{B \\cdot (E_1 + E_2)} = \\frac{-57,824183 \\cdot 10^{-47} - 1,5872914 \\cdot 10^{-48}}{-9,9429539 \\cdot 10^{-51}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.196)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

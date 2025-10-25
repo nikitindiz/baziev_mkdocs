@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 28951
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4924\" data-src=\"images/formula_full_301_12.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{3} = \\frac{m_{л} v_{л} \\cdot a_{л}}{N_{s} N_{2} \\cdot \\gamma q \\cdot z} = \\frac{-4,8024905 \\cdot 10^{-25}}{-2,9789751 \\cdot 10^{-26}} = 16,121284$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.46)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4924\" data-src=\"images/formula_full_301_12.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{3} = \\frac{m_{л} v_{л} \\cdot a_{л}}{N_{s} N_{2} \\cdot \\gamma q \\cdot z} = \\frac{-4,8024905 \\cdot 10^{-25}}{-2,9789751 \\cdot 10^{-26}} = 16,121284$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.46)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

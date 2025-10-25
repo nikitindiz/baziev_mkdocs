@@ -11,5 +11,10 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 20982
   },
-  "wrapper_html": "<span data-db-key=\"9013\" data-src=\"images/formula_inline_604_11_3.webp\"> $n = \\frac{\\tau}{t}$ </span>"
+  "wrapper_html": "<span data-db-key=\"9013\" data-src=\"images/formula_inline_604_11_3.webp\"> $n = \\frac{\\tau}{t}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

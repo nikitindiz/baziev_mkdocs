@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 48725
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7359\" data-src=\"images/formula_full_475_10.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{70max} = \\frac{2 \\mathscr{P}}{P_n \\cdot \\pi R_э^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.54)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7359\" data-src=\"images/formula_full_475_10.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{70max} = \\frac{2 \\mathscr{P}}{P_n \\cdot \\pi R_э^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.54)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
     "position": 42898
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1910\" data-src=\"images/formula_full_127_7_8.webp\">\n    <div style=\"width: 100%;\">\n\n$$f(t) = \\psi_i T_i = \\psi_i \\cdot (T_{0i} + t)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.55)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1910\" data-src=\"images/formula_full_127_7_8.webp\">\n    <div style=\"width: 100%;\">\n\n$$f(t) = \\psi_i T_i = \\psi_i \\cdot (T_{0i} + t)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.55)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

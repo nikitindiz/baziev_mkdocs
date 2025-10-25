@@ -11,5 +11,12 @@
     "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
     "position": 10274
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7135\" data-src=\"images/formula_full_456_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = 2\\gamma \\cdot \\frac{Q_{g0} \\cdot Z_{gi}}{a_i^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.14)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7135\" data-src=\"images/formula_full_456_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = 2\\gamma \\cdot \\frac{Q_{g0} \\cdot Z_{gi}}{a_i^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.14)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "8328e59f56bb",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

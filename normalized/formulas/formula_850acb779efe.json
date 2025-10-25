@@ -11,5 +11,8 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 32648
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4086\" data-src=\"images/formula_full_252_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_i = m_{\\text{ед}} \\cdot C_i \\cdot T_i, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.18)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4086\" data-src=\"images/formula_full_252_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_i = m_{\\text{ед}} \\cdot C_i \\cdot T_i, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.18)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

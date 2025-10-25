@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 138645
   },
-  "wrapper_html": "<span data-db-key=\"2838\" data-src=\"images/formula_inline_180_0_33.webp\"> $\\nu = 1 \\cdot 10^{5} \\, с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2838\" data-src=\"images/formula_inline_180_0_33.webp\"> $\\nu = 1 \\cdot 10^{5} \\, с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

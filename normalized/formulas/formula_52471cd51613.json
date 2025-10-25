@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 64853
   },
-  "wrapper_html": "<span data-db-key=\"6022\" data-src=\"images/formula_inline_368_9_9.webp\"> $V_2 = a_2^3$ </span>"
+  "wrapper_html": "<span data-db-key=\"6022\" data-src=\"images/formula_inline_368_9_9.webp\"> $V_2 = a_2^3$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

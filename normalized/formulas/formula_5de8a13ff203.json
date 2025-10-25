@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 12657
   },
-  "wrapper_html": "<span data-db-key=\"8596\" data-src=\"images/formula_inline_576_12_94.webp\"> $22{\\degree} \\text{ C, } 100 \\cdot 10^{6}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8596\" data-src=\"images/formula_inline_576_12_94.webp\"> $22{\\degree} \\text{ C, } 100 \\cdot 10^{6}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

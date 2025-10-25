@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 33889
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2195\" data-src=\"images/formula_full_143_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nI_г &= a_{\\odot}^{3} \\cdot \\omega_{\\text{ед}\\odot}^{2}  \\\\\nI_г &= G \\cdot m_г\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.33)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2195\" data-src=\"images/formula_full_143_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nI_г &= a_{\\odot}^{3} \\cdot \\omega_{\\text{ед}\\odot}^{2}  \\\\\nI_г &= G \\cdot m_г\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.33)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "64f6b41ecdd3",
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

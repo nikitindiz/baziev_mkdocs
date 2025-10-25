@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 31091
   },
-  "wrapper_html": "<span data-db-key=\"4749\" data-src=\"images/formula_inline_290_3_10.webp\"> $n_{\\alpha}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4749\" data-src=\"images/formula_inline_290_3_10.webp\"> $n_{\\alpha}$ </span>",
+  "symbols": [
+    "8fd7476253af"
+  ]
 }

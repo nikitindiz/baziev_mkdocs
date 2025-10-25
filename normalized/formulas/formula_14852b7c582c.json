@@ -11,5 +11,12 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 10340
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6665\" data-src=\"images/formula_full_419_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{2}'=\\frac{m_{n}\\left(A_{2}-A_{O2}\\right)-m_{e}}{m_{э}}=\\frac{256,65272 \\cdot 10^{-31}}{m_{э}}=3,7436086 \\cdot 10^{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.10)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6665\" data-src=\"images/formula_full_419_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{2}'=\\frac{m_{n}\\left(A_{2}-A_{O2}\\right)-m_{e}}{m_{э}}=\\frac{256,65272 \\cdot 10^{-31}}{m_{э}}=3,7436086 \\cdot 10^{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.10)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

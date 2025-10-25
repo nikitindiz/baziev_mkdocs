@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 9171
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1216\" data-src=\"images/formula_full_85_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_n(n_э) = \\sqrt{\\hbar \\cdot n_э \\cdot \\nu_{ед} \\cdot \\varepsilon_{ед}}, Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.13)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1216\" data-src=\"images/formula_full_85_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_n(n_э) = \\sqrt{\\hbar \\cdot n_э \\cdot \\nu_{ед} \\cdot \\varepsilon_{ед}}, Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.13)\n</div>\n</div>",
+  "symbols": [
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

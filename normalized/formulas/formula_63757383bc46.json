@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 33814
   },
-  "wrapper_html": "<span data-db-key=\"7722\" data-src=\"images/formula_inline_513_4_0.webp\"> $V_{eco} = 3,87 \\cdot 10^{10} \\frac{м}{с}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7722\" data-src=\"images/formula_inline_513_4_0.webp\"> $V_{eco} = 3,87 \\cdot 10^{10} \\frac{м}{с}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

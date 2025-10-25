@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
     "position": 19966
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"992\" data-src=\"images/formula_full_68_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi = \\frac{m_n \\cdot R_{cn}^2 \\cdot \\omega_n^2}{\\pm q_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"992\" data-src=\"images/formula_full_68_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi = \\frac{m_n \\cdot R_{cn}^2 \\cdot \\omega_n^2}{\\pm q_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.17)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 105687
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6082\" data-src=\"images/formula_full_372_9.webp\">\n<div style=\"width: 100%;\">\n\n$$C(T_2) = 1944 \\left(\\frac{T_2}{T_D}\\right)^3 \\cdot \\frac{1000}{M_{A1}} = 9.5185745 \\cdot 10^{-4} \\ Дж \\cdot кг^{-1} \\cdot K^{-1} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.112)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6082\" data-src=\"images/formula_full_372_9.webp\">\n<div style=\"width: 100%;\">\n\n$$C(T_2) = 1944 \\left(\\frac{T_2}{T_D}\\right)^3 \\cdot \\frac{1000}{M_{A1}} = 9.5185745 \\cdot 10^{-4} \\ Дж \\cdot кг^{-1} \\cdot K^{-1} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.112)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

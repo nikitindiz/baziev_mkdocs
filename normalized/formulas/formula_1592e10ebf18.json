@@ -11,5 +11,10 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 21234
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8980\" data-src=\"images/formula_full_603_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_i = n_\\mu \\cdot \\frac{m_э v_э \\cdot l \\cdot \\nu_{ед}}{э}, В$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.12)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8980\" data-src=\"images/formula_full_603_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_i = n_\\mu \\cdot \\frac{m_э v_э \\cdot l \\cdot \\nu_{ед}}{э}, В$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.12)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

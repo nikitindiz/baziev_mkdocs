@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 7706
   },
-  "wrapper_html": "<span data-db-key=\"4867\" data-src=\"images/formula_inline_297_10_23.webp\"> $\\gamma^л$ </span>"
+  "wrapper_html": "<span data-db-key=\"4867\" data-src=\"images/formula_inline_297_10_23.webp\"> $\\gamma^л$ </span>",
+  "symbols": [
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "ff905a84b912"
+  ]
 }

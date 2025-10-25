@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 47202
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4701\" data-src=\"images/formula_full_288_21.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_s = \\frac{v_c}{R_{cs}} = \\frac{7.7369622 \\text{ м}\\cdot\\text{с}^{-1}}{R_{cs}} = 3.8243001 \\cdot 10^9 \\text{ рад} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.76)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4701\" data-src=\"images/formula_full_288_21.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_s = \\frac{v_c}{R_{cs}} = \\frac{7.7369622 \\text{ м}\\cdot\\text{с}^{-1}}{R_{cs}} = 3.8243001 \\cdot 10^9 \\text{ рад} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.76)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

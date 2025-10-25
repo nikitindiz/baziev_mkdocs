@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 95947
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2606\" data-src=\"images/formula_full_166_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n& c_{\\text {ж}}=\\lambda_{\\text{ж}} \\cdot \\nu_{\\text {ж}}=1,9986163 \\cdot 10^{-8} \\mathrm{м} \\cdot \\mathrm{с}^{-1}, \\\\\n& c_{у}=\\lambda_{у} \\cdot \\nu_{\\text {у}}=3,9972324 \\cdot 10^{-8} \\mathrm{м} \\cdot \\mathrm{с}^{-1}=2 c_{\\text{ж}},\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.52)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2606\" data-src=\"images/formula_full_166_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n& c_{\\text {ж}}=\\lambda_{\\text{ж}} \\cdot \\nu_{\\text {ж}}=1,9986163 \\cdot 10^{-8} \\mathrm{м} \\cdot \\mathrm{с}^{-1}, \\\\\n& c_{у}=\\lambda_{у} \\cdot \\nu_{\\text {у}}=3,9972324 \\cdot 10^{-8} \\mathrm{м} \\cdot \\mathrm{с}^{-1}=2 c_{\\text{ж}},\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.52)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 75115
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6549\" data-src=\"images/formula_full_406_5.webp\">\n<div style=\"width: 100%;\">\n\n$$N_1 = 3n_a \\cdot \\tau = 3 \\cdot 1,690419 \\cdot 10^{18} с^{-1} \\cdot 7,2 \\cdot 10^{4} \\, с = 3,651305 \\cdot 10^{23}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.83)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6549\" data-src=\"images/formula_full_406_5.webp\">\n<div style=\"width: 100%;\">\n\n$$N_1 = 3n_a \\cdot \\tau = 3 \\cdot 1,690419 \\cdot 10^{18} с^{-1} \\cdot 7,2 \\cdot 10^{4} \\, с = 3,651305 \\cdot 10^{23}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.83)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

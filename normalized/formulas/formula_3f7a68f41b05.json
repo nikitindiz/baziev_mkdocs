@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 11553
   },
-  "wrapper_html": "<span data-db-key=\"7845\" data-src=\"images/formula_inline_523_4_14.webp\"> $\\Delta I_\\odot$ </span>"
+  "wrapper_html": "<span data-db-key=\"7845\" data-src=\"images/formula_inline_523_4_14.webp\"> $\\Delta I_\\odot$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 28419
   },
-  "wrapper_html": "<span data-db-key=\"4438\" data-src=\"images/formula_inline_271_11_4.webp\"> $C_h^т$ </span>"
+  "wrapper_html": "<span data-db-key=\"4438\" data-src=\"images/formula_inline_271_11_4.webp\"> $C_h^т$ </span>",
+  "symbols": [
+    "572d0da78fdc"
+  ]
 }

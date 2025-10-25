@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 11920
   },
-  "wrapper_html": "<span data-db-key=\"5758\" data-src=\"images/formula_inline_354_1_51.webp\"> $r_{i} = a_{i} - A_{i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5758\" data-src=\"images/formula_inline_354_1_51.webp\"> $r_{i} = a_{i} - A_{i}$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "e749349e4aaf"
+  ]
 }

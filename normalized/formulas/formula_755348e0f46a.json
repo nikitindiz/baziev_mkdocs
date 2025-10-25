@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 10242
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4864\" data-src=\"images/formula_full_297_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{st} = C^{л} \\cdot m_{л} \\cdot T_0 = 8,12669192 \\cdot 10^{-17} \\, \\text{Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.13)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4864\" data-src=\"images/formula_full_297_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{st} = C^{л} \\cdot m_{л} \\cdot T_0 = 8,12669192 \\cdot 10^{-17} \\, \\text{Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.13)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

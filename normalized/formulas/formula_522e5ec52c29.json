@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 58989
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8725\" data-src=\"images/formula_full_586_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_n = \\sqrt[3]{m_{n♇}/{\\rho_n}} = \\sqrt[3]{465,59063 \\cdot 10^6} = 7,7505896 \\cdot 10^2 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.105)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8725\" data-src=\"images/formula_full_586_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_n = \\sqrt[3]{m_{n♇}/{\\rho_n}} = \\sqrt[3]{465,59063 \\cdot 10^6} = 7,7505896 \\cdot 10^2 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.105)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 58165
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8424\" data-src=\"images/formula_full_565_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = G \\cdot \\frac{m_{\\odot} \\cdot m_i}{a_i^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.48)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8424\" data-src=\"images/formula_full_565_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = G \\cdot \\frac{m_{\\odot} \\cdot m_i}{a_i^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.48)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "64f6b41ecdd3",
+    "b5b0c2b51293"
+  ]
 }

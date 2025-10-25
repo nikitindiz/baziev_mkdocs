@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
     "position": 47271
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8905\" data-src=\"images/formula_full_596_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{c ♇}'=\\sqrt[3]{\\frac{3 V_{n ♇}}{4 \\pi}}=\\sqrt[3]{123,84302 \\cdot 10^{6}}=4,984256 \\cdot 10^{2} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.90)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8905\" data-src=\"images/formula_full_596_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{c ♇}'=\\sqrt[3]{\\frac{3 V_{n ♇}}{4 \\pi}}=\\sqrt[3]{123,84302 \\cdot 10^{6}}=4,984256 \\cdot 10^{2} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.90)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

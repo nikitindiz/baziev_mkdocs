@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 62903
   },
-  "wrapper_html": "<span data-db-key=\"1717\" data-src=\"images/formula_inline_117_5_0.webp\"> $v_{0,\\text{He}} = 4,716 \\cdot 10^4\\, \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1717\" data-src=\"images/formula_inline_117_5_0.webp\"> $v_{0,\\text{He}} = 4,716 \\cdot 10^4\\, \\text{м} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

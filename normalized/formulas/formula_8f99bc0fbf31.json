@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 197638
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2956\" data-src=\"images/formula_full_188_10.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{э} = \\frac{v_э}{2f_э} = \\frac{2,146502 \\cdot 10^6}{2,12086 \\cdot 10^8} = 1,0120903 \\cdot 10^{-2} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.132)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2956\" data-src=\"images/formula_full_188_10.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{э} = \\frac{v_э}{2f_э} = \\frac{2,146502 \\cdot 10^6}{2,12086 \\cdot 10^8} = 1,0120903 \\cdot 10^{-2} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.132)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

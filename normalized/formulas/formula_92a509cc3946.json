@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
     "position": 3373
   },
-  "wrapper_html": "<span data-db-key=\"12\" data-src=\"images/formula_inline_1_2_20.webp\"> $\\textrm{T}$ </span>"
+  "wrapper_html": "<span data-db-key=\"12\" data-src=\"images/formula_inline_1_2_20.webp\"> $\\textrm{T}$ </span>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

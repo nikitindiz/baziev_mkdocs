@@ -11,5 +11,14 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 57058
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8429\" data-src=\"images/formula_full_565_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_i = \\frac{h_i \\cdot \\sin \\beta_i}{A_1 S_0} = \\frac{a_i \\cdot c_i \\cdot \\sin \\beta_i}{a_i \\sqrt{1+c_i^2 - 2c_i \\cdot \\cos \\beta_i}} = \\frac{c_i \\cdot \\sin \\beta_i}{\\sqrt{1+c_i^2 - 2c_i \\cdot \\cos \\beta_i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.47)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8429\" data-src=\"images/formula_full_565_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_i = \\frac{h_i \\cdot \\sin \\beta_i}{A_1 S_0} = \\frac{a_i \\cdot c_i \\cdot \\sin \\beta_i}{a_i \\sqrt{1+c_i^2 - 2c_i \\cdot \\cos \\beta_i}} = \\frac{c_i \\cdot \\sin \\beta_i}{\\sqrt{1+c_i^2 - 2c_i \\cdot \\cos \\beta_i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.47)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "773fb8579a52",
+    "572d0da78fdc"
+  ]
 }

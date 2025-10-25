@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 68233
   },
-  "wrapper_html": "<span data-db-key=\"912\" data-src=\"images/formula_inline_61_1_6.webp\"> $\\gamma_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"912\" data-src=\"images/formula_inline_61_1_6.webp\"> $\\gamma_i$ </span>",
+  "symbols": [
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

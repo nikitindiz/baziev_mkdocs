@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 27242
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5776\" data-src=\"images/formula_full_356_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_i = l_i \\cdot b_i \\cdot \\cos \\alpha, \\text{м}^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.36)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5776\" data-src=\"images/formula_full_356_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_i = l_i \\cdot b_i \\cdot \\cos \\alpha, \\text{м}^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.36)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

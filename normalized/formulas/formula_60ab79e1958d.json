@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 42929
   },
-  "wrapper_html": "<span data-db-key=\"4810\" data-src=\"images/formula_inline_293_8_4.webp\"> $E_h = h \\cdot f_0 = m_s \\cdot v_s u_s (r) \\cdot a$ </span>"
+  "wrapper_html": "<span data-db-key=\"4810\" data-src=\"images/formula_inline_293_8_4.webp\"> $E_h = h \\cdot f_0 = m_s \\cdot v_s u_s (r) \\cdot a$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "572d0da78fdc"
+  ]
 }

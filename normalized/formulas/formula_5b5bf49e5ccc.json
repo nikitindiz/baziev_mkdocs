@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 20877
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7852\" data-src=\"images/formula_full_524_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_4 = A_0 = 1,4467458 \\cdot 10^{11} \\text{ м} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.32)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7852\" data-src=\"images/formula_full_524_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_4 = A_0 = 1,4467458 \\cdot 10^{11} \\text{ м} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.32)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

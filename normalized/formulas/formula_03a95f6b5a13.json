@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 12627
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5731\" data-src=\"images/formula_full_353_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_y = d_{dy} = 1.8020833 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.15)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5731\" data-src=\"images/formula_full_353_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_y = d_{dy} = 1.8020833 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.15)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

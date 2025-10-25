@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 44223
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1599\" data-src=\"images/formula_full_112_3.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = \\gamma \\cdot \\frac{2 Z_n^2 \\cdot A_i^2}{(2R_i)^2}; \\quad F_r(\\text{He}) = -1.1830623 \\cdot 10^{-3} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.26)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1599\" data-src=\"images/formula_full_112_3.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = \\gamma \\cdot \\frac{2 Z_n^2 \\cdot A_i^2}{(2R_i)^2}; \\quad F_r(\\text{He}) = -1.1830623 \\cdot 10^{-3} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.26)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "c18f47f412f4",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

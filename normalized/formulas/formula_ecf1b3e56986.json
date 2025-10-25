@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 70435
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5086\" data-src=\"images/formula_full_312_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{pd}' = \\frac{P_{1d}}{(P_{2d} + P_{3d})} = \\frac{-2,1139954 \\cdot 10^9}{2,1187588 \\cdot 10^9} = -0,99775$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.127)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5086\" data-src=\"images/formula_full_312_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{pd}' = \\frac{P_{1d}}{(P_{2d} + P_{3d})} = \\frac{-2,1139954 \\cdot 10^9}{2,1187588 \\cdot 10^9} = -0,99775$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.127)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

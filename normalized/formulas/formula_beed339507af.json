@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 7362
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7561\" data-src=\"images/formula_full_501_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_i = f_i / z_i^2 = \\mu / (\\lambda_{0i} z_i)^2 = \\mu / a_i^2 \\cdot z_i^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(29.3)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7561\" data-src=\"images/formula_full_501_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_i = f_i / z_i^2 = \\mu / (\\lambda_{0i} z_i)^2 = \\mu / a_i^2 \\cdot z_i^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(29.3)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "9af9381839c9"
+  ]
 }

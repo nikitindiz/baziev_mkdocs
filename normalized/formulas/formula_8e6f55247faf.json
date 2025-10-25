@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 33304
   },
-  "wrapper_html": "<span data-db-key=\"5034\" data-src=\"images/formula_inline_309_13_0.webp\"> $n_a = a_1/a_0 = 1,1256839$ </span>"
+  "wrapper_html": "<span data-db-key=\"5034\" data-src=\"images/formula_inline_309_13_0.webp\"> $n_a = a_1/a_0 = 1,1256839$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

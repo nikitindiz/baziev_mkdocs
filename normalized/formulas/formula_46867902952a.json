@@ -11,5 +11,14 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 9856
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6285\" data-src=\"images/formula_full_386_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{\\lambda} = -\\frac{m_{э} \\cdot v_{s\\lambda} \\cdot \\omega_{ед}}{э} = \\frac{4,6879353 \\cdot 10^{-28}}{1,9876643 \\cdot 10^{-27}} = -2,3585146 \\cdot 10^{-1} \\text{ В}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.13)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6285\" data-src=\"images/formula_full_386_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{\\lambda} = -\\frac{m_{э} \\cdot v_{s\\lambda} \\cdot \\omega_{ед}}{э} = \\frac{4,6879353 \\cdot 10^{-28}}{1,9876643 \\cdot 10^{-27}} = -2,3585146 \\cdot 10^{-1} \\text{ В}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.13)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "606678d17268",
+    "cad37467980b",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

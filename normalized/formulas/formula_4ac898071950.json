@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 39474
   },
-  "wrapper_html": "<span data-db-key=\"6474\" data-src=\"images/formula_inline_401_13_35.webp\"> $\\Delta V = 0,55$ </span>"
+  "wrapper_html": "<span data-db-key=\"6474\" data-src=\"images/formula_inline_401_13_35.webp\"> $\\Delta V = 0,55$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

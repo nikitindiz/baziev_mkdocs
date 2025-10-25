@@ -11,5 +11,10 @@
     "file": "chapter_условные-обозначения/index.md",
     "position": 8340
   },
-  "wrapper_html": "<span data-db-key=\"9226\" data-src=\"images/formula_inline_626_1_74.webp\"> $\\omega_k$ </span>"
+  "wrapper_html": "<span data-db-key=\"9226\" data-src=\"images/formula_inline_626_1_74.webp\"> $\\omega_k$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 1416
   },
-  "wrapper_html": "<span data-db-key=\"5687\" data-src=\"images/formula_inline_350_3_23.webp\"> $\\rho_{Al} = 0$ </span>"
+  "wrapper_html": "<span data-db-key=\"5687\" data-src=\"images/formula_inline_350_3_23.webp\"> $\\rho_{Al} = 0$ </span>",
+  "symbols": [
+    "572d0da78fdc"
+  ]
 }

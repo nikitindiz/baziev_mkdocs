@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 83067
   },
-  "wrapper_html": "<span data-db-key=\"6123\" data-src=\"images/formula_inline_374_13_0.webp\"> $T_a = 4,8 \\cdot 10^{-11} K$ </span>"
+  "wrapper_html": "<span data-db-key=\"6123\" data-src=\"images/formula_inline_374_13_0.webp\"> $T_a = 4,8 \\cdot 10^{-11} K$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

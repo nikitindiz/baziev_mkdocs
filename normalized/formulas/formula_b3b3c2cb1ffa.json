@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
     "position": 4813
   },
-  "wrapper_html": "<span data-db-key=\"17\" data-src=\"images/formula_inline_1_4_30.webp\"> $E_{\\text{ед}} = V_{\\text{ед}} \\cdot P_0 = 1,01325 \\cdot 10^5 Дж$ </span>"
+  "wrapper_html": "<span data-db-key=\"17\" data-src=\"images/formula_inline_1_4_30.webp\"> $E_{\\text{ед}} = V_{\\text{ед}} \\cdot P_0 = 1,01325 \\cdot 10^5 Дж$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

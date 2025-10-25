@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 146863
   },
-  "wrapper_html": "<span data-db-key=\"2882\" data-src=\"images/formula_inline_183_0_70.webp\"> $r_2' \\cdot \\cos 27\\degree \\approx 0{,}5939 \\cdot \\lambda_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"2882\" data-src=\"images/formula_inline_183_0_70.webp\"> $r_2' \\cdot \\cos 27\\degree \\approx 0{,}5939 \\cdot \\lambda_i$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

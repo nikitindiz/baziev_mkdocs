@@ -11,5 +11,14 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 88456
   },
-  "wrapper_html": "<div>\n\n<div data-db-key=\"5140\" data-src=\"images/formula_full_316_16.webp\">\n\n$$\\begin{rcases}\n\\begin{aligned}\nt_c &= 374.2\\degree \\text{C}, \\\\\nT_c &= 674.35 \\text{ K}, \\\\\nP_c &= 2.2119247 \\cdot 10^7 \\text{ Па}, \\\\\n\\rho_c &= 320 \\text{ кг} \\cdot \\text{м}^{-3}\n\\end{aligned}\n\\end{rcases}$$\n\n</div> [14, с. 730]\n\n</div>Наиболее броской характеристикой воды в критическом состоянии является отсутствие разделения системы на жидкую и парообразную фазы. Система однофазна, но никому неизвестна ее структурная единица, которую мы и попытаемся установить.\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"5141\" data-src=\"images/formula_full_316_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$f_c = \\psi_в \\cdot T_c = 1,3484234 \\cdot 10^{13} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.159)\n</div>\n</div>"
+  "wrapper_html": "<div>\n\n<div data-db-key=\"5140\" data-src=\"images/formula_full_316_16.webp\">\n\n$$\\begin{rcases}\n\\begin{aligned}\nt_c &= 374.2\\degree \\text{C}, \\\\\nT_c &= 674.35 \\text{ K}, \\\\\nP_c &= 2.2119247 \\cdot 10^7 \\text{ Па}, \\\\\n\\rho_c &= 320 \\text{ кг} \\cdot \\text{м}^{-3}\n\\end{aligned}\n\\end{rcases}$$\n\n</div> [14, с. 730]\n\n</div>Наиболее броской характеристикой воды в критическом состоянии является отсутствие разделения системы на жидкую и парообразную фазы. Система однофазна, но никому неизвестна ее структурная единица, которую мы и попытаемся установить.\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"5141\" data-src=\"images/formula_full_316_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$f_c = \\psi_в \\cdot T_c = 1,3484234 \\cdot 10^{13} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.159)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "69b88a8d50a2",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 5028
   },
-  "wrapper_html": "<span data-db-key=\"4298\" data-src=\"images/formula_inline_263_2_158.webp\"> $v_{0i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4298\" data-src=\"images/formula_inline_263_2_158.webp\"> $v_{0i}$ </span>",
+  "symbols": [
+    "db7124669e2f"
+  ]
 }

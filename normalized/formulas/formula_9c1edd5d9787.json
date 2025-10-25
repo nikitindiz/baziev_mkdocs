@@ -11,5 +11,9 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 196444
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7035\" data-src=\"images/formula_full_448_2.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3} = \\frac{k \\cdot T_{1}}{B} = \\frac{6,572217 \\cdot 10^{-21}}{1,0188994 \\cdot 10^{-29}} = 6,45031 \\cdot 10^{8} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.178)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7035\" data-src=\"images/formula_full_448_2.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3} = \\frac{k \\cdot T_{1}}{B} = \\frac{6,572217 \\cdot 10^{-21}}{1,0188994 \\cdot 10^{-29}} = 6,45031 \\cdot 10^{8} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.178)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

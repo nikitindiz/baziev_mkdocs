@@ -11,5 +11,16 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 36070
   },
-  "wrapper_html": "<span data-db-key=\"8401\" data-src=\"images/formula_inline_562_24_2.webp\"> $\\operatorname{tg}\\left[\\frac{\\pi}{2}-\\left(\\alpha_{☿} + \\beta_{☿}\\right)\\right] = \\operatorname{tg} \\gamma_{☿}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8401\" data-src=\"images/formula_inline_562_24_2.webp\"> $\\operatorname{tg}\\left[\\frac{\\pi}{2}-\\left(\\alpha_{☿} + \\beta_{☿}\\right)\\right] = \\operatorname{tg} \\gamma_{☿}$ </span>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "8fd7476253af",
+    "852630f710d0",
+    "773fb8579a52",
+    "572d0da78fdc"
+  ]
 }

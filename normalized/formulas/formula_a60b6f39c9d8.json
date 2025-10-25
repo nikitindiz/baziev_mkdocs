@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
     "position": 36456
   },
-  "wrapper_html": "<span data-db-key=\"1975\" data-src=\"images/formula_inline_130_23_4.webp\"> $Дж \\cdot м^{-3}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1975\" data-src=\"images/formula_inline_130_23_4.webp\"> $Дж \\cdot м^{-3}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

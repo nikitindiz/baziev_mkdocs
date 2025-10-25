@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 9157
   },
-  "wrapper_html": "<span data-db-key=\"6309\" data-src=\"images/formula_inline_388_13_0.webp\"> $l = v_0 \\tau = 4,348.89 \\quad \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6309\" data-src=\"images/formula_inline_388_13_0.webp\"> $l = v_0 \\tau = 4,348.89 \\quad \\text{м}$ </span>",
+  "symbols": [
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

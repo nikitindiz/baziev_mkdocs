@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 6140
   },
-  "wrapper_html": "<span data-db-key=\"118\" data-src=\"images/formula_inline_8_8_0.webp\"> $h = m_i v_{si}$ </span>"
+  "wrapper_html": "<span data-db-key=\"118\" data-src=\"images/formula_inline_8_8_0.webp\"> $h = m_i v_{si}$ </span>",
+  "symbols": [
+    "da4041efbcb0",
+    "572d0da78fdc"
+  ]
 }

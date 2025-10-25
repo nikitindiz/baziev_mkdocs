@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 78162
   },
-  "wrapper_html": "<span data-db-key=\"6090\" data-src=\"images/formula_inline_372_13_4.webp\"> $\\sin \\alpha_{s} = \\sin \\alpha_{2} = 0,182267$ </span>"
+  "wrapper_html": "<span data-db-key=\"6090\" data-src=\"images/formula_inline_372_13_4.webp\"> $\\sin \\alpha_{s} = \\sin \\alpha_{2} = 0,182267$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 11814
   },
-  "wrapper_html": "<span data-db-key=\"6319\" data-src=\"images/formula_inline_389_1_71.webp\"> $C = 2,9979246 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6319\" data-src=\"images/formula_inline_389_1_71.webp\"> $C = 2,9979246 \\cdot 10^8 \\, \\text{м} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

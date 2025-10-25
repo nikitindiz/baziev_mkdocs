@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 32513
   },
-  "wrapper_html": "<span data-db-key=\"5881\" data-src=\"images/formula_inline_361_2_28.webp\"> $T \\leq T_c$ </span>"
+  "wrapper_html": "<span data-db-key=\"5881\" data-src=\"images/formula_inline_361_2_28.webp\"> $T \\leq T_c$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

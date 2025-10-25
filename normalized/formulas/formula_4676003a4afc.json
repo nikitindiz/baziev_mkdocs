@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 30197
   },
-  "wrapper_html": "<span data-db-key=\"3547\" data-src=\"images/formula_inline_221_0_1.webp\"> $2\\pi R^2_n$ </span>"
+  "wrapper_html": "<span data-db-key=\"3547\" data-src=\"images/formula_inline_221_0_1.webp\"> $2\\pi R^2_n$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 95263
   },
-  "wrapper_html": "<span data-db-key=\"3794\" data-src=\"images/formula_inline_235_0_0.webp\"> $v_e = 2f_e \\cdot A_e$ </span>"
+  "wrapper_html": "<span data-db-key=\"3794\" data-src=\"images/formula_inline_235_0_0.webp\"> $v_e = 2f_e \\cdot A_e$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

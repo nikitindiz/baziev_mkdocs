@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 49187
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5436\" data-src=\"images/formula_full_335_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{\\text{ед}} = I_i \\tau_i = э v_i \\tau_i = э \\cdot N_F = 1 \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.58)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5436\" data-src=\"images/formula_full_335_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{\\text{ед}} = I_i \\tau_i = э v_i \\tau_i = э \\cdot N_F = 1 \\text{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.58)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

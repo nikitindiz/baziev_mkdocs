@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 169606
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2851\" data-src=\"images/formula_full_181_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{2}' = - \\frac{\\alpha \\cdot э^{2}}{\\lambda_{i}\\nu_{\\text{ед}}} = - \\frac{F_{\\text{t0}}}{\\nu_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.96)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2851\" data-src=\"images/formula_full_181_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{2}' = - \\frac{\\alpha \\cdot э^{2}}{\\lambda_{i}\\nu_{\\text{ед}}} = - \\frac{F_{\\text{t0}}}{\\nu_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.96)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

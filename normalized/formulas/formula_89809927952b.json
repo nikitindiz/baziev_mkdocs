@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 36578
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4674\" data-src=\"images/formula_full_286_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0} = P_1 + P_2 + P_3 = -2,865373 \\cdot 10^9 Па$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.51)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4674\" data-src=\"images/formula_full_286_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0} = P_1 + P_2 + P_3 = -2,865373 \\cdot 10^9 Па$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.51)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

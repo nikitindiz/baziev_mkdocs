@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 4081
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"90\" data-src=\"images/formula_full_7_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{dim}\\,[h] = \\text{Дж} \\cdot с = Н \\cdot м \\cdot с = \\frac{\\text{кг} \\cdot м}{с^2} \\cdot м \\cdot с = \\frac{\\text{кг} \\cdot м^2}{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.6)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"90\" data-src=\"images/formula_full_7_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{dim}\\,[h] = \\text{Дж} \\cdot с = Н \\cdot м \\cdot с = \\frac{\\text{кг} \\cdot м}{с^2} \\cdot м \\cdot с = \\frac{\\text{кг} \\cdot м^2}{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.6)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "572d0da78fdc"
+  ]
 }

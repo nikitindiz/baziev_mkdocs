@@ -11,5 +11,11 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 4431
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7785\" data-src=\"images/formula_full_520_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta l = \\sqrt[3]{m_{71} / \\rho_n} = 5,96217 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.4)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7785\" data-src=\"images/formula_full_520_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta l = \\sqrt[3]{m_{71} / \\rho_n} = 5,96217 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.4)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

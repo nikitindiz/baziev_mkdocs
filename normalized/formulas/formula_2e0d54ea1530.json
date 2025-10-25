@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 16282
   },
-  "wrapper_html": "<span data-db-key=\"386\" data-src=\"images/formula_inline_27_3_47.webp\"> $N_A' = 6.0221367 \\cdot 10^{23} \\text{ моль}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"386\" data-src=\"images/formula_inline_27_3_47.webp\"> $N_A' = 6.0221367 \\cdot 10^{23} \\text{ моль}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

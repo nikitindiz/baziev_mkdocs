@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
     "position": 24321
   },
-  "wrapper_html": "<span data-db-key=\"269\" data-src=\"images/formula_inline_20_5_1.webp\"> $n_e \\neq 1$ </span>"
+  "wrapper_html": "<span data-db-key=\"269\" data-src=\"images/formula_inline_20_5_1.webp\"> $n_e \\neq 1$ </span>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

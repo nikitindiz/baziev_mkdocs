@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 34523
   },
-  "wrapper_html": "<span data-db-key=\"655\" data-src=\"images/formula_inline_47_13_8.webp\"> $\\Delta t = T_s - T_2$ </span>"
+  "wrapper_html": "<span data-db-key=\"655\" data-src=\"images/formula_inline_47_13_8.webp\"> $\\Delta t = T_s - T_2$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

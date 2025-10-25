@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 40993
   },
-  "wrapper_html": "<span data-db-key=\"1621\" data-src=\"images/formula_inline_113_2_38.webp\"> $c = 3 \\cdot 10^8 \\ м \\cdot с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1621\" data-src=\"images/formula_inline_113_2_38.webp\"> $c = 3 \\cdot 10^8 \\ м \\cdot с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

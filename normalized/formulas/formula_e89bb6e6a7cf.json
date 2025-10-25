@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 84480
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3660\" data-src=\"images/formula_full_228_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_O = 2 f_2 \\cdot d_g = 2,0670894 \\cdot 10^6 \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.77)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3660\" data-src=\"images/formula_full_228_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_O = 2 f_2 \\cdot d_g = 2,0670894 \\cdot 10^6 \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.77)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

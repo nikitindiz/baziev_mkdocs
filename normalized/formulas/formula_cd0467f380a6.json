@@ -11,5 +11,13 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 23514
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4906\" data-src=\"images/formula_full_300_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{rcases}\n\\begin{aligned}\n\\varepsilon_0 &= k_0^ж \\cdot T_0 \\\\\n\\varepsilon_0 &= \\frac{\\gamma \\cdot q \\cdot z}{a_0} \\cdot n_0\n\\end{aligned}\n\\end{rcases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.38)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4906\" data-src=\"images/formula_full_300_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{rcases}\n\\begin{aligned}\n\\varepsilon_0 &= k_0^ж \\cdot T_0 \\\\\n\\varepsilon_0 &= \\frac{\\gamma \\cdot q \\cdot z}{a_0} \\cdot n_0\n\\end{aligned}\n\\end{rcases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.38)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

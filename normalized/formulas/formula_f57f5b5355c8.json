@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 32021
   },
-  "wrapper_html": "<span data-db-key=\"7346\" data-src=\"images/formula_inline_474_0_40.webp\"> $\\eta_{\\odot} \\cdot R_{\\odot}^3 / s_0$ </span>"
+  "wrapper_html": "<span data-db-key=\"7346\" data-src=\"images/formula_inline_474_0_40.webp\"> $\\eta_{\\odot} \\cdot R_{\\odot}^3 / s_0$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

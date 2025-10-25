@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 69939
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"804\" data-src=\"images/formula_full_54_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\nC_V (u_к) = \\frac{Q_{к i}}{T_2 - T_1} =\n\\frac{2m_i u_{к v} \\cdot Z \\cdot n_к \\cdot N_{0i} \\cdot \\nu_{ед}}{\\Delta t}, \\frac{\\text{Дж}}{\\text{м}^3 \\cdot \\text{К}}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.67)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"804\" data-src=\"images/formula_full_54_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\nC_V (u_к) = \\frac{Q_{к i}}{T_2 - T_1} =\n\\frac{2m_i u_{к v} \\cdot Z \\cdot n_к \\cdot N_{0i} \\cdot \\nu_{ед}}{\\Delta t}, \\frac{\\text{Дж}}{\\text{м}^3 \\cdot \\text{К}}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.67)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "1aa2b90e3182",
+    "b5b0c2b51293"
+  ]
 }

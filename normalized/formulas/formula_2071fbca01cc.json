@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 2577
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7214\" data-src=\"images/formula_full_463_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{70} = V_{N1}/K_{70} = 5,0746795 \\cdot 10^{19} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.1)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7214\" data-src=\"images/formula_full_463_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{70} = V_{N1}/K_{70} = 5,0746795 \\cdot 10^{19} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.1)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "0f708d9ac56c"
+  ]
 }

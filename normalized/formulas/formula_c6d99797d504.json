@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 56087
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8141\" data-src=\"images/formula_full_544_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{v0} = \\Delta m_{\\odot} \\cdot \\bar{v} \\cdot \\nu_{ед} = 4,9024366 \\cdot 10^{34} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.58)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8141\" data-src=\"images/formula_full_544_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{v0} = \\Delta m_{\\odot} \\cdot \\bar{v} \\cdot \\nu_{ед} = 4,9024366 \\cdot 10^{34} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.58)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

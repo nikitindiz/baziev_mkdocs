@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 33594
   },
-  "wrapper_html": "<span data-db-key=\"6440\" data-src=\"images/formula_inline_399_2_27.webp\"> $t = 15\\degree C$ </span>"
+  "wrapper_html": "<span data-db-key=\"6440\" data-src=\"images/formula_inline_399_2_27.webp\"> $t = 15\\degree C$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912"
+  ]
 }

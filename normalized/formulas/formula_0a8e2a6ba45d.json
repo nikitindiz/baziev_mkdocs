@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 11153
   },
-  "wrapper_html": "<span data-db-key=\"4318\" data-src=\"images/formula_inline_265_3_67.webp\"> $C_p^п$ </span>"
+  "wrapper_html": "<span data-db-key=\"4318\" data-src=\"images/formula_inline_265_3_67.webp\"> $C_p^п$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

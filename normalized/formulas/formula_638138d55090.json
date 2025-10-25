@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 47250
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4460\" data-src=\"images/formula_full_273_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$(\\mathrm{H_2O})^{-} = \\mathrm{O}^{+} + 2\\mathrm{H}^{+} + 2e$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.56)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4460\" data-src=\"images/formula_full_273_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$(\\mathrm{H_2O})^{-} = \\mathrm{O}^{+} + 2\\mathrm{H}^{+} + 2e$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.56)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

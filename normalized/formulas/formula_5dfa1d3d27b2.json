@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 138802
   },
-  "wrapper_html": "<span data-db-key=\"2839\" data-src=\"images/formula_inline_180_0_42.webp\"> $\\lambda = \\sqrt{\\mu/\\nu} = 3,4629031 \\cdot 10^{-2} \\, \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2839\" data-src=\"images/formula_inline_180_0_42.webp\"> $\\lambda = \\sqrt{\\mu/\\nu} = 3,4629031 \\cdot 10^{-2} \\, \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

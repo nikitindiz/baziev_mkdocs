@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 257606
   },
-  "wrapper_html": "<span data-db-key=\"3245\" data-src=\"images/formula_inline_204_9_75.webp\"> $\\angle CBD = P/2 \\quad к$ </span>"
+  "wrapper_html": "<span data-db-key=\"3245\" data-src=\"images/formula_inline_204_9_75.webp\"> $\\angle CBD = P/2 \\quad к$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

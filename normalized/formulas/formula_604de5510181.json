@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 20842
   },
-  "wrapper_html": "<span data-db-key=\"1123\" data-src=\"images/formula_inline_78_4_1.webp\"> $\\Delta E$ </span>"
+  "wrapper_html": "<span data-db-key=\"1123\" data-src=\"images/formula_inline_78_4_1.webp\"> $\\Delta E$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

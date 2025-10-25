@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 27314
   },
-  "wrapper_html": "<span data-db-key=\"3514\" data-src=\"images/formula_inline_219_11_0.webp\"> $E = 4,98 \\cdot 10^{5} \\text{ Дж } \\cdot \\text{ моль}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"3514\" data-src=\"images/formula_inline_219_11_0.webp\"> $E = 4,98 \\cdot 10^{5} \\text{ Дж } \\cdot \\text{ моль}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

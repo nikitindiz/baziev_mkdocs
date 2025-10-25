@@ -11,5 +11,15 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 112848
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6116\" data-src=\"images/formula_full_374_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta T (B_c) = \\frac{m_{э}v_{si} \\cdot \\pi v_s \\cdot B_{ci}}{16 m_i \\Phi_0 \\varphi_B^2 \\cdot T_{ci} u_s \\cdot \\tau_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.124)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6116\" data-src=\"images/formula_full_374_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta T (B_c) = \\frac{m_{э}v_{si} \\cdot \\pi v_s \\cdot B_{ci}}{16 m_i \\Phi_0 \\varphi_B^2 \\cdot T_{ci} u_s \\cdot \\tau_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.124)\n</div>\n</div>",
+  "symbols": [
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "8d6fa2d1d49d",
+    "da4041efbcb0",
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

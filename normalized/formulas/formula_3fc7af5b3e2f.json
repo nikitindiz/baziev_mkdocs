@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 91113
   },
-  "wrapper_html": "<span data-db-key=\"2663\" data-src=\"images/formula_inline_169_1_52.webp\"> $\\overline{\\nu}_{1} = \\mu / (4,5 \\cdot 10^{-7})^2 =$ </span>"
+  "wrapper_html": "<span data-db-key=\"2663\" data-src=\"images/formula_inline_169_1_52.webp\"> $\\overline{\\nu}_{1} = \\mu / (4,5 \\cdot 10^{-7})^2 =$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

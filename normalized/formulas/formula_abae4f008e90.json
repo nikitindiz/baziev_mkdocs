@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 133699
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6192\" data-src=\"images/formula_full_379_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\gamma (2Q_{g\\oplus} + \\Delta Q_{g\\oplus}) \\cdot Z_{g☾}}{a_{☾}^{2}} > \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g☾}}{A_{0}^{2}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.151.1)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6192\" data-src=\"images/formula_full_379_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\gamma (2Q_{g\\oplus} + \\Delta Q_{g\\oplus}) \\cdot Z_{g☾}}{a_{☾}^{2}} > \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g☾}}{A_{0}^{2}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.151.1)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0"
+  ]
 }

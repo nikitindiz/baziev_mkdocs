@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 15290
   },
-  "wrapper_html": "<span data-db-key=\"4339\" data-src=\"images/formula_inline_266_14_7.webp\"> $\\gamma^п$ </span>"
+  "wrapper_html": "<span data-db-key=\"4339\" data-src=\"images/formula_inline_266_14_7.webp\"> $\\gamma^п$ </span>",
+  "symbols": [
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "ff905a84b912"
+  ]
 }

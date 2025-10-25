@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 5977
   },
-  "wrapper_html": "<span data-db-key=\"2097\" data-src=\"images/formula_inline_136_6_1.webp\"> $A_1 = F_1 \\cdot l_1 = 25169,574 \\ Дж$ </span>"
+  "wrapper_html": "<span data-db-key=\"2097\" data-src=\"images/formula_inline_136_6_1.webp\"> $A_1 = F_1 \\cdot l_1 = 25169,574 \\ Дж$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 11950
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4555\" data-src=\"images/formula_full_280_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{s0} = \\frac{m_0}{V_0} = \\frac{2,9915523 \\cdot 10^{-26}}{2,0027339 \\cdot 10^{-29}} = 1,4937342 \\cdot 10^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4555\" data-src=\"images/formula_full_280_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{s0} = \\frac{m_0}{V_0} = \\frac{2,9915523 \\cdot 10^{-26}}{2,0027339 \\cdot 10^{-29}} = 1,4937342 \\cdot 10^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.17)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "572d0da78fdc"
+  ]
 }

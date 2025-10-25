@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 17538
   },
-  "wrapper_html": "<span data-db-key=\"5335\" data-src=\"images/formula_inline_330_9_6.webp\"> $w_0$ </span>"
+  "wrapper_html": "<span data-db-key=\"5335\" data-src=\"images/formula_inline_330_9_6.webp\"> $w_0$ </span>",
+  "symbols": [
+    "69b88a8d50a2"
+  ]
 }

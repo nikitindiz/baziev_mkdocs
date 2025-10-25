@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 6945
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5697\" data-src=\"images/formula_full_351_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\Delta V_i}{\\Delta I_i} = \\frac{\\Phi_0 \\cdot \\nu_{si}}{э \\cdot \\nu_{si}} = \\frac{\\Phi_0}{э} = R_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.7)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5697\" data-src=\"images/formula_full_351_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\Delta V_i}{\\Delta I_i} = \\frac{\\Phi_0 \\cdot \\nu_{si}}{э \\cdot \\nu_{si}} = \\frac{\\Phi_0}{э} = R_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.7)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

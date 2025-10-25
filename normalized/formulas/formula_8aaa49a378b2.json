@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 168215
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2856\" data-src=\"images/formula_full_181_8.webp\">\n<div style=\"width: 100%;\">\n\n$$i = i_1 + i'_1 = - \\frac{1}{2} \\cdot \\frac{F_{t0}}{\\nu_{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.93)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2856\" data-src=\"images/formula_full_181_8.webp\">\n<div style=\"width: 100%;\">\n\n$$i = i_1 + i'_1 = - \\frac{1}{2} \\cdot \\frac{F_{t0}}{\\nu_{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.93)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

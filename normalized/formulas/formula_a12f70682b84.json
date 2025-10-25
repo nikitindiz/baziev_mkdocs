@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
     "position": 2298
   },
-  "wrapper_html": "<span data-db-key=\"7506\" data-src=\"images/formula_inline_486_14_9.webp\"> $\\pi \\cdot a_{gi}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7506\" data-src=\"images/formula_inline_486_14_9.webp\"> $\\pi \\cdot a_{gi}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

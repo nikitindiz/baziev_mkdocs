@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 61209
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5936\" data-src=\"images/formula_full_364_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_c = \\frac{-1}{(t_c-20)} = \\frac{-1}{-291,97} = 3,4250094 \\cdot 10^{-3} \\text{ град}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.79)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5936\" data-src=\"images/formula_full_364_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_c = \\frac{-1}{(t_c-20)} = \\frac{-1}{-291,97} = 3,4250094 \\cdot 10^{-3} \\text{ град}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.79)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

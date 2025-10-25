@@ -11,5 +11,11 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 13126
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8013\" data-src=\"images/formula_full_536_14.webp\">\n<div style=\"width: 100%;\">\n\n$$W_m = -\\frac{4\\pi}{3} \\cdot R^3 \\cdot \\Delta W_v = -5,8848714 \\cdot 10^{39} \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.6)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8013\" data-src=\"images/formula_full_536_14.webp\">\n<div style=\"width: 100%;\">\n\n$$W_m = -\\frac{4\\pi}{3} \\cdot R^3 \\cdot \\Delta W_v = -5,8848714 \\cdot 10^{39} \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.6)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

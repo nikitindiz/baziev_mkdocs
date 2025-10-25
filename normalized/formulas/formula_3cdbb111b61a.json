@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 66229
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4503\" data-src=\"images/formula_full_276_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$H_0 = A_0 \\cdot \\sin \\alpha_0 = 4,1352947 \\cdot 10^{-13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.72)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4503\" data-src=\"images/formula_full_276_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$H_0 = A_0 \\cdot \\sin \\alpha_0 = 4,1352947 \\cdot 10^{-13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.72)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

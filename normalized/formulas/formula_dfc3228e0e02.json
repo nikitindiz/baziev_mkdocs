@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 78479
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"837\" data-src=\"images/formula_full_56_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\varepsilon_{s} = \\Delta f_{s} \\cdot h = 2,7778183 \\cdot 10^{-26} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.73)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"837\" data-src=\"images/formula_full_56_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\varepsilon_{s} = \\Delta f_{s} \\cdot h = 2,7778183 \\cdot 10^{-26} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.73)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

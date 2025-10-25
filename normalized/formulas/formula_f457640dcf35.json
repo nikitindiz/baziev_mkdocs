@@ -11,5 +11,8 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/42-решающие-эксперименты.md",
     "position": 17921
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9108\" data-src=\"images/formula_full_610_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$c_1 = c_0 \\cdot (1 - v/c_0)$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.21)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9108\" data-src=\"images/formula_full_610_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$c_1 = c_0 \\cdot (1 - v/c_0)$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.21)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

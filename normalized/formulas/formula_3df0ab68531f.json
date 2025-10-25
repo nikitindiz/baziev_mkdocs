@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 47044
   },
-  "wrapper_html": "<span data-db-key=\"7435\" data-src=\"images/formula_inline_479_11_45.webp\"> $\\tau_k$ </span>"
+  "wrapper_html": "<span data-db-key=\"7435\" data-src=\"images/formula_inline_479_11_45.webp\"> $\\tau_k$ </span>",
+  "symbols": [
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

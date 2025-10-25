@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 44765
   },
-  "wrapper_html": "<span data-db-key=\"737\" data-src=\"images/formula_inline_50_8_0.webp\"> $S_{g i 1} = \\pi \\cdot d_{g i 1}^2 / 4$ </span>"
+  "wrapper_html": "<span data-db-key=\"737\" data-src=\"images/formula_inline_50_8_0.webp\"> $S_{g i 1} = \\pi \\cdot d_{g i 1}^2 / 4$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/3-электрино-зарядовый-антипод-электрона.md",
     "position": 26513
   },
-  "wrapper_html": "<span data-db-key=\"266\" data-src=\"images/formula_inline_20_15_0.webp\"> $Q_e = 3e = -4,8065676 \\cdot 10^{-19} \\text{ Кл}$ </span>"
+  "wrapper_html": "<span data-db-key=\"266\" data-src=\"images/formula_inline_20_15_0.webp\"> $Q_e = 3e = -4,8065676 \\cdot 10^{-19} \\text{ Кл}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

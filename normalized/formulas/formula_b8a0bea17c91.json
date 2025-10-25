@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 38381
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4966\" data-src=\"images/formula_full_304_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sigma_F = \\frac{F}{n \\cdot S_4} = \\frac{19,6 \\ Н}{5,7417552 \\cdot 10^{-4} \\text{ м}^2} = 3,4135903 \\cdot 10^4 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.57)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4966\" data-src=\"images/formula_full_304_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sigma_F = \\frac{F}{n \\cdot S_4} = \\frac{19,6 \\ Н}{5,7417552 \\cdot 10^{-4} \\text{ м}^2} = 3,4135903 \\cdot 10^4 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.57)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

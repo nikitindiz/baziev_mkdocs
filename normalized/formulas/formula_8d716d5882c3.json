@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 120400
   },
-  "wrapper_html": "<span data-db-key=\"3921\" data-src=\"images/formula_inline_242_1_21.webp\"> $l = \\lambda \\cdot \\operatorname{tg} \\beta / 2$ </span>"
+  "wrapper_html": "<span data-db-key=\"3921\" data-src=\"images/formula_inline_242_1_21.webp\"> $l = \\lambda \\cdot \\operatorname{tg} \\beta / 2$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "773fb8579a52",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

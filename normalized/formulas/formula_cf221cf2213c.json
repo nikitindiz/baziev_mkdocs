@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 3772
   },
-  "wrapper_html": "<span data-db-key=\"1517\" data-src=\"images/formula_inline_107_0_0.webp\"> $T = \\theta_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"1517\" data-src=\"images/formula_inline_107_0_0.webp\"> $T = \\theta_i$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "572d0da78fdc"
+  ]
 }

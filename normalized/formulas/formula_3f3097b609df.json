@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 33464
   },
-  "wrapper_html": "<span data-db-key=\"663\" data-src=\"images/formula_inline_47_7_3.webp\"> $f_i = \\psi_i T_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"663\" data-src=\"images/formula_inline_47_7_3.webp\"> $f_i = \\psi_i T_i$ </span>",
+  "symbols": [
+    "606678d17268"
+  ]
 }

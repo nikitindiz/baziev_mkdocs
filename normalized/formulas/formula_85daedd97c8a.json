@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 7022
   },
-  "wrapper_html": "<span data-db-key=\"8008\" data-src=\"images/formula_inline_535_6_0.webp\"> $V_0 = M_0 / \\rho_n = 2,2950918 \\cdot 10^{17} \\text{ м}^3$ </span>"
+  "wrapper_html": "<span data-db-key=\"8008\" data-src=\"images/formula_inline_535_6_0.webp\"> $V_0 = M_0 / \\rho_n = 2,2950918 \\cdot 10^{17} \\text{ м}^3$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

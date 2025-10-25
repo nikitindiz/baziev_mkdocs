@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 51127
   },
-  "wrapper_html": "<span data-db-key=\"5489\" data-src=\"images/formula_full_338_6_12.webp\"> $\\alpha = 1,0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5489\" data-src=\"images/formula_full_338_6_12.webp\"> $\\alpha = 1,0404472 \\cdot 10^{20} \\, \\text{Дж} \\cdot \\text{Кл}^{-2}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

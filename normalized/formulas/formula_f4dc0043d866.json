@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 58861
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8425\" data-src=\"images/formula_full_565_18.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = F_{ri} + F_{ti} = Gm_\\odot m_i/a_i^2 + m_i u_i n_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.49)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8425\" data-src=\"images/formula_full_565_18.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = F_{ri} + F_{ti} = Gm_\\odot m_i/a_i^2 + m_i u_i n_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.49)\n</div>\n</div>",
+  "symbols": [
+    "64f6b41ecdd3",
+    "b5b0c2b51293"
+  ]
 }

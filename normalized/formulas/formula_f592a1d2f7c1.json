@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 51021
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7365\" data-src=\"images/formula_full_475_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{71} = 1/a_{71}^3 = 3,9074936 \\cdot 10^{22} \\, \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.59)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7365\" data-src=\"images/formula_full_475_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{71} = 1/a_{71}^3 = 3,9074936 \\cdot 10^{22} \\, \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.59)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

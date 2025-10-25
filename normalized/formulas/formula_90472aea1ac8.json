@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 15573
   },
-  "wrapper_html": "<span data-db-key=\"5773\" data-src=\"images/formula_inline_355_5_22.webp\"> $F_r = -1,2 \\cdot 10^{-17} Н$ </span>"
+  "wrapper_html": "<span data-db-key=\"5773\" data-src=\"images/formula_inline_355_5_22.webp\"> $F_r = -1,2 \\cdot 10^{-17} Н$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

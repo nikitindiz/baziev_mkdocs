@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 102094
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6595\" data-src=\"images/formula_full_410_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_2 = Q_2/6 = 3,6 \\cdot 10^4 \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.94)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6595\" data-src=\"images/formula_full_410_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_2 = Q_2/6 = 3,6 \\cdot 10^4 \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.94)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 68225
   },
-  "wrapper_html": "<span data-db-key=\"5601\" data-src=\"images/formula_inline_344_8_14.webp\"> $I_i = э \\omega_i n_i k_i = I_{mi} \\cdot n_i k_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"5601\" data-src=\"images/formula_inline_344_8_14.webp\"> $I_i = э \\omega_i n_i k_i = I_{mi} \\cdot n_i k_i$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/1-гиперчастотная-механика-или-механика-микромира.md",
     "position": 18016
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"49\" data-src=\"images/formula_full_4_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{kT_0}{h} = \\frac{v_0}{2A_0} \\approx \\frac{v_0}{2d_{g0}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.20)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"49\" data-src=\"images/formula_full_4_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{kT_0}{h} = \\frac{v_0}{2A_0} \\approx \\frac{v_0}{2d_{g0}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.20)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

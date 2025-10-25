@@ -11,5 +11,11 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 8888
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8551\" data-src=\"images/formula_full_573_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nP_N &= 3,5 \\cdot 10^6 \\text{ атм} = 3,546375 \\cdot 10^{11} \\text{ Па,} \\\\\nT_N &= 6000 \\text{ K}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.21)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8551\" data-src=\"images/formula_full_573_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nP_N &= 3,5 \\cdot 10^6 \\text{ атм} = 3,546375 \\cdot 10^{11} \\text{ Па,} \\\\\nT_N &= 6000 \\text{ K}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.21)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

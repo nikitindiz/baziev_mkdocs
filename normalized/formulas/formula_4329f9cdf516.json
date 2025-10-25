@@ -11,5 +11,14 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 74519
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5100\" data-src=\"images/formula_full_313_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_2 = \\gamma h f_{1c} - h f_{1c} = h \\psi_в T_{1c} (\\gamma - 1) = 6,4518919 \\cdot 10^{-18} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.133)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5100\" data-src=\"images/formula_full_313_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_2 = \\gamma h f_{1c} - h f_{1c} = h \\psi_в T_{1c} (\\gamma - 1) = 6,4518919 \\cdot 10^{-18} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.133)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

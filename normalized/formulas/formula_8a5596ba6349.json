@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 3109
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7619\" data-src=\"images/formula_full_505_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q = \\frac{m_n (A - A_0) \\cdot э}{m_э} = -1,829483 \\cdot 10^{-19} \\, \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.2)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7619\" data-src=\"images/formula_full_505_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q = \\frac{m_n (A - A_0) \\cdot э}{m_э} = -1,829483 \\cdot 10^{-19} \\, \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.2)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

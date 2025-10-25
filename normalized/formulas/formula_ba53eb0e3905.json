@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 36585
   },
-  "wrapper_html": "<span data-db-key=\"4777\" data-src=\"images/formula_inline_292_0_13.webp\"> $\\Delta d_{gi} = A_{0i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4777\" data-src=\"images/formula_inline_292_0_13.webp\"> $\\Delta d_{gi} = A_{0i}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "1cced234f7e5",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 4469
   },
-  "wrapper_html": "<span data-db-key=\"7788\" data-src=\"images/formula_inline_520_15_9.webp\"> $\\Delta V_n$ </span>"
+  "wrapper_html": "<span data-db-key=\"7788\" data-src=\"images/formula_inline_520_15_9.webp\"> $\\Delta V_n$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

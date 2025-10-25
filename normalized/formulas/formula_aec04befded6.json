@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 12675
   },
-  "wrapper_html": "<span data-db-key=\"562\" data-src=\"images/formula_inline_41_2_0.webp\"> $=\\psi \\cdot T = 5,999283 \\cdot 10^{12} \\text{ с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"562\" data-src=\"images/formula_inline_41_2_0.webp\"> $=\\psi \\cdot T = 5,999283 \\cdot 10^{12} \\text{ с}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 91226
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2590\" data-src=\"images/formula_full_165_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nU_{\\text{ж}} &= \\frac{2\\mu}{\\lambda_{\\text{ж}}} = 3,9972326 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1},\\\\\nU_у &= \\frac{2\\mu}{\\lambda_у} = 7,9444653 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1} = 2U_{\\text{ж}}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.50)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2590\" data-src=\"images/formula_full_165_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nU_{\\text{ж}} &= \\frac{2\\mu}{\\lambda_{\\text{ж}}} = 3,9972326 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1},\\\\\nU_у &= \\frac{2\\mu}{\\lambda_у} = 7,9444653 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1} = 2U_{\\text{ж}}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.50)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "9af9381839c9",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

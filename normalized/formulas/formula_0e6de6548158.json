@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 36059
   },
-  "wrapper_html": "<span data-db-key=\"6459\" data-src=\"images/formula_inline_400_2_26.webp\"> $V_{ед} = 1 \\text{ м}^3$ </span>"
+  "wrapper_html": "<span data-db-key=\"6459\" data-src=\"images/formula_inline_400_2_26.webp\"> $V_{ед} = 1 \\text{ м}^3$ </span>",
+  "symbols": [
+    "4650f5dfc1df"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 36500
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3513\" data-src=\"images/formula_full_219_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$O_2 = O^+ - e^- - O^+$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.29)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3513\" data-src=\"images/formula_full_219_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$O_2 = O^+ - e^- - O^+$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.29)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

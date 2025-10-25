@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 15886
   },
-  "wrapper_html": "<span data-db-key=\"6339\" data-src=\"images/formula_inline_390_7_15.webp\"> $d = 1 \\cdot 10^3 \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6339\" data-src=\"images/formula_inline_390_7_15.webp\"> $d = 1 \\cdot 10^3 \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

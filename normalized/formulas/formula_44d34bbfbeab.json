@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 41382
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1171\" data-src=\"images/formula_full_82_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{\\lambda i, \\max} = \\frac{2 \\pi R_i \\cdot R_{ci}}{v_c \\cdot (r_i \\pm R_i) \\cdot n_{\\lambda i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.43)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1171\" data-src=\"images/formula_full_82_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{\\lambda i, \\max} = \\frac{2 \\pi R_i \\cdot R_{ci}}{v_c \\cdot (r_i \\pm R_i) \\cdot n_{\\lambda i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.43)\n</div>\n</div>",
+  "symbols": [
+    "eaf4d057776d",
+    "852630f710d0",
+    "2da43f769c74",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

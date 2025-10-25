@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 17102
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4322\" data-src=\"images/formula_full_266_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^{п} = \\frac{P_{1}^{п} \\cdot C_{1}^{п} \\cdot T_{0}}{P_{0}^{п}} = 3$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.11)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4322\" data-src=\"images/formula_full_266_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^{п} = \\frac{P_{1}^{п} \\cdot C_{1}^{п} \\cdot T_{0}}{P_{0}^{п}} = 3$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.11)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

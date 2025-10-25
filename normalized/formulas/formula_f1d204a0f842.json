@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 63312
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5940\" data-src=\"images/formula_full_364_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_2 = (a_2 - A_2) = 2,5025991 \\cdot 10^{-10} \\text{м} = 99,10941\\% a_c$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.83)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5940\" data-src=\"images/formula_full_364_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_2 = (a_2 - A_2) = 2,5025991 \\cdot 10^{-10} \\text{м} = 99,10941\\% a_c$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.83)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

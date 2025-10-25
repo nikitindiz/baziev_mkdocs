@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 64587
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7424\" data-src=\"images/formula_full_479_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_0 = 1,1732155 \\cdot 10^2 \\, \\text{K}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.84)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7424\" data-src=\"images/formula_full_479_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_0 = 1,1732155 \\cdot 10^2 \\, \\text{K}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.84)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

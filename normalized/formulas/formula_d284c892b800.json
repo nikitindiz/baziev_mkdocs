@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 31039
   },
-  "wrapper_html": "<span data-db-key=\"5430\" data-src=\"images/formula_inline_334_11_57.webp\"> $H_{i}h_{i}^{2}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5430\" data-src=\"images/formula_inline_334_11_57.webp\"> $H_{i}h_{i}^{2}$ </span>",
+  "symbols": [
+    "572d0da78fdc"
+  ]
 }

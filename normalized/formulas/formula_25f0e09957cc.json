@@ -11,5 +11,6 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 145339
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6236\" data-src=\"images/formula_full_382_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{mi} = v_{s\\oplus}/(r_i + r_m)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.167)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6236\" data-src=\"images/formula_full_382_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{mi} = v_{s\\oplus}/(r_i + r_m)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.167)\n</div>\n</div>",
+  "symbols": []
 }

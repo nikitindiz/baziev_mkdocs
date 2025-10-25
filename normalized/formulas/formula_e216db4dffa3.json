@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/9-фазовый-переход-высшего-рода.md",
     "position": 50562
   },
-  "wrapper_html": "<span data-db-key=\"1447\" data-src=\"images/formula_inline_101_4_0.webp\"> $d_g = 4 \\cdot 10^{-9} \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1447\" data-src=\"images/formula_inline_101_4_0.webp\"> $d_g = 4 \\cdot 10^{-9} \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

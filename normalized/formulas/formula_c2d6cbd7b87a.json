@@ -11,5 +11,13 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 46604
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4143\" data-src=\"images/formula_full_254_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha = \\frac{\\varepsilon_{i}}{2 m_{i} \\cdot d_{g i}^{2} \\cdot f_{i}^{2}} = \\frac{m_{i} C_{i} T_{i}}{2 m_{i} \\cdot d_{g i}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{i}^{2}} = \\frac{C_{i}}{2 d_{g i}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.35)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4143\" data-src=\"images/formula_full_254_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha = \\frac{\\varepsilon_{i}}{2 m_{i} \\cdot d_{g i}^{2} \\cdot f_{i}^{2}} = \\frac{m_{i} C_{i} T_{i}}{2 m_{i} \\cdot d_{g i}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{i}^{2}} = \\frac{C_{i}}{2 d_{g i}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.35)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

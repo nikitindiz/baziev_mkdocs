@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 31532
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8635\" data-src=\"images/formula_full_579_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\mu ☿} = (V_{☿} - V_{n☿}) = 6,0774859 \\cdot 10^{19} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.56)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8635\" data-src=\"images/formula_full_579_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\mu ☿} = (V_{☿} - V_{n☿}) = 6,0774859 \\cdot 10^{19} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.56)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

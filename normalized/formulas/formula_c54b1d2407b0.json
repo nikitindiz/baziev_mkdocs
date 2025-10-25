@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 10995
   },
-  "wrapper_html": "<span data-db-key=\"4889\" data-src=\"images/formula_inline_298_18_14.webp\"> $T \\rightarrow -\\infty \\quad v_{л} \\rightarrow 0$ </span>"
+  "wrapper_html": "<span data-db-key=\"4889\" data-src=\"images/formula_inline_298_18_14.webp\"> $T \\rightarrow -\\infty \\quad v_{л} \\rightarrow 0$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "69b88a8d50a2",
+    "ff905a84b912",
+    "572d0da78fdc"
+  ]
 }

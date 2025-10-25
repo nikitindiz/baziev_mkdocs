@@ -1,0 +1,22 @@
+{
+  "total_symbols": 206,
+  "symbols_with_metadata": 155,
+  "formulas_processed": 9815,
+  "formulas_with_symbols": 6727,
+  "total_symbol_references": 17764,
+  "average_symbols_per_formula": 2.6407016500668945,
+  "symbol_distribution": {
+    "2": 1416,
+    "1": 2375,
+    "8": 56,
+    "5": 532,
+    "3": 1110,
+    "4": 784,
+    "6": 279,
+    "7": 138,
+    "9": 30,
+    "10": 5,
+    "11": 1,
+    "12": 1
+  }
+}

@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 101839
   },
-  "wrapper_html": "<span data-db-key=\"6242\" data-src=\"images/formula_inline_382_4_3.webp\"> $l_{\\mu} = (\\pi R_{\\oplus} + 2 R_{\\oplus})$ </span>"
+  "wrapper_html": "<span data-db-key=\"6242\" data-src=\"images/formula_inline_382_4_3.webp\"> $l_{\\mu} = (\\pi R_{\\oplus} + 2 R_{\\oplus})$ </span>",
+  "symbols": [
+    "606678d17268",
+    "9af9381839c9"
+  ]
 }

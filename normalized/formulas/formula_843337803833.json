@@ -11,5 +11,14 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 66031
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5487\" data-src=\"images/formula_full_338_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{э} = \\alpha \\cdot э \\cdot \\Delta q = э \\cdot \\varphi_{Al}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.64)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5487\" data-src=\"images/formula_full_338_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{э} = \\alpha \\cdot э \\cdot \\Delta q = э \\cdot \\varphi_{Al}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.64)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

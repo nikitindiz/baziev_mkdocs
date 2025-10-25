@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 49337
   },
-  "wrapper_html": "<span data-db-key=\"5170\" data-src=\"images/formula_inline_317_5_15.webp\"> $V'_{gc}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5170\" data-src=\"images/formula_inline_317_5_15.webp\"> $V'_{gc}$ </span>",
+  "symbols": [
+    "ff905a84b912",
+    "852630f710d0"
+  ]
 }

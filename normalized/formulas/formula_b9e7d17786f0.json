@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
     "position": 41496
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1905\" data-src=\"images/formula_full_127_4_34.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\rho (\\alpha, n) = m (\\gamma)/V_g (\\alpha, n) = \\rho_{0i}/\\alpha_i^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.51)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1905\" data-src=\"images/formula_full_127_4_34.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\rho (\\alpha, n) = m (\\gamma)/V_g (\\alpha, n) = \\rho_{0i}/\\alpha_i^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.51)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "b5b0c2b51293",
+    "606678d17268",
+    "ff905a84b912",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

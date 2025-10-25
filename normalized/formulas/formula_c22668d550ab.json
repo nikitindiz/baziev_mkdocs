@@ -11,5 +11,10 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 51557
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4156\" data-src=\"images/formula_full_255_13.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{\\lambda} = S_{\\lambda} \\cdot j_{n} = \\frac{\\pi \\cdot d_{\\lambda}^{2} \\cdot j_{n}}{4} = 2,1125234 \\cdot 10^{-24} \\, \\text{Кл} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.39)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4156\" data-src=\"images/formula_full_255_13.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{\\lambda} = S_{\\lambda} \\cdot j_{n} = \\frac{\\pi \\cdot d_{\\lambda}^{2} \\cdot j_{n}}{4} = 2,1125234 \\cdot 10^{-24} \\, \\text{Кл} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.39)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

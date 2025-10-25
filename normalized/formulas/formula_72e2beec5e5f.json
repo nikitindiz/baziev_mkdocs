@@ -11,5 +11,8 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/39-возмущенное-движение-планет-и-смещение-центров-их-масс.md",
     "position": 17101
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8784\" data-src=\"images/formula_full_589_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i = (a_i - C_{\\odot} T_i)$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.8)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8784\" data-src=\"images/formula_full_589_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i = (a_i - C_{\\odot} T_i)$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.8)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

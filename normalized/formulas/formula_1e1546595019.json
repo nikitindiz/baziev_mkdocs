@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 83828
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"862\" data-src=\"images/formula_full_58_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_1 = P_0 \\cdot (1 + \\beta t_{ед}) = P_0 \\cdot T_1 / T_0, \\ Па$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.77)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"862\" data-src=\"images/formula_full_58_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_1 = P_0 \\cdot (1 + \\beta t_{ед}) = P_0 \\cdot T_1 / T_0, \\ Па$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.77)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "773fb8579a52"
+  ]
 }

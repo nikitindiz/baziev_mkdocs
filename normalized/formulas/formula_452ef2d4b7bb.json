@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 135573
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2755\" data-src=\"images/formula_full_174_10.webp\">\n<div style=\"width: 100%;\">\n\n$$r'_{min.f} = \\sqrt{\\frac{2d_{э}(2\\lambda_{f} - 2d_{э})}{4}} = \\sqrt{\\frac{4d_{э} \\cdot \\lambda_{f}}{4}} = 6,6534 \\cdot 10^{-12} \\, м$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.76)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2755\" data-src=\"images/formula_full_174_10.webp\">\n<div style=\"width: 100%;\">\n\n$$r'_{min.f} = \\sqrt{\\frac{2d_{э}(2\\lambda_{f} - 2d_{э})}{4}} = \\sqrt{\\frac{4d_{э} \\cdot \\lambda_{f}}{4}} = 6,6534 \\cdot 10^{-12} \\, м$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.76)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293",
+    "852630f710d0"
+  ]
 }

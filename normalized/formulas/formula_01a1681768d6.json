@@ -11,5 +11,12 @@
     "file": "chapter_глава-ii-основы-строения-твердого-тела/15-золото-как-типичная-кристаллическая-структура.md",
     "position": 22305
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4038\" data-src=\"images/formula_full_250_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{A u}=\\left[e+\\Delta q\\left(K_{э}\\right)\\right]=-1,760852 \\cdot 10^{-19} К л$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.5)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4038\" data-src=\"images/formula_full_250_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{A u}=\\left[e+\\Delta q\\left(K_{э}\\right)\\right]=-1,760852 \\cdot 10^{-19} К л$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.5)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

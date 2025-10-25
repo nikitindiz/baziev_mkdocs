@@ -11,5 +11,13 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 21992
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5762\" data-src=\"images/formula_full_355_3.webp\">\n<div style=\"width: 100%;\">\n\n$$F_s = \\frac{\\alpha \\cdot э \\cdot \\Delta Z}{d_э} = \\frac{1,2384008 \\cdot 10^{-31}}{1,1067247 \\cdot 10^{-16} м} = 1,1189781 \\cdot 10^{-15} Н = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.29)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5762\" data-src=\"images/formula_full_355_3.webp\">\n<div style=\"width: 100%;\">\n\n$$F_s = \\frac{\\alpha \\cdot э \\cdot \\Delta Z}{d_э} = \\frac{1,2384008 \\cdot 10^{-31}}{1,1067247 \\cdot 10^{-16} м} = 1,1189781 \\cdot 10^{-15} Н = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.29)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

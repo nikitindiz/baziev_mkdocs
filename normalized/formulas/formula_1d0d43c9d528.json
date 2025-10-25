@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 47618
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2429\" data-src=\"images/formula_full_158_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ti} = m_{\\text{э}} u_i \\nu_{\\text{ед}} = 2 m_{\\text{э}} c_i \\nu_{\\text{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.29)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2429\" data-src=\"images/formula_full_158_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ti} = m_{\\text{э}} u_i \\nu_{\\text{ед}} = 2 m_{\\text{э}} c_i \\nu_{\\text{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.29)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

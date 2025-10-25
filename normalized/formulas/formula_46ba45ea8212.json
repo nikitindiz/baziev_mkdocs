@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
     "position": 12546
   },
-  "wrapper_html": "<span data-db-key=\"987\" data-src=\"images/formula_inline_67_7_10.webp\"> $v_{H_2} \\approx v_{Xe}$ </span>"
+  "wrapper_html": "<span data-db-key=\"987\" data-src=\"images/formula_inline_67_7_10.webp\"> $v_{H_2} \\approx v_{Xe}$ </span>",
+  "symbols": [
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 106345
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5646\" data-src=\"images/formula_full_347_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{max} = \\frac{\\Phi_0 \\cdot \\omega_{max}}{r(Al)_{min}} = \\frac{47,900472 \\cdot 10^{-3}}{r(Al)_{min}} = 7,9590474 \\cdot 10^{10} В \\cdot м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.126)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5646\" data-src=\"images/formula_full_347_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{max} = \\frac{\\Phi_0 \\cdot \\omega_{max}}{r(Al)_{min}} = \\frac{47,900472 \\cdot 10^{-3}}{r(Al)_{min}} = 7,9590474 \\cdot 10^{10} В \\cdot м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.126)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "cad37467980b",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

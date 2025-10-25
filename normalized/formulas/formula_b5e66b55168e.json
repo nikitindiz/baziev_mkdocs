@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 10524
   },
-  "wrapper_html": "<span data-db-key=\"5738\" data-src=\"images/formula_inline_353_11_13.webp\"> $\\rho_{Au}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5738\" data-src=\"images/formula_inline_353_11_13.webp\"> $\\rho_{Au}$ </span>",
+  "symbols": [
+    "572d0da78fdc"
+  ]
 }

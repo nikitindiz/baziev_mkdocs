@@ -11,5 +11,9 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 211057
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7088\" data-src=\"images/formula_full_451_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_F = \\Delta F_K^3 / \\Delta F_э^3 = 1,54839$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.207)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7088\" data-src=\"images/formula_full_451_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_F = \\Delta F_K^3 / \\Delta F_э^3 = 1,54839$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.207)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

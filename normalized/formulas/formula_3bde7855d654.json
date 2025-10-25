@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 48985
   },
-  "wrapper_html": "<span data-db-key=\"2483\" data-src=\"images/formula_inline_160_4_0.webp\"> $u_i = \\mu / r_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"2483\" data-src=\"images/formula_inline_160_4_0.webp\"> $u_i = \\mu / r_i$ </span>",
+  "symbols": [
+    "9af9381839c9"
+  ]
 }

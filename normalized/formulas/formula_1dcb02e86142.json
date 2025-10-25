@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 2958
   },
-  "wrapper_html": "<span data-db-key=\"2075\" data-src=\"images/formula_inline_135_8_0.webp\"> $m = P/g = 101,937$ </span>"
+  "wrapper_html": "<span data-db-key=\"2075\" data-src=\"images/formula_inline_135_8_0.webp\"> $m = P/g = 101,937$ </span>",
+  "symbols": [
+    "ff905a84b912"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 12866
   },
-  "wrapper_html": "<span data-db-key=\"8319\" data-src=\"images/formula_inline_557_1_8.webp\"> $A_0 A_1 = A_1 A_2 = h_\\oplus$ </span>"
+  "wrapper_html": "<span data-db-key=\"8319\" data-src=\"images/formula_inline_557_1_8.webp\"> $A_0 A_1 = A_1 A_2 = h_\\oplus$ </span>",
+  "symbols": [
+    "606678d17268",
+    "572d0da78fdc"
+  ]
 }

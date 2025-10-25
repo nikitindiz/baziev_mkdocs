@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 130213
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6175\" data-src=\"images/formula_full_378_10.webp\">\n<div style=\"width: 100%;\">\n\n$$q_\\oplus = j_\\oplus \\cdot \\pi R_э^2 / 4\\pi \\text{ страд } = j_\\oplus \\cdot R_э^2 / 4 = -6,332789 \\cdot 10^{-15} \\text{ Кл/страд }$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.146)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6175\" data-src=\"images/formula_full_378_10.webp\">\n<div style=\"width: 100%;\">\n\n$$q_\\oplus = j_\\oplus \\cdot \\pi R_э^2 / 4\\pi \\text{ страд } = j_\\oplus \\cdot R_э^2 / 4 = -6,332789 \\cdot 10^{-15} \\text{ Кл/страд }$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.146)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

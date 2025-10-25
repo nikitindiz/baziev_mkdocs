@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 136438
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3847\" data-src=\"images/formula_full_238_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{ei} = \\frac{\\nu_{i} \\cdot \\tau_{Oi}}{f_{ei}} = \\frac{n_{э}(O)_{i}}{f_{ei}} ,  с$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.123)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3847\" data-src=\"images/formula_full_238_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{ei} = \\frac{\\nu_{i} \\cdot \\tau_{Oi}}{f_{ei}} = \\frac{n_{э}(O)_{i}}{f_{ei}} ,  с$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.123)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "b5b0c2b51293"
+  ]
 }

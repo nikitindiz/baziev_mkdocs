@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 33335
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4414\" data-src=\"images/formula_full_270_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{v}^п = k_в + \\gamma^п \\cdot k_0^п + k_{\\omega}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.35)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4414\" data-src=\"images/formula_full_270_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{v}^п = k_в + \\gamma^п \\cdot k_0^п + k_{\\omega}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.35)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

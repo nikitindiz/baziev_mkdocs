@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 6452
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4540\" data-src=\"images/formula_full_279_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n^ж = \\gamma^п \\cdot \\gamma^ж = 3,7611039 \\cdot 10^3 = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.6)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4540\" data-src=\"images/formula_full_279_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n^ж = \\gamma^п \\cdot \\gamma^ж = 3,7611039 \\cdot 10^3 = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.6)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "852630f710d0",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

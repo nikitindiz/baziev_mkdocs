@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 8291
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5262\" data-src=\"images/formula_inline_327_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = \\frac{\\text{э}}{m_{\\text{э}}} \\cdot E_{\\text{ед}} \\cdot v_{\\text{ед}}^{-1} = g_{\\text{э}} \\cdot E_{\\text{ед}} \\cdot \\tau_{\\text{ед}} = 2,8992629 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.3)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5262\" data-src=\"images/formula_inline_327_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = \\frac{\\text{э}}{m_{\\text{э}}} \\cdot E_{\\text{ед}} \\cdot v_{\\text{ед}}^{-1} = g_{\\text{э}} \\cdot E_{\\text{ед}} \\cdot \\tau_{\\text{ед}} = 2,8992629 \\cdot 10^8 \\text{ м} \\cdot \\text{с}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.3)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

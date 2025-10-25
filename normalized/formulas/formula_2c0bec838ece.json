@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 2667
   },
-  "wrapper_html": "<span data-db-key=\"7790\" data-src=\"images/formula_inline_520_3_21.webp\"> $\\Delta l_{\\max} = n_n \\cdot d_n = 1,188398 \\cdot 10^{-5} \\text{ м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7790\" data-src=\"images/formula_inline_520_3_21.webp\"> $\\Delta l_{\\max} = n_n \\cdot d_n = 1,188398 \\cdot 10^{-5} \\text{ м}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

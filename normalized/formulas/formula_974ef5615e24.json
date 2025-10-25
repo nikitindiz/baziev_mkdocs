@@ -11,5 +11,8 @@
     "file": "chapter_условные-обозначения/index.md",
     "position": 9610
   },
-  "wrapper_html": "<span data-db-key=\"9204\" data-src=\"images/formula_inline_626_1_135.webp\"> $V_{ед}$ </span>"
+  "wrapper_html": "<span data-db-key=\"9204\" data-src=\"images/formula_inline_626_1_135.webp\"> $V_{ед}$ </span>",
+  "symbols": [
+    "4650f5dfc1df"
+  ]
 }

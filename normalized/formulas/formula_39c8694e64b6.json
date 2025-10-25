@@ -11,5 +11,10 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 27654
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9026\" data-src=\"images/formula_full_605_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_e = m'_e - m_e = km_e - m_e = m_e(k - 1) = 7.1047 \\cdot 10^{-33} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.20)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9026\" data-src=\"images/formula_full_605_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_e = m'_e - m_e = km_e - m_e = m_e(k - 1) = 7.1047 \\cdot 10^{-33} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.20)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

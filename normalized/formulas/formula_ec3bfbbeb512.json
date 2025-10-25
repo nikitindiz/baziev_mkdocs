@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 29822
   },
-  "wrapper_html": "<span data-db-key=\"2224\" data-src=\"images/formula_inline_145_0_1.webp\"> $k_i = \\frac{E(e_i)}{\\pi/2} = \\frac{2E(e_i)}{\\pi}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2224\" data-src=\"images/formula_inline_145_0_1.webp\"> $k_i = \\frac{E(e_i)}{\\pi/2} = \\frac{2E(e_i)}{\\pi}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

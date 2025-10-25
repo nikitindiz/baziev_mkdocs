@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 1151
   },
-  "wrapper_html": "<span data-db-key=\"2061\" data-src=\"images/formula_inline_135_2_100.webp\"> $F = ma$ </span>"
+  "wrapper_html": "<span data-db-key=\"2061\" data-src=\"images/formula_inline_135_2_100.webp\"> $F = ma$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

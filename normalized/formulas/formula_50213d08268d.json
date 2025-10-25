@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/29-излучение-солнца.md",
     "position": 10518
   },
-  "wrapper_html": "<span data-db-key=\"7595\" data-src=\"images/formula_inline_502_4_19.webp\"> $\\nu_{co} = 2,4653985\\cdot$ </span>"
+  "wrapper_html": "<span data-db-key=\"7595\" data-src=\"images/formula_inline_502_4_19.webp\"> $\\nu_{co} = 2,4653985\\cdot$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

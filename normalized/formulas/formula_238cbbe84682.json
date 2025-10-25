@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 20063
   },
-  "wrapper_html": "<span data-db-key=\"5808\" data-src=\"images/formula_inline_357_4_25.webp\"> $\\rho (T)_i, \\cos \\alpha$ </span>"
+  "wrapper_html": "<span data-db-key=\"5808\" data-src=\"images/formula_inline_357_4_25.webp\"> $\\rho (T)_i, \\cos \\alpha$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

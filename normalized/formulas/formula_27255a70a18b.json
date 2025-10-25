@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 29048
   },
-  "wrapper_html": "<span data-db-key=\"7335\" data-src=\"images/formula_inline_473_3_10.webp\"> $\\sigma_{\\odot} = f(\\tau)$ </span>"
+  "wrapper_html": "<span data-db-key=\"7335\" data-src=\"images/formula_inline_473_3_10.webp\"> $\\sigma_{\\odot} = f(\\tau)$ </span>",
+  "symbols": [
+    "b5b0c2b51293",
+    "2da43f769c74",
+    "ff905a84b912"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-vii-физика-солнца/30-природа-спектральных-линий-в-световом-потоке.md",
     "position": 22771
   },
-  "wrapper_html": "<span data-db-key=\"7678\" data-src=\"images/formula_inline_510_3_171.webp\"> $\\lambda > d$ </span>"
+  "wrapper_html": "<span data-db-key=\"7678\" data-src=\"images/formula_inline_510_3_171.webp\"> $\\lambda > d$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-vi-природа-гравитации/предварительные-замечание-к-главе.md",
     "position": 610
   },
-  "wrapper_html": "<span data-db-key=\"7099\" data-src=\"images/formula_inline_453_4_40.webp\"> $G$ </span>"
+  "wrapper_html": "<span data-db-key=\"7099\" data-src=\"images/formula_inline_453_4_40.webp\"> $G$ </span>",
+  "symbols": [
+    "64f6b41ecdd3"
+  ]
 }

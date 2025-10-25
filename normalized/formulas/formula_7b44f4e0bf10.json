@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/4-ультраструктура-нейтрона.md",
     "position": 2314
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"288\" data-src=\"images/formula_full_22_10.webp\">\n<div style=\"width: 100%;\">\n\n$$d_n = \\sqrt[3]{\\frac{b (n_э \\cdot V_э + n_e \\cdot V_e)}{\\pi}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.5)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"288\" data-src=\"images/formula_full_22_10.webp\">\n<div style=\"width: 100%;\">\n\n$$d_n = \\sqrt[3]{\\frac{b (n_э \\cdot V_э + n_e \\cdot V_e)}{\\pi}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.5)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "cad37467980b",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

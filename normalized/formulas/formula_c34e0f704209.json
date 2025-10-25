@@ -11,5 +11,11 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/38-закон-вращения-и-внутреннее-строение-планет.md",
     "position": 15348
   },
-  "wrapper_html": "<span data-db-key=\"8605\" data-src=\"images/formula_inline_577_12_0.webp\"> $\\omega_{☿} = 2,9907078 \\cdot 10^{-7} с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8605\" data-src=\"images/formula_inline_577_12_0.webp\"> $\\omega_{☿} = 2,9907078 \\cdot 10^{-7} с^{-1}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

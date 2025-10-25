@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 41113
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3531\" data-src=\"images/formula_full_220_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{(O-O)} = \\gamma \\cdot \\left[ \\frac{e/2 \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2} + \\frac{e/2 \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2} \\right] = \\frac{\\gamma \\cdot e \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.35)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3531\" data-src=\"images/formula_full_220_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{(O-O)} = \\gamma \\cdot \\left[ \\frac{e/2 \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2} + \\frac{e/2 \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2} \\right] = \\frac{\\gamma \\cdot e \\cdot Z_0}{2\\pi R_n^2 \\cdot k_p \\cdot r_{(O-O)}^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.35)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

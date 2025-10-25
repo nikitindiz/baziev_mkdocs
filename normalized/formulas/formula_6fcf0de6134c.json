@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
     "position": 31655
   },
-  "wrapper_html": "<span data-db-key=\"1940\" data-src=\"images/formula_inline_128_7_3.webp\"> $кг \\cdot м \\cdot с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1940\" data-src=\"images/formula_inline_128_7_3.webp\"> $кг \\cdot м \\cdot с^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

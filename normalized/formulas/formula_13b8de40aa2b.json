@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/11-уравнение-истинного-состояния-газов.md",
     "position": 2683
   },
-  "wrapper_html": "<span data-db-key=\"1724\" data-src=\"images/formula_inline_118_3_0.webp\"> $\\pm \\Delta V, \\pm \\Delta t$ </span>"
+  "wrapper_html": "<span data-db-key=\"1724\" data-src=\"images/formula_inline_118_3_0.webp\"> $\\pm \\Delta V, \\pm \\Delta t$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

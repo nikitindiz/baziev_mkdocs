@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 72550
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8211\" data-src=\"images/formula_full_548_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{s1} = \\frac{F_{ts}}{m_s \\cdot \\nu_{ед}} = \\frac{14,371356 \\cdot 10^{33}}{5,6870031 \\cdot 10^{26}} = 2,5270526 \\cdot 10^{7} \\text{ м} \\cdot {с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.77)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8211\" data-src=\"images/formula_full_548_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{s1} = \\frac{F_{ts}}{m_s \\cdot \\nu_{ед}} = \\frac{14,371356 \\cdot 10^{33}}{5,6870031 \\cdot 10^{26}} = 2,5270526 \\cdot 10^{7} \\text{ м} \\cdot {с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.77)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

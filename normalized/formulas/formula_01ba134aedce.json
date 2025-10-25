@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/31-обратный-фазовый-переход-высшего-рода-и-круговорот-материи-во-вселенной.md",
     "position": 7440
   },
-  "wrapper_html": "<span data-db-key=\"7754\" data-src=\"images/formula_inline_516_3_10.webp\"> $Z_n = (n_э \\cdot э - n_e \\cdot e) = 9,6131352 \\cdot 10^{-19} \\, Кл$ </span>"
+  "wrapper_html": "<span data-db-key=\"7754\" data-src=\"images/formula_inline_516_3_10.webp\"> $Z_n = (n_э \\cdot э - n_e \\cdot e) = 9,6131352 \\cdot 10^{-19} \\, Кл$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

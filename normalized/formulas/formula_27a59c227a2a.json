@@ -11,5 +11,12 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 60947
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8156\" data-src=\"images/formula_full_545_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{\\omega i} = \\frac{a_i}{g_{ei}} = \\frac{R_{ei} \\cdot \\omega_i^2}{Gm_i / R_{ei}^2} = \\frac{R_{ei}^3 \\cdot \\omega_i^2}{Gm_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.66)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8156\" data-src=\"images/formula_full_545_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{\\omega i} = \\frac{a_i}{g_{ei}} = \\frac{R_{ei} \\cdot \\omega_i^2}{Gm_i / R_{ei}^2} = \\frac{R_{ei}^3 \\cdot \\omega_i^2}{Gm_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.66)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "852630f710d0",
+    "cad37467980b",
+    "64f6b41ecdd3",
+    "b5b0c2b51293"
+  ]
 }

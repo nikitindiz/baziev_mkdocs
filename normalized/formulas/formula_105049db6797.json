@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 12465
   },
-  "wrapper_html": "<span data-db-key=\"560\" data-src=\"images/formula_inline_41_1_17.webp\"> $T = T_0 + 15\\degree C = 288,15 К$ </span>"
+  "wrapper_html": "<span data-db-key=\"560\" data-src=\"images/formula_inline_41_1_17.webp\"> $T = T_0 + 15\\degree C = 288,15 К$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912"
+  ]
 }

@@ -11,5 +11,10 @@
     "file": "chapter_глава-vii-физика-солнца/32-эволюция-солнца.md",
     "position": 16278
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7837\" data-src=\"images/formula_full_523_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_{\\tau} = M_k / T_{\\odot} = 9,1429713 \\cdot 10^{10} кг \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.22)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7837\" data-src=\"images/formula_full_523_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_{\\tau} = M_k / T_{\\odot} = 9,1429713 \\cdot 10^{10} кг \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.22)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "9af9381839c9"
+  ]
 }

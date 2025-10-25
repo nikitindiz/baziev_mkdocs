@@ -11,5 +11,14 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 282685
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3154\" data-src=\"images/formula_full_200_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\operatorname{tg} \\varphi_{3 i}=\\frac{X_{3 i}}{z_{d i}}=\\frac{a_{d} \\cdot \\lambda_{i}}{\\left(K_{0}-1\\right) \\cdot \\lambda_{i}}=\\frac{a_{d}}{K_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.169)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3154\" data-src=\"images/formula_full_200_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\operatorname{tg} \\varphi_{3 i}=\\frac{X_{3 i}}{z_{d i}}=\\frac{a_{d} \\cdot \\lambda_{i}}{\\left(K_{0}-1\\right) \\cdot \\lambda_{i}}=\\frac{a_{d}}{K_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.169)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293",
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "8d6fa2d1d49d",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

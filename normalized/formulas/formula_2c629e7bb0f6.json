@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 45440
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6456\" data-src=\"images/formula_full_400_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{H_2O} = N_s(H_2O) \\cdot n^ж = 2,7811647 \\cdot 10^{28}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.43)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6456\" data-src=\"images/formula_full_400_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_{H_2O} = N_s(H_2O) \\cdot n^ж = 2,7811647 \\cdot 10^{28}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.43)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

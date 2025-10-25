@@ -11,5 +11,9 @@
     "file": "chapter_глава-x-экспериментальная-основа-единой-теории-физики/41-имеющиеся-экспериментальные-и-наблюдательные-данные-в-пользу-единой-теории.md",
     "position": 23351
   },
-  "wrapper_html": "<span data-db-key=\"9032\" data-src=\"images/formula_inline_605_2_2.webp\"> $m'_e = k m_e = 9,109534 \\cdot 10^{-31} кг$ </span>"
+  "wrapper_html": "<span data-db-key=\"9032\" data-src=\"images/formula_inline_605_2_2.webp\"> $m'_e = k m_e = 9,109534 \\cdot 10^{-31} кг$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

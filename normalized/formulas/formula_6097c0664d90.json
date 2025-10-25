@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 96956
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6037\" data-src=\"images/formula_full_370_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{2} = \\frac{C_{2} (Al)}{2 A_{2}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{2}} = 0,182267$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.103)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6037\" data-src=\"images/formula_full_370_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{2} = \\frac{C_{2} (Al)}{2 A_{2}^{2} \\cdot \\psi_{в}^{2} \\cdot T_{2}} = 0,182267$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.103)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

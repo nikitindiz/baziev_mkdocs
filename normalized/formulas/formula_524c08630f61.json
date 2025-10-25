@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
     "position": 17633
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"474\" data-src=\"images/formula_full_34_3.webp\">\n<div style=\"width: 100%;\">\n\n$$n = \\frac{E_{0He}}{E_{min}} = \\frac{37,729229 \\cdot 10^{-22}}{E_{min}} = 5,6938881 \\cdot 10^{12}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.29)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"474\" data-src=\"images/formula_full_34_3.webp\">\n<div style=\"width: 100%;\">\n\n$$n = \\frac{E_{0He}}{E_{min}} = \\frac{37,729229 \\cdot 10^{-22}}{E_{min}} = 5,6938881 \\cdot 10^{12}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.29)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

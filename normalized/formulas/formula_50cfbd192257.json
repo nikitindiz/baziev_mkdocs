@@ -11,5 +11,13 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 30186
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4935\" data-src=\"images/formula_full_302_3.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{\\text{л0}} = \\frac{\\varepsilon_{\\text{tл}}}{(V_{\\text{gл}} - V_{sл})} = \\frac{N_s N_2 N_3 \\gamma q \\cdot Z}{a_л \\cdot (V_{gл} - V_s {s \\text{л}})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.47)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4935\" data-src=\"images/formula_full_302_3.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{\\text{л0}} = \\frac{\\varepsilon_{\\text{tл}}}{(V_{\\text{gл}} - V_{sл})} = \\frac{N_s N_2 N_3 \\gamma q \\cdot Z}{a_л \\cdot (V_{gл} - V_s {s \\text{л}})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.47)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

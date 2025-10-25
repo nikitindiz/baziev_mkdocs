@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 5569
   },
-  "wrapper_html": "<span data-db-key=\"2094\" data-src=\"images/formula_inline_136_4_1.webp\"> $i_{1} = m\\overline{v}_{1} = 1132,622 \\text{кг} \\cdot \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2094\" data-src=\"images/formula_inline_136_4_1.webp\"> $i_{1} = m\\overline{v}_{1} = 1132,622 \\text{кг} \\cdot \\text{м} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

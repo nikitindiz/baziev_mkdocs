@@ -11,5 +11,14 @@
     "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
     "position": 15270
   },
-  "wrapper_html": "<span data-db-key=\"7169\" data-src=\"images/formula_inline_459_0_1.webp\"> $\\varphi = G \\cdot M_{\\odot} / R_{\\odot}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7169\" data-src=\"images/formula_inline_459_0_1.webp\"> $\\varphi = G \\cdot M_{\\odot} / R_{\\odot}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "75b31c1633db",
+    "572d0da78fdc",
+    "8d6fa2d1d49d",
+    "64f6b41ecdd3",
+    "b5b0c2b51293"
+  ]
 }

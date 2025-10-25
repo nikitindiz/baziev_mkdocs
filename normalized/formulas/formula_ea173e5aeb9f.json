@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 20443
   },
-  "wrapper_html": "<span data-db-key=\"2137\" data-src=\"images/formula_inline_140_18_6.webp\"> $E(e)$ </span>"
+  "wrapper_html": "<span data-db-key=\"2137\" data-src=\"images/formula_inline_140_18_6.webp\"> $E(e)$ </span>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

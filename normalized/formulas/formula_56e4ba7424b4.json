@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 35016
   },
-  "wrapper_html": "<span data-db-key=\"6437\" data-src=\"images/formula_inline_399_12_0.webp\"> $\\rho_{H_2SO_4} = 1830,5 \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6437\" data-src=\"images/formula_inline_399_12_0.webp\"> $\\rho_{H_2SO_4} = 1830,5 \\text{ кг} \\cdot \\text{м}^{-3}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

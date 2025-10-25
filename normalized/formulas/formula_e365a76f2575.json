@@ -11,5 +11,11 @@
     "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
     "position": 4048
   },
-  "wrapper_html": "<span data-db-key=\"7119\" data-src=\"images/formula_inline_454_15_1.webp\"> $\\gamma = 3,6473973 \\cdot 10^{6} \\text{Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7119\" data-src=\"images/formula_inline_454_15_1.webp\"> $\\gamma = 3,6473973 \\cdot 10^{6} \\text{Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 75468
   },
-  "wrapper_html": "<span data-db-key=\"6086\" data-src=\"images/formula_inline_372_0_4.webp\"> $\\sqrt{n_c} = \\sqrt{2,24} = 1,4966629 = n_A$ </span>"
+  "wrapper_html": "<span data-db-key=\"6086\" data-src=\"images/formula_inline_372_0_4.webp\"> $\\sqrt{n_c} = \\sqrt{2,24} = 1,4966629 = n_A$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

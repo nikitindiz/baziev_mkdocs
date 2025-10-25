@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 46658
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"668\" data-src=\"images/formula_full_48_12.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\downarrow} = \\frac{r_i \\cdot f_1 \\cdot d_{g1}^3}{3d_{g2}^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.39)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"668\" data-src=\"images/formula_full_48_12.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\downarrow} = \\frac{r_i \\cdot f_1 \\cdot d_{g1}^3}{3d_{g2}^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.39)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

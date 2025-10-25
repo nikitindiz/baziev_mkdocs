@@ -11,5 +11,12 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 56667
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8134\" data-src=\"images/formula_full_544_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{s0} = F_1 / \\sin \\alpha = 7,7767079 \\cdot 10^{34} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.60)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8134\" data-src=\"images/formula_full_544_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{s0} = F_1 / \\sin \\alpha = 7,7767079 \\cdot 10^{34} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.60)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

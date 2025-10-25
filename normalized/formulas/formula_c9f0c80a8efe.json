@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 18938
   },
-  "wrapper_html": "<span data-db-key=\"4946\" data-src=\"images/formula_inline_302_6_26.webp\"> $E_{s0} = -2,8653729 \\cdot 10^9 \\text{ Па}$ </span>"
+  "wrapper_html": "<span data-db-key=\"4946\" data-src=\"images/formula_inline_302_6_26.webp\"> $E_{s0} = -2,8653729 \\cdot 10^9 \\text{ Па}$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

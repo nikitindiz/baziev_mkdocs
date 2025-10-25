@@ -11,5 +11,8 @@
     "file": "chapter_условные-обозначения/index.md",
     "position": 11803
   },
-  "wrapper_html": "<span data-db-key=\"9236\" data-src=\"images/formula_inline_626_2_42.webp\"> $v_{si}$ </span>"
+  "wrapper_html": "<span data-db-key=\"9236\" data-src=\"images/formula_inline_626_2_42.webp\"> $v_{si}$ </span>",
+  "symbols": [
+    "da4041efbcb0"
+  ]
 }

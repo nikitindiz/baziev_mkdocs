@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 93818
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5157\" data-src=\"images/formula_full_317_22.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{g c}=\\frac{\\varepsilon_{c}}{P_{c}}=\\frac{8,935015 \\cdot 10^{-21}}{2,2119247 \\cdot 10^{7}}=4,0394753 \\cdot 10^{-28} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.170)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5157\" data-src=\"images/formula_full_317_22.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{g c}=\\frac{\\varepsilon_{c}}{P_{c}}=\\frac{8,935015 \\cdot 10^{-21}}{2,2119247 \\cdot 10^{7}}=4,0394753 \\cdot 10^{-28} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.170)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

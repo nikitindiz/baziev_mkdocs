@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 66790
   },
-  "wrapper_html": "<span data-db-key=\"3677\" data-src=\"images/formula_inline_229_3_3.webp\"> $F_a = -2,455168 \\cdot 10^{-14} \\, Н$ </span>"
+  "wrapper_html": "<span data-db-key=\"3677\" data-src=\"images/formula_inline_229_3_3.webp\"> $F_a = -2,455168 \\cdot 10^{-14} \\, Н$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

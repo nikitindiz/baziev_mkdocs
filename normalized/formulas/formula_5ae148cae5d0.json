@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 34702
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2188\" data-src=\"images/formula_full_143_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = u_{\\odot} u_{☿} \\cdot a_{☿} \\cdot \\frac{4E \\left( e_{☿} \\right)}{c_{☿}} = \\dots = u_{\\odot} u_{♇} a_{♇} \\cdot \\frac{4E \\left( e_{♇} \\right)}{c_{♇}} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.35)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2188\" data-src=\"images/formula_full_143_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = u_{\\odot} u_{☿} \\cdot a_{☿} \\cdot \\frac{4E \\left( e_{☿} \\right)}{c_{☿}} = \\dots = u_{\\odot} u_{♇} a_{♇} \\cdot \\frac{4E \\left( e_{♇} \\right)}{c_{♇}} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.35)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293",
+    "cad37467980b"
+  ]
 }

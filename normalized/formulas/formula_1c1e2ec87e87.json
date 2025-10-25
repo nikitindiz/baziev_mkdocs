@@ -11,5 +11,6 @@
     "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
     "position": 60725
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7533\" data-src=\"images/formula_full_496_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{ni} = n_{\\nu i} / n_э \\, \\text{ нейтрон/с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.30)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7533\" data-src=\"images/formula_full_496_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{ni} = n_{\\nu i} / n_э \\, \\text{ нейтрон/с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.30)\n</div>\n</div>",
+  "symbols": []
 }

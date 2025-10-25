@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 28511
   },
-  "wrapper_html": "<span data-db-key=\"6415\" data-src=\"images/formula_inline_397_5_0.webp\"> $q_{H^-} = (Z_H + e) = -1,5639627 \\cdot 10^{-19} \\text{ Кл}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6415\" data-src=\"images/formula_inline_397_5_0.webp\"> $q_{H^-} = (Z_H + e) = -1,5639627 \\cdot 10^{-19} \\text{ Кл}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

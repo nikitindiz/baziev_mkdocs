@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 35282
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5823\" data-src=\"images/formula_full_358_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta W_f = 6\\% \\; W_{fн} = 1,5 \\cdot 10^7 \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.48)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5823\" data-src=\"images/formula_full_358_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta W_f = 6\\% \\; W_{fн} = 1,5 \\cdot 10^7 \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.48)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

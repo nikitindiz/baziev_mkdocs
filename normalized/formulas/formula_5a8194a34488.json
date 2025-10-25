@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 142841
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6223\" data-src=\"images/formula_full_381_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_m = I_{\\mu \\oplus} / H_{\\oplus} \\cdot a_m = 1,3775636 \\cdot 10^{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.163)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6223\" data-src=\"images/formula_full_381_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_m = I_{\\mu \\oplus} / H_{\\oplus} \\cdot a_m = 1,3775636 \\cdot 10^{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.163)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9",
+    "b5b0c2b51293"
+  ]
 }

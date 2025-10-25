@@ -11,5 +11,16 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 44150
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8393\" data-src=\"images/formula_full_562_16.webp\">\n<div style=\"width: 100%;\">\n\n$$AM_1 = \\text{tg} \\, \\gamma_{☿} \\cdot r_{☿} = \\text{tg} \\left[ \\frac{\\pi}{2} - (\\alpha_{☿} + \\beta_{☿}) \\right] \\cdot \\sin \\beta_{☿} \\cdot a_{☿}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.37)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8393\" data-src=\"images/formula_full_562_16.webp\">\n<div style=\"width: 100%;\">\n\n$$AM_1 = \\text{tg} \\, \\gamma_{☿} \\cdot r_{☿} = \\text{tg} \\left[ \\frac{\\pi}{2} - (\\alpha_{☿} + \\beta_{☿}) \\right] \\cdot \\sin \\beta_{☿} \\cdot a_{☿}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.37)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "b5b0c2b51293",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "8fd7476253af",
+    "852630f710d0",
+    "773fb8579a52"
+  ]
 }

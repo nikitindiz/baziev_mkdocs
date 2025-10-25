@@ -11,5 +11,13 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/37-истинные-параметры-галактики-и-стационарность-вселенной.md",
     "position": 12525
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8497\" data-src=\"images/formula_full_570_6.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{г1} = 2\\gamma \\cdot Q_{g1} \\cdot \\left[ \\frac{Z_{g2}}{R_{(1-2)}^2} + \\frac{Z_{g3}}{R_{(1-3)}^2} + \\dots + \\frac{Z_{gn}}{R_{(1-n)}^2} \\right], Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.21)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8497\" data-src=\"images/formula_full_570_6.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{г1} = 2\\gamma \\cdot Q_{g1} \\cdot \\left[ \\frac{Z_{g2}}{R_{(1-2)}^2} + \\frac{Z_{g3}}{R_{(1-3)}^2} + \\dots + \\frac{Z_{gn}}{R_{(1-n)}^2} \\right], Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.21)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "cad37467980b",
+    "c18f47f412f4",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 22435
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4604\" data-src=\"images/formula_full_283_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_л = 1,212 \\cdot 10^9 - 3,72 \\cdot 10^9 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.33)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4604\" data-src=\"images/formula_full_283_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_л = 1,212 \\cdot 10^9 - 3,72 \\cdot 10^9 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.33)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

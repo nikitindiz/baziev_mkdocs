@@ -11,5 +11,16 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 61289
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2504\" data-src=\"images/formula_full_161_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{1i} = \\frac{\\pi r_i}{v_i} = \\frac{\\pi \\cdot \\lambda_i}{2 v_i} = \\frac{\\pi \\left( 4 \\alpha Э^2 - m_э \\lambda_i^2 \\operatorname{tg}^2 \\beta \\nu_i \\nu_{\\text{ед}} \\right)}{4 \\alpha \\cdot Э^2 (\\pi + \\operatorname{tg} \\beta) \\cdot \\nu_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.38)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2504\" data-src=\"images/formula_full_161_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{1i} = \\frac{\\pi r_i}{v_i} = \\frac{\\pi \\cdot \\lambda_i}{2 v_i} = \\frac{\\pi \\left( 4 \\alpha Э^2 - m_э \\lambda_i^2 \\operatorname{tg}^2 \\beta \\nu_i \\nu_{\\text{ед}} \\right)}{4 \\alpha \\cdot Э^2 (\\pi + \\operatorname{tg} \\beta) \\cdot \\nu_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.38)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "572d0da78fdc",
+    "606678d17268",
+    "cad37467980b",
+    "8fd7476253af",
+    "852630f710d0",
+    "2da43f769c74",
+    "773fb8579a52",
+    "b5b0c2b51293"
+  ]
 }

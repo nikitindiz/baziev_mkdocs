@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 38529
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2205\" data-src=\"images/formula_full_144_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{a_i^3}{T_i^2} = \\frac{I_{\\odot}}{16E^2(e_i)} \\neq \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.41)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2205\" data-src=\"images/formula_full_144_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{a_i^3}{T_i^2} = \\frac{I_{\\odot}}{16E^2(e_i)} \\neq \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.41)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

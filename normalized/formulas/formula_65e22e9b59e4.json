@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 2639
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1497\" data-src=\"images/formula_full_106_6.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{0i} = \\frac{P_n (э)_i m_{э} \\mu \\cdot A_i}{2 \\sigma_n \\cdot m_i} = \\frac{P_n (э)_i m_{э} \\mu A_i}{2 \\sigma_n \\cdot m_n \\cdot A_i} = \\frac{P_n (э)_i \\cdot 2\\hbar}{2 \\sigma_n \\cdot m_n} = \\frac{P_n (э)_i \\cdot \\hbar}{\\sigma_n \\cdot m_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.4)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1497\" data-src=\"images/formula_full_106_6.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{0i} = \\frac{P_n (э)_i m_{э} \\mu \\cdot A_i}{2 \\sigma_n \\cdot m_i} = \\frac{P_n (э)_i m_{э} \\mu A_i}{2 \\sigma_n \\cdot m_n \\cdot A_i} = \\frac{P_n (э)_i \\cdot 2\\hbar}{2 \\sigma_n \\cdot m_n} = \\frac{P_n (э)_i \\cdot \\hbar}{\\sigma_n \\cdot m_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.4)\n</div>\n</div>",
+  "symbols": [
+    "db7124669e2f",
+    "ff905a84b912",
+    "572d0da78fdc",
+    "9af9381839c9",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

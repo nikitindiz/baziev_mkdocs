@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 27913
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7277\" data-src=\"images/formula_full_470_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu = L_\\odot / C_э = L_\\odot \\cdot m_э / \\mathscr{P} = 1,8809693 \\cdot 10^{12} \\, \\text{кг} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.23)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7277\" data-src=\"images/formula_full_470_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu = L_\\odot / C_э = L_\\odot \\cdot m_э / \\mathscr{P} = 1,8809693 \\cdot 10^{12} \\, \\text{кг} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.23)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

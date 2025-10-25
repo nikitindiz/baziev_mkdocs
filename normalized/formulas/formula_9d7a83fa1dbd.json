@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 17671
   },
-  "wrapper_html": "<span data-db-key=\"5333\" data-src=\"images/formula_inline_330_9_13.webp\"> $\\omega_i / V_{ri}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5333\" data-src=\"images/formula_inline_330_9_13.webp\"> $\\omega_i / V_{ri}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

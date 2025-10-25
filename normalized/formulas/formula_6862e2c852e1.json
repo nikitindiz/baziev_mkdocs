@@ -11,5 +11,9 @@
     "file": "chapter_глава-vi-природа-гравитации/24-явление-перекрёстного-замыкания-полей-композиционных-тел.md",
     "position": 6999
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7127\" data-src=\"images/formula_full_455_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_g (m_{ед}) = 3,0242769 \\cdot 10^{-9} Кл = Const$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.9)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7127\" data-src=\"images/formula_full_455_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_g (m_{ед}) = 3,0242769 \\cdot 10^{-9} Кл = Const$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.9)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "ff905a84b912"
+  ]
 }

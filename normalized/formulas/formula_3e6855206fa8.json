@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 101661
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5193\" data-src=\"images/formula_full_319_5.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{2c} = \\frac{\\varphi_{H_2O} \\cdot z}{2V_c} = \\frac{6,0503516 \\cdot 10^{-21}}{2V_c} = 1,1563502 \\cdot 10^8 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.175)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5193\" data-src=\"images/formula_full_319_5.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{2c} = \\frac{\\varphi_{H_2O} \\cdot z}{2V_c} = \\frac{6,0503516 \\cdot 10^{-21}}{2V_c} = 1,1563502 \\cdot 10^8 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.175)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
+  ]
 }

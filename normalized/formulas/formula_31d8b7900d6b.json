@@ -11,5 +11,8 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 44535
   },
-  "wrapper_html": "<span data-db-key=\"5122\" data-src=\"images/formula_inline_314_15_21.webp\"> $P = P_0^п = 6,1075801 \\cdot 10^2 \\, Па$ </span>"
+  "wrapper_html": "<span data-db-key=\"5122\" data-src=\"images/formula_inline_314_15_21.webp\"> $P = P_0^п = 6,1075801 \\cdot 10^2 \\, Па$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

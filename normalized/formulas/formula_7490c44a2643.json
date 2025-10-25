@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 40150
   },
-  "wrapper_html": "<span data-db-key=\"2293\" data-src=\"images/formula_inline_149_1_30.webp\"> $\\rho_{co} = 9,2 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2293\" data-src=\"images/formula_inline_149_1_30.webp\"> $\\rho_{co} = 9,2 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

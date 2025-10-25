@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 25049
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5781\" data-src=\"images/formula_full_356_5.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{cAl} = \\frac{1,5871872 \\cdot 10^{-14}}{1,613822} = 9,8349582 \\cdot 10^{-15} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.34)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5781\" data-src=\"images/formula_full_356_5.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{cAl} = \\frac{1,5871872 \\cdot 10^{-14}}{1,613822} = 9,8349582 \\cdot 10^{-15} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.34)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

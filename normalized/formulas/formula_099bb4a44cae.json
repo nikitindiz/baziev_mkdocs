@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 105661
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5644\" data-src=\"images/formula_full_347_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\text{max}} = \\frac{v_s(\\text{Al})}{2\\pi b_i \\cdot r(\\text{Al})_{\\text{min}}} = \\frac{23,394472 \\cdot 10^7}{3,7814516 \\cdot 10^{-15}} = 6,1866379 \\cdot 10^{22} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.124)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5644\" data-src=\"images/formula_full_347_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\text{max}} = \\frac{v_s(\\text{Al})}{2\\pi b_i \\cdot r(\\text{Al})_{\\text{min}}} = \\frac{23,394472 \\cdot 10^7}{3,7814516 \\cdot 10^{-15}} = 6,1866379 \\cdot 10^{22} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.124)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

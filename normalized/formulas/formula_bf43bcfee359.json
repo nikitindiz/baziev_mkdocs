@@ -11,5 +11,10 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 7183
   },
-  "wrapper_html": "<span data-db-key=\"8009\" data-src=\"images/formula_inline_535_7_0.webp\"> $R_0 = \\sqrt[3]{\\frac{3 V_0}{4 \\pi}} = 3,7981359 \\cdot 10^{-5} \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8009\" data-src=\"images/formula_inline_535_7_0.webp\"> $R_0 = \\sqrt[3]{\\frac{3 V_0}{4 \\pi}} = 3,7981359 \\cdot 10^{-5} \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

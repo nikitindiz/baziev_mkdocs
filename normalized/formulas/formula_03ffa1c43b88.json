@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 44630
   },
-  "wrapper_html": "<span data-db-key=\"6519\" data-src=\"images/formula_inline_403_4_27.webp\"> $\\Delta n_э$ </span>"
+  "wrapper_html": "<span data-db-key=\"6519\" data-src=\"images/formula_inline_403_4_27.webp\"> $\\Delta n_э$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

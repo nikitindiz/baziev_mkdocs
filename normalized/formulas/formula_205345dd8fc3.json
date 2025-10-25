@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/17-вода-как-типичная-жидкость.md",
     "position": 31071
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4630\" data-src=\"images/formula_full_284_17.webp\">\n<div style=\"width: 100%;\">\n\n$$k_0^ж = \\frac{m_0v_0^2 \\cdot \\sin{\\alpha_0}}{2T_0} = \\frac{2477,7282 \\cdot 10^{-25} \\, \\text{Дж}}{546,3 \\, \\text{K}} = 4,5354718 \\cdot 10^{-25} \\, \\text{Дж} \\cdot \\text{K}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.46)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4630\" data-src=\"images/formula_full_284_17.webp\">\n<div style=\"width: 100%;\">\n\n$$k_0^ж = \\frac{m_0v_0^2 \\cdot \\sin{\\alpha_0}}{2T_0} = \\frac{2477,7282 \\cdot 10^{-25} \\, \\text{Дж}}{546,3 \\, \\text{K}} = 4,5354718 \\cdot 10^{-25} \\, \\text{Дж} \\cdot \\text{K}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.46)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

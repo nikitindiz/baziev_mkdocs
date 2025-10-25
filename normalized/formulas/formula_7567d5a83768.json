@@ -11,5 +11,11 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 52436
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5005\" data-src=\"images/formula_full_307_18.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{s1} = \\frac{\\varepsilon_{t1}}{m_s \\cdot V_{s1}} = \\frac{17,526923 \\cdot 10^{-17}}{2,3107824 \\cdot 10^{-18}} = 75,848435 \\text{ м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.90)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5005\" data-src=\"images/formula_full_307_18.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{s1} = \\frac{\\varepsilon_{t1}}{m_s \\cdot V_{s1}} = \\frac{17,526923 \\cdot 10^{-17}}{2,3107824 \\cdot 10^{-18}} = 75,848435 \\text{ м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.90)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

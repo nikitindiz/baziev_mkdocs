@@ -11,5 +11,9 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 46522
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4464\" data-src=\"images/formula_full_273_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{H_2O} = Z_O + 2Z_H + e = 7,62571 \\cdot 10^{-21} \\text{ Кл.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.55)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4464\" data-src=\"images/formula_full_273_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{H_2O} = Z_O + 2Z_H + e = 7,62571 \\cdot 10^{-21} \\text{ Кл.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.55)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

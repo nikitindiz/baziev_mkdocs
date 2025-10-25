@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/34-механика-столкновения-протосолнца-с-космическим-телом.md",
     "position": 38816
   },
-  "wrapper_html": "<span data-db-key=\"8130\" data-src=\"images/formula_inline_543_8_46.webp\"> $h_1 = R_s/2 = 1,22633 \\cdot 10^4 \\text{м}$ </span>"
+  "wrapper_html": "<span data-db-key=\"8130\" data-src=\"images/formula_inline_543_8_46.webp\"> $h_1 = R_s/2 = 1,22633 \\cdot 10^4 \\text{м}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc"
+  ]
 }

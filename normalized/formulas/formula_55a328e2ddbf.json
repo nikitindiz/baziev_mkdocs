@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 119889
   },
-  "wrapper_html": "<span data-db-key=\"3906\" data-src=\"images/formula_inline_241_11_58.webp\"> $OA = \\pi \\lambda / 2$ </span>"
+  "wrapper_html": "<span data-db-key=\"3906\" data-src=\"images/formula_inline_241_11_58.webp\"> $OA = \\pi \\lambda / 2$ </span>",
+  "symbols": [
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

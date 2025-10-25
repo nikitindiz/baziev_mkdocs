@@ -11,5 +11,11 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 71408
   },
-  "wrapper_html": "<span data-db-key=\"6045\" data-src=\"images/formula_inline_370_12_32.webp\"> $\\sin \\alpha_i = H_i / A_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"6045\" data-src=\"images/formula_inline_370_12_32.webp\"> $\\sin \\alpha_i = H_i / A_i$ </span>",
+  "symbols": [
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }

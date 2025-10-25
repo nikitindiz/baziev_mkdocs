@@ -11,5 +11,6 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 13000
   },
-  "wrapper_html": "<span data-db-key=\"4917\" data-src=\"images/formula_inline_300_2_2.webp\"> $n_{vu} = v_s u_s / v_\\text{л} u_\\text{л} = 2,01196$ </span>"
+  "wrapper_html": "<span data-db-key=\"4917\" data-src=\"images/formula_inline_300_2_2.webp\"> $n_{vu} = v_s u_s / v_\\text{л} u_\\text{л} = 2,01196$ </span>",
+  "symbols": []
 }

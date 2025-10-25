@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 40609
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4451\" data-src=\"images/formula_full_272_5.webp\">\n<div style=\"width: 100%;\">\n\n$$u_0 = \\frac{k_0^\\text{п} \\cdot T_0}{m_0 v_0} = \\frac{k_0^\\text{п} \\cdot T_0}{m_0 \\cdot 2f_0 A_0^\\text{п}} = \\frac{k_0^\\text{п}}{2m_0 A_0^\\text{п} \\cdot \\psi_в}, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.46)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4451\" data-src=\"images/formula_full_272_5.webp\">\n<div style=\"width: 100%;\">\n\n$$u_0 = \\frac{k_0^\\text{п} \\cdot T_0}{m_0 v_0} = \\frac{k_0^\\text{п} \\cdot T_0}{m_0 \\cdot 2f_0 A_0^\\text{п}} = \\frac{k_0^\\text{п}}{2m_0 A_0^\\text{п} \\cdot \\psi_в}, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.46)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

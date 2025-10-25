@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 163356
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3955\" data-src=\"images/formula_full_243_12.webp\">\n<div style=\"width: 100%;\">\n\n$$n_g(V) = \\frac{n_e(V)}{n_e(g)} = \\frac{2,909\\,9218 \\cdot 10^{23}}{2,436\\,3211 \\cdot 10^{13}} 1,1943917 \\cdot 10^{10}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.140)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3955\" data-src=\"images/formula_full_243_12.webp\">\n<div style=\"width: 100%;\">\n\n$$n_g(V) = \\frac{n_e(V)}{n_e(g)} = \\frac{2,909\\,9218 \\cdot 10^{23}}{2,436\\,3211 \\cdot 10^{13}} 1,1943917 \\cdot 10^{10}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.140)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "cad37467980b",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

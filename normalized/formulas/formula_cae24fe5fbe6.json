@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 43986
   },
-  "wrapper_html": "<span data-db-key=\"6520\" data-src=\"images/formula_inline_403_4_3.webp\"> $T = 273,15 \\text{ K} + 15\\degree \\text{ C} = 288,15 \\text{ K}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6520\" data-src=\"images/formula_inline_403_4_3.webp\"> $T = 273,15 \\text{ K} + 15\\degree \\text{ C} = 288,15 \\text{ K}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912"
+  ]
 }

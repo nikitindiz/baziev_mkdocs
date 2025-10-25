@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/10-явление-рассеяния-осциллятора-на-осцилляторе-у-реальных-газов.md",
     "position": 63436
   },
-  "wrapper_html": "<span data-db-key=\"1719\" data-src=\"images/formula_inline_117_9_1.webp\"> $i_{\\text{э}}(m) = m_{\\text{э}} \\mu / r(m)$ </span>"
+  "wrapper_html": "<span data-db-key=\"1719\" data-src=\"images/formula_inline_117_9_1.webp\"> $i_{\\text{э}}(m) = m_{\\text{э}} \\mu / r(m)$ </span>",
+  "symbols": [
+    "9af9381839c9"
+  ]
 }

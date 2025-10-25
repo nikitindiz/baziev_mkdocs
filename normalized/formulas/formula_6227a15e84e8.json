@@ -11,5 +11,14 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 59343
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5920\" data-src=\"images/formula_full_363_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_c' = \\rho_{20} \\cdot [1 + \\alpha' \\cdot (t_c - 20\\degree)]$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.76)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5920\" data-src=\"images/formula_full_363_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_c' = \\rho_{20} \\cdot [1 + \\alpha' \\cdot (t_c - 20\\degree)]$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.76)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "cad37467980b",
+    "ff905a84b912",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

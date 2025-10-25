@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/26-структура-конвективной-зоны.md",
     "position": 55632
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7378\" data-src=\"images/formula_full_476_19.webp\">\n<div style=\"width: 100%;\">\n\n$$C_a = \\frac{a_{h0}}{a_{70}} = \\frac{1571,2999 \\cdot 10^{-8}}{3,1168375 \\cdot 10^{-8}} = 504,13276$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.70)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7378\" data-src=\"images/formula_full_476_19.webp\">\n<div style=\"width: 100%;\">\n\n$$C_a = \\frac{a_{h0}}{a_{70}} = \\frac{1571,2999 \\cdot 10^{-8}}{3,1168375 \\cdot 10^{-8}} = 504,13276$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.70)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

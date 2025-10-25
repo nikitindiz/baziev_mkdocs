@@ -11,5 +11,11 @@
     "file": "chapter_глава-vii-физика-солнца/28-гиперчастотные-и-энергетические-параметры-солнечной-плазмы-в-функции-от-глубины-н.md",
     "position": 7250
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7508\" data-src=\"images/formula_full_487_13.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{71} = \\varepsilon_q/m_{71} \\cdot v_{71} = \\frac{8,0231385 \\cdot 10^{-22}}{2,7225572 \\cdot 10^{-14}} = 2,9469125 \\cdot 10^{-8} \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7508\" data-src=\"images/formula_full_487_13.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{71} = \\varepsilon_q/m_{71} \\cdot v_{71} = \\frac{8,0231385 \\cdot 10^{-22}}{2,7225572 \\cdot 10^{-14}} = 2,9469125 \\cdot 10^{-8} \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.17)\n</div>\n</div>",
+  "symbols": [
+    "606678d17268",
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

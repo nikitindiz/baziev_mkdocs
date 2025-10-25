@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 33300
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6403\" data-src=\"images/formula_full_397_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{SO_4}' = (Z_S + 4Z_O + 3e) = 3,0666514 \\cdot 10^{-19} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.27)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6403\" data-src=\"images/formula_full_397_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{SO_4}' = (Z_S + 4Z_O + 3e) = 3,0666514 \\cdot 10^{-19} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.27)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

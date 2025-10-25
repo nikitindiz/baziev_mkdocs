@@ -11,5 +11,15 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 41625
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8389\" data-src=\"images/formula_full_562_1.webp\">\n\n<div style=\"width: 100%;\">\n\n$$\\angle M_1 S_0 A = (90{\\degree} - \\alpha_{☿} - \\beta_{☿}) = \\gamma_{☿}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.31)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8389\" data-src=\"images/formula_full_562_1.webp\">\n\n<div style=\"width: 100%;\">\n\n$$\\angle M_1 S_0 A = (90{\\degree} - \\alpha_{☿} - \\beta_{☿}) = \\gamma_{☿}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.31)\n</div>\n</div>",
+  "symbols": [
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "606678d17268",
+    "cad37467980b",
+    "c18f47f412f4",
+    "8fd7476253af",
+    "773fb8579a52",
+    "572d0da78fdc"
+  ]
 }

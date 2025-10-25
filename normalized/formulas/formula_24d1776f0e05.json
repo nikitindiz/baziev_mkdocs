@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/19-электрический-ток-и-его-проводник.md",
     "position": 64480
   },
-  "wrapper_html": "<span data-db-key=\"5588\" data-src=\"images/formula_inline_343_1_0.webp\"> $= 2,5474751 \\cdot 10^{-10} м$ </span>"
+  "wrapper_html": "<span data-db-key=\"5588\" data-src=\"images/formula_inline_343_1_0.webp\"> $= 2,5474751 \\cdot 10^{-10} м$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

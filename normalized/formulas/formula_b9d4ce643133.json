@@ -11,5 +11,9 @@
     "file": "chapter_глава-ⅷ-происхождение-солнечной-системы/index.md",
     "position": 7379
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7877\" data-src=\"images/formula_full_526_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_\\oplus = T_\\oplus \\cdot \\sqrt{k_4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.8)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7877\" data-src=\"images/formula_full_526_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_\\oplus = T_\\oplus \\cdot \\sqrt{k_4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.8)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268"
+  ]
 }

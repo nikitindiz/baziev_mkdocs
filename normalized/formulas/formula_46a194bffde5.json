@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 92910
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5153\" data-src=\"images/formula_full_317_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_{gc} = \\sqrt[3]{6V_{gc}/\\pi} = \\sqrt[3]{1071,2707 \\cdot 10^{-30}} = 1,0232139 \\cdot 10^{-9} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.167)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5153\" data-src=\"images/formula_full_317_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_{gc} = \\sqrt[3]{6V_{gc}/\\pi} = \\sqrt[3]{1071,2707 \\cdot 10^{-30}} = 1,0232139 \\cdot 10^{-9} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.167)\n</div>\n</div>",
+  "symbols": [
+    "b5b0c2b51293",
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af"
+  ]
 }

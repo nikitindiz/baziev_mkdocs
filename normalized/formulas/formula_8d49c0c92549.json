@@ -11,5 +11,8 @@
     "file": "chapter_глава-ⅸ-планетная-система-и-галактика/36-незамкнутые-траектории-планет-и-орбитальная-скорость-солнца.md",
     "position": 14746
   },
-  "wrapper_html": "<span data-db-key=\"8315\" data-src=\"images/formula_inline_557_12_1.webp\"> $u_{\\odot} = h_i / T_i$ </span>"
+  "wrapper_html": "<span data-db-key=\"8315\" data-src=\"images/formula_inline_557_12_1.webp\"> $u_{\\odot} = h_i / T_i$ </span>",
+  "symbols": [
+    "572d0da78fdc"
+  ]
 }

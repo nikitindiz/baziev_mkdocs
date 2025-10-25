@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 24048
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\">\n<div style=\"width: 100%;\">\n\n$$2m_i a \\cdot f_i^2 A_i^2 - 2m_i a f_i^2 d_{gi} A_i + E_i = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.34)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\">\n<div style=\"width: 100%;\">\n\n$$2m_i a \\cdot f_i^2 A_i^2 - 2m_i a f_i^2 d_{gi} A_i + E_i = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.34)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

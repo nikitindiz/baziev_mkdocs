@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/21-природа-лазерного-луча.md",
     "position": 11079
   },
-  "wrapper_html": "<span data-db-key=\"6317\" data-src=\"images/formula_inline_389_0_37.webp\"> $c_i = \\sqrt{\\mu \\cdot \\nu_i}$ </span>"
+  "wrapper_html": "<span data-db-key=\"6317\" data-src=\"images/formula_inline_389_0_37.webp\"> $c_i = \\sqrt{\\mu \\cdot \\nu_i}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "9af9381839c9"
+  ]
 }

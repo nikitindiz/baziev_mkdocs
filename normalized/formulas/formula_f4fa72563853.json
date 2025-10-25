@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/2-электрино-вторая-и-последняя-истинно-элементарная-частица.md",
     "position": 6702
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"109\" data-src=\"images/formula_full_8_5.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{si} = \\frac{h}{m_i} = \\frac{\\hbar \\cdot a}{m_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.12)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"109\" data-src=\"images/formula_full_8_5.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{si} = \\frac{h}{m_i} = \\frac{\\hbar \\cdot a}{m_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.12)\n</div>\n</div>",
+  "symbols": [
+    "da4041efbcb0",
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

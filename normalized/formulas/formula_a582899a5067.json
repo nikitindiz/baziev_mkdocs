@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 2569
   },
-  "wrapper_html": "<span data-db-key=\"6364\" data-src=\"images/formula_inline_393_8_1.webp\"> $э = 1,9876643 \\cdot 10^{-27} \\, Кл$ </span>"
+  "wrapper_html": "<span data-db-key=\"6364\" data-src=\"images/formula_inline_393_8_1.webp\"> $э = 1,9876643 \\cdot 10^{-27} \\, Кл$ </span>",
+  "symbols": [
+    "852630f710d0"
+  ]
 }

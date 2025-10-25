@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/6-начала-термодинамики-в-новом-свете.md",
     "position": 72018
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"796\" data-src=\"images/formula_full_54_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{Vi} = C_{V}(f) + C_{V}(u_к) + C_{V}(\\gamma)$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.71)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"796\" data-src=\"images/formula_full_54_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{Vi} = C_{V}(f) + C_{V}(u_к) + C_{V}(\\gamma)$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.71)\n</div>\n</div>",
+  "symbols": [
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

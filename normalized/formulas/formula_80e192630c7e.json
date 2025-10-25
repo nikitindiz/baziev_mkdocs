@@ -11,5 +11,13 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/5-гиперчастотная-механика-и-истинный-абсолютный-нуль.md",
     "position": 18652
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"476\" data-src=\"images/formula_full_34_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n = \\frac{E_{0i}}{E_{min}} = \\frac{h \\cdot f_{0i}}{h \\cdot f_{min}} = \\frac{f_{0i}}{f_{min}} = f_{0i} \\cdot \\tau_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.31)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"476\" data-src=\"images/formula_full_34_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n = \\frac{E_{0i}}{E_{min}} = \\frac{h \\cdot f_{0i}}{h \\cdot f_{min}} = \\frac{f_{0i}}{f_{min}} = f_{0i} \\cdot \\tau_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.31)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "2da43f769c74",
+    "572d0da78fdc",
+    "954f2960e119",
+    "5f54bd22cbdf",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/8-электрические-поля-нейтрона.md",
     "position": 27290
   },
-  "wrapper_html": "<span data-db-key=\"1158\" data-src=\"images/formula_inline_80_6_3.webp\"> $\\gamma = 3,6473973 \\cdot 10^6 \\text{ Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$ </span>"
+  "wrapper_html": "<span data-db-key=\"1158\" data-src=\"images/formula_inline_80_6_3.webp\"> $\\gamma = 3,6473973 \\cdot 10^6 \\text{ Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "c18f47f412f4",
+    "ff905a84b912",
+    "b5b0c2b51293"
+  ]
 }

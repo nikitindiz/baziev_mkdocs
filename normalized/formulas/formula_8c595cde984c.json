@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/211-кислотный-аккумулятор.md",
     "position": 47003
   },
-  "wrapper_html": "<span data-db-key=\"6534\" data-src=\"images/formula_inline_404_4_12.webp\"> $2n_a(H-e)^-$ </span>"
+  "wrapper_html": "<span data-db-key=\"6534\" data-src=\"images/formula_inline_404_4_12.webp\"> $2n_a(H-e)^-$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "b5b0c2b51293"
+  ]
 }

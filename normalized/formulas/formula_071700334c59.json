@@ -11,5 +11,8 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 22537
   },
-  "wrapper_html": "<span data-db-key=\"5805\" data-src=\"images/formula_inline_357_15_11.webp\"> $R_i \\leq R_0$ </span>"
+  "wrapper_html": "<span data-db-key=\"5805\" data-src=\"images/formula_inline_357_15_11.webp\"> $R_i \\leq R_0$ </span>",
+  "symbols": [
+    "cad37467980b"
+  ]
 }

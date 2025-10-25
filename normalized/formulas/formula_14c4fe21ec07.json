@@ -11,5 +11,10 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/16-пар-второе-состояние-воды.md",
     "position": 62910
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4490\" data-src=\"images/formula_full_275_17.webp\">\n<div style=\"width: 100%;\">\n\n$$u_0^T = \\frac{h \\cdot f_0}{m^п \\cdot v_0^T \\cdot a} = \\frac{3,7701389 \\cdot 10^{-21}}{2,3261965 \\cdot 10^{-20}} = 0,1620731 \\, м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.65)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4490\" data-src=\"images/formula_full_275_17.webp\">\n<div style=\"width: 100%;\">\n\n$$u_0^T = \\frac{h \\cdot f_0}{m^п \\cdot v_0^T \\cdot a} = \\frac{3,7701389 \\cdot 10^{-21}}{2,3261965 \\cdot 10^{-20}} = 0,1620731 \\, м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.65)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

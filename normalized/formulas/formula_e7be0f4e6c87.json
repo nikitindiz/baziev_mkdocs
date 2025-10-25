@@ -11,5 +11,11 @@
     "file": "chapter_условные-обозначения/index.md",
     "position": 14327
   },
-  "wrapper_html": "<span data-db-key=\"9252\" data-src=\"images/formula_inline_627_0_48.webp\"> $\\varphi$ </span>"
+  "wrapper_html": "<span data-db-key=\"9252\" data-src=\"images/formula_inline_627_0_48.webp\"> $\\varphi$ </span>",
+  "symbols": [
+    "606678d17268",
+    "572d0da78fdc",
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
+  ]
 }

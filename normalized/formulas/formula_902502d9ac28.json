@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 96475
   },
-  "wrapper_html": "<span data-db-key=\"3802\" data-src=\"images/formula_inline_235_6_12.webp\"> $f_e = 4 \\cdot 10^{17} с^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"3802\" data-src=\"images/formula_inline_235_6_12.webp\"> $f_e = 4 \\cdot 10^{17} с^{-1}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

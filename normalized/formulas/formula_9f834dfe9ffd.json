@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 5009
   },
-  "wrapper_html": "<span data-db-key=\"2090\" data-src=\"images/formula_inline_136_1_1.webp\"> $\\bar{v}_i = (v_0 + v_1)/2 = 11,111 \\, \\text{м} \\cdot \\text{с}^{-1}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2090\" data-src=\"images/formula_inline_136_1_1.webp\"> $\\bar{v}_i = (v_0 + v_1)/2 = 11,111 \\, \\text{м} \\cdot \\text{с}^{-1}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-vii-физика-солнца/25-закон-вращения-и-нейтронное-ядро-солнца.md",
     "position": 3904
   },
-  "wrapper_html": "<span data-db-key=\"7192\" data-src=\"images/formula_inline_461_2_0.webp\"> $m_{\\odot} = I_{\\odot}/G = 1,7988565 \\cdot 10^{30} \\text{ кг}$ </span>"
+  "wrapper_html": "<span data-db-key=\"7192\" data-src=\"images/formula_inline_461_2_0.webp\"> $m_{\\odot} = I_{\\odot}/G = 1,7988565 \\cdot 10^{30} \\text{ кг}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "64f6b41ecdd3"
+  ]
 }

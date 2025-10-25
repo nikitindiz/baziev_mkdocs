@@ -11,5 +11,10 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/12-полная-механика-макромира.md",
     "position": 39399
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2201\" data-src=\"images/formula_full_144_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_i = \\sqrt[3]{\\frac{I_\\odot T_i^2}{16 E^2} (e_i)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.42)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2201\" data-src=\"images/formula_full_144_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_i = \\sqrt[3]{\\frac{I_\\odot T_i^2}{16 E^2} (e_i)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.42)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

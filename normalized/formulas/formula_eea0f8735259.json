@@ -11,5 +11,9 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 16661
   },
-  "wrapper_html": "<span data-db-key=\"5775\" data-src=\"images/formula_inline_355_6_17.webp\"> $r_{ci} \\ge d_{э}$ </span>"
+  "wrapper_html": "<span data-db-key=\"5775\" data-src=\"images/formula_inline_355_6_17.webp\"> $r_{ci} \\ge d_{э}$ </span>",
+  "symbols": [
+    "cad37467980b",
+    "ff905a84b912"
+  ]
 }

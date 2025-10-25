@@ -11,5 +11,8 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/14-генерация-энергии-и-светла.md",
     "position": 57267
   },
-  "wrapper_html": "<span data-db-key=\"3617\" data-src=\"images/formula_inline_225_8_18.webp\"> $r_{ge} = \\lambda_i / 2$ </span>"
+  "wrapper_html": "<span data-db-key=\"3617\" data-src=\"images/formula_inline_225_8_18.webp\"> $r_{ge} = \\lambda_i / 2$ </span>",
+  "symbols": [
+    "b5b0c2b51293"
+  ]
 }

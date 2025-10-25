@@ -11,5 +11,11 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 170578
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6947\" data-src=\"images/formula_full_441_4.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{1}=\\frac{m_{n} \\cdot A_{0}}{\\rho_{1}}=\\frac{19,92684 \\cdot 10^{-27}}{3,514 \\cdot 10^{3}}=5,6707 \\cdot 10^{-30} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.140)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6947\" data-src=\"images/formula_full_441_4.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{1}=\\frac{m_{n} \\cdot A_{0}}{\\rho_{1}}=\\frac{19,92684 \\cdot 10^{-27}}{3,514 \\cdot 10^{3}}=5,6707 \\cdot 10^{-30} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.140)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "5821520d52e9",
+    "572d0da78fdc",
+    "b5b0c2b51293"
+  ]
 }

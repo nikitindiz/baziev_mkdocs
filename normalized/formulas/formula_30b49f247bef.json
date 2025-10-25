@@ -11,5 +11,9 @@
     "file": "chapter_глава-v-элементарные-частицы-и-строение-атома/23-зарядовая-структура-атома-и-химическая-валентность.md",
     "position": 27106
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6700\" data-src=\"images/formula_full_421_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{Na} = (e + K_э \\cdot э) = -1,6488203 \\cdot 10^{19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.20)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6700\" data-src=\"images/formula_full_421_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{Na} = (e + K_э \\cdot э) = -1,6488203 \\cdot 10^{19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.20)\n</div>\n</div>",
+  "symbols": [
+    "cad37467980b",
+    "852630f710d0"
+  ]
 }

@@ -11,5 +11,10 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 38479
   },
-  "wrapper_html": "<span data-db-key=\"5904\" data-src=\"images/formula_inline_362_11_83.webp\"> $\\lambda \\approx 1 \\cdot 10^{-8} \\ м$ </span>"
+  "wrapper_html": "<span data-db-key=\"5904\" data-src=\"images/formula_inline_362_11_83.webp\"> $\\lambda \\approx 1 \\cdot 10^{-8} \\ м$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "b5b0c2b51293"
+  ]
 }

@@ -11,5 +11,11 @@
     "file": "chapter_глава-vii-физика-солнца/27-ядро-солнца.md",
     "position": 15123
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7464\" data-src=\"images/formula_full_483_16.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N\\odot} = M_{N\\odot}/V_{N\\odot} = 2,1695073 \\cdot 10^{10} \\, \\text{ кг}\\cdot\\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.17)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7464\" data-src=\"images/formula_full_483_16.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N\\odot} = M_{N\\odot}/V_{N\\odot} = 2,1695073 \\cdot 10^{10} \\, \\text{ кг}\\cdot\\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.17)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "f96131b7485c",
+    "1dd0c7c49c4c",
+    "572d0da78fdc"
+  ]
 }

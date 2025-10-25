@@ -11,5 +11,12 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/7-четвертый-закон-механики.md",
     "position": 5735
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"939\" data-src=\"images/formula_full_64_10.webp\">\n<div style=\"width: 100%;\">\n\n$$r_i = \\frac{э \\cdot \\varphi}{m_i v_i v_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.4)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"939\" data-src=\"images/formula_full_64_10.webp\">\n<div style=\"width: 100%;\">\n\n$$r_i = \\frac{э \\cdot \\varphi}{m_i v_i v_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.4)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
+  ]
 }

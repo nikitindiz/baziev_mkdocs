@@ -11,5 +11,12 @@
     "file": "chapter_глаза-iv-электродинамика/20-природа-удельного-сопротивления-проводника-и-сверхпроводимость.md",
     "position": 61689
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5937\" data-src=\"images/formula_full_364_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{cAl} = \\rho_{20} \\cdot [1 + \\alpha_c (t_c - 20)] = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.80)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5937\" data-src=\"images/formula_full_364_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{cAl} = \\rho_{20} \\cdot [1 + \\alpha_c (t_c - 20)] = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.80)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293",
+    "606678d17268",
+    "8fd7476253af",
+    "572d0da78fdc"
+  ]
 }

@@ -11,5 +11,9 @@
     "file": "chapter_глава-i-система-новейших-фундаментальных-открытий/13-естественный-свет.md",
     "position": 58844
   },
-  "wrapper_html": "<span data-db-key=\"2539\" data-src=\"images/formula_inline_163_1_23.webp\"> $F_{\\text {rot max }}=-\\lambda \\cdot э^{2} / r_{э}=-7,4284211 \\cdot 10^{-18}$ </span>"
+  "wrapper_html": "<span data-db-key=\"2539\" data-src=\"images/formula_inline_163_1_23.webp\"> $F_{\\text {rot max }}=-\\lambda \\cdot э^{2} / r_{э}=-7,4284211 \\cdot 10^{-18}$ </span>",
+  "symbols": [
+    "852630f710d0",
+    "b5b0c2b51293"
+  ]
 }

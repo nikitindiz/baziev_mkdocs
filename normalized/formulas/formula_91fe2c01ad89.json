@@ -11,5 +11,12 @@
     "file": "chapter_глава-iii-структура-жидкостей-и-паров/18-фазовые-переходы-воды.md",
     "position": 47940
   },
-  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4990\" data-src=\"images/formula_full_306_17.webp\">\n<div style=\"width: 100%;\">\n\n$$H_1 = A_1 \\cdot \\sin \\alpha_1 = 1,7952845 \\cdot 10^{-13} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.75)\n</div>\n</div>"
+  "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4990\" data-src=\"images/formula_full_306_17.webp\">\n<div style=\"width: 100%;\">\n\n$$H_1 = A_1 \\cdot \\sin \\alpha_1 = 1,7952845 \\cdot 10^{-13} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.75)\n</div>\n</div>",
+  "symbols": [
+    "852630f710d0",
+    "606678d17268",
+    "572d0da78fdc",
+    "8fd7476253af",
+    "b5b0c2b51293"
+  ]
 }
