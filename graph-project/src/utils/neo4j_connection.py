@@ -31,8 +31,12 @@ class Neo4jConnection:
     def execute_write(self, query: str, parameters: Optional[Dict[str, Any]] = None) -> Dict:
         """Выполнить запись в базу"""
         with self.driver.session(database=self.database) as session:
-            result = session.write_transaction(lambda tx: tx.run(query, parameters or {}))
-            summary = result.consume()
+            def _write_tx(tx):
+                result = tx.run(query, parameters or {})
+                summary = result.consume()
+                return summary
+            
+            summary = session.execute_write(_write_tx)
             return {
                 "nodes_created": summary.counters.nodes_created,
                 "relationships_created": summary.counters.relationships_created,

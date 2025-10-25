@@ -40,6 +40,11 @@ class ArtifactsImporter:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                    # Конвертируем вложенные объекты в JSON строки
+                    if 'metadata' in data and isinstance(data['metadata'], dict):
+                        data['metadata'] = json.dumps(data['metadata'])
+                    if 'source' in data and isinstance(data['source'], dict):
+                        data['source'] = json.dumps(data['source'])
                     formulas.append(data)
             except Exception as e:
                 logger.error(f"Error loading {file_path}: {e}")
@@ -77,6 +82,9 @@ class ArtifactsImporter:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                    # Конвертируем вложенные объекты в JSON строки
+                    if 'metadata' in data and isinstance(data['metadata'], dict):
+                        data['metadata'] = json.dumps(data['metadata'])
                     symbols.append(data)
             except Exception as e:
                 logger.error(f"Error loading {file_path}: {e}")
@@ -111,6 +119,11 @@ class ArtifactsImporter:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                    # Конвертируем вложенные объекты в JSON строки
+                    if 'metadata' in data and isinstance(data['metadata'], dict):
+                        data['metadata'] = json.dumps(data['metadata'])
+                    if 'source' in data and isinstance(data['source'], dict):
+                        data['source'] = json.dumps(data['source'])
                     illustrations.append(data)
             except Exception as e:
                 logger.error(f"Error loading {file_path}: {e}")
@@ -148,6 +161,15 @@ class ArtifactsImporter:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                    # Конвертируем вложенные объекты в JSON строки
+                    if 'content' in data and isinstance(data['content'], dict):
+                        data['content'] = json.dumps(data['content'])
+                    if 'metadata' in data and isinstance(data['metadata'], dict):
+                        data['metadata'] = json.dumps(data['metadata'])
+                    if 'source' in data and isinstance(data['source'], dict):
+                        data['source'] = json.dumps(data['source'])
+                    if 'html_attributes' in data and isinstance(data['html_attributes'], dict):
+                        data['html_attributes'] = json.dumps(data['html_attributes'])
                     tables.append(data)
             except Exception as e:
                 logger.error(f"Error loading {file_path}: {e}")
@@ -184,6 +206,9 @@ class ArtifactsImporter:
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
+                    # Конвертируем вложенные объекты в JSON строки
+                    if 'source' in data and isinstance(data['source'], dict):
+                        data['source'] = json.dumps(data['source'])
                     literature.append(data)
             except Exception as e:
                 logger.error(f"Error loading {file_path}: {e}")
