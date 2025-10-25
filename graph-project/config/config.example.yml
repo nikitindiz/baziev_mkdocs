@@ -1,0 +1,44 @@
+# Neo4j Configuration
+neo4j:
+  uri: "bolt://localhost:7687"
+  username: "neo4j"
+  password: "password"
+  database: "baziev"
+
+# Paths
+paths:
+  root: "../"
+  normalized: "../normalized"
+  docs: "../normalized/step-05-extract-and-link-quoted-literature/result"  # Документы со ссылками на сущности
+  docs_original: "../docs"  # Оригинальные документы (для справки)
+  formulas: "../normalized/formulas"
+  symbols: "../normalized/symbols"
+  illustrations: "../normalized/illustrations"
+  tables: "../normalized/tables"
+  literature: "../normalized/literature"
+
+# Book metadata
+book:
+  id: "baziev-physics"
+  title: "Физика Базиева"
+  author: "Базиев"
+  description: "Система новейших фундаментальных открытий"
+
+# Import settings
+import:
+  batch_size: 100
+  create_constraints: true
+  create_indexes: true
+  clear_database: false
+
+# NLP settings (для извлечения концепций)
+nlp:
+  enabled: false
+  model: "ru_core_news_lg"
+  min_concept_frequency: 3
+
+# API settings
+api:
+  host: "0.0.0.0"
+  port: 4000
+  debug: true
