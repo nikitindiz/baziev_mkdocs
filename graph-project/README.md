@@ -76,6 +76,7 @@ LIMIT 10;
 
 - **Python 3.8+**
 - **Neo4j 5.x** - графовая база данных
+- **APOC** - Awesome Procedures On Cypher (required for graph schema operations)
 - **neo4j-driver** - Python драйвер
 - **Click** - CLI интерфейс
 - **PyYAML** - конфигурация
@@ -167,8 +168,27 @@ docker run -d \
   --name neo4j-baziev \
   -p 7474:7474 -p 7687:7687 \
   -e NEO4J_AUTH=neo4j/password \
+  -e NEO4J_PLUGINS='["apoc"]' \
+  -e NEO4J_apoc_export_file_enabled=true \
+  -e NEO4J_apoc_import_file_enabled=true \
   -v $PWD/neo4j-data:/data \
   neo4j:latest
+```
+
+### 1.5. Установите APOC (обязательно)
+
+APOC (Awesome Procedures On Cypher) требуется для работы с графом:
+
+```bash
+cd graph-project
+./install_apoc.sh
+```
+
+Или следуйте подробным инструкциям в [APOC_SETUP.md](APOC_SETUP.md).
+
+Проверьте установку:
+```bash
+python verify_apoc.py
 ```
 
 ### 2. Настройте проект

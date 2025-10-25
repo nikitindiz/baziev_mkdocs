@@ -1,11 +1,21 @@
 # Graph Project - Quick Reference
 
+## ⚠️ Prerequisites
+
+- Python 3.8+
+- Neo4j 5.x with **APOC plugin** (required!)
+- See [APOC_SETUP.md](APOC_SETUP.md) for APOC installation
+
 ## 🚀 Установка (5 минут)
 
 ```bash
-# 1. Запустить Neo4j
+# 1. Запустить Neo4j с APOC
+docker-compose up -d
+# Или с docker run:
 docker run -d --name neo4j-baziev -p 7474:7474 -p 7687:7687 \
-  -e NEO4J_AUTH=neo4j/password neo4j:latest
+  -e NEO4J_AUTH=neo4j/password \
+  -e NEO4J_PLUGINS='["apoc"]' \
+  neo4j:latest
 
 # 2. Настроить проект
 cd graph-project

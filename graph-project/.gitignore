@@ -9,3 +9,11 @@ build/
 .vscode/
 .idea/
 *.log
+
+# Neo4j data directories (for docker-compose)
+neo4j-data/
+neo4j-backup/
+neo4j-plugins/
+
+# Backup files
+*.backup.*
