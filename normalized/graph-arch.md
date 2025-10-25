@@ -6,6 +6,13 @@
 
 ## Основные типы узлов (Node Types)
 
+> **Примечание:** Все семантические артефакты хранятся в директории `normalized/` в виде JSON файлов:
+> - Формулы: `normalized/formulas/formula_{hash}.json` (~1000+ файлов)
+> - Иллюстрации: `normalized/illustrations/illustration_{hash}.json` (~65 файлов)
+> - Символы: `normalized/symbols/symbol_{hash}.json` (~200+ файлов)
+> - Таблицы: `normalized/tables/table_{hash}.json` (~36 файлов)
+> - Литература: `normalized/literature/literature_{hash}.json` (~48 файлов)
+
 ### 1. Структурные узлы
 
 #### 1.1. Book (Книга)
@@ -49,56 +56,149 @@
 
 #### 2.1. Formula (Формула)
 - **Свойства:**
-  - `id`: уникальный идентификатор (hash)
-  - `latex`: LaTeX-код формулы
-  - `type`: тип (`inline` | `display`)
-  - `equation_number`: номер уравнения (если есть)
-  - `db_key`: ключ в базе данных
-  - `src`: путь к изображению-источнику
+  - `id`: уникальный идентификатор (hash из 12 символов)
+  - `type`: тип формулы (`inline` | `block`)
+  - `latex`: LaTeX представление
+  - `metadata`: объект с полями {db_key, src, equation_number}
+  - `source`: объект {file, position} - местоположение в markdown
+  - `symbols`: массив ID используемых символов
   - `wrapper_html`: HTML-обёртка для отображения
+
+- **Расположение:** `normalized/formulas/`
+- **Формат файла:** `formula_{hash}.json`
+- **Пример:** `formula_000a0fda1c13.json`
+  ```json
+  {
+    "id": "000a0fda1c13",
+    "type": "inline",
+    "latex": "OO_1 = \\Delta l. \\quad OO_3 = \\lambda/2",
+    "metadata": {
+      "db_key": "3703",
+      "src": "images/formula_inline_231_4_1.webp",
+      "equation_number": null
+    },
+    "source": {
+      "file": "chapter_глава-i-.../14-генерация-энергии-и-светла.md",
+      "position": 76318
+    },
+    "symbols": []
+  }
+  ```
   
 #### 2.2. Symbol (Символ/Обозначение)
 - **Свойства:**
-  - `id`: уникальный идентификатор (hash)
-  - `latex`: LaTeX-представление символа
-  - `description`: описание значения
-  - `db_key`: ключ в базе данных
-  - `src`: путь к изображению-источнику
+  - `id`: уникальный идентификатор (hash из 12 символов)
+  - `latex`: LaTeX представление символа
+  - `description`: текстовое описание значения
+  - `metadata`: объект {db_key, src}
+
+- **Расположение:** `normalized/symbols/`
+- **Формат файла:** `symbol_{hash}.json`
+- **Пример:** `symbol_006274a1b4b0.json`
+  ```json
+  {
+    "id": "006274a1b4b0",
+    "latex": "\\varepsilon_i",
+    "description": "электрическая проницаемость i-го вещества",
+    "metadata": {
+      "db_key": "9298",
+      "src": "images/formula_inline_627_1_87.webp"
+    }
+  }
+  ```
 
 #### 2.3. Illustration (Иллюстрация)
 - **Свойства:**
-  - `id`: уникальный идентификатор (hash)
-  - `type`: тип (`svg` | `image`)
-  - `svg_content`: SVG-контент (для SVG)
-  - `caption`: подпись к иллюстрации
-  - `db_key`: ключ в базе данных
-  - `src`: путь к изображению-источнику
-  - `svg_id`: ID SVG-элемента
-  - `svg_viewbox`: viewBox SVG
-  - `element_counts`: статистика элементов SVG
-  - `has_caption`: флаг наличия подписи
-  - `wrapper_html`: HTML-обёртка
+  - `id`: уникальный идентификатор (hash из 12 символов)
+  - `type`: тип иллюстрации (`svg` обычно)
+  - `svg_content`: полный SVG контент
+  - `caption`: текст подписи к иллюстрации
+  - `metadata`: объект {db_key, src, svg_id, svg_viewbox, element_counts, has_caption, caption_has_formulas, caption_formula_refs, wrapper_type}
+  - `source`: объект {file, position}
+  - `wrapper_html`: HTML-обёртка с подписью
+
+- **Расположение:** `normalized/illustrations/`
+- **Формат файла:** `illustration_{hash}.json`
+- **Пример:** `illustration_0371e37cbf14.json`
+  ```json
+  {
+    "id": "0371e37cbf14",
+    "type": "svg",
+    "svg_content": "<svg id=\"uuid-c9e4f94d-...\" ...>...</svg>",
+    "caption": "Рис. 31. Вход в тот же межатомный канал...",
+    "metadata": {
+      "db_key": "5979",
+      "has_caption": true,
+      "caption_has_formulas": false,
+      "element_counts": {"circle": 5, "line": 4, "text": 5, "rect": 1}
+    },
+    "source": {
+      "file": "chapter_глаза-iv-.../20-природа-удельного-сопротивления...",
+      "position": 39682
+    }
+  }
+  ```
 
 #### 2.4. Table (Таблица)
 - **Свойства:**
-  - `id`: уникальный идентификатор (hash)
-  - `type`: тип (`markdown` | `html`)
-  - `content_raw`: сырой markdown/html контент
-  - `headers`: массив заголовков
-  - `row_count`: количество строк
-  - `column_count`: количество столбцов
-  - `has_formulas`: флаг наличия формул
+  - `id`: уникальный идентификатор (hash из 12 символов)
+  - `type`: тип таблицы (`markdown` обычно)
+  - `content`: объект {raw, headers, rows}
+  - `metadata`: объект {row_count, column_count, has_formulas, formula_refs}
+  - `source`: объект {file, position}
+  - `html_attributes`: дополнительные HTML атрибуты (если есть)
+
+- **Расположение:** `normalized/tables/`
+- **Формат файла:** `table_{hash}.json`
+- **Пример:** `table_1089d2d169b9.json`
+  ```json
+  {
+    "id": "1089d2d169b9",
+    "type": "markdown",
+    "content": {
+      "raw": "| Элемент | Избыточный заряд, Кл | Валентность |\n...",
+      "headers": ["Элемент", "Избыточный заряд, Кл", "Валентность"],
+      "rows": [["Li", "-8,8617997·10⁻²⁰", "-1,1062113"], ...]
+    },
+    "metadata": {
+      "row_count": 8,
+      "column_count": 3,
+      "has_formulas": false
+    },
+    "source": {
+      "file": "chapter_глава-v-.../23-зарядовая-структура-атома...",
+      "position": 127873
+    }
+  }
+  ```
 
 #### 2.5. Literature (Литература)
 - **Свойства:**
-  - `id`: уникальный идентификатор (hash)
-  - `number`: номер в списке литературы
-  - `text`: полный текст ссылки
-  - `author`: автор
-  - `title`: название работы
-  - `publication`: издательство и год
-  - `file_path`: файл источника
-  - `position`: позиция в файле
+  - `id`: уникальный идентификатор (hash из 12 символов)
+  - `number`: порядковый номер в списке литературы
+  - `text`: полный текст библиографической записи
+  - `author`: автор (извлечено)
+  - `title`: название работы (извлечено)
+  - `publication`: издательство и год (извлечено)
+  - `source`: объект {file, position}
+
+- **Расположение:** `normalized/literature/`
+- **Формат файла:** `literature_{hash}.json`
+- **Пример:** `literature_00f14c9e26cb.json`
+  ```json
+  {
+    "id": "00f14c9e26cb",
+    "number": 26,
+    "text": "В. 3. Красин. Сверхпроводимость и сверхтекучесть. М., Наука, 1978.",
+    "author": "В",
+    "title": "3. Красин. Сверхпроводимость и сверхтекучесть.",
+    "publication": "М., Наука, 1978.",
+    "source": {
+      "file": "docs/chapter_список-цитированной-литературы/index.md",
+      "position": 1948
+    }
+  }
+  ```
 
 ### 3. Концептуальные узлы
 
@@ -375,6 +475,48 @@ Illustration (Рис. 31)
 - **REST API** для базовых операций CRUD
 - **Cypher endpoint** для прямых запросов к Neo4j
 
+## Структура исходных файлов
+
+### Markdown файлы книги
+
+- **Расположение:** `docs/` и `normalized/step-05-extract-and-link-quoted-literature/result/`
+- **Структура глав:**
+  ```
+  docs/
+    index.md
+    chapter_глава-i-система-новейших-фундаментальных-открытий/
+      index.md
+      1-гиперчастотная-механика-или-механика-микромира.md
+      2-электрино-вторая-и-последняя-истинно-элементарная-частица.md
+      ...
+    chapter_глава-ii-основы-строения-твердого-тела/
+      index.md
+      15-золото-как-типичная-кристаллическая-структура.md
+    chapter_глава-iii-структура-жидкостей-и-паров/
+      16-пар-второе-состояние-воды.md
+      17-вода-как-типичная-жидкость.md
+      18-фазовые-переходы-воды.md
+    ...
+  ```
+
+### Вложения в markdown файлах
+
+- **Формулы:** `{{formula:000a0fda1c13}}`
+- **Иллюстрации:** `{{illustration:0371e37cbf14}}`
+- **Символы:** `{{symbol:006274a1b4b0}}`
+- **Таблицы:** `{{table:1089d2d169b9}}`
+- **Литература:** `{{literature:00f14c9e26cb}}`
+
+### Статистика артефактов
+
+| Тип артефакта | Количество файлов | Примерная оценка |
+|---|---|---|
+| Формулы | ~1000+ | Основной тип контента |
+| Иллюстрации | ~65 | SVG диаграммы и графики |
+| Символы | ~200+ | Физические обозначения |
+| Таблицы | ~36 | Численные данные |
+| Литература | ~48 | Цитируемые источники |
+
 ## Миграция данных
 
 ### Этапы построения графа
@@ -382,24 +524,29 @@ Illustration (Рис. 31)
 1. **Импорт структурных узлов**
    - Создание узлов Book, Chapter, Section
    - Установка связей HAS_CHAPTER, HAS_SECTION
+   - Источник: структура директорий `docs/chapter_*/`
 
 2. **Импорт семантических артефактов**
-   - Загрузка Formula из JSON файлов
-   - Загрузка Symbol из JSON файлов
-   - Загрузка Illustration из JSON файлов
-   - Загрузка Table из JSON файлов
-   - Загрузка Literature из JSON файлов
+   - Загрузка Formula из `normalized/formulas/*.json` (~1000+ файлов)
+   - Загрузка Illustration из `normalized/illustrations/*.json` (~65 файлов)
+   - Загрузка Symbol из `normalized/symbols/*.json` (~200+ файлов)
+   - Загрузка Table из `normalized/tables/*.json` (~36 файлов)
+   - Загрузка Literature из `normalized/literature/*.json` (~48 файлов)
 
 3. **Парсинг markdown файлов**
-   - Извлечение параграфов
-   - Создание узлов Paragraph
+   - Извлечение параграфов из `docs/**/*.md`
+   - Анализ заголовков для создания Section и Subsection
+   - Парсинг текстовых блоков для Paragraph
    - Установка связей HAS_PARAGRAPH
 
 4. **Связывание контента**
-   - Поиск вхождений `{{formula:...}}` → CONTAINS_FORMULA
-   - Поиск вхождений `{{literature:...}}` → CITES
-   - Связывание формул и символов → USES_SYMBOL
-   - Связывание иллюстраций с формулами → FORMULA_IN_CAPTION
+   - Поиск вхождений `{{formula:hash}}` в параграфах → CONTAINS_FORMULA
+   - Поиск вхождений `{{illustration:hash}}` → CONTAINS_ILLUSTRATION
+   - Поиск вхождений `{{table:hash}}` → CONTAINS_TABLE
+   - Поиск вхождений `{{literature:hash}}` → CITES
+   - Связывание символов с формулами через поле `symbols` → USES_SYMBOL
+   - Связывание иллюстраций с формулами через `caption_formula_refs` → FORMULA_IN_CAPTION
+   - Связывание таблиц с формулами через `formula_refs` → TABLE_CONTAINS_FORMULA
 
 5. **Извлечение концепций** (NLP)
    - Идентификация терминов и концепций
