@@ -96,6 +96,10 @@ def import_all(ctx):
     content_linker.import_sections_and_paragraphs()
     content_linker.link_content()
     
+    # Создание связей последовательности
+    logger.info("Linking paragraph and section sequence...")
+    content_linker.link_paragraph_sequence()
+    
     # Статистика
     stats = neo4j.get_stats()
     logger.info("Import completed!")
@@ -182,6 +186,19 @@ def import_literature(ctx):
     artifacts_importer.import_literature()
     
     logger.info("Literature import completed!")
+
+
+@import_cmd.command('sequence')
+@click.pass_context
+def import_sequence(ctx):
+    """Создать связи NEXT между параграфами и секциями"""
+    config = ctx.obj['config']
+    neo4j = ctx.obj['neo4j']
+    
+    content_linker = ContentLinker(neo4j, config)
+    content_linker.link_paragraph_sequence()
+    
+    logger.info("Sequence linking completed!")
 
 
 @cli.group()

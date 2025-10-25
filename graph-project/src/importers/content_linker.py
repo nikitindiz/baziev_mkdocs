@@ -174,6 +174,89 @@ class ContentLinker:
         
         logger.info("Content linking completed!")
     
+    def link_paragraph_sequence(self):
+        """Создать связи NEXT между последовательными параграфами"""
+        logger.info("Linking paragraph sequence...")
+        
+        # Получить все секции
+        query = """
+        MATCH (s:Section)
+        RETURN s.id as section_id
+        ORDER BY s.order
+        """
+        sections = self.conn.execute_query(query)
+        
+        total_links = 0
+        for section in tqdm(sections):
+            # Получить параграфы секции в порядке их следования
+            para_query = """
+            MATCH (s:Section {id: $section_id})-[:HAS_PARAGRAPH]->(p:Paragraph)
+            RETURN p.id as id, p.order as order
+            ORDER BY p.order
+            """
+            paragraphs = self.conn.execute_query(para_query, {"section_id": section['section_id']})
+            
+            # Создать связи NEXT между последовательными параграфами
+            for i in range(len(paragraphs) - 1):
+                current_id = paragraphs[i]['id']
+                next_id = paragraphs[i + 1]['id']
+                
+                link_query = """
+                MATCH (p1:Paragraph {id: $current_id})
+                MATCH (p2:Paragraph {id: $next_id})
+                MERGE (p1)-[:NEXT]->(p2)
+                """
+                self.conn.execute_query(link_query, {
+                    "current_id": current_id,
+                    "next_id": next_id
+                })
+                total_links += 1
+        
+        logger.info(f"Created {total_links} NEXT relationships between paragraphs")
+        
+        # Также создать связи NEXT между секциями
+        self._link_section_sequence()
+    
+    def _link_section_sequence(self):
+        """Создать связи NEXT между последовательными секциями"""
+        logger.info("Linking section sequence...")
+        
+        # Получить все главы
+        query = """
+        MATCH (ch:Chapter)
+        RETURN ch.id as chapter_id
+        ORDER BY ch.order
+        """
+        chapters = self.conn.execute_query(query)
+        
+        total_links = 0
+        for chapter in chapters:
+            # Получить секции главы в порядке их следования
+            section_query = """
+            MATCH (ch:Chapter {id: $chapter_id})-[:HAS_SECTION]->(s:Section)
+            RETURN s.id as id, s.order as order
+            ORDER BY s.order
+            """
+            sections = self.conn.execute_query(section_query, {"chapter_id": chapter['chapter_id']})
+            
+            # Создать связи NEXT между последовательными секциями
+            for i in range(len(sections) - 1):
+                current_id = sections[i]['id']
+                next_id = sections[i + 1]['id']
+                
+                link_query = """
+                MATCH (s1:Section {id: $current_id})
+                MATCH (s2:Section {id: $next_id})
+                MERGE (s1)-[:NEXT]->(s2)
+                """
+                self.conn.execute_query(link_query, {
+                    "current_id": current_id,
+                    "next_id": next_id
+                })
+                total_links += 1
+        
+        logger.info(f"Created {total_links} NEXT relationships between sections")
+    
     def _link_paragraph_content(self, para_id: str, content: str):
         """Связать контент параграфа"""
         position = 0

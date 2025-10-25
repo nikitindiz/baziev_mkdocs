@@ -3,6 +3,14 @@
 Откройте Neo4j Browser (http://localhost:7474) и выполните:
 
 ```cypher
+// Навигация по параграфам секции
+MATCH (s:Section)-[:HAS_PARAGRAPH]->(first:Paragraph)
+WHERE NOT exists((first)<-[:NEXT]-())
+  AND s.id STARTS WITH "chapter_глава-i"
+MATCH path = (first)-[:NEXT*0..10]->(p:Paragraph)
+RETURN p.order, left(p.content, 100) as preview
+ORDER BY p.order;
+
 // Найти все формулы в разделе
 MATCH (s:Section {id: 'section_id'})-[:HAS_PARAGRAPH]->(p:Paragraph)-[:CONTAINS_FORMULA]->(f:Formula)
 RETURN f.latex, f.metadata.equation_number
@@ -32,7 +40,7 @@ ORDER BY shared_formulas DESC
 LIMIT 10;
 ```
 
-Больше примеров в [`src/queries/examples.cypher`](src/queries/examples.cypher).# Граф Знаний - Физика Базиева
+**Больше примеров** в файле [`CYPHER_QUERIES.md`](CYPHER_QUERIES.md) - 22 готовых запроса для навигации, анализа и экспорта данных.# Граф Знаний - Физика Базиева
 
 Проект для построения и работы с графом знаний научной книги "Физика Базиева".
 
@@ -58,9 +66,11 @@ LIMIT 10;
 
 ### Типы связей
 
-- **Структурные**: `HAS_CHAPTER`, `HAS_SECTION`, `HAS_PARAGRAPH`, `NEXT`, `PREVIOUS`
+- **Структурные**: `HAS_CHAPTER`, `HAS_SECTION`, `HAS_PARAGRAPH`, `NEXT`
 - **Семантические**: `CONTAINS_FORMULA`, `USES_SYMBOL`, `CONTAINS_ILLUSTRATION`, `CONTAINS_TABLE`, `CITES`
 - **Концептуальные**: `DEFINES`, `MENTIONS`, `RELATED_TO` (для будущего расширения)
+
+**Новое**: связи `NEXT` обеспечивают навигацию по последовательности параграфов и секций, что позволяет легко читать контент в правильном порядке и визуализировать структуру документа.
 
 ## 🛠️ Технологии
 
@@ -196,6 +206,7 @@ python main.py import tables         # ~36 таблиц
 python main.py import literature     # ~48 источников
 python main.py import paragraphs     # Параграфы из markdown
 python main.py import link-content   # Связывание контента
+python main.py import sequence       # Создание связей NEXT между параграфами и секциями
 ```
 
 ### Запросы к графу
