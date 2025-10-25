@@ -5,6 +5,8 @@ Runs all extraction steps in sequence:
 1. Extract formulas
 2. Extract tables
 3. Extract illustrations
+4. Parse missed DB keys and src
+5. Extract and link quoted literature
 
 This script orchestrates the entire normalization pipeline.
 """
@@ -35,6 +37,16 @@ class NormalizationPipeline:
                 'name': 'Step 3: Extract Illustrations',
                 'script': self.base_dir / 'step-03-extract-all-illustrations' / 'extract-illustrations.py',
                 'description': 'Extracting SVG illustrations and captions'
+            },
+            {
+                'name': 'Step 4: Parse Missed DB Keys',
+                'script': self.base_dir / 'step-04-parse-missed-db-keys-and-src' / 'parse-missed.py',
+                'description': 'Processing remaining div wrappers and updating formula metadata'
+            },
+            {
+                'name': 'Step 5: Extract Literature References',
+                'script': self.base_dir / 'step-05-extract-and-link-quoted-literature' / 'parse-refs.py',
+                'description': 'Extracting bibliography and linking citations'
             }
         ]
     
@@ -146,10 +158,11 @@ class NormalizationPipeline:
             print("✓ All normalization steps completed successfully!")
             print()
             print("Output locations:")
-            print(f"  - Final normalized content: {self.base_dir / 'step-03-extract-all-illustrations' / 'result'}")
+            print(f"  - Final normalized content: {self.base_dir / 'step-05-extract-and-link-quoted-literature' / 'result'}")
             print(f"  - Extracted formulas:       {self.base_dir / 'formulas'}")
             print(f"  - Extracted tables:         {self.base_dir / 'tables'}")
             print(f"  - Extracted illustrations:  {self.base_dir / 'illustrations'}")
+            print(f"  - Extracted literature:     {self.base_dir / 'literature'}")
             print()
             return 0
 
