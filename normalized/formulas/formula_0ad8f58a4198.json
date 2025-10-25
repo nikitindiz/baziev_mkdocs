@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5068\" data-src=\"images/formula_full_311_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_d = a_d^2 \\cdot r_d = a_d^2 (a_d - A_d) = a_d^3 - a_d^2 \\cdot A_d$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.119)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

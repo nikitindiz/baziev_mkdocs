@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5777\" data-src=\"images/formula_full_356_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\rho i} = \\frac{I_i \\cdot \\varphi_в \\cdot T_i \\cdot A_i^2}{8I_0 (a_i - A_i) \\cdot b_i \\cdot \\cos \\alpha}, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.37)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
     "8d6fa2d1d49d",
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

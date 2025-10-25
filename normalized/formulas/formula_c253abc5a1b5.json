@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6040\" data-src=\"images/formula_full_370_2.webp\">\n<div style=\"width: 100%;\">\n\n$$b_c = \\sqrt{\\left(\\frac{a_c\\sqrt{2}}{2}\\right)^2 + a_2^2} = a_2\\sqrt{3/2} = 1,2247448 \\cdot a_2$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.100)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
     "ff905a84b912",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

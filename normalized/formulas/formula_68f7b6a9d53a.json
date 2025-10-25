@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6426\" data-src=\"images/formula_full_398_4.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gs} ( H_2SO_4 ) = \\frac{m_s ( H_2SO_4 )}{\\rho_{H_2SO_4}} = 1,371637 \\cdot 10^{-25} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.34)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

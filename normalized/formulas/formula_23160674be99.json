@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5677\" data-src=\"images/formula_full_349_6.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = \\frac{э \\cdot \\varphi_{i}}{r_{mi}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.134)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
+    "b5b0c2b51293",
     "572d0da78fdc",
-    "8d6fa2d1d49d",
-    "b5b0c2b51293"
+    "8d6fa2d1d49d"
   ]
 }

@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7472\" data-src=\"images/formula_full_483_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{n\\omega} = M_{n\\odot} \\cdot v_c^2 = 1,0681696 \\cdot 10^{32} \\, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.12)\n</div>\n</div>",
   "symbols": [
-    "7f9993725e51",
-    "852630f710d0"
+    "852630f710d0",
+    "7f9993725e51"
   ]
 }

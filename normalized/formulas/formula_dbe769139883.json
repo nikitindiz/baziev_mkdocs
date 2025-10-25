@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<span data-db-key=\"6215\" data-src=\"images/formula_inline_380_4_0.webp\"> $\\Delta m_{\\nu} = \\Delta m_{\\oplus} - m_{\\mu\\oplus} = 1,2237441 \\cdot 10^{25} \\text{ кг} = 80,345844 \\% \\ \\Delta m_{\\oplus}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "9af9381839c9",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "9af9381839c9"
   ]
 }

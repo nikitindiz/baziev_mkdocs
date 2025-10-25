@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8443\" data-src=\"images/formula_full_566_14.webp\">\n<div style=\"width: 100%;\">\n\n$$F_i = 2 \\gamma \\cdot Q_{g\\odot} \\cdot Z_{gi} \\left[ \\frac{1}{(a_i - \\Delta R_{\\odot} \\cdot T_i / t_{n \\odot})^2} - \\frac{1}{a_i^2} \\right] + \\frac{16 m_i a_i F_i^2}{T_i^2} +$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.56)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
-    "8328e59f56bb",
-    "cad37467980b",
     "c18f47f412f4",
+    "8328e59f56bb",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

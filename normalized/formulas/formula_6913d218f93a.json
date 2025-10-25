@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8049\" data-src=\"images/formula_full_538_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_☾ = 4.702424 \\cdot 10^{20} \\text{ кг} = 0,6402177 \\% \\, m_☾$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.19)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7206\" data-src=\"images/formula_full_462_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_v \\approx k_p = \\rho_n / \\rho_{N\\odot}' \\approx 421,995$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.8)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

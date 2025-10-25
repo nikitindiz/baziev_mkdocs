@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6193\" data-src=\"images/formula_full_379_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{e\\oplus} = \\Delta Q_{\\oplus}/e = 2,6335864 \\cdot 10^{52}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.152)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

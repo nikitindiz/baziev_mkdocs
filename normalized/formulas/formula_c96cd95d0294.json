@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4411\" data-src=\"images/formula_full_270_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\nE_0^{п} = m_0 v_0 u_0 = m_0 v_0 f_0 \\cdot H_0 = m_0 2 A_0^{п} \\cdot f_0 \\cdot f_0 \\cdot A_0^{п} \\cdot \\sin \\alpha_0 = \\\\\n= 2 m_0 (A_0^{п})^2 \\cdot f_0^2 \\cdot \\sin \\alpha_0 = 2 m_0 (A_0^{п})^2 \\cdot \\psi_в^2 \\cdot T_0^2 \\cdot \\sin \\alpha_0, \\; \\text{Дж}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.39)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
-    "8fd7476253af",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "572d0da78fdc"
   ]
 }

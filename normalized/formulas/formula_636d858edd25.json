@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8863\" data-src=\"images/formula_full_593_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\sigma_{\\text{♂}} = - 1,6619205 \\cdot 10^5 \\, \\text{Н} \\cdot \\text{м}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.47)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

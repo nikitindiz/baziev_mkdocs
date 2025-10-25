@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4968\" data-src=\"images/formula_full_304_9.webp\">\n<div style=\"width: 100%;\">\n\n$$4 d_{1}=\\sqrt{\\frac{4 S_{3}}{\\pi}}=4,5978257 \\cdot 10^{-9} \\ м$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.59)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

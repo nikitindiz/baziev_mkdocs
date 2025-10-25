@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5660\" data-src=\"images/formula_full_348_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{mi} = h_i v_{si} / 2\\pi b_i \\cdot v_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.132)\n</div>\n</div>",
   "symbols": [
     "da4041efbcb0",
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "572d0da78fdc"
   ]
 }

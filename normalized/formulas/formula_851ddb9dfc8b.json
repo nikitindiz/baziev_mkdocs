@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4728\" data-src=\"images/formula_full_290_2.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\alpha}' = \\frac{\\alpha_0^ж \\cdot a_0^2 \\cdot a_{g0}}{k_1 \\cdot \\gamma \\cdot q \\cdot z} = \\frac{-3,3405114 \\cdot 10^{-29}}{-2,5465357 \\cdot 10^{-32}} = 1,3117865 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.80)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
     "c18f47f412f4",
+    "606678d17268",
     "b5b0c2b51293",
-    "8fd7476253af",
     "852630f710d0",
+    "8fd7476253af",
     "572d0da78fdc"
   ]
 }

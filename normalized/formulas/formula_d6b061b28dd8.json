@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1261\" data-src=\"images/formula_full_88_14.webp\">\n<div style=\"width: 100%;\">\n\n$$P_a = \\frac{F_a}{S_{oc}} = \\frac{F_a}{\\pi \\cdot d_{\\lambda}^2/4} = \\frac{8 \\gamma \\cdot q_{\\lambda} \\cdot э}{\\pi \\cdot d_{\\lambda}^2 \\cdot (R_n + R_e)^2} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.30)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
-    "cad37467980b",
     "c18f47f412f4",
-    "44ea844e2db3",
+    "606678d17268",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "44ea844e2db3",
+    "cad37467980b"
   ]
 }

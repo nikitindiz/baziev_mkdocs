@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<span data-db-key=\"8604\" data-src=\"images/formula_inline_577_11_0.webp\"> $\\omega_{☿} = 1,2399326 \\cdot 10^{-6} \\, с^{-1}$ </span>",
   "symbols": [
-    "cad37467980b",
-    "b5b0c2b51293",
     "852630f710d0",
-    "ff905a84b912"
+    "ff905a84b912",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

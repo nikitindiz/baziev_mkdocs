@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7836\" data-src=\"images/formula_full_523_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\tau_4 &= 1 \\cdot 10^9 \\text{ лет } = 3{,}155815 \\cdot 10^{16} \\text{ c,} \\\\\nM_{k4} &= 1{,}7312115 \\cdot 10^{28} \\text{ кг } = 120\\% \\, M_k,\\\\\nM_{n4} &= 1{,}7221951 \\cdot 10^{30} \\text{ кг } = 96{,}512385 \\, M_{n\\odot}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.28)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "cad37467980b",
-    "852630f710d0",
     "2da43f769c74",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

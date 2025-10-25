@@ -14,12 +14,12 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4899\" data-src=\"images/formula_full_299_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{\\text{л}} = \\frac{W_{\\text{t0}}}{T_{0}\\left(C^{\\text{л}}m_{\\text{л}} - \\gamma^{\\text{л}}\\cdot k_{0}^ж\\right)} = \\frac{2,8391392\\cdot 10^{-18}}{8,0679662\\cdot 10^{-17}} = 3,5190271\\cdot 10^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.28)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
-    "cad37467980b",
     "c18f47f412f4",
+    "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

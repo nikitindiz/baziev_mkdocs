@@ -13,13 +13,13 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1919\" data-src=\"images/formula_full_128_10.webp\">\n    <div style=\"width: 100%;\">\n\n$$i(\\alpha, n) = \\frac{\\hbar}{r(\\alpha, n)} = \\frac{\\hbar \\alpha_i \\sqrt[3]{n_{si}^4}(1+\\beta_{0i}t)}{r_{0i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.60)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
-    "d107c64fe193",
     "606678d17268",
-    "cad37467980b",
+    "d107c64fe193",
+    "773fb8579a52",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0",
-    "773fb8579a52"
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

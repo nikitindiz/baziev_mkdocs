@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"8000\" data-src=\"images/formula_inline_535_11_0.webp\"> $\\Delta m_{\\odot} = M_{\\pi} - m_{s} = 2,1085477 \\cdot 10^{27} \\text{ кг}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

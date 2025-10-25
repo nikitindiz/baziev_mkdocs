@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"2683\" data-src=\"images/formula_inline_170_3_12.webp\"> $S_2 = \\pi(d/2)^2 \\approx 1,13 \\cdot 10^{-26} \\, м^2$ </span>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

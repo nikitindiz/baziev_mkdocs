@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8212\" data-src=\"images/formula_full_548_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta m_s = m_{s0} - m_s = 1,514214 \\cdot 10^{27} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.78)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

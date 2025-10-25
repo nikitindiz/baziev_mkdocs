@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"6\" data-src=\"images/formula_inline_1_0_19.webp\"> $\\Delta V = \\frac{1}{N}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<span data-db-key=\"8978\" data-src=\"images/formula_inline_602_5_29.webp\"> $\\sin \\alpha_i = F_{\\perp} / F_i = e \\varepsilon / m_e v_i \\nu_{\\text{ед}}$ </span>",
   "symbols": [
-    "cad37467980b",
     "606678d17268",
-    "572d0da78fdc",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

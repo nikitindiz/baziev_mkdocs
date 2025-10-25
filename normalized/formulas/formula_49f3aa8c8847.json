@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3960\" data-src=\"images/formula_full_243_6.webp\">\n<div style=\"width: 100%;\">\n\n$$n_e(\\tau) = \\frac{n_e(V)}{\\tau} = 2,909 \\, 9218 \\cdot 10^{21} \\, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.138)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "2da43f769c74"
   ]
 }

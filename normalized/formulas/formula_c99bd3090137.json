@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8692\" data-src=\"images/formula_full_583_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\omega} = \\omega_{n ♃} / \\omega_{♃} = 1,5157483$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.86)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "b5b0c2b51293",
-    "ff905a84b912"
+    "ff905a84b912",
+    "cad37467980b"
   ]
 }

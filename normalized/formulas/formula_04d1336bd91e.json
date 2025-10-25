@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5557\" data-src=\"images/formula_full_342_22_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_i = \\nu_i / n_i k_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.94)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

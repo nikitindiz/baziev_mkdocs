@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<span data-db-key=\"1744\" data-src=\"images/formula_inline_120_10_12.webp\"> $\\varepsilon(f) = h \\cdot f(t) = h \\psi_i T_i$ </span>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

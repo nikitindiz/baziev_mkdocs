@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2142\" data-src=\"images/formula_full_141_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_r = u_{\\odot} a_{\\odot} = 7,2726390 \\cdot 10^{21} \\, \\text{м}^2 \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.17)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
+    "852630f710d0",
+    "b5b0c2b51293"
   ]
 }

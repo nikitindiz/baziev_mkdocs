@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6145\" data-src=\"images/formula_full_376_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$j_{e \\oplus}' = \\Delta q_{\\oplus}'/\\pi R_{э}^{2} = -5,1362289 \\cdot 10^{17} \\text{ Кл } \\cdot \\text{м}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.133)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

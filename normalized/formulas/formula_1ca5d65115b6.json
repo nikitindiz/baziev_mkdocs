@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"854\" data-src=\"images/formula_full_57_6.webp\">\n<div style=\"width: 100%;\">\n\n$$C_V (u_к)_i = \\gamma_V \\cdot C_V (f)_i \\approx \\frac{3}{2} C_V (f)_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.77)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4"
   ]
 }

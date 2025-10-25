@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5000\" data-src=\"images/formula_full_306_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{l1} = E_1 - \\varepsilon_{h1} - \\varepsilon_{\\omega 1} - \\varepsilon(0)_1 = 1,7526923 \\cdot 10^{-16} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.71)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
+    "852630f710d0",
     "b5b0c2b51293",
-    "852630f710d0"
+    "cad37467980b"
   ]
 }

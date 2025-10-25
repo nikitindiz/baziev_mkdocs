@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3561\" data-src=\"images/formula_full_222_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sigma_e = \\frac{S_0 \\cdot e^2}{\\pi R_e^2} = 3,4708918 \\cdot 10^{15} \\text{ Н} \\cdot \\text{м}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.42)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

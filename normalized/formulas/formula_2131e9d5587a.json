@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<span data-db-key=\"2031\" data-src=\"images/formula_inline_133_7_0.webp\"> $f(t) = f_{0i}(1 + \\beta_{0i} t)$ </span>",
   "symbols": [
-    "cad37467980b",
     "b5b0c2b51293",
-    "773fb8579a52",
-    "954f2960e119"
+    "954f2960e119",
+    "cad37467980b",
+    "773fb8579a52"
   ]
 }

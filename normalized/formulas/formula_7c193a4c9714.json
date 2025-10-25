@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5361\" data-src=\"images/formula_full_332_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_0 = \\frac{h_i \\cdot V_{ri}}{э \\cdot v_0^2} = \\frac{h_i \\Phi_0 \\cdot \\omega_i}{э \\cdot v_0^2} = \\frac{\\Phi_0 \\cdot v_0}{э \\cdot v_0^2} = \\frac{\\Phi_0}{э \\cdot v_0} = \\frac{\\Phi_0}{I_0}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.35)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
+    "852630f710d0",
+    "b5b0c2b51293",
     "9af9381839c9",
     "cad37467980b",
-    "b5b0c2b51293",
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

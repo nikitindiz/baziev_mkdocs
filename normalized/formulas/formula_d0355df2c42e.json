@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8458\" data-src=\"images/formula_full_567_17_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_г = a_{\\odot}^3 \\cdot n_{\\odot}^2 = 3,0028773 \\cdot 10^{55} \\cdot 5,6667486 \\cdot 10^{-31} =  1,701655 \\cdot 10^{25} м^3 \\cdot с^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.4)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
+    "852630f710d0",
+    "b5b0c2b51293"
   ]
 }

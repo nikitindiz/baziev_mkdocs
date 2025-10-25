@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7136\" data-src=\"images/formula_full_456_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma = \\frac{F_i \\cdot r_i^2}{2Q_{g0} \\cdot Q_{gi}} = \\frac{\\frac{Gm_0 \\cdot m_i}{r_i^2} \\cdot r_i^2}{2 \\cdot \\frac{m_0 \\cdot K_g}{P} \\cdot \\frac{m_i \\cdot K_g}{P}} = \\frac{G \\cdot P^2}{2 \\cdot K_g^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.15)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
     "852630f710d0",
-    "b72e44b9aa42",
     "ff905a84b912",
+    "b5b0c2b51293",
+    "c18f47f412f4",
     "64f6b41ecdd3",
-    "b5b0c2b51293"
+    "b72e44b9aa42"
   ]
 }

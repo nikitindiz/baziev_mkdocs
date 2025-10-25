@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3961\" data-src=\"images/formula_full_243_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n_e(g) = \\frac{\\Delta \\tau}{\\tau_e} = \\frac{16,94798 \\cdot 10^{-3}}{6,9563817 \\cdot 10^{-16}} = 2,4363211 \\cdot 10^{13}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.139)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "2da43f769c74",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "2da43f769c74"
   ]
 }

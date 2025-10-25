@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8339\" data-src=\"images/formula_full_560_11.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = \\frac{v_\\odot \\cdot u_\\odot \\pi T_i}{2E_i \\cdot a_i^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.25)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

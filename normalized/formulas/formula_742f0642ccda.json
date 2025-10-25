@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2273\" data-src=\"images/formula_full_148_20.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{ci} = \\frac{m_{ci}}{V_{ci}} = \\frac{m_i / 2}{4 \\pi R_{ci}^3 / 3} = \\frac{3 m_i}{8 \\pi \\cdot R_{ci}^3} = \\frac{3 \\pi^2 m_i}{v_c^3 \\cdot t_i^3}, \\quad \\text{кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.70)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
-    "eaf4d057776d",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "eaf4d057776d",
+    "572d0da78fdc"
   ]
 }

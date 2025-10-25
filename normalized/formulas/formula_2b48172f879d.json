@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8602\" data-src=\"images/formula_full_577_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{\\oplus} = \\Delta V_{\\oplus} / 2000 \\text{ лет} = 8,381432 \\cdot 10^{11} \\text{ м}^3 / \\text{год}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.43)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
+    "b5b0c2b51293",
     "852630f710d0",
     "d61a4d7eea23",
-    "b5b0c2b51293"
+    "cad37467980b"
   ]
 }

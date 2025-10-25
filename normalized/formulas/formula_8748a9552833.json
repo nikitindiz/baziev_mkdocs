@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4953\" data-src=\"images/formula_full_303_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{л1} = -\\sqrt{E_{л 0}} = -\\sqrt{\\frac{N_s N_2 N_3 \\cdot \\gamma \\cdot g \\cdot z}{a_{л} (V_{gл} \\cdot V_{sл})}} = -3,6688187 \\cdot 10^4 \\, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.50)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "b5b0c2b51293",
     "c18f47f412f4",
-    "852630f710d0"
+    "852630f710d0",
+    "b5b0c2b51293"
   ]
 }

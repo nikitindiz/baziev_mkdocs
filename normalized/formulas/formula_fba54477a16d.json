@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"632\" data-src=\"images/formula_full_46_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_{\\max}' = \\frac{h \\cdot \\sqrt{f_{\\max} \\cdot \\nu_{\\max}}}{\\tau_{ед}} = \\frac{h \\cdot f_{\\max}}{\\tau_{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.30)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
+    "b5b0c2b51293",
     "2da43f769c74",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"327\" data-src=\"images/formula_full_24_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$e(m) = e/m_e = 1,7726298 \\cdot 10^{11} Кл \\cdot кг^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.14)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0"
+    "852630f710d0",
+    "cad37467980b"
   ]
 }

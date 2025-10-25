@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"218\" data-src=\"images/formula_full_16_17.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{aligned}\n& \\gamma' = \\frac{m_p}{m_e} = \\frac{m_n - m_e}{m_e}, \\\\\n& \\gamma' \\cdot m_e = m_n - m_e, \\\\\n& \\gamma' \\cdot m_e + m_e = m_n, \\\\\n& m_e (\\gamma' + 1) = m_n. \\\\\n\\end{aligned}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(3.14)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "c18f47f412f4",
-    "852630f710d0",
     "606678d17268",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "cad37467980b"
   ]
 }

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<span data-db-key=\"1871\" data-src=\"images/formula_inline_125_6_46.webp\"> $[1 - \\gamma_0(He)] \\cdot 100\\% = 0,08196\\%$ </span>",
   "symbols": [
-    "cad37467980b",
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "cad37467980b"
   ]
 }

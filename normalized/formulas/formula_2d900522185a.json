@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7123\" data-src=\"images/formula_full_455_12.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{gi} = K_g \\cdot Q_i = \\frac{m_i \\cdot K_g}{p} = Z_{gi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.12)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "8328e59f56bb",
-    "b72e44b9aa42",
+    "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "8328e59f56bb",
+    "b72e44b9aa42"
   ]
 }

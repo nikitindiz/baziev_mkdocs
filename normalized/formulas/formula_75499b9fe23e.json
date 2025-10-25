@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"2086\" data-src=\"images/formula_inline_136_16_33.webp\"> $a = \\frac{\\Delta v}{\\Delta t}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

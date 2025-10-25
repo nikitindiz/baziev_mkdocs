@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5577\" data-src=\"images/formula_full_343_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_1 = V_1 I_1 = \\Phi_0^2 \\omega_1^2 \\cdot n_1^2 \\cdot k_1 \\cdot э = 1100 \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.104)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "b5b0c2b51293",
-    "852630f710d0",
     "ff905a84b912",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8577\" data-src=\"images/formula_full_575_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{\\oplus 0} = 2\\pi / t_{\\oplus 0} = 8,3545773 \\cdot 10^{-5} с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.26)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
+    "b5b0c2b51293",
     "606678d17268",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "cad37467980b"
   ]
 }

@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4177\" data-src=\"images/formula_full_256_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_i = d_n \\cdot \\sqrt[3]{\\frac{6 A_i}{k \\cdot \\pi}}, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.42a)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

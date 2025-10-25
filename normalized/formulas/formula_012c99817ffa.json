@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"78\" data-src=\"images/formula_full_6_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_0 = mv_0u_0 \\cdot \\sqrt[3]{4\\pi/3} = mv_0 \\cdot u_0 \\cdot a$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.23)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

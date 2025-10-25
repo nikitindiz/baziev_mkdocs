@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7476\" data-src=\"images/formula_full_484_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_{\\odot}=2 \\pi / \\omega_{\\odot}=2,1930778 \\cdot 10^{6} \\, с=25,382844 \\text { сут }$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.28)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "ff905a84b912",
-    "b39bc46e68aa"
+    "b39bc46e68aa",
+    "cad37467980b",
+    "b5b0c2b51293"
   ]
 }

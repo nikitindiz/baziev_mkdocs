@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7863\" data-src=\"images/formula_full_525_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{r4} = \\frac{2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{g\\oplus}}{A_0 \\cdot k_4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.5)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4"
   ]
 }

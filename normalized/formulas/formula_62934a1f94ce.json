@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3311\" data-src=\"images/formula_full_208_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\beta_к = 37\\degree 07' 24''$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.207)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "773fb8579a52",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "773fb8579a52"
   ]
 }

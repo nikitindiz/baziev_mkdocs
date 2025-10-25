@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6843\" data-src=\"images/formula_full_433_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_2 = (K_2 \\cdot э - e) = 1,5831997 \\cdot 10^{-19} \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.96)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0"
+    "852630f710d0",
+    "cad37467980b"
   ]
 }

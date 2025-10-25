@@ -13,12 +13,12 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6102\" data-src=\"images/formula_full_373_23.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta T(B_c) = \\frac{m_э v_{si} \\cdot \\pi A_s^2 \\cdot B_{ci}}{4m_i \\cdot C(T)_s \\cdot \\Phi_0 \\cdot \\tau_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.122)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
-    "cad37467980b",
+    "2da43f769c74",
     "da4041efbcb0",
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

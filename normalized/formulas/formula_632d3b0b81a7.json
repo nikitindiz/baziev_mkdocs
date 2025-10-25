@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1923\" data-src=\"images/formula_full_128_20.webp\">\n    <div style=\"width: 100%;\">\n\n$$u (\\alpha, n) = f (t) [r (\\alpha, n) + S (\\alpha, n) ] = \\frac{u_{0i} (2 - \\alpha_i^2 \\cdot \\sqrt[3]{n_{si}^2} \\cdot n_i)}{\\alpha_i \\cdot \\sqrt[3]{n_{si}^4}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.64)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
     "561d303dfa03",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0"
+    "572d0da78fdc"
   ]
 }

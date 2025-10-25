@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3859\" data-src=\"images/formula_full_239_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{э} = f_{\\text{ж}} \\cdot \\tau_{э} \\cdot э \\varphi = 1,303788 \\cdot 10^{-21} \\text{Дж} = \\mathscr{P}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.129)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "2da43f769c74",
     "606678d17268",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "2da43f769c74",
     "572d0da78fdc",
-    "8d6fa2d1d49d",
-    "b5b0c2b51293"
+    "8d6fa2d1d49d"
   ]
 }

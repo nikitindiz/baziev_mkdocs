@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8259\" data-src=\"images/formula_full_552_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{☿} = u_{☿} + \\Delta u_{☿} = a_{☿} (n_{☿} + \\Delta n_{☿})$$\n\n</div>\n<div style=\"width: 80px;\">\n(35.2)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

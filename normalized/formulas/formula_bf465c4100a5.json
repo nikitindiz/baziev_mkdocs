@@ -13,13 +13,13 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3318\" data-src=\"images/formula_full_208_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n_i = \\text{tg } \\beta + \\text{tg } \\beta (\\gamma/\\alpha) = \\text{tg } \\beta (1 + \\gamma/\\alpha)$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.204)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "c18f47f412f4",
     "606678d17268",
-    "773fb8579a52",
-    "572d0da78fdc",
     "ff905a84b912",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "c18f47f412f4",
+    "cad37467980b",
+    "572d0da78fdc",
+    "773fb8579a52"
   ]
 }

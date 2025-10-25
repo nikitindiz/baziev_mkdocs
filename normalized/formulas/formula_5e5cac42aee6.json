@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1948\" data-src=\"images/formula_full_129_3_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\varepsilon_s(\\alpha, n) = m_{0i}v_{si}u_{si}n_{si}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.69)\n</div>\n</div>",
   "symbols": [
-    "da4041efbcb0",
-    "cad37467980b",
     "606678d17268",
-    "572d0da78fdc",
+    "da4041efbcb0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

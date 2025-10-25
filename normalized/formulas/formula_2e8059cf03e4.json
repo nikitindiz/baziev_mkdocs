@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4965\" data-src=\"images/formula_full_304_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{16a_{л}^2 \\cdot F_i}{\\pi^2 \\cdot d_i^2 \\cdot \\Delta d_1^2} + \\left[ -\\sqrt{\\frac{N_s N_2 N_3 \\gamma q \\cdot z}{a_{л} \\cdot (V_{gr} - V_{sл})}} \\right] = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.62)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
+    "c18f47f412f4",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "cad37467980b",
-    "c18f47f412f4",
-    "852630f710d0"
+    "572d0da78fdc"
   ]
 }

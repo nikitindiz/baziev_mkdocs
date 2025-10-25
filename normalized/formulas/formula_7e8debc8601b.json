@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5305\" data-src=\"images/formula_full_329_9.webp\">\n<div style=\"width: 100%;\">\n\n$$n_i = \\frac{v_0 \\cdot V_i}{w_0 \\cdot \\omega_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.15)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "69b88a8d50a2",
-    "cad37467980b",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "69b88a8d50a2",
+    "cad37467980b"
   ]
 }

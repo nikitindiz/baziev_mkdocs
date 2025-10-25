@@ -14,12 +14,12 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1982\" data-src=\"images/formula_full_131_25.webp\">\n<div style=\"width: 100%;\">\n\n$$\\underset{t \\gt 0\\degree C}{\\xi (\\alpha, n)_T} = \\frac{1}{\\psi (\\alpha, n)_T} = \\frac{h \\cdot \\beta_{0i}}{\\varepsilon_{0i} \\ \\varepsilon^2(n)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.94.1)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
     "606678d17268",
-    "cad37467980b",
-    "8fd7476253af",
+    "773fb8579a52",
     "852630f710d0",
     "b5b0c2b51293",
-    "773fb8579a52"
+    "8fd7476253af",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6055\" data-src=\"images/formula_full_371_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_c(Al) = 2A_c^2 \\cdot \\psi_в^2 \\cdot T_c \\cdot \\sin \\alpha_c$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.107)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1574\" data-src=\"images/formula_full_111_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\theta_2 = \\frac{\\pi - \\delta_2}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.24)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
+    "606678d17268",
     "852630f710d0",
     "b5b0c2b51293",
-    "606678d17268",
     "d61a4d7eea23",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

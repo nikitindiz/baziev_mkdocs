@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"921\" data-src=\"images/formula_full_62_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{d i}=\\frac{\\left(r_{i}+s_{i}\\right) \\cdot f_{i}}{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.100)\n</div>\n</div>",
   "symbols": [
-    "e0b3a1ffb272",
-    "cad37467980b",
     "852630f710d0",
+    "e0b3a1ffb272",
     "ff905a84b912",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

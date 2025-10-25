@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<span data-db-key=\"628\" data-src=\"images/formula_inline_45_8_21.webp\"> $n = \\omega (s_{ед}) \\cdot \\tau_{ед}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "2da43f769c74",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "2da43f769c74"
   ]
 }

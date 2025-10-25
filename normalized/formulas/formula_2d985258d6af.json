@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8100\" data-src=\"images/formula_full_542_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_2' = F_s - F_1' = m_s v_s \\nu_{ед} (1 - \\sin \\alpha) = 7,847653 \\cdot 10^{33} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.46)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

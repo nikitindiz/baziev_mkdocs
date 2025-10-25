@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7524\" data-src=\"images/formula_full_490_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_i = \\varepsilon_q / m_i T_i = \\alpha q_\\lambda^2 / 2 m_i T_i, \\text{ Дж/кг⋅K}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.25)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
     "b5b0c2b51293",
     "8fd7476253af",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

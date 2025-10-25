@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6196\" data-src=\"images/formula_full_379_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(\\oplus-\\text{☾})} = \\gamma \\cdot \\frac{(2 Q_{g \\oplus} + \\Delta Q_{g \\oplus}) \\cdot Z_{g \\text{☾}}}{a_{\\text{☾}}^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.149)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "cad37467980b"
   ]
 }

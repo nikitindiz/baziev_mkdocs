@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6056\" data-src=\"images/formula_full_371_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C (T) = C_1 \\cdot A^2 (T) \\cdot \\sin \\alpha (T)$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.108)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

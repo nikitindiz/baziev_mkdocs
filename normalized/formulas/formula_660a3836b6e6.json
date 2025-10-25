@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"67\" data-src=\"images/formula_full_5_2.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = \\frac{2A_0 \\cdot kT_0}{h} \\approx \\frac{2d_{g0} \\cdot kT_0}{h},\\, м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.21)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

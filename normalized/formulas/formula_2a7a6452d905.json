@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5158\" data-src=\"images/formula_full_317_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_c = \\varepsilon_c / (V_{gc} - V_{sc})$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.161)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

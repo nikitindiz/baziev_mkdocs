@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1135\" data-src=\"images/formula_full_79_8.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{\\lambda} = \\frac{d_{\\lambda}}{d_{э}} = \\frac{1,0280027 \\cdot 10^{-16} \\text{м}}{1,1067247 \\cdot 10^{-16} \\text{м}} = 0,92886693$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.33)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "44ea844e2db3",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "44ea844e2db3"
   ]
 }

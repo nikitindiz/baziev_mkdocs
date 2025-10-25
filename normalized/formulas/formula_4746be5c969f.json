@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1114\" data-src=\"images/formula_full_78_15.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\lambda i} = v_c \\cdot \\frac{r_{0i}}{R_{ci}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.30)\n</div>\n</div>",
   "symbols": [
-    "eaf4d057776d",
-    "d107c64fe193",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "eaf4d057776d",
+    "d107c64fe193"
   ]
 }

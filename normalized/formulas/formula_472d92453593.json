@@ -13,12 +13,12 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1942\" data-src=\"images/formula_full_129_15.webp\">\n    <div style=\"width: 100%;\">\n\n$$P_{si} = P_i \\cdot \\frac{\\rho (\\alpha, n)}{\\rho_{si}} = P_i \\cdot \\frac{\\rho_{0i} / \\alpha_i^3}{m_{0i} / \\Delta V_{si}} = \\frac{P_i N_{0i} \\Delta V_{si}}{\\alpha_i^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.72)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
-    "cad37467980b",
-    "8fd7476253af",
-    "852630f710d0",
     "1aa2b90e3182",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

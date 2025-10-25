@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8290\" data-src=\"images/formula_full_554_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\tilde{\\omega}_{{☿}}' = \\Delta \\tilde{\\omega}_{{☿}} \\cdot \\frac{T_{{☿}}}{T_{{\\oplus}}} = 0'',43 \\cdot 2,4084179 \\cdot 10^{-1} = 0'',10356196$$\n\n</div>\n<div style=\"width: 80px;\">\n(35.12)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

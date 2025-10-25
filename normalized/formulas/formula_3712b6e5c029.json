@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4894\" data-src=\"images/formula_full_299_19.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gл} = \\frac{m_л}{\\rho_л} = \\frac{1,4235688 \\cdot 10^{-22}}{917 \\, \\text{кг} \\cdot \\text{м}^{-3}} = 1,5524196 \\cdot 10^{-25} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.34)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

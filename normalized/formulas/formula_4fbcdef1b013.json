@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4321\" data-src=\"images/formula_full_266_10.webp\">\n<div style=\"width: 100%;\">\n\n$$(\\tau^{п})' = \\frac{4,85 \\cdot 10^{-3} \\cdot 1,4078361 \\cdot 10^{3} \\cdot 273,15}{6,1075801 \\cdot 10^{2}} = 3,0536963$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.10)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "2da43f769c74"
   ]
 }

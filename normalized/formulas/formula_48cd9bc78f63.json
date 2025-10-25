@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8944\" data-src=\"images/formula_full_601_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\tau = l \\cdot (\\frac{1}{c \\cdot n_1} - \\frac{1}{c n_2}) \\approx \\frac{2 \\pi e^2 \\cdot n_e \\cdot l}{m_e \\cdot c} \\cdot (\\frac{1}{\\nu_1^2} - \\frac{1}{\\nu_2^2})$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.1)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
-    "852630f710d0",
     "2da43f769c74",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

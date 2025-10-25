@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"724\" data-src=\"images/formula_full_50_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_i = \\Delta W \\cdot S_{gi1} \\cdot n_{i} \\cdot \\delta_{i} \\cdot K \\cdot \\frac{1}{3}, \\frac{Вт}{м \\cdot K}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.47)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "d61a4d7eea23",
     "b5b0c2b51293",
-    "852630f710d0"
+    "852630f710d0",
+    "d61a4d7eea23",
+    "cad37467980b"
   ]
 }

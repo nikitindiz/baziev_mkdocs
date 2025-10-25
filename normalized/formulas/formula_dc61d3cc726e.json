@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9102\" data-src=\"images/formula_full_610_15.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_1 = \\frac{\\mu}{c_1} = \\frac{\\mu}{c_0} \\cdot \\frac{1}{(1 - v/c_0)} = \\frac{\\lambda_0}{(1 - v/c_0)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.26)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "9af9381839c9",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "9af9381839c9"
   ]
 }

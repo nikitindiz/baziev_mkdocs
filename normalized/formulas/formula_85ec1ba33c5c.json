@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2230\" data-src=\"images/formula_full_146_18.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_{gi} = \\frac{m_{i} \\cdot K_{g}}{p}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.57)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "8328e59f56bb",
     "606678d17268",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "8328e59f56bb"
   ]
 }

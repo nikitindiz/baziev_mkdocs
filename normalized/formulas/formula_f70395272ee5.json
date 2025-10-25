@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<span data-db-key=\"1405\" data-src=\"images/formula_inline_98_2_4.webp\"> $\\varepsilon (\\gamma)$ </span>",
   "symbols": [
-    "cad37467980b",
-    "c18f47f412f4",
     "606678d17268",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "cad37467980b"
   ]
 }

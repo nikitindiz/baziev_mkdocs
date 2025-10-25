@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7129\" data-src=\"images/formula_full_455_7.webp\">\n<div style=\"width: 100%;\">\n\n$$K_g = \\frac{Z_g \\left( m_{ед} \\right)}{Z \\left( m_{ед} \\right)} = \\frac{3,0242769 \\cdot 10^{-9}}{2,8945287 \\cdot 10^{-8}} = 1,0448253386 \\cdot 10^{-17} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.10)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
     "ff905a84b912",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6220\" data-src=\"images/formula_full_381_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_m = a_m \\cdot \\nu_m = \\frac{H_\\oplus \\cdot a_m^2}{э} = 2,8992612 \\cdot 10^8 \\text{ м} \\cdot с^{-1} \\approx v_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.160)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

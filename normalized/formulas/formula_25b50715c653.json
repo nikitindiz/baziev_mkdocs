@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6167\" data-src=\"images/formula_full_377_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$[F_{(\\oplus - \\text{☾})}+ \\Delta F] \\geq F_{(\\odot - \\text{☾})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.137)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

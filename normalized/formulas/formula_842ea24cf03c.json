@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8124\" data-src=\"images/formula_full_543_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{\\omega} = \\frac{2 E_{0 \\omega}}{\\pi R_0 \\cdot \\sin \\alpha} = \\frac{2,5284276 \\cdot 10^{32}}{7,5220557 \\cdot 10^3} = 3,3613518 \\cdot 10^{26} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.51)\n</div>\n</div>",
   "symbols": [
-    "572d0da78fdc",
     "606678d17268",
-    "cad37467980b",
-    "8fd7476253af",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

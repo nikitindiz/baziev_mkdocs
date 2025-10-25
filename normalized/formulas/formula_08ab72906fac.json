@@ -13,13 +13,13 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4305\" data-src=\"images/formula_inline_264_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{0i} = m_0 v_{0i} u_{0i} \\neq h \\cdot f_{0i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.4)\n</div>\n</div>",
   "symbols": [
-    "db7124669e2f",
+    "954f2960e119",
     "606678d17268",
     "561d303dfa03",
-    "cad37467980b",
-    "b5b0c2b51293",
     "852630f710d0",
-    "954f2960e119",
+    "db7124669e2f",
+    "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

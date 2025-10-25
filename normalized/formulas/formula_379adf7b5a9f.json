@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4291\" data-src=\"images/formula_full_263_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{0i} = f_i \\cdot 2 A_{0i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.2)\n</div>\n</div>",
   "symbols": [
-    "db7124669e2f",
     "852630f710d0",
+    "db7124669e2f",
     "1cced234f7e5"
   ]
 }

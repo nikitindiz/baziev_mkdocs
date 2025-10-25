@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2566\" data-src=\"images/formula_full_164_12.webp\">\n<div style=\"width: 100%;\">\n\n$$U (\\alpha)_{i} = \\frac{F_{r}}{m_{э} \\cdot \\nu_{ед}} = \\frac{F_{t}}{m_{э} \\nu_{ед} \\cdot \\sin \\alpha} = \\frac{2\\varepsilon}{m_{э} r_{i} \\nu_{ед} \\sin \\alpha} = \\frac{4\\alpha \\cdot э^{2}}{m_{э} \\lambda_{i} \\nu_{ед} \\sin \\alpha}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.48)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
     "b5b0c2b51293",
-    "8fd7476253af",
     "852630f710d0",
+    "8fd7476253af",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

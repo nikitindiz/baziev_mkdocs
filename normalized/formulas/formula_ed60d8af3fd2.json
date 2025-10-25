@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7011\" data-src=\"images/formula_full_447_0_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$E_1 = \\alpha \\cdot Q \\cdot Z_\\lambda = -8,0842747 \\cdot 10^{-23} Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.166)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"7083\" data-src=\"images/formula_inline_450_13_70.webp\"> $\\Delta z = (Z_c + e) = 2,6204 \\cdot 10^{-22}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

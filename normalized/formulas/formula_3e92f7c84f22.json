@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5138\" data-src=\"images/formula_full_316_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{2d} = 2u_{2d} / v_{2d} = 8,7106512 \\cdot 10^{-4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.157)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
-    "8fd7476253af"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "8fd7476253af",
+    "572d0da78fdc"
   ]
 }

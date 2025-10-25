@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7641\" data-src=\"images/formula_full_508_9.webp\">\n<div style=\"width: 100%;\">\n\n$$z_i = \\frac{2\\pi R_э^2 \\cdot P_{\\text{э n}} \\cdot \\lambda_i^3}{\\beta \\cdot e \\cdot d_{gi}^2} = \\frac{2\\pi R_э^2 \\cdot P_{\\text{эn}} \\cdot \\lambda_i^3}{\\beta \\cdot e \\cdot (\\sqrt[3]{6kT_i / \\pi P_i})^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.7)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
-    "852630f710d0",
     "773fb8579a52",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

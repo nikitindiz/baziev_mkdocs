@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7700\" data-src=\"images/formula_full_512_3.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\uparrow} = \\frac{2\\pi R_n^2 (P_0 - P_{h3})}{m_n \\cdot \\nu_{ед}} - \\frac{I_\\odot \\cdot \\tau_{ед}}{R_\\odot^2} = 1,1751994 \\cdot 10^6 \\text{ м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.8)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "852630f710d0",
     "2da43f769c74",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

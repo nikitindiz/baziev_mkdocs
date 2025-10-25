@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<span data-db-key=\"5037\" data-src=\"images/formula_inline_309_13_21.webp\"> $(a_1 - A_1) \\rightarrow r_d$ </span>",
   "symbols": [
-    "69b88a8d50a2",
     "ff905a84b912",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "69b88a8d50a2",
+    "572d0da78fdc"
   ]
 }

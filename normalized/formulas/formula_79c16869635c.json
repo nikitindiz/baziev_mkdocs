@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7902\" data-src=\"images/formula_full_527_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r_1 = \\frac{\\tau_{10} \\cdot c}{2A} = \\frac{2,9979246 \\cdot 10^8}{2 \\cdot 1,4959787 \\cdot 10^{11}} = 0,28364908 \\text{ а. е.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.11)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "2da43f769c74"
   ]
 }

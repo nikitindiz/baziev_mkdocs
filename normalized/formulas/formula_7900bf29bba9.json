@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2638\" data-src=\"images/formula_full_168_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N(l) \\hbar = \\frac{l}{\\lambda_f} \\cdot \\eta_{\\lambda} = 8,125 \\cdot 10^{26}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.65)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
     "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

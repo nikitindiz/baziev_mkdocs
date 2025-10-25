@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7942\" data-src=\"images/formula_full_529_13.webp\">\n<div style=\"width: 100%;\">\n\n$$\\pi_{\\odot} = a_e / A_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.27)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "606678d17268",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4816\" data-src=\"images/formula_full_294_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C^ж = C_{\\omega} + C_{h} + C\\left(0\\right) + C_{t}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.98)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "ff905a84b912",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

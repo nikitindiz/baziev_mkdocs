@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6280\" data-src=\"images/formula_full_386_13.webp\">\n<div style=\"width: 100%;\">\n\n$$n_q = \\Delta q_\\lambda / (l - э) = \\frac{-2,2668277 \\cdot 10^{-21}}{-1,9876643 \\cdot 10^{-27}} = 1,1404479 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.15)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

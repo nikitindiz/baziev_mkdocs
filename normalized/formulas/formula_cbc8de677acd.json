@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<span data-db-key=\"6053\" data-src=\"images/formula_inline_370_9_3.webp\"> $T_2 = (T_c + \\Delta t) = 1,19 \\, \\text{K}; \\, \\alpha_2$ </span>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

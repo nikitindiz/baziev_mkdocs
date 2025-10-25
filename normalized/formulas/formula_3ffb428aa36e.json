@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"805\" data-src=\"images/formula_full_54_9.webp\">\n<div style=\"width: 100%;\">\n\n$$C_V (u_к) = \\frac{m_i u_i^2 \\cdot T_2^2 \\cdot \\tau_к N_{0i} v_{ед}}{9T_1^2 \\cdot \\Delta t}, \\frac{Дж}{м^3 \\cdot К}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.68)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
-    "1aa2b90e3182",
     "2da43f769c74",
-    "b5b0c2b51293"
+    "1aa2b90e3182",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

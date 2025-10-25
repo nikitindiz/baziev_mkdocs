@@ -13,11 +13,11 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4415\" data-src=\"images/formula_full_270_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\nk_{0}^{п}=\\frac{k_{v}^{п}-k_{\\text {в }}-k_{\\omega}}{\\gamma^{п}}=\\frac{C_{v}^{п} \\cdot m^{п}-k_{\\text {в }}-m^{п} \\cdot v_{c}^{2} / T_{0}}{\\gamma^{п}}= \\\\\n=\\frac{4,174225 \\cdot 10^{-23}-1,3802449 \\cdot 10^{-23}-1,9667882 \\cdot 10^{-26}}{3}= \\\\\n=9,3067113 \\cdot 10^{-24} Д ж \\cdot K^{-1}=\\text { Const. }\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.36)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "cad37467980b",
-    "c18f47f412f4",
-    "1f15ba82029e",
     "b5b0c2b51293",
-    "852630f710d0"
+    "ff905a84b912",
+    "c18f47f412f4",
+    "852630f710d0",
+    "cad37467980b",
+    "1f15ba82029e"
   ]
 }

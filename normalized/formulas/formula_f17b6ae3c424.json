@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2944\" data-src=\"images/formula_full_187_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_e(\\oplus) = n_\\nu(\\oplus) \\cdot M = 1,4378665 \\cdot 10^{15} \\text{ электрон} \\cdot \\text{м}^{-2} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.126)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
+    "606678d17268",
     "852630f710d0",
-    "606678d17268"
+    "cad37467980b"
   ]
 }

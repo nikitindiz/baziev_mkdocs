@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6101\" data-src=\"images/formula_full_373_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\Phi_{c}=B_{c} \\cdot \\frac{\\pi \\cdot A_{s}^{2}}{4}=2,9539145 \\cdot 10^{-26} \\ В \\cdot с$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.116)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
-    "b5b0c2b51293",
     "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

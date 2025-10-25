@@ -14,12 +14,12 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1924\" data-src=\"images/formula_full_128_23_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\varepsilon(\\alpha, n) = \\varepsilon_{0i} \\cdot n_i / \\gamma_i = \\varepsilon_{0i} \\cdot n_i \\cdot n_{si}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.65)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
-    "cad37467980b",
     "c18f47f412f4",
+    "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

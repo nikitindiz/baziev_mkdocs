@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7104\" data-src=\"images/formula_full_454_3.webp\">\n<div style=\"width: 100%;\">\n\n$$F_0 = G \\cdot \\frac{m_1 \\cdot m_2}{r_{ед}^2} = \\frac{G \\cdot m_{ед}^2}{r_{ед}^2} = 6,6720022 \\cdot 10^{-11} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.2)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "64f6b41ecdd3",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "64f6b41ecdd3"
   ]
 }

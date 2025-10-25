@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"2602\" data-src=\"images/formula_inline_165_5_0.webp\"> $S_у = 2 \\cdot \\frac{\\pi \\cdot \\lambda_у}{2} = \\pi \\lambda_у = \\pi \\cdot \\lambda_{\\text{ж}}/2$ </span>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

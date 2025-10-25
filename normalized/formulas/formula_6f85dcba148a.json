@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7078\" data-src=\"images/formula_full_450_8.webp\">\n<div style=\"width: 100%;\">\n\n$$n_p = \\frac{P_1}{(P_2 + P_3)} = \\frac{P_1}{1,233994 \\cdot 10^9} = -309,34669$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.201)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

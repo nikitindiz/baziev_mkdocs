@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5709\" data-src=\"images/formula_full_352_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i = \\frac{-8\\rho_i/R_0 + \\sqrt{(8\\rho_i/R_0)^2 + 32\\rho_i q_i/r_0}}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.13)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

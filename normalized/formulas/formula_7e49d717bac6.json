@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3189\" data-src=\"images/formula_full_202_4.webp\">\n<div style=\"width: 100%;\">\n\n$$l_{\\lambda 0} = \\frac{2 k_0^2 \\cdot \\gamma \\cdot э^2}{\\hbar \\cdot \\nu_{\\text{ед}}} = 1,5775223 \\cdot 10^{-11} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.176)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4",
+    "572d0da78fdc"
   ]
 }

@@ -13,14 +13,14 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1857\" data-src=\"images/formula_full_125_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_i^3 = \\frac{V_i}{V_0} = \\frac{V_{gi} \\cdot R_i}{V_{g0i} \\cdot R_{0i}} = \\frac{V_{gi} R_{0i} \\gamma_i}{V_{g0i} \\cdot R_{0i}} = \\frac{V_{gi} \\cdot \\gamma_i}{V_{g0i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.34)\n</div>\n</div>",
   "symbols": [
-    "a65e838ffd8e",
     "ff905a84b912",
-    "606678d17268",
     "c18f47f412f4",
+    "a65e838ffd8e",
+    "606678d17268",
+    "33b4bf84c063",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0",
-    "33b4bf84c063",
     "572d0da78fdc"
   ]
 }

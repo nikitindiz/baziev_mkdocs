@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2854\" data-src=\"images/formula_full_181_3.webp\">\n<div style=\"width: 100%;\">\n\n$$i_{1} = \\frac{\\alpha \\cdot э^2}{2 \\lambda_i \\nu_{\\text{ед}}} = \\frac{F_{t0}}{2 \\nu_{\\text{ед}}} , \\text{кг} \\cdot \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.91)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "8fd7476253af",
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

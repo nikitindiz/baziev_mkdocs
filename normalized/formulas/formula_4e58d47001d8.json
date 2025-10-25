@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7926\" data-src=\"images/formula_full_528_6.webp\">\n<div style=\"width: 100%;\">\n\n$$r_4 = \\frac{\\tau_{10} \\cdot v_0}{2 A_0} = 0,28364909 a. e.$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.14)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b",
+    "2da43f769c74"
   ]
 }

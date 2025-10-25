@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2229\" data-src=\"images/formula_full_146_14.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{g \\odot} = \\frac{m_{\\odot} \\cdot K_g}{-p} = -5,4402382 \\cdot 10^{21} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.56)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "ff905a84b912",
     "b5b0c2b51293"
   ]

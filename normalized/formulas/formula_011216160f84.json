@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4905\" data-src=\"images/formula_full_300_10.webp\">\n<div style=\"width: 100%;\">\n\n$$n_0 = \\frac{k_0^ж \\cdot T_0 \\cdot a_0}{\\gamma \\cdot q \\cdot z} = \\frac{33,643261 \\cdot 10^{-33}}{4,2442264 \\cdot 10^{-33}} = 7,9268299$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.39)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4"
   ]
 }

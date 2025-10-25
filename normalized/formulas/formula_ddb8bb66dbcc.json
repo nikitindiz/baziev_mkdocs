@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7377\" data-src=\"images/formula_full_476_17_0.webp\">\n<div style=\"width: 100%;\">\n\n$$f_{h0} = \\frac{\\mu}{a_{h0}^2} = \\frac{119,91698}{2,4689833 \\cdot 10^{-10}} = 4,8569376 \\cdot 10^{11} \\, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.69)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "9af9381839c9",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "9af9381839c9"
   ]
 }

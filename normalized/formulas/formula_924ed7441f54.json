@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2168\" data-src=\"images/formula_full_142_13.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\odot} = \\frac{2 u_{☿} a_{☿} E (e_h)}{\\pi h_{☿}} = \\dots = \\frac{2 u_{♇} a_{♇}^{2} E (e_♇)}{\\pi h_♇} = 8.163811 \\cdot 10^{15} \\text{м}^2 \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.25)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
     "606678d17268",
-    "cad37467980b",
+    "b5b0c2b51293",
+    "852630f710d0",
     "572d0da78fdc",
-    "852630f710d0"
+    "cad37467980b"
   ]
 }

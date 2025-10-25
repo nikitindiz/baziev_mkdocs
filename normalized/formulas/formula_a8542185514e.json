@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1350\" data-src=\"images/formula_full_93_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$КПД = \\frac{W \\cdot 8,64 \\cdot 10^4}{\\Delta m \\cdot C_m} \\cdot 100 = 4,2036953 \\%$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.57)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

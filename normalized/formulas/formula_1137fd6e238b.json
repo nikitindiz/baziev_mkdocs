@@ -14,12 +14,12 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1400\" data-src=\"images/formula_full_98_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon(\\gamma) = \\sqrt{\\hbar \\cdot f \\cdot \\tau_{ri} \\cdot \\nu_{\\text{ед}} \\cdot \\varepsilon_{ед}} = 1,1928321 \\cdot 10^{-24} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.78)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
-    "cad37467980b",
     "c18f47f412f4",
-    "b5b0c2b51293",
-    "852630f710d0",
+    "606678d17268",
     "2da43f769c74",
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

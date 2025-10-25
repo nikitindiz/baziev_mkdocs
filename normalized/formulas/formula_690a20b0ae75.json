@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"638\" data-src=\"images/formula_full_46_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_{\\text{max}} = h \\cdot \\nu_{\\text{max}} \\cdot \\omega \\left( S_{\\text{ед}} \\right) \\cdot \\delta_i, \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.29)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
-    "cad37467980b",
-    "d61a4d7eea23",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "d61a4d7eea23",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

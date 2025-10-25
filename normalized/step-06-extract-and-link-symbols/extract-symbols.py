@@ -297,6 +297,10 @@ def main():
     print("=" * 80)
     print()
     
+    # Ensure output directories exist
+    symbols_dir.mkdir(parents=True, exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
     # Step 1: Parse symbols file
     print("Step 1: Parsing symbols file...")
     symbols = parse_symbols_file(symbols_file)

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4891\" data-src=\"images/formula_full_299_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{\\text{л}} = \\frac{v_{\\text{л}} \\cdot \\sin \\alpha_{\\text{л}}}{2} = 99,859435 \\ м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.31)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

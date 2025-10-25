@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"292\" data-src=\"images/formula_full_22_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_э = \\sqrt[3]{6m_э/\\pi \\rho_e} = 1,1067247 \\cdot 10^{-16} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.2)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "606678d17268",
     "852630f710d0",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

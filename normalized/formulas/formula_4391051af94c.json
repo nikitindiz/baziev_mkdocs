@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4541\" data-src=\"images/formula_full_279_22.webp\">\n<div style=\"width: 100%;\">\n\n$$P_0 = \\frac{h \\cdot f_0}{(V_{g0} - V_{s0})}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.12)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

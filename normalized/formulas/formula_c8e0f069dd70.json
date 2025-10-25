@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"1024\" data-src=\"images/formula_inline_70_11_81.webp\"> $\\sigma_{n} = 8,4425015 \\cdot 10^{4} \\, \\text{Н} \\cdot \\text{м}^{-1}$ </span>",
   "symbols": [
-    "b5b0c2b51293",
     "852630f710d0",
-    "ff905a84b912"
+    "ff905a84b912",
+    "b5b0c2b51293"
   ]
 }

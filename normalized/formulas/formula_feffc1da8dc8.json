@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8257\" data-src=\"images/formula_full_552_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta R_{\\odot}' = \\frac{(a_{☿} - I_{\\odot}/v_{☿}^2) \\cdot T_{☿}}{t_{n\\odot}} = 243,22909 \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(35.6)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
+    "057479e2242e",
     "852630f710d0",
     "b5b0c2b51293",
-    "057479e2242e"
+    "cad37467980b"
   ]
 }

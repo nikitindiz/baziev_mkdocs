@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2705\" data-src=\"images/formula_full_171_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta f = \\varepsilon_1 / h = \\varepsilon_1 / \\hbar \\cdot a = 1,5682459 \\cdot 10^{10} \\, с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.70)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
-    "b5b0c2b51293",
     "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b",
     "572d0da78fdc"
   ]
 }

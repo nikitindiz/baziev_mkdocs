@@ -14,12 +14,12 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3472\" data-src=\"images/formula_full_217_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n&P_{n} = \\frac{\\beta \\cdot q_{\\lambda} \\cdot э}{r_{0} \\cdot \\pi \\cdot R_{э}^{2}}\\\\\n&P_{n} = \\frac{3 \\cdot \\sigma_{n}}{R_{n}} = \\frac{3 \\cdot q_{\\lambda} \\cdot \\varphi}{R_{n} \\cdot \\pi \\cdot R_{э}^{2}}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.21)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
     "606678d17268",
     "b5b0c2b51293",
-    "cad37467980b",
-    "8d6fa2d1d49d",
+    "773fb8579a52",
     "852630f710d0",
-    "773fb8579a52"
+    "8d6fa2d1d49d",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

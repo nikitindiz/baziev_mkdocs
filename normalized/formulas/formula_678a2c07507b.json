@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3315\" data-src=\"images/formula_full_208_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{s} = 2\\varphi \\cdot K_{\\varphi} / c_{o} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.201)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
+    "b5b0c2b51293",
     "572d0da78fdc",
-    "8d6fa2d1d49d",
-    "b5b0c2b51293"
+    "8d6fa2d1d49d"
   ]
 }

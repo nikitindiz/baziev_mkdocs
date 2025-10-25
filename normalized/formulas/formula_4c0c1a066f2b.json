@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7841\" data-src=\"images/formula_full_523_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\tau_2 &= 1 \\cdot 10^6 \\text{ лет} = 3,155815 \\cdot 10^3 \\text{ с}, \\\\\nM_{k2} &= M_k + \\mu_\\tau \\tau_2 = 1,4429648 \\cdot 10^{28} \\text{ кг} = 100,02\\% \\, M_k, \\\\\nM_{n2} &= M_{n\\odot} - \\mu_\\odot \\tau_2 = 1,7843669 \\cdot 10^{30} \\text{ кг} = 99,996514\\% \\,M_{n\\odot}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.26)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "9af9381839c9",
-    "cad37467980b",
-    "852630f710d0",
     "2da43f769c74",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "9af9381839c9",
+    "cad37467980b"
   ]
 }

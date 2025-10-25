@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2231\" data-src=\"images/formula_full_146_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nF_{ri} &= 2 \\gamma \\cdot \\frac{Q_{g \\odot} \\cdot Z_{gi}}{a_i^2} \\\\\nF_{ri} &= G \\cdot m_{\\odot} \\cdot \\frac{m_i}{a_i^2}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.58)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
+    "c18f47f412f4",
     "8328e59f56bb",
     "64f6b41ecdd3",
-    "cad37467980b",
-    "c18f47f412f4",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

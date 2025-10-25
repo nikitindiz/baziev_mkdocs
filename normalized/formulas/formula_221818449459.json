@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5106\" data-src=\"images/formula_full_313_7.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{gl}^{п} = \\frac{m^{п}}{\\rho_{i}^{п}} = \\frac{8,9746569 \\cdot 10^{-26}}{0,5977} = 1,501532 \\cdot 10^{-25} м^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.138)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

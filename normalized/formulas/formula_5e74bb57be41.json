@@ -13,12 +13,12 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5919\" data-src=\"images/formula_full_363_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_2 = a_1 \\cdot [1 + \\alpha_3 (T_c - T_1)] = a_1 \\cdot [1 + \\alpha_3 (-291.97\\degree)] = a_1 \\cdot 0.9912118 = 2.5250873 \\cdot 10^{-10} \\, \\text{м} = 99.121 \\% \\, a_1$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.75)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
     "ff905a84b912",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

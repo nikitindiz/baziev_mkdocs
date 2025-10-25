@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7878\" data-src=\"images/formula_full_526_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{r4} = \\frac{2\\gamma \\cdot Q_{g \\odot} \\cdot Z_{g \\oplus}}{k_4 \\cdot A_0^2} = \\frac{F_r}{k_4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.9)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
     "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4"
   ]
 }

@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"309\" data-src=\"images/formula_full_23_5.webp\">\n<div style=\"width: 100%;\">\n\n$$n_a = \\frac{S_n}{S_a} = \\frac{4 \\pi r_n^2}{\\pi r_э^2 (1 + \\gamma)} = \\frac{4 r_n^2}{r_э^2 (1 + \\gamma)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.10)\n</div>\n</div>",
   "symbols": [
-    "c18f47f412f4",
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "c18f47f412f4"
   ]
 }

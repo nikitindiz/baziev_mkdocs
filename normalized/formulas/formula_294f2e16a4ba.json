@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7291\" data-src=\"images/formula_full_471_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_i = 1/V_{gi} = 1/a_i^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.29)\n</div>\n</div>",
   "symbols": [
-    "33b4bf84c063",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "33b4bf84c063"
   ]
 }

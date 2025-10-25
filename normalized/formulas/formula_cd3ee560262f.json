@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5050\" data-src=\"images/formula_full_310_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{rcases}\n\\begin{aligned}\n\\varepsilon_{d} &= m_{0}v_{d}u_{d} \\\\\n\\varepsilon_{d} &= P_{3d} \\cdot a_{1}^{2} \\cdot r_{d} = P_{3d} a_{1}^{2} (a_{1} - A_{d}) \\\\\n\\varepsilon_{d} &= k_{0}^ж \\cdot T_{1c}\n\\end{aligned}\n\\end{rcases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.107)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "b5b0c2b51293",
     "606678d17268",
-    "cad37467980b",
-    "852630f710d0"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

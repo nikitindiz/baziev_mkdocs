@@ -14,10 +14,10 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1564\" data-src=\"images/formula_full_110_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i = d_{gi} - r_i - s_i = \\sqrt[3]{m_i / \\rho_i} - \\frac{\\sigma_n}{A_i \\cdot P_n (э)_i} - \\frac{\\sigma_n \\cdot \\delta_i}{A_i P_n (э)_i} = d_{gi} - \\frac{\\sigma_n (1 + \\delta_i)}{A_i \\cdot P_n (э)_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.18)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "572d0da78fdc",
-    "cad37467980b",
-    "d61a4d7eea23",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "d61a4d7eea23",
+    "cad37467980b",
+    "572d0da78fdc"
   ]
 }

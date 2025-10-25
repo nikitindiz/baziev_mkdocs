@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7233\" data-src=\"images/formula_full_464_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$l_{k} = (R_\\odot - R_{n\\odot}) = 6,7272494 \\cdot 10^8 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.12)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "0615ea830adf"
+    "0615ea830adf",
+    "852630f710d0"
   ]
 }

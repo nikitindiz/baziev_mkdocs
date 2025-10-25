@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"8596\" data-src=\"images/formula_inline_576_12_94.webp\"> $22{\\degree} \\text{ C, } 100 \\cdot 10^{6}$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "ff905a84b912"
+    "ff905a84b912",
+    "cad37467980b"
   ]
 }

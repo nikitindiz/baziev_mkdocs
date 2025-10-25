@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2813\" data-src=\"images/formula_full_177_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_{\\pi f} = \\frac{n_{\\pi f}/2}{\\tau_{ед}} = \\frac{\\eta_{\\pi f} \\cdot n_f}{2 \\tau_{ед}} = 6,600706 \\cdot 10^4 \\text{ с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.86)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
+    "b5b0c2b51293",
     "852630f710d0",
-    "2da43f769c74",
-    "b5b0c2b51293"
+    "cad37467980b",
+    "2da43f769c74"
   ]
 }

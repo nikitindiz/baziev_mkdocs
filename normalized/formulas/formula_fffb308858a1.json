@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7331\" data-src=\"images/formula_full_473_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{\\odot} = (V_{\\odot} - V_{n\\odot})/T_{\\odot} = 8,0949624 \\cdot 10^{9} \\, \\text{м}^{3} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.43)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "ebb6e2bd535d",
-    "852630f710d0",
     "a7b69e74d0da",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "ebb6e2bd535d",
+    "cad37467980b"
   ]
 }

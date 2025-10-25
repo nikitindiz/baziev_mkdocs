@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<span data-db-key=\"8119\" data-src=\"images/formula_full_543_14_0.webp\"> $\\Delta F_d = 1 \\cdot 10^{-6} F'_1$ </span>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

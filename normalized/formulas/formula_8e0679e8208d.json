@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5069\" data-src=\"images/formula_full_311_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{aligned}\na_d &= 3.0593829 \\cdot 10^{-10} \\, \\text{м,} \\\\\nr_d &= a_d - A_d = 8.9911 \\cdot 10^{-13} \\, \\text{м,} \\\\\nV_d &= a_d^3 = 2.8635284 \\cdot 10^{-29} \\, \\text{м}^3,\n\\end{aligned}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.120)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

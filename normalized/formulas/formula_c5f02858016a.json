@@ -13,12 +13,12 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1493\" data-src=\"images/formula_full_106_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{T_{0i}}{\\theta_{i}} = \\frac{v_{0i}}{v_0(\\theta_i)} = \\frac{r_{0i} + s_{0i}}{r_{0i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.8)\n</div>\n</div>",
   "symbols": [
-    "db7124669e2f",
     "b5b0c2b51293",
-    "cad37467980b",
     "852630f710d0",
-    "d107c64fe193",
+    "db7124669e2f",
     "46098aae8851",
-    "572d0da78fdc"
+    "cad37467980b",
+    "572d0da78fdc",
+    "d107c64fe193"
   ]
 }

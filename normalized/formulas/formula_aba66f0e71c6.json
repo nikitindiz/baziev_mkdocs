@@ -13,9 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5200\" data-src=\"images/formula_full_320_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{c} = \\frac{m_{c} \\cdot f_{c}}{\\pi \\cdot d_{gc}} = \\frac{24,203273 \\cdot 10^{-13}}{3,2145212 \\cdot 10^{-9}} = 7,5293555 \\cdot 10^{-4} \\, \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.186)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
     "606678d17268",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

@@ -14,11 +14,11 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3495\" data-src=\"images/formula_full_218_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma = \\frac{\\varphi \\cdot R_n}{э} \\cdot \\frac{э}{э} = \\frac{\\varphi \\cdot э \\cdot R_n}{э^2} = \\frac{\\hbar \\cdot \\nu_{ед} \\cdot R_n}{э^2} = 3,6473973 \\cdot 10^6 \\text{ Дж} \\cdot \\text{м} \\cdot \\text{Кл}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.24)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
     "c18f47f412f4",
+    "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293",
     "8d6fa2d1d49d",
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

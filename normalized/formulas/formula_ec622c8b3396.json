@@ -14,9 +14,9 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4198\" data-src=\"images/formula_full_257_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{aligned}\n& A_{s} = bc \\, r_{x}, \\text{м}^3, \\\\\n& B_{s} = ac \\, r_{y}, \\text{м}^3 \\\\\n& C_{s} = 2ab \\, r_{z} \\sin (\\gamma/2) \\cos (\\gamma/2), \\text{м}^3\n\\end{aligned}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.51)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "cad37467980b",
     "c18f47f412f4",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

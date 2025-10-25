@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3530\" data-src=\"images/formula_full_220_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_p = \\frac{P'_{\\mu}}{P_{\\mu}} = \\frac{\\mathscr{P}}{w} = 1,6053391 \\cdot 10^{6} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.34)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
+    "b5b0c2b51293",
     "69b88a8d50a2",
-    "9af9381839c9",
-    "b5b0c2b51293"
+    "9af9381839c9"
   ]
 }

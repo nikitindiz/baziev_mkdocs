@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5016\" data-src=\"images/formula_full_308_11.webp\">\n<div style=\"width: 100%;\">\n\n$$P_1 = \\frac{\\varphi_{H_2O} \\cdot q}{2 V_1} = \\frac{-12,106972 \\cdot 10^{-20}}{5,7135052 \\cdot 10^{-29}} = -2,1190095 \\cdot 10^9 \\, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.97)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
+    "b5b0c2b51293",
     "572d0da78fdc",
-    "8d6fa2d1d49d",
-    "b5b0c2b51293"
+    "8d6fa2d1d49d"
   ]
 }

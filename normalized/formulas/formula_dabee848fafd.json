@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8851\" data-src=\"images/formula_full_593_19.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta R_{♃} = 6,244\\,2896 \\cdot 10^{-5} \\cdot \\frac{1,200\\,1957 \\cdot 10^{20} - 1,200\\,1975 \\cdot 10^{20}}{1,594\\,4491 \\cdot 10^{8}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.53)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

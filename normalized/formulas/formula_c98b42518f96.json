@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3739\" data-src=\"images/formula_full_233_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\lambda \\min} = \\frac{\\alpha \\cdot э \\cdot q_{\\lambda}}{\\lambda} = -1,94955283 \\cdot 10^{-21} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.96)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
-    "572d0da78fdc",
+    "852630f710d0",
+    "b5b0c2b51293",
     "8fd7476253af",
-    "b5b0c2b51293"
+    "572d0da78fdc"
   ]
 }

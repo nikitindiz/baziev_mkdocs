@@ -14,7 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"951\" data-src=\"images/formula_full_65_1.webp\">\n<div style=\"width: 100%;\">\n\n$$r_i = \\frac{\\hbar_1 \\cdot v_{ед}}{m_i u_i v_{ед}} = \\frac{\\hbar_1}{m_i v_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(7.5)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "572d0da78fdc",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "572d0da78fdc"
   ]
 }

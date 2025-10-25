@@ -14,8 +14,8 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6000\" data-src=\"images/formula_full_368_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_3 = C_2 (Al) \\cdot (T_e + \\Delta t) \\cdot m_{Al} = C_2 (Al) \\cdot 1,19 \\cdot 4,4804735 \\cdot 10^{-26}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.92)\n</div>\n</div>",
   "symbols": [
     "606678d17268",
-    "cad37467980b",
     "852630f710d0",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "cad37467980b"
   ]
 }

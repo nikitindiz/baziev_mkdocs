@@ -13,10 +13,10 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1573\" data-src=\"images/formula_full_111_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{cases}\n2m_i v_2 > m_э u_э \\\\\n\\delta_2 > 0, \\\\\nS_2 > 0\n\\end{cases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.23)\n</div>\n</div>",
   "symbols": [
-    "cad37467980b",
-    "852630f710d0",
-    "d61a4d7eea23",
     "ff905a84b912",
-    "b5b0c2b51293"
+    "852630f710d0",
+    "b5b0c2b51293",
+    "d61a4d7eea23",
+    "cad37467980b"
   ]
 }

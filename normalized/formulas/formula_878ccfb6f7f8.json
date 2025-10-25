@@ -13,7 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8576\" data-src=\"images/formula_full_575_19.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{\\oplus 0} = \\sqrt[3]{{3V_{\\oplus 0}}/{4\\pi}} = \\sqrt[3]{258,59662 \\cdot 10^{18} \\text{ м}^3} = 6,3710002 \\cdot 10^6 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.34)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "606678d17268"
+    "606678d17268",
+    "852630f710d0"
   ]
 }

@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7238\" data-src=\"images/formula_full_464_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_0 = \\frac{4 \\pi R_0^3}{3} - \\sum_{1}^{71} V = 1,547456 \\cdot 10^{26} \\, м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.6)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "606678d17268",
+    "852630f710d0",
     "b5b0c2b51293"
   ]
 }
