@@ -95,6 +95,7 @@ def import_all(ctx):
     content_linker = ContentLinker(neo4j, config)
     content_linker.import_sections_and_paragraphs()
     content_linker.link_content()
+    content_linker.link_orphan_artifacts_to_sections()
     
     # Создание связей последовательности
     logger.info("Linking paragraph and section sequence...")
@@ -302,8 +303,22 @@ def link_content(ctx):
     
     content_linker = ContentLinker(neo4j, config)
     content_linker.link_content()
+    content_linker.link_orphan_artifacts_to_sections()
     
     logger.info("Content linking completed!")
+
+
+@import_cmd.command('link-orphans')
+@click.pass_context
+def link_orphans(ctx):
+    """Связать артефакты без параграфов напрямую с секциями"""
+    config = ctx.obj['config']
+    neo4j = ctx.obj['neo4j']
+    
+    content_linker = ContentLinker(neo4j, config)
+    content_linker.link_orphan_artifacts_to_sections()
+    
+    logger.info("Orphan artifacts linking completed!")
 
 
 @cli.group()

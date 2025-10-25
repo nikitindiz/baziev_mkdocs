@@ -153,10 +153,12 @@ class ContentLinker:
             if not block or block.startswith('#'):
                 continue
             
-            # Пропустить блоки с HTML тегами (таблицы, иллюстрации уже извлечены)
-            if block.startswith('<') or block.startswith('{{'):
+            # Пропустить блоки с HTML тегами (но сохраняем блоки с {{references}})
+            if block.startswith('<'):
                 continue
             
+            # Сохраняем блоки с ссылками на артефакты ({{table:id}}, {{formula:id}}, etc.)
+            # Они важны для связывания контента с параграфами
             paragraphs.append(block)
         
         return paragraphs
@@ -336,3 +338,149 @@ class ContentLinker:
             "literature_id": literature_id,
             "position": position
         })
+    
+    def link_orphan_artifacts_to_sections(self):
+        """Связать артефакты без параграфов напрямую с секциями на основе source файла"""
+        logger.info("Linking orphan artifacts to sections...")
+        
+        # Найти таблицы без связей с параграфами
+        query = """
+        MATCH (t:Table)
+        WHERE NOT exists((:Paragraph)-[:CONTAINS_TABLE]->(t))
+        RETURN t.id as id, t.source as source
+        """
+        
+        orphan_tables = self.conn.execute_query(query)
+        
+        logger.info(f"Found {len(orphan_tables)} tables without paragraph links")
+        
+        linked_count = 0
+        for table in orphan_tables:
+            table_id = table['id']
+            source = table.get('source')
+            
+            if not source:
+                continue
+            
+            # source - это JSON строка, нужно распарсить
+            import json
+            try:
+                source_data = json.loads(source) if isinstance(source, str) else source
+                file_path = source_data.get('file', '')
+                
+                # Извлечь chapter_id из пути файла
+                # Пример: "chapter_приложение-3-периодическая-система-элементов/index.md"
+                if '/' in file_path:
+                    parts = file_path.split('/')
+                    chapter_id = parts[0]  # chapter_приложение-3-периодическая-система-элементов
+                    file_name = parts[1].replace('.md', '')  # index
+                    section_id = f"{chapter_id}_{file_name}"
+                    
+                    # Попробовать связать с секцией
+                    link_query = """
+                    MATCH (s:Section {id: $section_id})
+                    MATCH (t:Table {id: $table_id})
+                    MERGE (s)-[r:CONTAINS_TABLE]->(t)
+                    SET r.orphan = true
+                    RETURN count(s) as linked
+                    """
+                    
+                    result = self.conn.execute_query(link_query, {
+                        "section_id": section_id,
+                        "table_id": table_id
+                    })
+                    
+                    if result and result[0]['linked'] > 0:
+                        linked_count += 1
+                        logger.debug(f"Linked orphan table {table_id} to section {section_id}")
+                    else:
+                        # Если секция не найдена, связываем с главой
+                        link_query = """
+                        MATCH (c:Chapter {id: $chapter_id})
+                        MATCH (t:Table {id: $table_id})
+                        MERGE (c)-[r:CONTAINS_TABLE]->(t)
+                        SET r.orphan = true
+                        """
+                        
+                        self.conn.execute_query(link_query, {
+                            "chapter_id": chapter_id,
+                            "table_id": table_id
+                        })
+                        
+                        linked_count += 1
+                        logger.debug(f"Linked orphan table {table_id} to chapter {chapter_id}")
+                    
+            except (json.JSONDecodeError, KeyError, AttributeError) as e:
+                logger.warning(f"Could not parse source for table {table_id}: {e}")
+        
+        logger.info(f"Linked {linked_count} orphan tables to sections")
+        
+        # То же самое для иллюстраций
+        query = """
+        MATCH (i:Illustration)
+        WHERE NOT exists((:Paragraph)-[:CONTAINS_ILLUSTRATION]->(i))
+        RETURN i.id as id, i.source as source
+        """
+        
+        orphan_illustrations = self.conn.execute_query(query)
+        
+        logger.info(f"Found {len(orphan_illustrations)} illustrations without paragraph links")
+        
+        linked_count = 0
+        for illust in orphan_illustrations:
+            illust_id = illust['id']
+            source = illust.get('source')
+            
+            if not source:
+                continue
+            
+            import json
+            try:
+                source_data = json.loads(source) if isinstance(source, str) else source
+                file_path = source_data.get('file', '')
+                
+                if '/' in file_path:
+                    parts = file_path.split('/')
+                    chapter_id = parts[0]
+                    file_name = parts[1].replace('.md', '')
+                    section_id = f"{chapter_id}_{file_name}"
+                    
+                    # Попробовать связать с секцией
+                    link_query = """
+                    MATCH (s:Section {id: $section_id})
+                    MATCH (i:Illustration {id: $illust_id})
+                    MERGE (s)-[r:CONTAINS_ILLUSTRATION]->(i)
+                    SET r.orphan = true
+                    RETURN count(s) as linked
+                    """
+                    
+                    result = self.conn.execute_query(link_query, {
+                        "section_id": section_id,
+                        "illust_id": illust_id
+                    })
+                    
+                    if result and result[0]['linked'] > 0:
+                        linked_count += 1
+                        logger.debug(f"Linked orphan illustration {illust_id} to section {section_id}")
+                    else:
+                        # Если секция не найдена, связываем с главой
+                        link_query = """
+                        MATCH (c:Chapter {id: $chapter_id})
+                        MATCH (i:Illustration {id: $illust_id})
+                        MERGE (c)-[r:CONTAINS_ILLUSTRATION]->(i)
+                        SET r.orphan = true
+                        """
+                        
+                        self.conn.execute_query(link_query, {
+                            "chapter_id": chapter_id,
+                            "illust_id": illust_id
+                        })
+                        
+                        linked_count += 1
+                        logger.debug(f"Linked orphan illustration {illust_id} to chapter {chapter_id}")
+                    
+            except (json.JSONDecodeError, KeyError, AttributeError) as e:
+                logger.warning(f"Could not parse source for illustration {illust_id}: {e}")
+        
+        logger.info(f"Linked {linked_count} orphan illustrations to sections")
+
