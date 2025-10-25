@@ -13,13 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8394\" data-src=\"images/formula_full_562_19.webp\">\n<div style=\"width: 100%;\">\n\n$$h_{☿} = AM_0 - AM_1 = \\sin \\beta_{} \\cdot a_{☿} \\left\\{ \\operatorname{tg} \\left( \\frac{\\pi}{2} - \\beta_{☿} \\right) - \\operatorname{tg} \\left[ \\frac{\\pi}{2} - (\\alpha_{☿} + \\beta_{☿}) \\right] \\right\\}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.38)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "b5b0c2b51293",
     "773fb8579a52",
-    "852630f710d0",
-    "8fd7476253af",
     "572d0da78fdc",
-    "cad37467980b"
+    "b5b0c2b51293",
+    "8fd7476253af"
   ]
 }

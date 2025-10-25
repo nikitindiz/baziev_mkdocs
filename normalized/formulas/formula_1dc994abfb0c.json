@@ -12,11 +12,5 @@
     "position": 10937
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1219\" data-src=\"images/formula_full_85_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_n = \\sqrt{\\hbar \\cdot \\nu_{ед} \\cdot n_э \\cdot n_e \\cdot \\varepsilon_{ед}} = 5,4608428 \\cdot 10^{-13} Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.16)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

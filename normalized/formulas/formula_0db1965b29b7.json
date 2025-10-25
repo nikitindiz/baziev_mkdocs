@@ -12,7 +12,5 @@
     "position": 27449
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4392\" data-src=\"images/formula_full_269_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{v}^п = C_{v}^п \\cdot m^п = 4,174225 \\cdot 10^{-23} \\text{ Дж} \\cdot \\text{K}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.27)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

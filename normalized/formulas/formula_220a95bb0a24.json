@@ -12,8 +12,5 @@
     "position": 41925
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7530\" data-src=\"images/formula_full_493_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\nu i} = n_{gi} \\cdot f_i = N_i V_i f_i / n_h$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.27)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

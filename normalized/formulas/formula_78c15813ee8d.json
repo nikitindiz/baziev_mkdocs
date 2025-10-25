@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7608\" data-src=\"images/formula_full_504_5.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{i} = \\Phi_{i} / \\Phi_{0i} \\cdot \\beta_{i}^{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(29.11)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0",
-    "d61a4d7eea23",
-    "cad37467980b",
-    "572d0da78fdc",
-    "773fb8579a52"
+    "773fb8579a52",
+    "d61a4d7eea23"
   ]
 }

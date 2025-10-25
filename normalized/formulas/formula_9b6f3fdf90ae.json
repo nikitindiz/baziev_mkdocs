@@ -12,7 +12,5 @@
     "position": 62077
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4487\" data-src=\"images/formula_full_275_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0^т = d_{g0}^п - d_0^т = 1{,}4130169 \\cdot 10^{-8} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.62)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

@@ -13,11 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"428\" data-src=\"images/formula_full_31_16.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\beta_i &= \\beta_0 \\cdot \\gamma_i \\\\\n\\beta_i &= \\frac{V_2 - V_1}{V_1 \\cdot \\Delta t} = \\frac{\\Delta V}{V_i \\cdot \\Delta t}\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.10)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "c18f47f412f4",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "c18f47f412f4",
+    "b5b0c2b51293"
   ]
 }

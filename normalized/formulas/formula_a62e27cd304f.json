@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"444\" data-src=\"images/formula_full_32_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_i T_{0i} = h \\cdot f_{0i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.15)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "954f2960e119",
     "572d0da78fdc"
   ]

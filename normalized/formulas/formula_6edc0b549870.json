@@ -12,10 +12,5 @@
     "position": 3615
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8260\" data-src=\"images/formula_full_552_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n_{☿} = \\frac{\\Delta \\tilde{\\omega}_{☿}}{F_0 \\cdot T_{\\text{⊕}}} = \\frac{0'',43}{6,5030241 \\cdot 10^{12}} = 6,6123082 \\cdot 10^{-14} \\text{ рад} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(35.3)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4139\" data-src=\"images/formula_full_254_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_i = f_i \\cdot s_i = \\psi_в \\cdot T_i \\cdot d_{gi} (1 + \\cos \\alpha) \\cdot м \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.31)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

@@ -12,7 +12,5 @@
     "position": 37529
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4664\" data-src=\"images/formula_full_286_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0 = 3.0232413 \\cdot 10^{-11} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.20)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"642\" data-src=\"images/formula_inline_46_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$W_i = h \\cdot \\sqrt{f_{(i-1)} \\cdot \\nu_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.26)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

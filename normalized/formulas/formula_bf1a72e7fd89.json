@@ -12,7 +12,5 @@
     "position": 2114
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7730\" data-src=\"images/formula_full_515_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_г = 5 \\cdot 10^{9} \\cdot m_{\\odot} = 8,9942795 \\cdot 10^{39} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(31.3)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

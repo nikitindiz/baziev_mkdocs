@@ -12,8 +12,5 @@
     "position": 4467
   },
   "wrapper_html": "<span data-db-key=\"8491\" data-src=\"images/formula_inline_569_7_30.webp\"> $\\rho_{1} = 100 \\cdot \\rho_{0} = 2,25 \\cdot 10^{-26} \\text{ кг} \\cdot \\text{м}^{-3}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

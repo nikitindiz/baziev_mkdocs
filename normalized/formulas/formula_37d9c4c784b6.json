@@ -12,8 +12,5 @@
     "position": 74965
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4268\" data-src=\"images/formula_full_261_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g2} = \\pi \\cdot d_{g2}^3 / 6 = 8,3876228 \\cdot 10^{-30} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.80)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0"
-  ]
+  "symbols": []
 }

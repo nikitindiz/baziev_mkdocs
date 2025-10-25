@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4928\" data-src=\"images/formula_full_301_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{\\text{л}} = \\sqrt[3]{V_{\\text{gл}}} = \\sqrt[3]{m_{\\text{л}} / \\rho_{\\text{л}}} = 5,952542 \\cdot 10^{-9} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.45)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

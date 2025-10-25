@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"576\" data-src=\"images/formula_full_43_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q = \\alpha \\cdot S \\cdot \\tau \\cdot \\Delta t,  Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.17)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "8fd7476253af",
-    "cad37467980b",
-    "2da43f769c74",
-    "572d0da78fdc"
+    "2da43f769c74"
   ]
 }

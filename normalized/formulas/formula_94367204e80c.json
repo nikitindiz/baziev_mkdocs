@@ -12,8 +12,5 @@
     "position": 12415
   },
   "wrapper_html": "<span data-db-key=\"7158\" data-src=\"images/formula_inline_458_1_2.webp\"> $v_e = 1 \\cdot 10^3 \\, м \\cdot с^{-1}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

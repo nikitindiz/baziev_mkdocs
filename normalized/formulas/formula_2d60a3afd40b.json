@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4537\" data-src=\"images/formula_full_279_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma^{\\text{ж}} = \\frac{\\gamma^{\\text{п}} \\cdot \\rho_{0} \\cdot P_{0}^{\\text{п}}}{\\rho_{0}^{\\text{п}} \\cdot P_{0}} = \\frac{\\gamma^{\\text{п}} \\cdot \\frac{m^{\\text{ж}}}{V_{g0}^{\\text{ж}}} \\cdot P_{0}^{\\text{п}}}{\\frac{m^{\\text{п}}}{V_{g0}^{\\text{п}}} \\cdot P_{0}} = \\frac{m_{s} \\cdot P_{0}^{\\text{п}} \\cdot V_{g0}^{\\text{п}}}{m^{\\text{п}} \\cdot V_{g0}^{\\text{ж}} \\cdot P_{0}} = \\frac{m_{s} \\cdot P_{0}^{\\text{п}} \\cdot k_{\\text{в}} T_{0} / P_{0}^{\\text{п}}}{m^{\\text{п}} \\cdot P_{0} \\cdot k_{\\text{в}} T_{0} / P_{0}} = \\frac{m_{s}}{m^{\\text{п}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.9)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "c18f47f412f4",
-    "572d0da78fdc"
+    "c18f47f412f4"
   ]
 }

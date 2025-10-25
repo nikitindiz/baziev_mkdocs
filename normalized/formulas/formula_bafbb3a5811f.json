@@ -13,11 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1860\" data-src=\"images/formula_full_125_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\gamma_0 (\\text{He}) &= \\frac{\\beta_0}{\\beta_0 (\\text{He})} \\\\\n\\gamma_0 (\\text{He}) &= 1/\\gamma_1\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.29)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
     "b5b0c2b51293",
-    "c18f47f412f4",
-    "cad37467980b",
-    "773fb8579a52"
+    "773fb8579a52",
+    "c18f47f412f4"
   ]
 }

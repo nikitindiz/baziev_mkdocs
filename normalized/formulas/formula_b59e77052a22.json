@@ -12,8 +12,5 @@
     "position": 36826
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4663\" data-src=\"images/formula_full_286_11.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{p0} = \\frac{P_1}{(P_2 + P_3)} = \\frac{-3,0226112 \\cdot 10^9}{1,57238816 \\cdot 10^8} = -19,22314$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.52)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

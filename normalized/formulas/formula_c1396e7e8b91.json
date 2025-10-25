@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5488\" data-src=\"images/formula_full_338_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{Al} = \\alpha \\cdot \\Delta q = -8,0691101 \\cdot 10^{-1} В = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.65)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc",
-    "8d6fa2d1d49d"
+    "8d6fa2d1d49d",
+    "8fd7476253af"
   ]
 }

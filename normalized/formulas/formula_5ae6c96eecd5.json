@@ -12,8 +12,5 @@
     "position": 65250
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6763\" data-src=\"images/formula_full_426_18.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1 = \\frac{P \\cdot V_1 \\cdot s_1 \\cdot r_1 - E_3 \\cdot V_1}{s_1 \\cdot 4 (E_1 + E_2)} = \\frac{-14.490493 \\cdot 10^{-49} - 18.363855 \\cdot 10^{-49}}{-2.8512796 \\cdot 10^{-51}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.55)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

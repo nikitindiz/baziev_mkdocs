@@ -12,8 +12,5 @@
     "position": 57648
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5031\" data-src=\"images/formula_full_309_8.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{p1}' = \\frac{P_1}{(P_2 + P_3')} = \\frac{-2,1190095 \\cdot 10^9}{1,1181984 \\cdot 10^8} = -18,95021$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.100)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

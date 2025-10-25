@@ -12,8 +12,5 @@
     "position": 61406
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5048\" data-src=\"images/formula_full_310_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{3d} = \\frac{P_1 - n_{pd} \\cdot P_2}{n_{pd}} = \\frac{-2,0131139 \\cdot 10^9}{-1} = 2,0131139 \\cdot 10^9 \\, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.105)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

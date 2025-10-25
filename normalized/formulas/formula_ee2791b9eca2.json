@@ -12,7 +12,5 @@
     "position": 16729
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2109\" data-src=\"images/formula_full_138_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_1 = A_2/4 = 3,7753687 \\cdot 10^5 \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(12.8)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

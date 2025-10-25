@@ -12,8 +12,5 @@
     "position": 257968
   },
   "wrapper_html": "<span data-db-key=\"3232\" data-src=\"images/formula_inline_204_10_15.webp\"> $\\sin(P/2) = \\sin 0\\degree = 0$ </span>",
-  "symbols": [
-    "ff905a84b912",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

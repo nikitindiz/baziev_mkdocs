@@ -12,11 +12,5 @@
     "position": 54989
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1391\" data-src=\"images/formula_inline_97_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$${}^{238}U + ФПВР \\rightarrow {}^{235}U + 3n_e + 3n_э$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.70)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "69b88a8d50a2",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1134\" data-src=\"images/formula_full_79_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\lambda i, \\min } = v_{\\lambda i} - v_{э i} = \\frac{v_{c}}{R_{c i}} \\cdot (r_{0i} - R_{i})$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.32)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "d107c64fe193"
   ]
 }

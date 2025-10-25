@@ -12,8 +12,5 @@
     "position": 46738
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6451\" data-src=\"images/formula_full_400_12_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{sэ} = V_{gэ} \\cdot \\rho_{0} = 1,576737 \\cdot 10^{-22} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.47)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

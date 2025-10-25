@@ -12,9 +12,5 @@
     "position": 199505
   },
   "wrapper_html": "<span data-db-key=\"3073\" data-src=\"images/formula_inline_196_2_5.webp\"> $C_1 C_2 = (\\Delta X_1 + \\Delta X_2 + \\Delta X_3) = 7,36 \\cdot \\lambda_г' =$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

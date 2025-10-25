@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1173\" data-src=\"images/formula_full_82_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{\\lambda, \\min} = 5,9686349 \\cdot 10^{-16} \\, \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.45)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "2da43f769c74"
   ]
 }

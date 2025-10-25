@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6023\" data-src=\"images/formula_full_369_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1 = \\frac{E_1 \\cdot V_1 \\cdot a_1^2 \\cdot r_1 - \\varepsilon_3 (T_1) \\cdot V_1}{a_1^2 \\cdot r_1 (\\varepsilon_1 + \\varepsilon_2)_{T_1}} = \\frac{-4,9652567 \\cdot 10^{-48}}{-2,9092754 \\cdot 10^{-52}} = 1,7066987 \\cdot 10^4 = 107,1623\\% \\ K_2$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.97)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

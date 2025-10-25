@@ -13,13 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8454\" data-src=\"images/formula_full_567_0.webp\">\n\n<div style=\"width: 100%;\">\n\n$$F_{i} = 2\\gamma \\cdot Q_{g\\odot} \\cdot Z_{gi} \\left|\\frac{1}{\\left(a_{i} - \\Delta R_{\\odot} \\cdot T_{i}/t_{n\\odot} - \\Delta R_{i} \\cdot T_{i}/t_{i}\\right)^{2}} - \\frac{1}{a_{i}^{2}}\\right| + \\frac{16 m_{i} a_{i} E_{i}^{2}}{T_{i}^{2}} +$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.57)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "c18f47f412f4",
-    "8328e59f56bb",
     "b5b0c2b51293",
-    "852630f710d0",
-    "057479e2242e",
-    "cad37467980b",
-    "572d0da78fdc"
+    "c18f47f412f4",
+    "8328e59f56bb"
   ]
 }

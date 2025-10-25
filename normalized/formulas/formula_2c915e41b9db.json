@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2454\" data-src=\"images/formula_full_159_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{rot, i} = \\frac{\\alpha \\cdot Э \\cdot q_{\\pi}}{l_i} = - \\frac{\\alpha \\cdot Э^2}{r_i \\cdot \\text{tg } \\beta} = - \\frac{2\\alpha \\cdot Э^2}{\\lambda_i \\text{ tg } \\beta}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.30)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

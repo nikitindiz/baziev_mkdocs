@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1188\" data-src=\"images/formula_full_83_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha_i = S_i/V_i, м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.2)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

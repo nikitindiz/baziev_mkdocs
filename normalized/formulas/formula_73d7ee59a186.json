@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8160\" data-src=\"images/formula_full_546_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\omega s} = \\frac{k_{\\omega s} \\cdot G \\cdot m_s^2}{\\pi R_s^2} = 1,4371356 \\cdot 10^{34} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.72)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "606678d17268",
-    "b5b0c2b51293",
     "64f6b41ecdd3"
   ]
 }

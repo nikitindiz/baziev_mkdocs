@@ -12,10 +12,5 @@
     "position": 68225
   },
   "wrapper_html": "<span data-db-key=\"5601\" data-src=\"images/formula_inline_344_8_14.webp\"> $I_i = э \\omega_i n_i k_i = I_{mi} \\cdot n_i k_i$ </span>",
-  "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

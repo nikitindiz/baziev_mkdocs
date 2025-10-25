@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5358\" data-src=\"images/formula_full_332_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$H_i = I_0 / S_{mi} = I_0 / h_i^2, A \\cdot м^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.38)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

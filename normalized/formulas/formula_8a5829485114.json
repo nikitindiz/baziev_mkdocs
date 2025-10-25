@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3974\" data-src=\"images/formula_full_244_4.webp\">\n<div style=\"width: 100%;\">\n\n$$W_{g} = \\frac{f_e \\cdot \\mathscr{P} \\cdot \\Delta \\tau}{\\tau \\cdot \\tau_{ед}} = 9,090 8007 \\cdot 10^{-8} \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.145)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
     "2da43f769c74"
   ]
 }

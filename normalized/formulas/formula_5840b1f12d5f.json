@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5017\" data-src=\"images/formula_full_308_2.webp\">\n<div style=\"width: 100%;\">\n\n$$r(h)_1 = \\frac{\\hbar}{m_s \\cdot v_{s1}} = \\frac{4,1106086 \\cdot 10^{-34}}{2.3107824 \\cdot 10^{-18}} = 1,7788817 \\cdot 10^{-16} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.94)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "572d0da78fdc"
   ]
 }

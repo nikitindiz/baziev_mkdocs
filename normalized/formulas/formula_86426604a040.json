@@ -13,13 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3477\" data-src=\"images/formula_full_217_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\nP_{n}(э) = \\frac{\\sigma_{n}}{r_{0}} = \\frac{q_{\\lambda} \\cdot \\varphi}{r_{0} \\cdot \\pi R_{э}^2} \\\\\nP_{n}(э) = \\frac{\\alpha \\cdot q_{\\lambda} \\cdot э}{r_{0} \\cdot \\pi \\cdot R_{э}^2}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.19)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "8fd7476253af",
     "8d6fa2d1d49d",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

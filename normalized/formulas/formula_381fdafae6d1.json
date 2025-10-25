@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3720\" data-src=\"images/formula_full_232_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{\\pi} = \\left( \\frac{1}{\\nu} - \\frac{l}{v} \\right) = \\left( \\frac{1}{\\nu} - \\frac{\\lambda \\cdot \\text{tg} \\beta}{2 v} \\right) = 1.2824904 \\cdot 10^{-15} с$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.94)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "2da43f769c74",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "2da43f769c74"
   ]
 }

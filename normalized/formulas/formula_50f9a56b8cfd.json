@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7361\" data-src=\"images/formula_full_475_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\text{vmin}} = 2\\mathscr{P}/m_{\\text{э}} \\cdot a_{70\\text{max}} \\cdot \\nu_{\\text{ед}} = 1,0137783 \\cdot 10^{22} \\text{ м } \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.55)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

@@ -12,8 +12,5 @@
     "position": 57123
   },
   "wrapper_html": "<span data-db-key=\"1460\" data-src=\"images/formula_inline_103_4_3.webp\"> $\\Phi_0 = 7.7416985 \\cdot 10^{-25} \\text{ В} \\cdot \\text{с}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -12,7 +12,5 @@
     "position": 48886
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6470\" data-src=\"images/formula_full_401_9.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{sэ} = n_1 \\cdot m_{H_2SO_4} + n_2 \\cdot m_0 = 1,5767368 \\cdot 10^{-22} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.52)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

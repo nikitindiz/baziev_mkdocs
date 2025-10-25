@@ -12,8 +12,5 @@
     "position": 178868
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6977\" data-src=\"images/formula_full_443_2.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{1} = \\frac{K_{1} \\cdot E_{1}}{V_{1}} = \\frac{-50,106876 \\cdot 10^{-19}}{5,6707 \\cdot 10^{-30}} = -8,8361006 \\cdot 10^{11} \\text{ Па }$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.156)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

@@ -12,8 +12,5 @@
     "position": 330
   },
   "wrapper_html": "<span data-db-key=\"301\" data-src=\"images/formula_inline_22_1_0.webp\"> $m_e = 9.038487 \\cdot 10^{-31} \\text{ кг}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

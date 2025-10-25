@@ -12,7 +12,5 @@
     "position": 50400
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5012\" data-src=\"images/formula_full_307_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{cs} = R_{s1}/\\sqrt[3]{2} = 2,2772504 \\cdot 10^{-9} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.83)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

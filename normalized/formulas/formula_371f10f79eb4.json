@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"404\" data-src=\"images/formula_full_29_1.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{aligned}\n& V_{m, i} = \\frac{N_A'}{N_i} = \\frac{N_A \\cdot 10^{-3}}{\\rho_i / m_i} = \\frac{N_A \\cdot m_i \\cdot 10^{-3}}{\\rho_i} = \\frac{N_A \\cdot m_i \\cdot 10^{-3}}{m_i / V_{gi}} = \\\\\n& = N_A \\cdot V_{gi} \\cdot 10^{-3}, \\text{ м}^3 \\cdot \\text{моль}^{-1}.\n\\end{aligned}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.31)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
     "33b4bf84c063",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

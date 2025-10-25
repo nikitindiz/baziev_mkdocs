@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4554\" data-src=\"images/formula_full_280_11.webp\">\n<div style=\"width: 100%;\">\n\n$$V_0 = \\frac{V_{s0}}{\\gamma \\cdot \\gamma^п} = \\frac{7,5324905 \\cdot 10^{-26}}{3,7611039 \\cdot 10^{3}} = 2,0027339 \\cdot 10^{-29} \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.16)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
     "c18f47f412f4"
   ]
 }

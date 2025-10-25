@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1947\" data-src=\"images/formula_full_129_27_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$2m_{0i} f_{(t)}^2 2A_{si}^2 - 2m_{0i} a_{si} f_{(t)}^2 \\cdot A_{si} + \\Delta \\varepsilon_{si} = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.76)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6869\" data-src=\"images/formula_full_435_12.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{(N-N)} = \\frac{2\\gamma \\cdot e \\cdot Z_N}{s_0 \\cdot r^2_{(N-N)}} = \\frac{-1,8930874 \\cdot 10^{-31}}{1,8039977 \\cdot 10^{-46}} = -1,0493845 \\cdot 10^{15} \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.111)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
     "c18f47f412f4",
     "cad37467980b"
   ]

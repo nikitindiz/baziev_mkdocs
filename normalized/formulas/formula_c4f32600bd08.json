@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"52\" data-src=\"images/formula_full_4_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0 \\approx d_{g0} = \\sqrt[3]{6V_{g0}/\\pi}, \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.17)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293"
+    "ff905a84b912"
   ]
 }

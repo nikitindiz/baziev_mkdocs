@@ -12,9 +12,5 @@
     "position": 56375
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8133\" data-src=\"images/formula_full_544_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{1} = \\Delta F_{v0} + \\Delta F_{\\omega} + \\Delta F_{d} = 4,9024367 \\cdot 10^{34} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.59)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

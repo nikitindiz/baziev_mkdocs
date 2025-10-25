@@ -12,7 +12,5 @@
     "position": 87533
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3657\" data-src=\"images/formula_full_228_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_O = m_O v_O \\cdot \\nu_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.83)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

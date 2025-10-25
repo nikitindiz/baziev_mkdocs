@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5304\" data-src=\"images/formula_full_329_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$h_i = v_0 / \\omega_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.14)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
     "572d0da78fdc"
   ]
 }

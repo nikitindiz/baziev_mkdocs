@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1252\" data-src=\"images/formula_full_87_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varphi_{e} \\cdot э \\cdot n_{e} \\cdot n_{э} +  \\sqrt{\\hbar \\cdot \\nu_{\\text{ед}} \\cdot n_{э} \\cdot n_{e} \\cdot \\varepsilon_{\\text{ед}}} = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.25)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8d6fa2d1d49d",
     "cad37467980b",
-    "572d0da78fdc"
+    "8d6fa2d1d49d"
   ]
 }

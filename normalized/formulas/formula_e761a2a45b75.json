@@ -12,7 +12,5 @@
     "position": 40382
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4450\" data-src=\"images/formula_full_272_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_0^п \\cdot T_0 = m_0 v_0 u_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.45)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

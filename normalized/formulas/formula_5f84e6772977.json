@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1773\" data-src=\"images/formula_full_121_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_i = \\frac{P_{si}V_i \\cdot \\varepsilon(f)}{E_0 \\cdot \\varepsilon_{si} (t + \\beta_{0i}t_i)} = \\frac{P_{si}V_i \\cdot \\varepsilon_{0i}}{E_0 \\cdot \\varepsilon_{si}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.10)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "c18f47f412f4",
-    "606678d17268",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "c18f47f412f4"
   ]
 }

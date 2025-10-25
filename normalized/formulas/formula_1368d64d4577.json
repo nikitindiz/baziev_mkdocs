@@ -12,10 +12,5 @@
     "position": 99238
   },
   "wrapper_html": "<span data-db-key=\"6880\" data-src=\"images/formula_inline_435_9_0.webp\"> $\\varepsilon = E/N_A = -1,5692386 \\cdot 10^{-18} \\text{ Дж}/N_2$ </span>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

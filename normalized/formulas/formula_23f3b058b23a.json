@@ -12,10 +12,5 @@
     "position": 1880
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8722\" data-src=\"images/formula_full_586_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_\\odot = \\frac{\\Delta m_\\odot}{\\rho_n} = \\frac{21,085477 \\cdot 10^{26}}{9,2019428 \\cdot 10^{12}} = 2,2914157 \\cdot 10^{14} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.1)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

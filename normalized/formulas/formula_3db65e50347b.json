@@ -12,7 +12,5 @@
     "position": 34516
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5821\" data-src=\"images/formula_full_358_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{fн} = \\sqrt{W_f \\cdot R_0} = \\sqrt{9,73876 \\cdot 10^{10}} = 3,1206986 \\cdot 10^5 \\ В$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.46)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

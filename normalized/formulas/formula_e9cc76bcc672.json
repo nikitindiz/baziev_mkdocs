@@ -12,8 +12,5 @@
     "position": 25987
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9123\" data-src=\"images/formula_full_611_14.webp\">\n<div style=\"width: 100%;\">\n\n$$v = v_0 \\cdot \\frac{(\\nu_2 - \\nu)}{(\\nu_2 + \\nu)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(42.38)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

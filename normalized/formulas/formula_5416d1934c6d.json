@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1273\" data-src=\"images/formula_full_89_15.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{aU} = A_U \\cdot \\varepsilon_a = 238 \\cdot \\varepsilon_a = 3,8337934 \\cdot 10^{-25} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.35)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

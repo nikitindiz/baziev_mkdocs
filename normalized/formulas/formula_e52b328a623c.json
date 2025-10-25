@@ -12,11 +12,5 @@
     "position": 3192
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7441\" data-src=\"images/formula_full_480_14.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{n\\odot} = \\sqrt[3]{\\frac{6V_{n\\odot}}{\\pi}} = \\sqrt[3]{370,35761 \\cdot 10^{15} \\, \\mathrm{м}^3} = 7,18136665 \\cdot 10^{5} \\, \\mathrm{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.7)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "ebb6e2bd535d",
-    "5371db4f487a"
-  ]
+  "symbols": []
 }

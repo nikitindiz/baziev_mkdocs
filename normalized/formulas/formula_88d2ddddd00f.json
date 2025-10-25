@@ -12,8 +12,5 @@
     "position": 104251
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5651\" data-src=\"images/formula_full_347_5.webp\">\n<div style=\"width: 100%;\">\n\n$$r(Al)_{min} = \\frac{42,730409 \\cdot 10^{-3}}{7,1 \\cdot 10^{10}} = 6,0183674 \\cdot 10^{-13} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.122)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

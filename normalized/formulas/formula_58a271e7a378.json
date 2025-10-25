@@ -12,8 +12,5 @@
     "position": 5301
   },
   "wrapper_html": "<span data-db-key=\"4857\" data-src=\"images/formula_inline_296_5_0.webp\"> $n_s = \\frac{m_{\\text{ед}}}{m_s} = 8,887673 \\cdot 10^{21}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

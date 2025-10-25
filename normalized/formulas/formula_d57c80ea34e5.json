@@ -12,10 +12,5 @@
     "position": 2705
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7620\" data-src=\"images/formula_full_505_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$SrCl_2 \\rightarrow Sr^{-} + 2Cl^{+}$$\n\n</div>\n<div style=\"width: 80px;\">\n(30.1)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "69b88a8d50a2",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

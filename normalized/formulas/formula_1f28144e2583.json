@@ -12,7 +12,5 @@
     "position": 56957
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8135\" data-src=\"images/formula_full_544_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{s0} = F_{s0} / v_s \\nu_{ед} = 2,0829143 \\cdot 10^{27} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.61)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

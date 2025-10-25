@@ -12,9 +12,5 @@
     "position": 30922
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8625\" data-src=\"images/formula_full_579_1.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{n☿} = m_{n☿} / \\rho_n = \\frac{m_{n☿}}{9,2019428 \\cdot 10^{12}} = 1,7677289 \\cdot 10^{10} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.54)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

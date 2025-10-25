@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7461\" data-src=\"images/formula_full_483_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{N1} = V_{70} + V_{71} = 8,2300121 \\cdot 10^{19} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.14)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "0f708d9ac56c"
   ]
 }

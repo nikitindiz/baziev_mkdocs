@@ -12,8 +12,5 @@
     "position": 148939
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2794\" data-src=\"images/formula_full_176_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$l_i^2 - 2\\lambda_i l_i + 4r_{0i}^2 = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.83)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293",
-    "d107c64fe193"
-  ]
+  "symbols": []
 }

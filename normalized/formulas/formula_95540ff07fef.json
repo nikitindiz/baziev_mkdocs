@@ -12,9 +12,5 @@
     "position": 83694
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5983\" data-src=\"images/formula_full_367_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{Al} = Q_{\\lambda} + \\Delta q_{Al} = Q_{\\lambda} + (-7,755425 \\cdot 10^{-21}) = -3,2585428 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.87)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

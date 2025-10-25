@@ -12,9 +12,5 @@
     "position": 28253
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9027\" data-src=\"images/formula_full_605_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{э} = \\Delta m_{e} / m_{э} = 1,0363114 \\cdot 10^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.21)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

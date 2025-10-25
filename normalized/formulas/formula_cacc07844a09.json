@@ -12,8 +12,5 @@
     "position": 14411
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5736\" data-src=\"images/formula_full_353_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\bar{r}_{Au} = 1,15 \\cdot \\bar{r}_{min} = 7,1542241 \\cdot 10^{-11} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.20)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

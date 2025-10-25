@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6963\" data-src=\"images/formula_full_442_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\varepsilon_{1} &= k \\cdot T_{1} \\\\\n\\varepsilon_{1} &= m v_{1} u_{1} = m v_{1}^{2} / 2\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.148)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

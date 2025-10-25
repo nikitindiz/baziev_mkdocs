@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1906\" data-src=\"images/formula_full_127_4_42.webp\">\n    <div style=\"width: 100%;\">\n\n$$R\\left(\\gamma\\right)=N_{0i} \\cdot V_{0} \\cdot \\gamma_{i}=R_{0i} \\cdot \\gamma_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.52)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
     "c18f47f412f4",
-    "1aa2b90e3182",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "cad37467980b",
-    "572d0da78fdc"
+    "1aa2b90e3182"
   ]
 }

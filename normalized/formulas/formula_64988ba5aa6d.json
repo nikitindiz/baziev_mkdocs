@@ -12,7 +12,5 @@
     "position": 98781
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6054\" data-src=\"images/formula_full_371_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_c(\\text{Al}) = n_c C_2(\\text{Al}) = 2,1321606 \\cdot 10^{-3} \\text{ Дж} \\cdot \\text{кг}^{-1} \\cdot \\text{К}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.106)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

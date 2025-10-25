@@ -12,9 +12,5 @@
     "position": 16164
   },
   "wrapper_html": "<span data-db-key=\"7262\" data-src=\"images/formula_inline_468_3_12.webp\"> $\\hbar = 4,1106086 \\cdot 10^{-34} \\text{ кг} \\cdot \\text{м}^2 \\cdot \\text{с}^{-1}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

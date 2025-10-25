@@ -12,7 +12,5 @@
     "position": 34384
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4089\" data-src=\"images/formula_full_252_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_i = C_i \\cdot m_i, \\text{ Дж} \\cdot \\text{K}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.21)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

@@ -14,10 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7946\" data-src=\"images/formula_full_529_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\pi_{\\odot} \\cdot \\sqrt[3]{1 + \\frac{1}{m}} = \\sqrt[3]{\\frac{n_{\\oplus}^2 \\cdot a_e \\cdot (1 + \\sigma)}{g_e \\cdot (1 + \\mu)}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.23)\n</div>\n</div>",
   "symbols": [
     "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "9af9381839c9",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

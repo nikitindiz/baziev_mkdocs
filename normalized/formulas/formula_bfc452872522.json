@@ -12,8 +12,5 @@
     "position": 76329
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5105\" data-src=\"images/formula_full_313_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_1^п = 0.5977 \\text{ кг}\\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.137)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

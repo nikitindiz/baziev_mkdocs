@@ -12,9 +12,5 @@
     "position": 29408
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8614\" data-src=\"images/formula_full_578_15.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{☿} = \\frac{\\rho_{☿}}{\\rho_{\\text{⊕}}} \\cdot A_{\\text{⊕}} = 0,9852647 \\cdot 49,996755\\% = 49,260037\\%$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.50)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

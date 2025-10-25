@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5007\" data-src=\"images/formula_full_307_20_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sin \\alpha_{s i}=2 u_{s 1} v_{s 1}=7,3863432 \\cdot 10^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.91)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

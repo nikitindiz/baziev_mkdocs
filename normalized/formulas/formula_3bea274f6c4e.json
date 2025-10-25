@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7519\" data-src=\"images/formula_full_487_9.webp\">\n<div style=\"width: 100%;\">\n\n$$A_{71} = \\frac{a_{71} \\cdot \\varepsilon_q}{2 m_{71} \\cdot \\mu \\cdot \\nu_{ед}} = \\frac{23,643487 \\cdot 10^{-30}}{4,6773934 \\cdot 10^{-13}} = 5,0548425 \\cdot 10^{-17} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.15)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
     "b5b0c2b51293",
-    "9af9381839c9",
-    "cad37467980b"
+    "9af9381839c9"
   ]
 }

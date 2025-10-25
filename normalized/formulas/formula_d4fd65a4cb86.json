@@ -12,7 +12,5 @@
     "position": 77678
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3621\" data-src=\"images/formula_full_226_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\nu_i = n_{\\nui} \\cdot f_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.65)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

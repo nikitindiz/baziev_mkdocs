@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4729\" data-src=\"images/formula_full_290_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\alpha} = k_1 \\cdot n'_{\\alpha} = 7,870719 \\cdot 10^3 = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.82)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

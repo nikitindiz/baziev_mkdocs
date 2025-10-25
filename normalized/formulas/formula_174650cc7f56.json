@@ -12,9 +12,5 @@
     "position": 58406
   },
   "wrapper_html": "<span data-db-key=\"4288\" data-src=\"images/formula_inline_261_15_57.webp\"> $\\Delta \\varepsilon = \\varepsilon_2 - \\varepsilon_1 = m_{Au} (v_2 u_2 - v_1 u_1) = k_{Au} (T_2 - T_1)$ </span>",
-  "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

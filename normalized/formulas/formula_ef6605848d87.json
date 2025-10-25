@@ -12,8 +12,5 @@
     "position": 7210
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6644\" data-src=\"images/formula_full_418_14.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1 = \\frac{m_n (A_1 - A_{O1})}{m_э} = \\frac{250,74607 \\cdot 10^{-31}}{6,8557572 \\cdot 10^{-36}} = 3,6574526 \\cdot 10^{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.3)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

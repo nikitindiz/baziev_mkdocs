@@ -12,8 +12,5 @@
     "position": 9142
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4859\" data-src=\"images/formula_full_297_1.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\text{л}} = \\frac{m_{\\text{ед}}}{m_{\\text{л}}} = 7,024599 \\cdot 10^{21}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.11)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

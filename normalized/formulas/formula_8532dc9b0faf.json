@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5060\" data-src=\"images/formula_full_311_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{sd} = \\frac{\\varphi_{H_2O} (q+z) + 2k_0^ж \\cdot T_{1c}}{2V_d} = \\frac{-11,501936 \\cdot 10^{-20} + 3,3882728 \\cdot 10^{-22}}{5,7270568 \\cdot 10^{-29}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.121)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc",
     "8d6fa2d1d49d"
   ]
 }

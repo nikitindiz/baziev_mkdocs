@@ -12,7 +12,5 @@
     "position": 203185
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7049\" data-src=\"images/formula_full_449_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_3 = k \\cdot T_1 = 3,740564 \\cdot 10^{-20} \\, \\text{Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.187)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

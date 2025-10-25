@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4053\" data-src=\"images/formula_full_251_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$d_x = (a - r_x) = 1,9074075 \\cdot 10^{-10} \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.14)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

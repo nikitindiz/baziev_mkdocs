@@ -12,7 +12,5 @@
     "position": 28653
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4394\" data-src=\"images/formula_full_269_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_0^п = (V_{g0}^п - V_{\\text{то}}^п) \\cdot P_0^п, \\text{ ДЖ} \\cdot \\text{м}^{-3} = \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.29)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

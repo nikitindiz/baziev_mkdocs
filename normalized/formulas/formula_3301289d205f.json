@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4041\" data-src=\"images/formula_full_250_7.webp\">\n<div style=\"width: 100%;\">\n\n$$S = \\frac{AC \\cdot OD}{2} = \\frac{2b \\cdot \\sin {\\gamma}/{2} \\cdot 2a \\cdot \\cos {\\gamma}/{2}}{2} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.8)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "c18f47f412f4",
-    "852630f710d0",
-    "b5b0c2b51293"
+    "c18f47f412f4"
   ]
 }

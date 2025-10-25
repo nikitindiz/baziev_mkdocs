@@ -12,7 +12,5 @@
     "position": 144137
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3876\" data-src=\"images/formula_full_240_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_э(V) = n_э(O) \\cdot n_0 = 8,328\\,0239 \\cdot 10^{25}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.130)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8014\" data-src=\"images/formula_full_536_18.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_m = \\frac{W_m \\cdot \\tau_{\\text{ед}}}{2\\varphi_{\\oplus}} = \\frac{-5,8848714 \\cdot 10^{39} \\text{ Дж}}{-6,5889325 \\cdot 10^{5} \\text{ В}} = 4,4657243 \\cdot 10^{33} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.7)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "2da43f769c74",
-    "572d0da78fdc",
-    "8d6fa2d1d49d"
+    "8d6fa2d1d49d",
+    "2da43f769c74"
   ]
 }

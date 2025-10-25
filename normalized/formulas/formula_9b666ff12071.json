@@ -12,7 +12,5 @@
     "position": 4995
   },
   "wrapper_html": "<span data-db-key=\"7806\" data-src=\"images/formula_inline_521_0_43.webp\"> $A_s = 3 \\cdot 10^{12} \\text{ нуклон} \\cdot \\text{м}^{-2} с^{-1}$ </span>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

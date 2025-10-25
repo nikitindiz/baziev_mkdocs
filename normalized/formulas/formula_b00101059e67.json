@@ -12,8 +12,5 @@
     "position": 4208
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"521\" data-src=\"images/formula_full_38_2.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{Q_1}{T_1} + \\frac{Q_2}{T_2} = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.4)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

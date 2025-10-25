@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3387\" data-src=\"images/formula_full_212_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nn_4 &= \\frac{q (C_4H_{10})}{q_{C_2H_4}} = 1,8622152 \\\\\nn_4' &= V_{O_2} (C_4H_{10})/V_{O_2} (C_2H_6) = 1,8571428\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.4)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

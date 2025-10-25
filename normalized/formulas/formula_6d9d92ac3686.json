@@ -13,8 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8333\" data-src=\"images/formula_full_559_20_0.webp\">\n<div style=\"width: 100%;\">\n\n$$h_♇ = a_♇ \\cdot c_♇ = 1,8289215 \\cdot 10^{13} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.18)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293",
+    "852630f710d0",
     "572d0da78fdc"
   ]
 }

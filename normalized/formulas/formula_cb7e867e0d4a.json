@@ -12,8 +12,5 @@
     "position": 9897
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8485\" data-src=\"images/formula_full_569_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_2 = k_г^3 \\cdot \\rho_0 = 2,2 \\cdot 10^{-22} \\, \\text{кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.19)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

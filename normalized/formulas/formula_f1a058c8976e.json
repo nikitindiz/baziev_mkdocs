@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6080\" data-src=\"images/formula_full_372_15.webp\">\n<div style=\"width: 100%;\">\n\n$$A_s = \\sqrt{\\frac{C(T_2)_s}{2 \\psi_в^2 \\cdot 1K \\cdot \\sin \\alpha_2}} = \\sqrt{\\frac{21,321606 \\cdot 10^{-4}}{1,5816565 \\cdot 10^{20}}} = 3,6715873 \\cdot 10^{-12} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.115)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

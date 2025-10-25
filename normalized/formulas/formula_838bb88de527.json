@@ -12,8 +12,5 @@
     "position": 27434
   },
   "wrapper_html": "<span data-db-key=\"1351\" data-src=\"images/formula_inline_93_0_12.webp\"> $C_m = K \\cdot N_A = 3{,}288535 \\cdot 10^{14} \\frac{\\text{Дж}}{\\text{кг}}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

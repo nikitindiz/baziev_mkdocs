@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4528\" data-src=\"images/formula_full_278_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{\\gamma^{\\text{ж}}}{\\gamma^{\\text{п}}} = \\frac{m^{\\text{ж}}}{m^{\\text{п}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.3)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
     "c18f47f412f4"
   ]
 }

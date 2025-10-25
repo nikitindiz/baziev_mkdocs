@@ -12,10 +12,5 @@
     "position": 153952
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3898\" data-src=\"images/formula_full_241_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta r_э = \\frac{z_O \\cdot \\lambda}{2 \\cdot z_g} = \\frac{6,5832168 \\cdot 10^{-26}}{1,7466351 \\cdot 10^{-15}} = 3,7690853 \\cdot 10^{-11} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.136)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -12,7 +12,5 @@
     "position": 6724
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8482\" data-src=\"images/formula_full_569_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{t\\odot} = m_{\\odot} u_{\\odot} n_{\\odot} = 3,1684218 \\cdot 10^{18} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.16)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

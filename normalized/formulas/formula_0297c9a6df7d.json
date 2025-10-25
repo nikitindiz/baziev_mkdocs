@@ -12,8 +12,5 @@
     "position": 45710
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6746\" data-src=\"images/formula_full_424_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q_{Cs} = \\frac{80 \\cdot q_1 + 20 \\cdot q_2}{100} = -2,3749273 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.41)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

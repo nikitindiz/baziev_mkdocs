@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7384\" data-src=\"images/formula_full_476_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{71} = \\frac{m_{71} \\cdot f_{71}}{4 a_{71}} = 2,2846105 \\cdot 10^{9} \\, \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.66)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

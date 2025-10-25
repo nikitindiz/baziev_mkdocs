@@ -12,7 +12,5 @@
     "position": 56417
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4173\" data-src=\"images/formula_full_256_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{Au} = Q_{\\lambda} + q_{Au} = -2,1050599 \\cdot 10^{-18} \\ Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.45)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

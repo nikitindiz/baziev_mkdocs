@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5199\" data-src=\"images/formula_full_320_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u(r)_c = r(h)_c \\cdot f_c = 1,8387032 \\, \\text{м} \\cdot \\text{с}^{-1} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.185)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

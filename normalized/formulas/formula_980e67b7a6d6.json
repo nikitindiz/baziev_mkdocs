@@ -12,10 +12,5 @@
     "position": 40579
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4685\" data-src=\"images/formula_full_287_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0}^ж = E_h + E_\\omega + E(0) + E_t, \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.60)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8644\" data-src=\"images/formula_full_580_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{N♂} = 4 \\pi R^3_{c♂} / 3 = 5,4473819 \\cdot 10^{15} \\mathrm{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.63)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
     "852630f710d0"
   ]
 }

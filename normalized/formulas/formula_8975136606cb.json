@@ -12,9 +12,5 @@
     "position": 39161
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4967\" data-src=\"images/formula_full_304_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta S_{1}=\\frac{F}{n \\cdot E_{\\text {д1 }}}=\\frac{19,6}{1,1804868 \\cdot 10^{18}}=1,6603319 \\cdot 10^{-17} \\quad \\mathrm{M}^{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.58)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

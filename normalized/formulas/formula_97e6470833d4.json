@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3476\" data-src=\"images/formula_full_217_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\alpha = \\frac{\\hbar \\cdot \\nu_{\\text{ед}}}{э^2} = \\frac{4,1106086 \\cdot 10^{-34}}{(1,9876643 \\cdot 10^{-27} \\text{ Кл})^2} = 1,0404472 \\cdot 10^{20} \\text{ Дж} \\cdot \\text{Кл}^{-2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.18)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

@@ -12,12 +12,5 @@
     "position": 26304
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"579\" data-src=\"images/formula_full_43_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega \\left(S_{\\text {ед}}\\right)_{i} = n_{i} \\omega_{i} = \\frac{2 S_{\\text {ед}} \\cdot u_{k i}}{\\pi \\cdot d_{g i}^{3}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.20)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -12,7 +12,5 @@
     "position": 5141
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7499\" data-src=\"images/formula_full_486_20.webp\">\n<div style=\"width: 100%;\">\n\n$$v_0 = 2A_0 \\cdot f_0 = 1,9219405 \\cdot 10^2 \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.10)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

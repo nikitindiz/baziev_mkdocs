@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1276\" data-src=\"images/formula_full_89_9.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{aligned}\n& \\varepsilon_a = F_a \\cdot (R_n + R_e) = \\frac{2\\gamma \\cdot q_\\lambda \\cdot э}{(R_n + R_e)} = \\text{Const} \\\\\n& \\varepsilon_a = \\frac{-5,7004131 \\cdot 10^{-41}}{3,538788 \\cdot 10^{-14} \\text{ м}} = -1,6108376 \\cdot 10^{-27} \\text{ Дж}\n\\end{aligned}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.32)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
     "c18f47f412f4",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

@@ -12,10 +12,5 @@
     "position": 67935
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6782\" data-src=\"images/formula_full_427_17.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_1 = \\frac{m \\cdot f_1}{\\pi A_1} = \\frac{m_n A \\cdot \\psi_в \\cdot T_1}{\\pi \\cdot A_1} = \\frac{13,791394 \\cdot 10^{-13}}{1,4440149 \\cdot 10^{-9}} = 9,5507283 \\cdot 10^{-4} \\, \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.63)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -13,10 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1972\" data-src=\"images/formula_full_130_5_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$i_{si} = m_{0i}v_{si} = 2m_{0i}A_{si}f_{0i}(1 + \\beta_{0i}t)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.79)\n</div>\n</div>",
   "symbols": [
+    "773fb8579a52",
     "da4041efbcb0",
-    "b5b0c2b51293",
-    "954f2960e119",
-    "cad37467980b",
-    "773fb8579a52"
+    "954f2960e119"
   ]
 }

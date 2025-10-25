@@ -12,8 +12,5 @@
     "position": 178387
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2889\" data-src=\"images/formula_full_184_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{1} = n_{1} \\cdot m_{n} = 1,0502366 \\cdot 10^{-22} \\, \\text{кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.106)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7498\" data-src=\"images/formula_full_486_18_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_0 = \\frac{a_0 \\cdot \\varepsilon_q}{2m_0 \\cdot \\mu \\cdot \\nu_{\\text{ед}}} = \\frac{9,761974 \\cdot 10^{-27}}{8,2285187 \\cdot 10^{-17}} = 1,1863586 \\cdot 10^{-10} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(28.9)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
     "b5b0c2b51293",
-    "9af9381839c9",
-    "cad37467980b"
+    "9af9381839c9"
   ]
 }

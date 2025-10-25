@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"722\" data-src=\"images/formula_full_50_14.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_i = \\alpha_i \\cdot d_{gi1} \\cdot \\sigma_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.49)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

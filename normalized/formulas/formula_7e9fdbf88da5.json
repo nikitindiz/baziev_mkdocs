@@ -12,8 +12,5 @@
     "position": 23958
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4372\" data-src=\"images/formula_full_268_4.webp\">\n<div style=\"width: 100%;\">\n\n$$(k_v^п)' = (C_v^п)' \\cdot m_0 = \\frac{(C_v^п)'}{N_A} = \\frac{25.362537 \\ Дж \\cdot моль^{-1} \\cdot K^{-1}}{6.022045 \\cdot 10^{23}} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.22)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

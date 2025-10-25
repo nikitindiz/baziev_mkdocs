@@ -13,12 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3669\" data-src=\"images/formula_full_229_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Z = \\frac{-2\\beta \\cdot q_e}{\\alpha \\cdot n_{gO}} = \\frac{25{,}17184}{6{,}1949523 \\cdot 10^{22}} = 4{,}0632822 \\cdot 10^{-22} \\, \\text{Кл} = \\frac{-\\beta \\cdot e \\cdot d_{gi}^4}{8\\alpha \\cdot \\lambda_i^4}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.84)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
     "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

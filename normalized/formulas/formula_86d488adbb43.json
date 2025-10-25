@@ -12,10 +12,5 @@
     "position": 51906
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6488\" data-src=\"images/formula_full_402_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_2 = \\Delta V \\cdot \\rho_ 3 = 0,55 \\, л \\cdot 346 \\, г/л = 0,1903 \\, кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.55)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

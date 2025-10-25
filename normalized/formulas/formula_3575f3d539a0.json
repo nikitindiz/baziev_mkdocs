@@ -12,9 +12,5 @@
     "position": 66556
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5063\" data-src=\"images/formula_full_311_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta t_{min} = (T'_{1c} - T_1) = 0,38037 \\ K$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.114)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2420\" data-src=\"images/formula_full_157_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\varepsilon_i &= \\frac{L_i}{t_i} = \\frac{m_э r_i^2 \\omega_{ед}}{1/\\nu_i} = m_э r_i^2 \\cdot \\omega_{ед} \\cdot \\nu_i \\\\\n\\varepsilon_i &= \\frac{L_i}{t_i} = \\frac{m_э u_i \\cdot r_i}{1/\\nu_i} = m_i u_i r_i \\nu_i\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.21)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

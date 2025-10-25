@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7376\" data-src=\"images/formula_full_476_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$a_{h0} = \\frac{a_k^2}{a_{70}} = \\frac{4,8974866 \\cdot 10^{-13}}{3,1168375 \\cdot 10^{-8}} = 1,5712999 \\cdot 10^{-5} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.68)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
+    "b5b0c2b51293"
   ]
 }

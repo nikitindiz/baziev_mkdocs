@@ -13,13 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2467\" data-src=\"images/formula_full_160_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$(\\tau_{1i} + \\tau_{2i}) = t_i - \\tau_{3i} = \\frac{1}{\\nu_i} - \\frac{m_э \\lambda_i^2 \\text{tg}^2 \\beta \\cdot \\nu_{\\text{ед}}}{4 \\alpha \\cdot Э^2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.35)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "2da43f769c74",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
     "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "2da43f769c74"
   ]
 }

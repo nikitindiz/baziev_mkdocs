@@ -12,10 +12,5 @@
     "position": 61219
   },
   "wrapper_html": "<span data-db-key=\"5990\" data-src=\"images/formula_inline_367_1_0.webp\"> $t_2 = (t_c + \\Delta t) = -271,96{\\degree} \\text{ C}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

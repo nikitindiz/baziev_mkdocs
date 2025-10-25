@@ -12,9 +12,5 @@
     "position": 12260
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7460\" data-src=\"images/formula_full_483_0_0.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{n\\odot}=d_{n\\odot}/2 = 3,5906833 \\cdot 10^5 \\, м$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.8)\n</div>\n</div>",
-  "symbols": [
-    "0615ea830adf",
-    "852630f710d0",
-    "5371db4f487a"
-  ]
+  "symbols": []
 }

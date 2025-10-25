@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1197\" data-src=\"images/formula_full_84_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\frac{3\\sigma_i}{R_i} >> \\rho_i g$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.8)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "572d0da78fdc"
+    "ff905a84b912"
   ]
 }

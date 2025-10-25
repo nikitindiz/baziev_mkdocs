@@ -12,8 +12,5 @@
     "position": 36625
   },
   "wrapper_html": "<span data-db-key=\"1986\" data-src=\"images/formula_inline_131_0_3.webp\"> $Па \\cdot с = \\frac{кг}{м \\cdot с}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

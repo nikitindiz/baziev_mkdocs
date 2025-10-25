@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7204\" data-src=\"images/formula_full_462_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_v = V_{N1} / V_{n\\odot} \\, \\text{и} \\, V_{N1} = k_v \\cdot V_{n\\odot}$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.6)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "0f708d9ac56c",
-    "ebb6e2bd535d"
+    "0f708d9ac56c"
   ]
 }

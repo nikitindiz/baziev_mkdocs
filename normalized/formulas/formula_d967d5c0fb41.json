@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5336\" data-src=\"images/formula_full_331_10.webp\">\n<div style=\"width: 100%;\">\n\n$$P_m (B_0) = \\frac{\\alpha \\cdot Э^2}{d_э^3} = \\frac{4,1106086 \\cdot 10^{-34}}{1,3555576 \\cdot 10^{-48}} = 3,0324 \\cdot 10^{14} \\text{ Па} \\approx 3 \\cdot 10^9 \\text{ атм.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.33)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

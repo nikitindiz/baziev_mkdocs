@@ -12,9 +12,5 @@
     "position": 51128
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4155\" data-src=\"images/formula_full_255_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_\\lambda = \\pi d_\\lambda^2/4 = 3,3936918 \\cdot 10^{-32} \\ м^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.38)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

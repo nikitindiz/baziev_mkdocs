@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4898\" data-src=\"images/formula_full_299_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{rcases}\n\\begin{aligned}\n\\varepsilon (0)_{л} &= E_{st} - \\varepsilon_{tл} = 5.8953 \\cdot 10^{-19} \\text{ Дж} \\\\\n\\varepsilon (0)_{л} &= \\gamma^{л} \\cdot k_0^ж \\cdot T_0 = 5.8952947 \\cdot 10^{-19} \\text{ Дж}\n\\end{aligned}\n\\end{rcases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.27)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
     "c18f47f412f4",
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

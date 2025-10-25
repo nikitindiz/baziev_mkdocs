@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"473\" data-src=\"images/formula_full_34_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{min} = h \\cdot f_{min} = 6,626268 \\cdot 10^{-34} Дж$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.28)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "572d0da78fdc"
   ]
 }

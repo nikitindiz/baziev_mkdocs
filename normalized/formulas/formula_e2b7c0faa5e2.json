@@ -12,9 +12,5 @@
     "position": 75560
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5103\" data-src=\"images/formula_full_313_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta E_4 = E_{q1} - (\\Delta E_1 + \\Delta E_2 + \\Delta E_3) = 2.3493841 \\cdot 10^{-16} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.135)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

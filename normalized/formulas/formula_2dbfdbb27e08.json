@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5918\" data-src=\"images/formula_full_363_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\alpha_1 &= 21 \\cdot 10^{-6} \\text{ град}^{-1} \\text{ в интервале } 303 - 113 \\text{ K}, \\\\\n\\alpha_2 &= 9,1 \\cdot 10^{-6} \\text{ град}^{-1} \\text{ в интервале } 113 - 23 \\text{ K}, \\\\\n\\alpha_3 &= (\\alpha_1 + \\alpha_2) = 3,01 \\cdot 10^{-5} \\text{ град}^{-1},\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.74)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "ff905a84b912",
-    "852630f710d0",
     "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

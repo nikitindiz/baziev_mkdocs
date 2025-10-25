@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4504\" data-src=\"images/formula_full_276_15.webp\">\n<div style=\"width: 100%;\">\n\n$$\\eta_{0} = \\frac{m_{0} \\cdot f_{0}}{\\pi \\cdot A_{0}} = \\frac{17,020995 \\cdot 10^{-14}}{9,9709725 \\cdot 10^{-9}} = 1,7070546 \\cdot 10^{-5}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.73)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "5821520d52e9",
-    "cad37467980b"
+    "5821520d52e9"
   ]
 }

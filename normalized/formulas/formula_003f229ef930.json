@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3560\" data-src=\"images/formula_full_222_2.webp\">\n<div style=\"width: 100%;\">\n\n$$P(e)_{\\max} = \\frac{S_0 \\cdot e \\cdot e / 2}{\\lambda i / 2 \\cdot \\pi R_e^2} = \\frac{S_0 \\cdot e^2}{\\lambda_i \\cdot \\pi R_e^2} = \\frac{\\sigma_e}{\\lambda_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.41)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "cad37467980b"
   ]
 }

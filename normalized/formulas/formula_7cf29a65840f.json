@@ -12,7 +12,5 @@
     "position": 27184
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4926\" data-src=\"images/formula_full_301_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_2 = k_{sл} \\cdot n_x^2 = 4,8369718 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.43)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

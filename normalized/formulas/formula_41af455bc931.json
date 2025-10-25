@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"171\" data-src=\"images/formula_full_12_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\begin{rcases}\nh = m_i v_i r_i a \\\\\nh = m_i 2 A_i u_i a\n\\end{rcases}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.29)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "572d0da78fdc",
+    "b5b0c2b51293"
   ]
 }

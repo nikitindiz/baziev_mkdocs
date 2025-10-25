@@ -12,8 +12,5 @@
     "position": 37022
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4427\" data-src=\"images/formula_full_271_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C_0^п = \\frac{k_0^п \\cdot T_0}{m_0}, \\quad \\text{Дж} \\cdot \\text{кг}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.40)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

@@ -12,11 +12,5 @@
     "position": 6428
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7185\" data-src=\"images/formula_full_461_11.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{c \\odot}'=\\frac{v_{c}}{\\omega\\left(17{\\degree}\\right)}=\\frac{7,7369622}{2,865 \\cdot 10^{-6}}=2,7005103 \\cdot 10^{6} \\ м$$\n\n</div>\n<div style=\"width: 80px;\">\n(25.3)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

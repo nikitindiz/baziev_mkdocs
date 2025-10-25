@@ -12,10 +12,5 @@
     "position": 106091
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5202\" data-src=\"images/formula_full_320_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_c = v_c/R_{cc} = \\frac{7,7369622 \\, \\text{м} \\cdot \\text{с}^{-1}}{R_{cc}} = 4,8683853 \\cdot 10^{10} \\, \\text{рад} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.188)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

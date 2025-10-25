@@ -12,9 +12,5 @@
     "position": 77960
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8225\" data-src=\"images/formula_full_549_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{sa} = F_{s0} + \\Delta F_{s} = 7,7767079 \\cdot 10^{34} + 5,0347615 \\cdot 10^{34} = = 12,811469 \\cdot 10^{34} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.82)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

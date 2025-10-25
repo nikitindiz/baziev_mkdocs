@@ -12,8 +12,5 @@
     "position": 1236
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8914\" data-src=\"images/formula_full_597_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{(\\oplus - ☾)} \\geq [F_{(\\odot - ☾)} + F_{(г - ☾)}]$$\n\n</div>\n<div style=\"width: 80px;\">\n(40.1)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

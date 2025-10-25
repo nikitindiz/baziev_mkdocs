@@ -12,9 +12,5 @@
     "position": 15461
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7465\" data-src=\"images/formula_full_483_19.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_k = M_k / V_\\odot = \\frac{14,426763 \\cdot 10^{27}}{1,2773102 \\cdot 10^{27}} = 11,294643 \\text{ кг}\\cdot\\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.18)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

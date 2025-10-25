@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4493\" data-src=\"images/formula_full_275_8.webp\">\n<div style=\"width: 100%;\">\n\n$$d_0^T = \\frac{a_0^п + a_0^п + l_0^п}{3} = \\frac{5a_0^п}{3} = 4,2635296 \\cdot 10^{-9} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.61)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

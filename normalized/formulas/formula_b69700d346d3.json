@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6331\" data-src=\"images/formula_full_390_6.webp\">\n<div style=\"width: 100%;\">\n\n$$N (э)_\\lambda = \\frac{N_э}{V_\\lambda} = \\frac{4N_э}{\\pi d^2 \\cdot l} = \\frac{4N_э}{\\pi d^2 v_0 \\tau} = 1,9225232 \\cdot 10^{32} \\ м^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.34)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "2da43f769c74",
-    "852630f710d0",
-    "b5b0c2b51293"
+    "2da43f769c74"
   ]
 }

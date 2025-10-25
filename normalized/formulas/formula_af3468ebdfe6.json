@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"792\" data-src=\"images/formula_inline_53_8_1.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_к = \\frac{2Z \\cdot n_к}{u_{к V}} = \\frac{6Z \\cdot T_1 \\cdot n_к}{r_i \\psi_i \\cdot T_2^2}, с$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.63)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "2da43f769c74"
   ]
 }

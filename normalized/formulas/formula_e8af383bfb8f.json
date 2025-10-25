@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4955\" data-src=\"images/formula_full_303_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$S_2 = a_{л}^2 = 3,54327656 \\cdot 10^{-17} {\\rm м}^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.52)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
+    "b5b0c2b51293"
   ]
 }

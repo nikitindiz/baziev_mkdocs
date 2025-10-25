@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4606\" data-src=\"images/formula_full_283_6.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0} = \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot q}{V_{s0}} + \\frac{1}{2} \\cdot \\frac{n^ж \\cdot \\alpha \\cdot z \\cdot z}{V_{s0}} + \\frac{n^ж \\cdot k_0^ж \\cdot T_0}{V_{s0}}, \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.35)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

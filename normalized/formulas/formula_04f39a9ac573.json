@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"9028\" data-src=\"images/formula_full_605_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$e' = (e + K_э \\cdot э) = -1,6021686 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.22)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "cad37467980b"
   ]
 }

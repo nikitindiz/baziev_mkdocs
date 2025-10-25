@@ -13,12 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4292\" data-src=\"images/formula_full_263_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_{0i} = f_i \\cdot H_{0i} = f_i \\cdot A_{0i} \\cdot \\sin \\alpha_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.3)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "561d303dfa03",
-    "8fd7476253af",
     "1cced234f7e5",
-    "572d0da78fdc"
+    "561d303dfa03",
+    "8fd7476253af"
   ]
 }

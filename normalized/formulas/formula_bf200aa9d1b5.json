@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7798\" data-src=\"images/formula_full_521_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\mu_s = A_s \\cdot m_n \\cdot 4\\pi A_0^2 = 1,3103059 \\cdot 10^9 \\text{ кг} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(32.9)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "606678d17268",
     "9af9381839c9"
   ]
 }

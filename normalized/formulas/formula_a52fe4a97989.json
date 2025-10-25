@@ -12,10 +12,5 @@
     "position": 24290
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5323\" data-src=\"images/formula_full_330_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_i = V_i / n_i \\Phi_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.25)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

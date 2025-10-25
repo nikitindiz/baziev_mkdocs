@@ -13,12 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5780\" data-src=\"images/formula_full_356_2.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{ci} \\leq \\frac{\\alpha \\cdot э \\cdot \\Delta Z \\cdot a_i}{2 э \\cdot \\varphi_i} = \\frac{\\alpha \\cdot \\Delta z \\cdot a_i}{2 \\varphi_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.33)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
     "8d6fa2d1d49d",
-    "cad37467980b",
-    "572d0da78fdc"
+    "b5b0c2b51293",
+    "8fd7476253af"
   ]
 }

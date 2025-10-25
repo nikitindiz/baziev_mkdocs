@@ -12,7 +12,5 @@
     "position": 34898
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4084\" data-src=\"images/formula_full_252_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$k_{Au} = C_{Au} \\cdot m_{Au} = 4,2519965 \\cdot 10^{-23} \\text{ Дж} \\cdot \\text{K}^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.23)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

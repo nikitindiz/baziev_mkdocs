@@ -12,9 +12,5 @@
     "position": 52196
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1636\" data-src=\"images/formula_full_114_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$r (Au) = \\frac{\\sigma_n}{A_{Au} \\cdot P_n (э)} = \\frac{8,4425015 \\cdot 10^4}{196,9665 \\cdot 1,608 \\cdot 10^{16}} = 2,665586 \\cdot 10^{-14} \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.32)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

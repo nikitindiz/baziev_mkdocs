@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4445\" data-src=\"images/formula_full_272_12.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_0^п = k_0^п \\cdot T_0 = 2m_0 (A_0^п)^2 \\cdot \\psi_в^2 \\cdot T_0^2 \\cdot \\sin \\alpha_0 = 2m_0 (A_0^п)^2 \\cdot f_0^2 \\cdot \\sin \\alpha_0 = m \\cdot (2A^в_0 \\cdot f_0) \\cdot (A^п_0 \\cdot f_0 \\cdot sin \\alpha_0) = m_0 \\cdot v_0 \\cdot u_0$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.50)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

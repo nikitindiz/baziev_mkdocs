@@ -12,7 +12,5 @@
     "position": 16919
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"453\" data-src=\"images/formula_full_33_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$T_{min} = T_a + t_{ед}$$\n\n</div>\n<div style=\"width: 80px;\">\n(5.27)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

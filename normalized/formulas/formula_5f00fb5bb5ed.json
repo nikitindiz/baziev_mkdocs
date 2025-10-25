@@ -12,11 +12,5 @@
     "position": 20842
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8583\" data-src=\"images/formula_full_576_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_{\\oplus}' = 2\\pi / \\omega_{\\oplus}' = 5,1738825 \\cdot 10^6 \\, с = 59,8829 \\, \\text{сут}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.41)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "ff905a84b912",
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

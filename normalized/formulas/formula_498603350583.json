@@ -12,8 +12,5 @@
     "position": 205522
   },
   "wrapper_html": "<span data-db-key=\"3100\" data-src=\"images/formula_inline_197_10_35.webp\"> $C_1N_2 = (\\Delta X_1 + \\Delta X_2 + \\Delta X_3) = X$ </span>",
-  "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

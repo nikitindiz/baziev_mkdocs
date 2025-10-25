@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3697\" data-src=\"images/formula_full_231_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_t = \\frac{m_O \\cdot \\tau}{R_{cO}} = \\frac{m_O \\cdot \\tau \\cdot \\sqrt[3]{2}}{R_O} = 2,0599488 \\cdot 10^{-21} Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.90)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "2da43f769c74"
   ]
 }

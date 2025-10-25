@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1772\" data-src=\"images/formula_full_121_24_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\gamma_i = \\beta_{0i} / \\beta(n) = \\frac{\\beta_{0i} \\cdot t}{(n - 1)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.16)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "c18f47f412f4",
-    "cad37467980b",
-    "773fb8579a52"
+    "773fb8579a52",
+    "c18f47f412f4"
   ]
 }

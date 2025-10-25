@@ -12,8 +12,5 @@
     "position": 9635
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6673\" data-src=\"images/formula_full_419_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_1' = \\frac{m_n (A_2 - A_{O2})}{m_э} = \\frac{265,6912 \\cdot 10^{-21}}{m_э} = 3,8754464 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.8)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

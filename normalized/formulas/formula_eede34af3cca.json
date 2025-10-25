@@ -13,8 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7961\" data-src=\"images/formula_full_530_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_☾ = \\frac{R_☾^2 \\cdot g_☾ \\cdot T_☾^2 \\cdot m_{\\oplus}}{16 E_☾^2 \\cdot a_☾^3} = 7,3450392 \\cdot 10^{22} \\, кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(33.31)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293"
+    "b5b0c2b51293",
+    "ff905a84b912"
   ]
 }

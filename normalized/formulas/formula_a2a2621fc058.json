@@ -12,8 +12,5 @@
     "position": 3360
   },
   "wrapper_html": "<span data-db-key=\"423\" data-src=\"images/formula_inline_30_8_8.webp\"> $\\Delta t = t_2 - t_1$ </span>",
-  "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

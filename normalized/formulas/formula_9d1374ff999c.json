@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1198\" data-src=\"images/formula_full_84_7.webp\">\n<div style=\"width: 100%;\">\n\n$$P_n = \\alpha_n \\cdot \\sigma_n = 3 \\sigma_n / R_n = \\frac{\\sigma_n \\cdot S_n}{V_n}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.9)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

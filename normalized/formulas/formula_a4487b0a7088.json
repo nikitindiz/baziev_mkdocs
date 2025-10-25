@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3857\" data-src=\"images/formula_full_239_3.webp\">\n<div style=\"width: 100%;\">\n\n$$f_э = \\frac{v_э}{2d_{ge}} = \\frac{v_э}{2\\lambda} = \\frac{24,745125 \\cdot 10^{11}}{8,8318354 \\cdot 10^{-7} \\, \\text{м}} = 2,9699487 \\cdot 10^{18} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.127)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
+    "ff905a84b912"
   ]
 }

@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2337\" data-src=\"images/formula_inline_152_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$s_i = \\pi r_i + 2 l_i = \\pi r_i + 2 r_i \\text{tg } \\beta = r_i (\\pi + 2 \\text{tg } \\beta), \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.2)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "cad37467980b",
     "773fb8579a52"
   ]
 }

@@ -12,7 +12,5 @@
     "position": 20067
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1086\" data-src=\"images/formula_full_76_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\text{э}}=m_{\\text{э}}\\cdot u_{\\text{э}} \\cdot \\nu_{\\text{ед}}=6,2697712\\cdot 10^{-22} H=2F_{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(8.21)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

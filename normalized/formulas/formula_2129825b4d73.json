@@ -13,13 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1743\" data-src=\"images/formula_full_120_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_i = \\frac{f(t) \\cdot R_{0i} \\gamma_i \\delta_i}{f_{0i} R_{0i}} = \\frac{T_i \\gamma_i \\delta_i}{T_{0i}} = \\frac{(T_{0i} + t_i)}{T_{0i}} \\cdot \\gamma_i \\delta_i = (1 + \\beta_{0i} \\cdot t_i) \\cdot \\gamma_i \\delta_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.6)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
+    "773fb8579a52",
     "c18f47f412f4",
     "954f2960e119",
-    "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "d61a4d7eea23",
-    "cad37467980b"
+    "d61a4d7eea23"
   ]
 }

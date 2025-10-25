@@ -12,9 +12,5 @@
     "position": 63797
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"763\" data-src=\"images/formula_full_52_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta Q_V = \\frac{3}{2} \\cdot k \\cdot N \\cdot (T_2 - T_1) \\cdot V_{\\text{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.56)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

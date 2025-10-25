@@ -12,7 +12,5 @@
     "position": 9154
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3407\" data-src=\"images/formula_full_213_5.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{O_2} = E_0 2 N_{O_2} = E_0 \\cdot 2 \\cdot 2{,}6892861 \\cdot 10^{25} \\, \\text{м}^{-3} = 2{,}0069412 \\cdot 10^{7} \\, \\text{Дж} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.10)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

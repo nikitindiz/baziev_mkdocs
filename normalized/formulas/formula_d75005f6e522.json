@@ -12,7 +12,5 @@
     "position": 48575
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6469\" data-src=\"images/formula_full_401_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{sэ} = n_1 + n_2 = 3,83222383 \\cdot 10^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.51)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

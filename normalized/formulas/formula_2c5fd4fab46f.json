@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3393\" data-src=\"images/formula_full_212_7.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\nn_2 &= \\frac{q\\left(C_4H_{10}\\right)}{q_{CO}} = 9.3477917 \\\\\nn_2' &= \\frac{V_{O_2}\\left(C_4H_{10}\\right)}{V_{O_2}(CO)} = 13\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.2)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

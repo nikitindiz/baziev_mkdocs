@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"795\" data-src=\"images/formula_full_54_14.webp\">\n<div style=\"width: 100%;\">\n\n$$C_V(f) = \\frac{h \\cdot (f_2 - f_1) \\cdot N_{0i}}{T_2 - T_1} = \\frac{h \\cdot \\psi_i (T_2 - T_1) \\cdot N_{0i}}{T_2 - T_1} = h \\cdot \\psi_i \\cdot N_{0i} \\frac{\\text{Дж}}{\\text{м}^3 \\cdot \\text{K}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.70)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "1aa2b90e3182",
     "572d0da78fdc"
   ]

@@ -107,32 +107,32 @@ def extract_latex_symbols(latex: str) -> Set[str]:
     Returns set of base symbols (variables, not operators or numbers).
     """
     symbols = set()
+    original_latex = latex
     
-    # Remove common LaTeX commands and keep only their arguments
+    # Step 1: Remove text formatting commands
     latex_clean = latex
+    latex_clean = re.sub(r'\\text\{[^}]+\}', ' ', latex_clean)
+    latex_clean = re.sub(r'\\mathrm\{[^}]+\}', ' ', latex_clean)
+    latex_clean = re.sub(r'\\mathscr\{[^}]+\}', ' ', latex_clean)
+    latex_clean = re.sub(r'\\mathcal\{[^}]+\}', ' ', latex_clean)
+    latex_clean = re.sub(r'\\mathbb\{[^}]+\}', ' ', latex_clean)
+    latex_clean = re.sub(r'\\mathfrak\{[^}]+\}', ' ', latex_clean)
     
-    # Extract text content from \text{...}, \mathrm{...}, etc.
-    # But don't treat them as symbols
-    latex_clean = re.sub(r'\\text\{[^}]+\}', '', latex_clean)
-    latex_clean = re.sub(r'\\mathrm\{[^}]+\}', '', latex_clean)
-    latex_clean = re.sub(r'\\mathscr\{[^}]+\}', '', latex_clean)
-    latex_clean = re.sub(r'\\mathcal\{[^}]+\}', '', latex_clean)
+    # Step 2: Extract Greek letters from original formula, then remove from cleaned
+    greek_pattern = r'\\(?:alpha|beta|gamma|delta|epsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|omicron|pi|rho|sigma|tau|upsilon|phi|chi|psi|omega|Gamma|Delta|Theta|Lambda|Xi|Pi|Sigma|Upsilon|Phi|Psi|Omega|varepsilon|varphi|vartheta|varsigma)(?![a-zA-Z])'
     
-    # Pattern for symbols:
-    # - Single letters (a-z, A-Z, Greek letters)
-    # - Letters with subscripts/superscripts
-    # - Special symbols
-    
-    # Greek letters
-    greek_pattern = r'\\(?:alpha|beta|gamma|delta|epsilon|zeta|eta|theta|iota|kappa|lambda|mu|nu|xi|omicron|pi|rho|sigma|tau|upsilon|phi|chi|psi|omega|Gamma|Delta|Theta|Lambda|Xi|Pi|Sigma|Upsilon|Phi|Psi|Omega|varepsilon|varphi|vartheta|varsigma)'
-    
-    # Find Greek letters
-    for match in re.finditer(greek_pattern, latex_clean):
+    for match in re.finditer(greek_pattern, original_latex):
         symbols.add(match.group(0))
     
-    # Find single Latin letters (possibly with decorations)
-    # Pattern: letter possibly followed by _{subscript} or ^{superscript}
-    latin_pattern = r'([a-zA-Z])(?:_\{([^}]+)\})?(?:\^\{([^}]+)\})?'
+    # Remove Greek letters from cleaned string to avoid extracting letters from their names
+    latex_clean = re.sub(greek_pattern, ' ', latex_clean)
+    
+    # Step 3: Remove all other LaTeX commands (\frac, \sqrt, \sin, \log, etc.)
+    latex_clean = re.sub(r'\\[a-zA-Z]+', ' ', latex_clean)
+    
+    # Step 4: Extract Latin letters with optional subscripts/superscripts
+    # Use word boundary to avoid matching letters inside other constructs
+    latin_pattern = r'\b([a-zA-Z])(?:_\{([^}]+)\})?(?:\^\{([^}]+)\})?'
     
     for match in re.finditer(latin_pattern, latex_clean):
         base_letter = match.group(1)
@@ -148,15 +148,16 @@ def extract_latex_symbols(latex: str) -> Set[str]:
         
         symbols.add(symbol)
     
-    # Special symbols
+    # Step 5: Check for special symbols in original formula
     special_symbols = [
         r'\\hbar', r'\\odot', r'\\oplus', r'\\otimes',
-        r'\\infty', r'\\partial', r'\\nabla', r'\\Delta',
+        r'\\infty', r'\\partial', r'\\nabla',
         r'\\sum', r'\\prod', r'\\int'
     ]
     
     for special in special_symbols:
-        if special in latex_clean:
+        # Use word boundary check to avoid matching as part of other commands
+        if re.search(special + r'(?![a-zA-Z])', original_latex):
             symbols.add(special)
     
     return symbols

@@ -12,7 +12,5 @@
     "position": 176853
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6965\" data-src=\"images/formula_full_442_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_1 = v_1/2 = 2.7568763 \\cdot 10^2 \\, \\text{м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.150)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

@@ -12,11 +12,5 @@
     "position": 6705
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1205\" data-src=\"images/formula_inline_84_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_n(n_э) = \\varepsilon_n \\cdot n_э = P_n \\cdot V_n \\cdot n_э = 4\\pi R_n^2 \\cdot \\sigma_n \\cdot n_э$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.12)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

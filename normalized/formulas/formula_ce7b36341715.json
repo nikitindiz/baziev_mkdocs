@@ -12,7 +12,5 @@
     "position": 50945
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6464\" data-src=\"images/formula_full_401_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$q = Q/6 = 9,166666 A \\cdot час = 3,3 \\cdot 10^4 Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.53)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

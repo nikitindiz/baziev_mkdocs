@@ -12,7 +12,5 @@
     "position": 56099
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4172\" data-src=\"images/formula_full_256_16.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{\\lambda}=n_{\\lambda} \\cdot q_{\\lambda}=-1,9289747 \\cdot 10^{-18} \\ Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.44)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

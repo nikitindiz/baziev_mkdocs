@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8447\" data-src=\"images/formula_full_566_4.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta F_{r i}=2 \\gamma \\cdot Q_{g \\odot} \\cdot Z_{g i}\\left[\\frac{1}{\\left(a_{i}-\\frac{\\Delta R_{\\odot} \\cdot T_{i}}{t_{n \\odot}}\\right)^{2}}-\\frac{1}{a_{i}^{2}}\\right]$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.53)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "c18f47f412f4",
     "b5b0c2b51293",
-    "852630f710d0",
-    "cad37467980b",
-    "572d0da78fdc"
+    "c18f47f412f4"
   ]
 }

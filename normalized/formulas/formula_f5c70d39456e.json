@@ -12,8 +12,5 @@
     "position": 73916
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1686\" data-src=\"images/formula_full_116_20.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{a1} = \\frac{4,7165271 \\cdot 10^{4}}{1 + (2 \\cdot 2,6179938 - 3,1415926)} = 1,5242162 \\cdot 10^{4} \\, \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.50)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

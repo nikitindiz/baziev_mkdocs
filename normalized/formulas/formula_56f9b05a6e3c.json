@@ -12,8 +12,5 @@
     "position": 55222
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4479\" data-src=\"images/formula_full_274_9.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{H_2O} = \\frac{Z_{H_2O} + q_{H_2O}}{2} = -7,248375 \\cdot 10^{-20} \\, \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.59а)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

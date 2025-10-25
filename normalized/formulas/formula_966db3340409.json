@@ -12,7 +12,5 @@
     "position": 8501
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4846\" data-src=\"images/formula_full_296_17_0.webp\">\n<div style=\"width: 100%;\">\n\n$$C^ж \\cdot m_s \\cdot T_0 = C^л \\cdot m_{л} \\cdot T_0 + q^л\\cdot m_{л}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.9)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

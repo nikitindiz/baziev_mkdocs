@@ -12,10 +12,5 @@
     "position": 25540
   },
   "wrapper_html": "<span data-db-key=\"5399\" data-src=\"images/formula_inline_333_5_3.webp\"> $I_{mi} = э \\cdot \\omega_i$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

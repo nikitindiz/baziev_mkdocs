@@ -13,10 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8445\" data-src=\"images/formula_full_566_1_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{ri} = 2 \\gamma \\cdot Q_{g \\odot} \\cdot Z_{gi} / a_i^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.51)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
+    "c18f47f412f4",
     "b5b0c2b51293",
-    "8328e59f56bb",
-    "c18f47f412f4"
+    "8328e59f56bb"
   ]
 }

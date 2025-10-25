@@ -12,7 +12,5 @@
     "position": 2895
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7107\" data-src=\"images/formula_full_454_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z (m_{ед}) = N_{A} \\cdot n_{э} \\cdot э = 2,8945287 \\cdot 10^{8} \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.4)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

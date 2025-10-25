@@ -12,8 +12,5 @@
     "position": 51735
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3576\" data-src=\"images/formula_full_223_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_э = \\frac{m_n \\cdot (A - A_0)}{m_э} = 1,923190 \\cdot 10^6$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.48)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

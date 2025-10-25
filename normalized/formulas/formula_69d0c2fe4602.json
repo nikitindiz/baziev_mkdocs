@@ -12,7 +12,5 @@
     "position": 6017
   },
   "wrapper_html": "<span data-db-key=\"6617\" data-src=\"images/formula_inline_413_1_0.webp\"> $1 \\, Дж = 1 кг \\cdot 1 м \\cdot с^{-1} \\cdot 1 м \\cdot \\nu_{ед}$ </span>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

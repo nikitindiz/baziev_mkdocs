@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8310\" data-src=\"images/formula_full_557_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = a_i \\cdot n(E_i) = \\frac{4E_i \\cdot a_i}{T_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.7)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293"
   ]
 }

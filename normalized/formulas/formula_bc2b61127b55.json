@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5258\" data-src=\"images/formula_full_327_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{\\text{ед}} = \\frac{h_i \\cdot \\omega_i \\cdot v_{\\text{ед}}}{g_э} = \\frac{m_э \\cdot v_0 \\cdot v_{\\text{ед}}}{э} В \\cdot м^{-1} = Н \\cdot Кл^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.5)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "572d0da78fdc",
+    "ff905a84b912"
   ]
 }

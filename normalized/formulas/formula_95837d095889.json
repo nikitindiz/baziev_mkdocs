@@ -12,8 +12,5 @@
     "position": 26324
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8341\" data-src=\"images/formula_full_560_15_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = 2\\pi \\cdot K = 2\\pi \\cdot v_{\\odot}u_{\\odot} = 1,2001975 \\cdot 10^{20} \\text{ м}^3 \\cdot \\text{с}^{-2} = \\text{Const}.$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.27)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "606678d17268"
-  ]
+  "symbols": []
 }

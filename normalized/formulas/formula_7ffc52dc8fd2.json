@@ -12,9 +12,5 @@
     "position": 54567
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6486\" data-src=\"images/formula_full_402_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n_э = \\Delta I \\cdot N_F = 2,3058888 \\cdot 10^{26} э \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.60)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

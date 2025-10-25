@@ -12,8 +12,5 @@
     "position": 54842
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8716\" data-src=\"images/formula_full_585_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N ♇} = m_{♇}/2V_{N ♇} = 3,6325233 \\cdot 10^{3} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.96)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3155\" data-src=\"images/formula_full_200_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\lambda ti} = F_{t0} \\cdot tg \\, \\varphi_{3i} = \\frac{2 a_d \\cdot \\varepsilon_0}{z_i} = \\frac{2 a_d \\cdot \\varepsilon_0}{K_i \\lambda_i}, Н$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.170)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "8d6fa2d1d49d",
-    "cad37467980b",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

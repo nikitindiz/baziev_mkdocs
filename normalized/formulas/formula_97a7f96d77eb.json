@@ -12,9 +12,5 @@
     "position": 19802
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8985\" data-src=\"images/formula_full_603_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V/r > \\varepsilon$$\n\n</div>\n<div style=\"width: 80px;\">\n(41.9)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -12,7 +12,5 @@
     "position": 48014
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8693\" data-src=\"images/formula_full_583_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{\\text{Б}} = (V_{n_{♃}} - V_{n_{♃}}) = 1,4806902 \\cdot 10^{14} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.87)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

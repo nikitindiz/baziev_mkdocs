@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5531\" data-src=\"images/formula_full_341_13.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{1} = \\frac{R_{0}}{k_{1}} = \\frac{V_{ri}}{k_{1} \\cdot I_{mi}} = \\frac{\\Phi_{0} \\cdot \\omega_{i}}{k_{i} \\cdot э \\cdot \\omega_{i}} = \\Phi_{0} / k_{i} \\cdot э$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.84)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "d1b2cea13b23",
-    "cad37467980b",
-    "572d0da78fdc"
+    "d1b2cea13b23"
   ]
 }

@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5675\" data-src=\"images/formula_full_349_15.webp\">\n<div style=\"width: 100%;\">\n\n$$F_r = \\frac{2э \\cdot \\varphi_{Al}}{a_{Al}} = -1,2591825 \\cdot 10^{-17} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.137)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
-    "572d0da78fdc",
-    "8d6fa2d1d49d"
+    "8d6fa2d1d49d",
+    "b5b0c2b51293"
   ]
 }

@@ -12,7 +12,5 @@
     "position": 2311
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7105\" data-src=\"images/formula_full_454_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_n = n_э \\cdot э = 4,8065676 \\cdot 10^{-19} \\, Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(24.3)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

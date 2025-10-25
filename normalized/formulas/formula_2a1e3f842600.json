@@ -12,8 +12,5 @@
     "position": 57279
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5030\" data-src=\"images/formula_full_309_4.webp\">\n<div style=\"width: 100%;\">\n\n$$P'_3 = \\frac{k_0^ж \\cdot T_1}{V_1} = \\frac{16,924113 \\cdot 10^{-23}}{2,8567526 \\cdot 10^{-29}} = 5,9242487 \\cdot 10^6 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.99)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

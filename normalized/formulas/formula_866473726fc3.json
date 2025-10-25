@@ -12,10 +12,5 @@
     "position": 83304
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5982\" data-src=\"images/formula_full_367_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{\\lambda}= n_{\\lambda} (Al) \\cdot q_{\\lambda}= n_{\\lambda} (Al) \\left(-3.9271467 \\cdot 10^{-21}\\right)=-3.1809888 \\cdot 10^{-19} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.86)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

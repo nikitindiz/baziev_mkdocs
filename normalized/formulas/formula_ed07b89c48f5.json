@@ -12,8 +12,5 @@
     "position": 38970
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6422\" data-src=\"images/formula_full_398_13.webp\">\n<div style=\"width: 100%;\">\n\n$$Z_s (H_2SO_4) = \\frac{Q_{H_2SO_4} + Z_{H_2SO_4}}{2} \\cdot n_{H_2SO_4} = 2,2836356 \\cdot 10^{-16} Кл$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.38)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

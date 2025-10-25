@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"786\" data-src=\"images/formula_inline_53_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$l_{ki} = u_{kv} \\cdot \\tau_{к}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.61)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "2da43f769c74"
   ]
 }

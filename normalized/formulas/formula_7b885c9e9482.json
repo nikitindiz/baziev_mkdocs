@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2456\" data-src=\"images/formula_full_159_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\text{rot}, i} = \\frac{F_{\\text{rot}, i}}{m_{\\text{э}} \\cdot \\nu_{\\text{ед}}} = - \\frac{2 \\alpha \\cdot э^2}{m_{\\text{э}} \\cdot \\lambda_i \\cdot \\text{tg} \\, \\beta \\cdot \\nu_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.31)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

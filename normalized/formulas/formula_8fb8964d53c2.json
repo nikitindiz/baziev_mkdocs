@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3958\" data-src=\"images/formula_full_243_19.webp\">\n<div style=\"width: 100%;\">\n\n$$W_{\\pi} = \\frac{E}{\\tau} = \\frac{a_{O_2} \\cdot V_{O_2}}{\\tau} = 1,085 \\ 7977 \\cdot 10^{3} \\text{ Вт}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.143)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "b5b0c2b51293",
     "2da43f769c74"
   ]

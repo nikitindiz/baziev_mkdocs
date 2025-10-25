@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"703\" data-src=\"images/formula_full_49_6.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{i} = \\frac{\\alpha_{i} \\cdot 3\\pi \\cdot d_{gi1}^3}{2h \\cdot \\psi_{i}^{2} \\cdot T_{2} \\cdot r_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.42)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
     "8fd7476253af",
-    "d61a4d7eea23",
-    "cad37467980b",
-    "572d0da78fdc"
+    "d61a4d7eea23"
   ]
 }

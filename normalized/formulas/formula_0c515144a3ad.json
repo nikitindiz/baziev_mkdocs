@@ -12,8 +12,5 @@
     "position": 11387
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6667\" data-src=\"images/formula_full_419_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\bar{q}_2 = (4L_1 + bq_2)/10 = -8,85855 \\cdot 10^{-20} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.12)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

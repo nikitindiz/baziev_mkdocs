@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<span data-db-key=\"416\" data-src=\"images/formula_inline_30_6_4.webp\"> $\\beta_i = \\frac{V_2 - V_1}{V_i \\cdot \\Delta t}$ </span>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
     "773fb8579a52"
   ]
 }

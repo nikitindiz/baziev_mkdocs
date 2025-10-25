@@ -12,8 +12,5 @@
     "position": 18724
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8578\" data-src=\"images/formula_full_575_21_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta R = R_{\\oplus} - R_{\\oplus 0} = 2,4 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.35)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

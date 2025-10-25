@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5113\" data-src=\"images/formula_full_314_11.webp\">\n<div style=\"width: 100%;\">\n\n$$E_1^п = \\frac{\\varphi_{H_2O}(q+z) + 2 k_0^п \\cdot T_1}{2 V_1^п} = \\frac{-11,501936 \\cdot 10^{-20} + 6,9455986 \\cdot 10^{-21}}{2 V_{T1}^п / \\gamma^п} =$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.147)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
     "c18f47f412f4",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8d6fa2d1d49d",
-    "572d0da78fdc"
+    "8d6fa2d1d49d"
   ]
 }

@@ -12,10 +12,5 @@
     "position": 962
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8455\" data-src=\"images/formula_full_567_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{\\odot} = \\frac{\\omega_0}{F_0 \\cdot I} = \\frac{49 \\cdot 10^{-4}}{6.5092223 \\cdot 10^{12}} = 7.527781 \\cdot 10^{-16} \\text{ рад} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(37.1)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

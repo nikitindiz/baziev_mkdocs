@@ -13,9 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7462\" data-src=\"images/formula_full_483_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{N1} = M_{N1}/V_{N1} = 6,4210883 \\cdot 10^7 \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.15)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "0f708d9ac56c",
-    "572d0da78fdc",
-    "13b60bd86986"
+    "13b60bd86986",
+    "0f708d9ac56c"
   ]
 }

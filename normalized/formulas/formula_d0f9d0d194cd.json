@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1427\" data-src=\"images/formula_full_100_11.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_g = \\frac{n_e (\\Delta V)}{n_f \\cdot \\nu_{ед}} \\cdot \\frac{n_e}{n_э \\cdot \\nu_{ед}} = 1.2405927 \\cdot 10^{-8} с = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.95)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
     "2da43f769c74"
   ]
 }

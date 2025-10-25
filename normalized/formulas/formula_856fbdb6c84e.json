@@ -12,9 +12,5 @@
     "position": 20263
   },
   "wrapper_html": "<span data-db-key=\"4950\" data-src=\"images/formula_inline_302_9_70.webp\"> $\\sigma_f = 2 \\cdot 10^5 - 10 \\cdot 10^5 \\text{ Па}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

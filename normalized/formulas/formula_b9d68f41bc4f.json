@@ -12,8 +12,5 @@
     "position": 17262
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7482\" data-src=\"images/formula_full_484_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_n \\cdot V_{n \\odot} = \\rho_{N \\odot} \\cdot V_{N \\odot} \\cdot k_N$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.24)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

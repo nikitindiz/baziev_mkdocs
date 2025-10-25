@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8282\" data-src=\"images/formula_full_553_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta \\tilde{\\omega}_i^2 = \\frac{I_{\\odot}F_0^2 \\cdot T_{\\oplus}^2}{a_i^2} \\cdot (\\frac{1}{a_i - \\frac{\\Delta R_{\\odot} \\cdot T_i}{t_{n\\odot}}} - \\frac{1}{a_i}),\\ (\\text{сек. дуги/год})^2$$\n\n</div>\n<div style=\"width: 80px;\">\n(35.9)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "057479e2242e",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

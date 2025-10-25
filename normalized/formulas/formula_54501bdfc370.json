@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5845\" data-src=\"images/formula_full_359_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\cos \\alpha = \\frac{9,7216965 \\cdot 10^{-24}}{1,7510109 \\cdot 10^{-19}} = 5,5522162 \\cdot 10^{-5}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.63)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

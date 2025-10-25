@@ -13,12 +13,6 @@
   },
   "wrapper_html": "<div>\n\n<div data-db-key=\"8703\" data-src=\"images/formula_full_584_5_0.webp\">\n\n$$R_♇ = 1,5 \\cdot 10^6$$\n\n</div>м\n\n</div>,\n\n<div>\n\n<div data-db-key=\"8704\" data-src=\"images/formula_full_584_6_0.webp\">\n\n$$t_♇ = 6,3867^d = 5,5181088 \\cdot 10^5$$\n\n</div> с\n\n</div>— период вращения,\n\n<div>\n\n<div data-db-key=\"8705\" data-src=\"images/formula_full_584_7_0.webp\">\n\n$$\\omega_♇ = 2\\pi/t_♇ = 1,1386482 \\cdot 10^{-5}$$\n\n</div> $\\text{рад} \\cdot \\text{сек}^{-1}$\n\n</div>,\n\n<div>\n\n<div data-db-key=\"8706\" data-src=\"images/formula_full_584_8_0.webp\">\n\n$$m_♇ = 9,547061 \\cdot 10^{21}$$\n\n</div> кг\n\n</div>— масса Плутона по обращению его спутника Харона.\n\nРасчет основных свойств внутреннего строения:\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"8701\" data-src=\"images/formula_full_584_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{♇} = 4 \\pi R_{♇}^{3} / 3 = 1,4137166 \\cdot 10^{19} м^{3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.92)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "69b88a8d50a2",
-    "cad37467980b",
-    "572d0da78fdc"
+    "69b88a8d50a2"
   ]
 }

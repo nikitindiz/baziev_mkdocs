@@ -12,9 +12,5 @@
     "position": 18145
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7474\" data-src=\"images/formula_full_484_10.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{c \\odot} = \\sqrt[3]{\\frac{3V_{N \\odot}}{4\\pi}} = \\sqrt[3]{19,694002 \\cdot 10^{18} \\text{ м}^3} = 2,700503 \\cdot 10^6 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.26)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

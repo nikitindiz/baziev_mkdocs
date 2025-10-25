@@ -12,7 +12,5 @@
     "position": 28001
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"604\" data-src=\"images/formula_inline_44_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$f_1 = \\sqrt{f_0 \\cdot v_1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.21)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

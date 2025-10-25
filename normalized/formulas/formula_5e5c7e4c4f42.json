@@ -12,8 +12,5 @@
     "position": 125502
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3787\" data-src=\"images/formula_full_235_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{ge}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.108)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

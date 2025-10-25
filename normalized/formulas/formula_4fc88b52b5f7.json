@@ -12,7 +12,5 @@
     "position": 54960
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5894\" data-src=\"images/formula_full_362_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$B_2 = B_c [1 - (T_2/T_c)^2] = 2,7899754 \\cdot 10^{-3} \\, \\text{Тл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.73)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

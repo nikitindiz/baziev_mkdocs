@@ -13,11 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2021\" data-src=\"images/formula_full_133_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_i = h f_{0i} (1 + \\beta_{0i}t) R_{0i} = \\varepsilon_{0i} R_{0i} (1 + \\beta_{0i}t)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.103)\n</div>\n</div>",
   "symbols": [
-    "954f2960e119",
-    "606678d17268",
     "773fb8579a52",
-    "b5b0c2b51293",
-    "cad37467980b",
+    "954f2960e119",
     "572d0da78fdc"
   ]
 }

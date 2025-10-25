@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1683\" data-src=\"images/formula_full_116_12.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{i1} = \\frac{v_{i1}}{v_{0i}} = \\frac{1}{1 + \\delta_{i1}} = \\frac{1}{1 + (2\\theta_1 - \\pi)}$$\n\n</div>\n<div style=\"width: 80px;\">\n(10.47)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
     "db7124669e2f",
-    "b5b0c2b51293",
-    "d61a4d7eea23",
-    "cad37467980b",
-    "572d0da78fdc"
+    "d61a4d7eea23"
   ]
 }

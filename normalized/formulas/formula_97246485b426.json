@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5062\" data-src=\"images/formula_full_311_16.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{1d} = \\frac{\\varphi_{H_2O} \\cdot q}{2V_d} = -2,1139954 \\cdot 10^9 \\text{ Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.122)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc",
     "8d6fa2d1d49d"
   ]
 }

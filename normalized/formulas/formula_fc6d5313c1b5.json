@@ -13,14 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6115\" data-src=\"images/formula_full_374_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta T \\left( B_c \\right) = \\frac{m_э v_{si} \\cdot \\pi A_s \\cdot B_{ci}}{8 m_i \\Phi_0 \\cdot H_s \\varphi_B^2 \\cdot T_{ci} \\tau_{\\text{ед}}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.123)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "2da43f769c74",
     "da4041efbcb0",
-    "852630f710d0",
-    "b5b0c2b51293",
     "8d6fa2d1d49d",
-    "cad37467980b",
-    "572d0da78fdc"
+    "2da43f769c74"
   ]
 }

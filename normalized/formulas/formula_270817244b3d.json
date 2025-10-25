@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4602\" data-src=\"images/formula_full_283_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{s0} = \\frac{n^ж \\cdot \\varphi_{H_2O} \\cdot (z + q) + 2n^ж \\cdot k_0^ж \\cdot T_0}{2n^ж \\cdot V_0} = \\frac{\\varphi_{H_2O} \\cdot (z + q) + 2k_0^ж \\cdot T_0}{2V_0}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.37)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8d6fa2d1d49d",
-    "572d0da78fdc"
+    "8d6fa2d1d49d"
   ]
 }

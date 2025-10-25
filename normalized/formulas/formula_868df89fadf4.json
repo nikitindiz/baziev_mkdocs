@@ -12,11 +12,5 @@
     "position": 83292
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5551\" data-src=\"images/formula_full_342_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_i = \\frac{k_i э \\cdot V_i}{\\Phi_0} = \\frac{k_i э \\cdot n_i \\Phi_0 \\omega_i}{\\Phi_0} = n_i k_i \\cdot э \\omega_i = n_i k_i \\cdot I_{mi}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.89)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

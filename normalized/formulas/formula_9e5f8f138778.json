@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1909\" data-src=\"images/formula_full_127_7_0.webp\">\n    <div style=\"width: 100%;\">\n\n$$A(\\alpha, n) = A_{0i} \\cdot \\alpha_i \\cdot \\sqrt[3]{n_{si}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.54)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
     "1cced234f7e5",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

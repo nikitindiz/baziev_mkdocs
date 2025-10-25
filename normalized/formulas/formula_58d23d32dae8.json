@@ -12,7 +12,5 @@
     "position": 70318
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4818\" data-src=\"images/formula_full_294_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Дж \\cdot кг^{-1} \\cdot K^{-1} = м \\cdot с^{-2} \\cdot K^{-1} = 5,23 \\cdot 10^{-3}\\%$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.99)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

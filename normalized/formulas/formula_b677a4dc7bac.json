@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7463\" data-src=\"images/formula_full_483_13.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{N\\odot} = V_{N1} + V_{n\\odot} = 8,249403973 \\cdot 10^{19} \\, \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(27.16)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "0f708d9ac56c",
-    "ebb6e2bd535d",
-    "f96131b7485c"
+    "0f708d9ac56c"
   ]
 }

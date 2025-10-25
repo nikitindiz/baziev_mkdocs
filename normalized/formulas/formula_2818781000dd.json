@@ -12,7 +12,5 @@
     "position": 10017
   },
   "wrapper_html": "<span data-db-key=\"352\" data-src=\"images/formula_inline_25_3_0.webp\"> $V_V = b \\cdot V_э = 3,5779342 \\cdot 10^{-50} \\text{м}^3$ </span>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

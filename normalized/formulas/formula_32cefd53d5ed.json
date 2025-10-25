@@ -12,9 +12,5 @@
     "position": 63663
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4775\" data-src=\"images/formula_full_292_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\overline{\\eta}_{0} = \\frac{\\eta'_{0} + n^ж \\cdot \\eta_{0}}{(n^ж + 1)} = 1,8006661 \\cdot 10^{-3} \\ \\text{Па} \\cdot \\text{с}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.93)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

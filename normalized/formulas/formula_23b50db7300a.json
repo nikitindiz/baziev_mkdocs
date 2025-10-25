@@ -12,8 +12,5 @@
     "position": 213611
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3002\" data-src=\"images/formula_full_192_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$b_{i} << \\sqrt{Z \\cdot \\lambda_{i}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.142)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
-  ]
+  "symbols": []
 }

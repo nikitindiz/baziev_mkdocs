@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5152\" data-src=\"images/formula_full_317_13_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g c}=2 m^{п} / \\rho_{c}=m_{c} / \\rho_{c}=5,6091604 \\cdot 10^{-28} м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.166)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
+    "852630f710d0"
   ]
 }

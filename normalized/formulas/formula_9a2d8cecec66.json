@@ -12,9 +12,5 @@
     "position": 20986
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8328\" data-src=\"images/formula_full_559_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\sigma = \\sqrt{b_♇/b_♀} = 3,1530284 \\cdot 10^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.14)\n</div>\n</div>",
-  "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

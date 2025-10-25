@@ -12,11 +12,5 @@
     "position": 47826
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8907\" data-src=\"images/formula_full_596_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_♇' = 2\\pi/\\omega_♇' = 4,0479326 \\cdot 10^2\\,с$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.92)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5748\" data-src=\"images/formula_full_354_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\delta_{Ag} = \\frac{A_{Ag}^2}{r_{Ag}} = \\frac{(1,6975364 \\cdot 10^{-10})^2}{8,769846 \\cdot 10^{-11}} = 3,2858385 \\cdot 10^{-10} м$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.23)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "d61a4d7eea23",
-    "cad37467980b"
+    "d61a4d7eea23"
   ]
 }

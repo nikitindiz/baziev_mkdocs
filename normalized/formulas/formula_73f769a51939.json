@@ -12,8 +12,5 @@
     "position": 18707
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4350\" data-src=\"images/formula_full_267_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta n = \\sqrt{3,0536963/3} = 1,0089097$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.12)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

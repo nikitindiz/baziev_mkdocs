@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2760\" data-src=\"images/formula_full_174_7.webp\">\n<div style=\"width: 100%;\">\n\n$$r_{0i} = \\sqrt{O_1 A^2 - O_1 O^2} = \\sqrt{\\frac{\\lambda_i^2}{4} - \\frac{(\\lambda_k - l_i)}{4}} = \\frac{\\sqrt{l_i (2\\lambda_i - l_i)}}{2}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.75)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
     "d107c64fe193"
   ]
 }

@@ -12,8 +12,5 @@
     "position": 4612
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6377\" data-src=\"images/formula_full_394_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$K_{2} = \\frac{m_{n} (-0,0241) + m_{e}}{m_{э}} = -5,705548 \\cdot 10^{6}$$\n\n</div>\n<div style=\"width: 80px;\">\n(21.1.6)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

@@ -12,11 +12,5 @@
     "position": 106465
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5203\" data-src=\"images/formula_full_320_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$t_c = 2\\pi / \\omega_c = 1,2906096 \\cdot 10^{-10} с$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.189)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

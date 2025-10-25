@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<span data-db-key=\"2873\" data-src=\"images/formula_inline_182_1_0.webp\"> $l_i = r_i \\cdot \\text{tg} \\beta = \\tau_2 \\cdot v_i$ </span>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "2da43f769c74",
-    "773fb8579a52"
+    "773fb8579a52",
+    "2da43f769c74"
   ]
 }

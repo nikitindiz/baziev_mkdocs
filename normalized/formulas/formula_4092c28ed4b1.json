@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<span data-db-key=\"5802\" data-src=\"images/formula_inline_357_0_10.webp\"> $\\rho(T)_i = \\rho_{i20} [1 + \\alpha_i (t_i - 20)]$ </span>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

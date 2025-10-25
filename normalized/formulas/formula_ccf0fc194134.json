@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2867\" data-src=\"images/formula_full_182_17_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\lambda_{3}=\\frac{\\alpha \\cdot э^{2}}{i_{3} \\nu_{ед}}=-\\frac{10 \\alpha \\cdot э^{2}}{z F_{t0}}=-1,42857 \\cdot \\lambda_{i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.104)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

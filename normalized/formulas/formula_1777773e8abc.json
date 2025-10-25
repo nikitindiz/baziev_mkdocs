@@ -13,11 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3065\" data-src=\"images/formula_full_196_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_{\\lambda t} = F_{t0} \\text{tg } \\varphi_{3} = 2 \\alpha э^{2} \\cdot \\text{tg } \\varphi_{3} / \\lambda_г' = 1,004597 \\cdot 10^{-27} \\text{ Н}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.152)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc",
-    "8d6fa2d1d49d"
+    "8d6fa2d1d49d",
+    "8fd7476253af"
   ]
 }

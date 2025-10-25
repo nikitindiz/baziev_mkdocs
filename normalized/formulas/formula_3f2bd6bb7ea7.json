@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3012\" data-src=\"images/formula_full_193_8.webp\">\n<div style=\"width: 100%;\">\n\n$$\n\\begin{rcases}\n\\begin{aligned}\n\\Delta X_1 &= 1,43 \\cdot \\lambda_i \\\\\n\\Delta X_2 &= 2,46 \\cdot \\lambda_i \\\\\n\\Delta X_3 &= 3,47 \\cdot \\lambda_i\n\\end{aligned}\n\\end{rcases}\n$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.143)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

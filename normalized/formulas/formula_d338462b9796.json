@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8117\" data-src=\"images/formula_full_543_11.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{\\min} = \\frac{F'_1}{2 \\pi R_s \\cdot h_1} = \\frac{F'_1}{2 \\pi R_s \\cdot \\frac{R_s}{2}} = \\frac{F'_1}{\\pi R_s^2} = \\frac{13,385174 \\cdot 10^{33}}{1,8898474 \\cdot 10^9} = 7,0826745 \\cdot 10^{24} \\text{ Па.}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.52)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
     "572d0da78fdc"
   ]
 }

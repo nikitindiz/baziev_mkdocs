@@ -12,9 +12,5 @@
     "position": 6694
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7230\" data-src=\"images/formula_full_464_13.webp\">\n<div style=\"width: 100%;\">\n\n$$R_{71} = \\sqrt[3]{\\frac{(3V_{71} + 4 \\pi R_{n \\odot}^3)}{4 \\pi}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.9)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

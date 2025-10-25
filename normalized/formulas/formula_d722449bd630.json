@@ -12,8 +12,5 @@
     "position": 20791
   },
   "wrapper_html": "<span data-db-key=\"4942\" data-src=\"images/formula_inline_302_11_12.webp\"> $k_f = E_f / \\sigma_f = 1000 - 5000$ </span>",
-  "symbols": [
-    "ff905a84b912",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

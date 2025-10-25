@@ -12,9 +12,5 @@
     "position": 14864
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5727\" data-src=\"images/formula_full_353_10.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_{Au}'' = \\frac{\\bar{A}_{Au}^2 \\cdot R_0}{8 \\cdot {\\bar{r}_{Au}}} = \\frac{12,694578 \\cdot 10^{-18}}{5,7233792 \\cdot 10^{-10}} = 2,2180214 \\cdot 10^{-8} \\text{ Ом} \\cdot \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.21)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

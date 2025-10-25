@@ -12,7 +12,5 @@
     "position": 8832
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"316\" data-src=\"images/formula_inline_23_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\text{э} (m) = \\text{э}/m_{\\text{э}} = 2,8992629 \\cdot 10^{8} \\text{ Кл} \\cdot \\text{кг}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(4.13)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

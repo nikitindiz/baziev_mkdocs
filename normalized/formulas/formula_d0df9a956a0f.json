@@ -12,9 +12,5 @@
     "position": 66231
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"775\" data-src=\"images/formula_full_53_3.webp\">\n<div style=\"width: 100%;\">\n\n$$U_{к V} = \\frac{u_i}{3} \\cdot \\frac{T_2}{T_1} = \\frac{r_i f_2 \\cdot T_2}{3T_1} = \\frac{r_i \\psi \\cdot T_2^2}{3T_1} -$$\n\n</div>\n<div style=\"width: 80px;\">\n(6.59)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

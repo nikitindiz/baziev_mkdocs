@@ -12,8 +12,5 @@
     "position": 6683
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4851\" data-src=\"images/formula_full_296_8.webp\">\n<div style=\"width: 100%;\">\n\n$$E_{st}' = \\frac{E_m^{л}}{n_s} = C^{л} \\cdot m_s \\cdot T_0 = 6,4233178 \\cdot 10^{-17} \\text{ Дж}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.6)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

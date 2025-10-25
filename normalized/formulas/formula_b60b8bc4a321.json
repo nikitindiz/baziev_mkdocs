@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4539\" data-src=\"images/formula_full_279_19.webp\">\n<div style=\"width: 100%;\">\n\n$$d_{g0} = \\sqrt[3]{\\frac{6V_{g0}}{\\pi}} = \\sqrt[3]{214,92273 \\cdot 10^{-27}} = 5,9900087 \\cdot 10^{-9} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.11)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "606678d17268",
-    "b5b0c2b51293"
+    "ff905a84b912"
   ]
 }

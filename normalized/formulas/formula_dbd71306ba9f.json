@@ -13,12 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1973\" data-src=\"images/formula_full_130_8_1.webp\">\n    <div style=\"width: 100%;\">\n\n$$\\delta_{si} = (1 - \\alpha_i^2 \\cdot n_i)$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.80)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "606678d17268",
-    "852630f710d0",
     "8fd7476253af",
-    "d61a4d7eea23",
-    "cad37467980b",
-    "572d0da78fdc"
+    "d61a4d7eea23"
   ]
 }

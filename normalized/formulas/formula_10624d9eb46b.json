@@ -12,10 +12,5 @@
     "position": 16121
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8782\" data-src=\"images/formula_full_589_2.webp\">\n<div style=\"width: 100%;\">\n\n$$C_{\\odot} = \\frac{\\Delta R_{\\odot}}{t_{n\\odot}} = \\frac{282,86 \\text{ м}}{2,3144253 \\cdot 10^{5} \\text{ c}} = 1,2221608 \\cdot 10^{-3} \\text{ м} \\cdot с^{-1} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(39.6)\n</div>\n</div>",
-  "symbols": [
-    "057479e2242e",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

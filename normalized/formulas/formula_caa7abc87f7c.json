@@ -12,9 +12,5 @@
     "position": 146912
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6232\" data-src=\"images/formula_full_382_14_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{э\\oplus} = \\Delta I_{э\\oplus} \\cdot R_0 = 1,6684146 \\cdot 10^{-6} \\, \\text{В}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.171)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

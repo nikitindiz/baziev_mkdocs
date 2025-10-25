@@ -12,9 +12,5 @@
     "position": 194166
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2945\" data-src=\"images/formula_full_187_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$N_e = \\pi (R_{\\oplus} + H)^2 \\cdot n_e (\\oplus) = 1,8752689 \\cdot 10^{29} \\text{ электрон } \\cdot \\text{ с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.127)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

@@ -13,8 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1765\" data-src=\"images/formula_full_121_12_3.webp\">\n<div style=\"width: 100%;\">\n\n$$\\beta(n) = (n - 1)/t, \\, \\text{град}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(11.13)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "cad37467980b",
     "773fb8579a52"
   ]
 }

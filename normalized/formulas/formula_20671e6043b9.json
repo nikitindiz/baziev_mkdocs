@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5342\" data-src=\"images/formula_full_331_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$P_{mi} = F_{mi}/S_{mi} = \\alpha \\cdot э^2/h_i^3, \\text{ Дж} \\cdot \\text{м}^{-3} = \\text{Па}$$\n\n</div>\n<div style=\"width: 80px;\">\n(19.32)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "572d0da78fdc"
+    "572d0da78fdc",
+    "8fd7476253af"
   ]
 }

@@ -14,9 +14,7 @@
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4035\" data-src=\"images/formula_full_250_13.webp\">\n<div style=\"width: 100%;\">\n\n$$c_i = \\frac{m_n \\cdot A_i}{2 a_i^2 \\cdot \\sin (\\gamma/2) \\cdot \\cos (\\gamma/2) \\cdot \\rho_i} , м$$\n\n</div>\n<div style=\"width: 80px;\">\n(5-10)\n</div>\n</div>",
   "symbols": [
     "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
     "c18f47f412f4",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

@@ -12,7 +12,5 @@
     "position": 321417
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3248\" data-src=\"images/formula_full_205_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$F_a = F_1 + F_2 + F_3 + F_4$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.186)\n</div>\n</div>",
-  "symbols": [
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

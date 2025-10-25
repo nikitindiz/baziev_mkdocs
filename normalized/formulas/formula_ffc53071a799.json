@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7276\" data-src=\"images/formula_full_470_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_{\\nu} = m_{\\text{э}} \\cdot n_{\\nui} \\cdot a_{i} \\cdot \\nu_{\\text{ед}} / 2 = \\mathscr{P}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.22)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "b5b0c2b51293",
-    "852630f710d0",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

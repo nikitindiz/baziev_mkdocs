@@ -12,8 +12,5 @@
     "position": 22757
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"173\" data-src=\"images/formula_full_12_9.webp\">\n<div style=\"width: 100%;\">\n\n$$u_i = \\frac{v_i \\cdot r_i}{2 A_i} = \\frac{2 A_i f_i r_i}{2 A_i} = r_i f_i$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.31)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

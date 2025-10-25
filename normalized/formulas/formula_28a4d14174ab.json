@@ -12,9 +12,5 @@
     "position": 16749
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8029\" data-src=\"images/formula_full_537_16_0.webp\">\n<div style=\"width: 100%;\">\n\n$$m_{☿0} = m_{☿} + \\Delta m_{☿} = 4,9840263 \\cdot 10^{23} \\text{ кг}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.13)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

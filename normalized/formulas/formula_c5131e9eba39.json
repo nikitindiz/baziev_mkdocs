@@ -12,8 +12,5 @@
     "position": 18549
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"154\" data-src=\"images/formula_full_11_3.webp\">\n<div style=\"width: 100%;\">\n\n$$m_э = \\frac{2 \\cdot 4,1106086 \\cdot 10^{-34}}{1,1991698 \\cdot 10^2} = 6,8557572 \\cdot 10^{-36} \\text{ кг} = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(2.23)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

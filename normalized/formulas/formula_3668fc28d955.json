@@ -13,14 +13,8 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2505\" data-src=\"images/formula_full_161_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\tau_{2i} = \\frac{l_i}{v_i} = \\frac{\\lambda_i \\operatorname{tg} \\beta}{2v_i} = \\frac{(4\\alpha \\, Э^2 - m_э \\lambda_i^2 \\operatorname{tg}^2 \\beta \\nu_i \\nu_{\\text{ед}}) \\cdot \\operatorname{tg} \\beta}{4 \\alpha \\cdot Э^2 (\\pi + \\operatorname{tg} \\beta) \\cdot \\nu_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.39)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "2da43f769c74",
     "773fb8579a52",
-    "852630f710d0",
-    "b5b0c2b51293",
     "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "2da43f769c74"
   ]
 }

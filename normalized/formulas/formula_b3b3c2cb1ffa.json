@@ -12,7 +12,5 @@
     "position": 4813
   },
   "wrapper_html": "<span data-db-key=\"17\" data-src=\"images/formula_inline_1_4_30.webp\"> $E_{\\text{ед}} = V_{\\text{ед}} \\cdot P_0 = 1,01325 \\cdot 10^5 Дж$ </span>",
-  "symbols": [
-    "852630f710d0"
-  ]
+  "symbols": []
 }

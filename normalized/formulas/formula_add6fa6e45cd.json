@@ -13,12 +13,6 @@
   },
   "wrapper_html": "<div>\n\n<div data-db-key=\"7241\" data-src=\"images/formula_full_464_9_0.webp\">\n\n$$V_{67} = S_{67} \\cdot V_{68} = S_{67} \\cdot S_{68} \\cdot S_{69} \\cdot V_{70}$$\n\n</div> и т.д.\n\n</div>В общем виде можно записать:\n\n<div style=\"display: flex; width: 100%;\" data-db-key=\"7229\" data-src=\"images/formula_full_464_11_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{i} = S_{i} \\cdot V(i + 1)$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.8)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "69b88a8d50a2",
-    "cad37467980b",
-    "572d0da78fdc"
+    "69b88a8d50a2"
   ]
 }

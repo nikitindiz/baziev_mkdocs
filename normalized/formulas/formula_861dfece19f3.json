@@ -12,8 +12,5 @@
     "position": 124636
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3792\" data-src=\"images/formula_full_235_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_e = 2 f_e \\cdot A_e = 1,354462 \\cdot 10^3 \\, \\text{м} \\cdot с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(14.106)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

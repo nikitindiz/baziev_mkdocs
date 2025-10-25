@@ -13,10 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2997\" data-src=\"images/formula_full_191_2_0.webp\">\n<div style=\"width: 100%;\">\n\n$$f_{3 \\oplus} = \\frac{\\Delta P \\cdot V_{gэ}}{\\hbar} g^{3} = 6,1922752 \\cdot 10^9 с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.139)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "572d0da78fdc"
+    "ff905a84b912"
   ]
 }

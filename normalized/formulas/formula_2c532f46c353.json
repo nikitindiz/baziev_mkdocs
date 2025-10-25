@@ -12,9 +12,5 @@
     "position": 93544
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5155\" data-src=\"images/formula_full_317_19_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta V_{gc} = (V_{gc} - V_{sc}) = 4,0394755 \\cdot 10^{-28} \\, \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.169)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

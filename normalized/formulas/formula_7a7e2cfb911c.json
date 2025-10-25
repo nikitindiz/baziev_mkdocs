@@ -12,10 +12,5 @@
     "position": 19548
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"1253\" data-src=\"images/formula_full_87_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\varepsilon_i = A_i \\cdot E_n$$\n\n</div>\n<div style=\"width: 80px;\">\n(9.26)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

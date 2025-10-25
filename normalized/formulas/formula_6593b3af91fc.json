@@ -12,8 +12,5 @@
     "position": 20842
   },
   "wrapper_html": "<span data-db-key=\"401\" data-src=\"images/formula_inline_28_6_22.webp\"> $V_{m,0} = 22,41410 \\frac{\\text{л}}{\\text{моль}} = \\text{Const}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

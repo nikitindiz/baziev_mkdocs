@@ -12,9 +12,5 @@
     "position": 26051
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4375\" data-src=\"images/formula_full_268_9.webp\">\n<div style=\"width: 100%;\">\n\n$$C_v^п = \\frac{(C_v^п)'}{m^п \\cdot N_A \\cdot \\Delta n} = \\frac{25,362537 \\text{ Дж } \\cdot \\text{моль}^{-1} \\cdot \\text{K}^{-1}}{3 \\cdot m_0 \\cdot N_A \\cdot \\Delta n} = \\frac{(C_v^n)'}{5,4527319 \\cdot 10^{-2}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(16.24)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

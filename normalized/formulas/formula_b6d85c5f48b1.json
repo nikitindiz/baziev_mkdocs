@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7002\" data-src=\"images/formula_full_446_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{BN} = Z_B + Z_N + 2,5 \\cdot e = -7,327058 \\cdot 10^{-20} \\mathrm{Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.161)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
     "cad37467980b"
   ]
 }

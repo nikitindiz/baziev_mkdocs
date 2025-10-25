@@ -13,13 +13,9 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"3316\" data-src=\"images/formula_full_208_3_0.webp\">\n<div style=\"width: 100%;\">\n\n$$n_{ппi} = \\operatorname{tg} \\beta = \\frac{a_i c_0 \\cdot э \\varphi_s}{2 \\varepsilon_0 \\cdot \\lambda_i}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.202)\n</div>\n</div>",
   "symbols": [
-    "ff905a84b912",
-    "606678d17268",
     "773fb8579a52",
     "852630f710d0",
-    "b5b0c2b51293",
     "8d6fa2d1d49d",
-    "cad37467980b",
-    "572d0da78fdc"
+    "b5b0c2b51293"
   ]
 }

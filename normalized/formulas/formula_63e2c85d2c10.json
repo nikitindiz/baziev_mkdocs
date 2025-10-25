@@ -12,9 +12,5 @@
     "position": 6272
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5696\" data-src=\"images/formula_full_351_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\Delta I_1 = э \\cdot \\nu_{si}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.6)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

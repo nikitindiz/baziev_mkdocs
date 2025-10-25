@@ -12,10 +12,5 @@
     "position": 127512
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"6177\" data-src=\"images/formula_full_378_2.webp\">\n<div style=\"width: 100%;\">\n\n$$Q_{g☾} = \\frac{m_{☾} \\cdot K_{g}}{\\rho} = \\pm 2,2213431 \\cdot 10^{14} \\text{ Кл}$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.141)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4901\" data-src=\"images/formula_full_299_8_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{л} = \\sqrt{\\frac{2\\varepsilon_{t л}}{m_{л} \\cdot \\sin \\alpha_{л}}} = \\sqrt{\\frac{16.135932 \\cdot 10^{-17}}{5.0095771 \\cdot 10^{-24}}} = 5.6754002 \\cdot 10^3 \\text{м} \\cdot \\text{с}^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.30)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

@@ -12,8 +12,5 @@
     "position": 952
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8515\" data-src=\"images/formula_full_571_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_i > 2.75 \\cdot 10^3 \\, кг \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.1)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

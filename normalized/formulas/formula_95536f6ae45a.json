@@ -13,11 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4228\" data-src=\"images/formula_full_259_8.webp\">\n<div style=\"width: 100%;\">\n\n$$P'_{1i} = \\frac{n_i \\cdot E_{1i}}{V_{\\rho 1} \\cdot (1 + \\alpha_i \\cdot \\Delta t)^3} = \\frac{P_{1i}}{(1 + \\alpha_i \\cdot \\Delta t)^3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(15.62)\n</div>\n</div>",
   "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "8fd7476253af",
-    "cad37467980b",
-    "572d0da78fdc"
+    "8fd7476253af"
   ]
 }

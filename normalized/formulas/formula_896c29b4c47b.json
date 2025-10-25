@@ -12,9 +12,5 @@
     "position": 204761
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7054\" data-src=\"images/formula_full_449_21.webp\">\n<div style=\"width: 100%;\">\n\n$$A_1 = \\frac{v_1}{2 \\psi_B \\cdot T_1} = \\frac{v_1}{1,2212568 \\cdot 10^{13}} = 5,4428993 \\cdot 10^{-11} \\, \\text{м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(23.192)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

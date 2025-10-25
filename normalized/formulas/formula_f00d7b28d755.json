@@ -13,7 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8304\" data-src=\"images/formula_inline_555_9_0.webp\">\n<div style=\"width: 100%;\">\n\n$$I_{\\odot} = u_{\\text{☿}} ^2 \\cdot a_{\\text{☿}} = u_{♀}^2 \\cdot a_{♀} = ... u_♇^2 a_♇ = \\text{Const}$$\n\n</div>\n<div style=\"width: 80px;\">\n(36.2)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
-    "852630f710d0"
+    "b5b0c2b51293"
   ]
 }

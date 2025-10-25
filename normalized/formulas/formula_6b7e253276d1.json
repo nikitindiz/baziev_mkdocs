@@ -12,8 +12,5 @@
     "position": 10692
   },
   "wrapper_html": "<span data-db-key=\"356\" data-src=\"images/formula_inline_25_7_6.webp\"> $m_e(n) = n_e \\cdot m_e = 2.7115461 \\cdot 10^{-30} \\text{ кг} = 0.16329\\% \\text{ от } m_n$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

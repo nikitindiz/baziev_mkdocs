@@ -12,10 +12,5 @@
     "position": 50692
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5013\" data-src=\"images/formula_full_307_7_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\omega_{s1} = v_c/R_{cs1} = 3,3975017 \\cdot 10^9 с^{-1}$$\n\n</div>\n<div style=\"width: 80px;\">\n(18.84)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "cad37467980b",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

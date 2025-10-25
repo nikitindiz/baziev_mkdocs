@@ -12,9 +12,5 @@
     "position": 6540
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5\" data-src=\"images/formula_full_1_9.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{g0} = m_в / \\rho_{0в} = \\frac{4.8106712 \\cdot 10^{-26} \\text{ кг}}{1.2929 \\text{ кг} \\cdot \\text{м}^{-3}} = 3.7208378 \\cdot 10^{-26} \\text{ м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(1.4)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

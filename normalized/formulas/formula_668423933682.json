@@ -13,9 +13,6 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"2926\" data-src=\"images/formula_full_186_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$\\rho_n = \\rho_\\mu \\cdot \\frac{V_{\\text{ед}}}{V_n} = \\rho_\\mu \\cdot 5{,}5414362 \\cdot 10^{39} = 9{,}2019428 \\cdot 10^{12} \\text{ кг} \\cdot \\text{м}^{-3}$$\n\n</div>\n<div style=\"width: 80px;\">\n(13.119)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "9af9381839c9",
-    "572d0da78fdc"
+    "9af9381839c9"
   ]
 }

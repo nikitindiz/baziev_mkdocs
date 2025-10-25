@@ -12,10 +12,5 @@
     "position": 30694
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8060\" data-src=\"images/formula_full_540_1.webp\">\n<div style=\"width: 100%;\">\n\n$$R_s = \\sqrt[3]{\\frac{3 m_s}{4 \\pi \\rho_n}} = \\sqrt[3]{14.754188 \\cdot 10^{-12} \\text{ м}^3} = 2.4526662 \\cdot 10^4 \\text{ м}$$\n\n</div>\n<div style=\"width: 80px;\">\n(34.30)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0",
-    "b5b0c2b51293",
-    "572d0da78fdc"
-  ]
+  "symbols": []
 }

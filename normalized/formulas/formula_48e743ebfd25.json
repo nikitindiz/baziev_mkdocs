@@ -13,10 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"4758\" data-src=\"images/formula_full_291_4.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{si} = V_{s0} + \\Delta V = V_{s0} + V_{s0} \\cdot \\beta_{\\mu} \\cdot (t_i - t_0) = V_{s0} \\cdot (1 + \\beta_{\\mu} \\cdot t_i), \\ м^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(17.88)\n</div>\n</div>",
   "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293",
-    "cad37467980b",
-    "9af9381839c9",
-    "773fb8579a52"
+    "773fb8579a52",
+    "9af9381839c9"
   ]
 }

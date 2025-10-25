@@ -12,8 +12,5 @@
     "position": 48134
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"7368\" data-src=\"images/formula_full_475_6_0.webp\">\n<div style=\"width: 100%;\">\n\n$$v_{\\nu} = \\frac{\\mathscr{P}}{m_{\\text{э}}} \\cdot r_{70} \\cdot \\nu_{\\text{ед}}$$\n\n</div>\n<div style=\"width: 80px;\">\n(26.53)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

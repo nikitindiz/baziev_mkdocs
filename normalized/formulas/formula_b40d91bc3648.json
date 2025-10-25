@@ -13,8 +13,7 @@
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"5707\" data-src=\"images/formula_full_352_10_0.webp\">\n<div style=\"width: 100%;\">\n\n$$A_i^2 + \\delta_i A_i - a_i \\delta_i = 0$$\n\n</div>\n<div style=\"width: 80px;\">\n(20.11)\n</div>\n</div>",
   "symbols": [
-    "b5b0c2b51293",
     "d61a4d7eea23",
-    "cad37467980b"
+    "b5b0c2b51293"
   ]
 }

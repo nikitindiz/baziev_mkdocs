@@ -12,10 +12,5 @@
     "position": 9085
   },
   "wrapper_html": "<span data-db-key=\"346\" data-src=\"images/formula_inline_25_2_0.webp\"> $\\omega_e = v_c / R_{ce} = 2,9376561 \\cdot 10^{16} \\text{ рад.с}^{-1}$ </span>",
-  "symbols": [
-    "852630f710d0",
-    "ff905a84b912",
-    "b5b0c2b51293",
-    "cad37467980b"
-  ]
+  "symbols": []
 }

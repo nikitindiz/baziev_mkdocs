@@ -12,8 +12,5 @@
     "position": 7785
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"204\" data-src=\"images/formula_full_15_5_0.webp\">\n<div style=\"width: 100%;\">\n\n$$1\\,а. е. м. = \\frac{1}{12} \\cdot ^{12}C = 1,66057 \\cdot 10^{-27} кг$$\n\n</div>\n<div style=\"width: 80px;\">\n(3.1)\n</div>\n</div>",
-  "symbols": [
-    "852630f710d0",
-    "b5b0c2b51293"
-  ]
+  "symbols": []
 }

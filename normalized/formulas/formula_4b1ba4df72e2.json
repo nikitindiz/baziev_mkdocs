@@ -12,8 +12,5 @@
     "position": 43424
   },
   "wrapper_html": "<div style=\"display: flex; width: 100%;\" data-db-key=\"8674\" data-src=\"images/formula_full_582_4_0.webp\">\n<div style=\"width: 100%;\">\n\n$$V_{♃} = 4\\pi R_{♃}^3/3 = 1,5245677 \\cdot 10^{24} \\text{м}^3$$\n\n</div>\n<div style=\"width: 80px;\">\n(38.75)\n</div>\n</div>",
-  "symbols": [
-    "606678d17268",
-    "852630f710d0"
-  ]
+  "symbols": []
 }
