@@ -325,11 +325,19 @@ restore_local() {
     
     log_info "Starting local Neo4j restore..."
     
-    # Find Neo4j home directory
-    local neo4j_home=$(neo4j console 2>&1 | grep -o 'NEO4J_HOME=.*' | cut -d'=' -f2 | head -n1)
-    if [ -z "$neo4j_home" ]; then
+    # Find Neo4j home directory - use Homebrew paths directly
+    local neo4j_home=""
+    
+    # Try Homebrew paths (ARM/Intel)
+    if [ -d "/opt/homebrew/var/neo4j" ]; then
+        neo4j_home="/opt/homebrew/var/neo4j"
+        log_verbose "Detected ARM Homebrew Neo4j: $neo4j_home"
+    elif [ -d "/usr/local/var/neo4j" ]; then
         neo4j_home="/usr/local/var/neo4j"
-        log_warning "Could not detect NEO4J_HOME, using default: $neo4j_home"
+        log_verbose "Detected Intel Homebrew Neo4j: $neo4j_home"
+    else
+        log_error "Neo4j data directory not found"
+        exit 1
     fi
     
     local data_dir="$neo4j_home/data"
