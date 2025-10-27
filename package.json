@@ -6,5 +6,8 @@
     "dev": "mkdocs serve",
     "build": "mkdocs build -d public",
     "normalize": "python3 normalized/normalize.py"
+  },
+  "dependencies": {
+    "katex": "^0.16.25"
   }
 }

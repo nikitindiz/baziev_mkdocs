@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Создание символов для ВСЕХ формул в графе Neo4j.
-Обрабатывает все формулы, извлекает символы из LaTeX и создает связи.
+Обновление существующих символов в графе.
+Пересоздает символы только для формул, которые имеют некорректные символы.
 """
 
 import sys
@@ -24,7 +24,7 @@ def generate_symbol_id(latex: str) -> str:
 
 def extract_symbols_from_latex(latex: str) -> list[str]:
     """
-    Извлекает символы из LaTeX формулы.
+    Извлекает символы из LaTeX формулы (улучшенная версия).
     Возвращает список уникальных символов.
     """
     if not latex:
@@ -53,7 +53,7 @@ def extract_symbols_from_latex(latex: str) -> list[str]:
     
     for letter in greek_letters:
         # Греческие буквы с индексами
-        pattern = letter + r"(?:_\{[^}]+\}|_[a-zA-Z0-9]|\^\{[^}]+\}|\^[a-zA-Z0-9])*"
+        pattern = letter + r"(?:_\{[^}]+\}|_\\[a-zA-Z]+|_[a-zA-Z0-9]|\^\{[^}]+\}|\^\\[a-zA-Z]+|\^[a-zA-Z0-9])*"
         matches = re.findall(pattern, latex)
         symbols.update(matches)
     
@@ -146,179 +146,106 @@ def extract_symbols_from_latex(latex: str) -> list[str]:
         # Убираем числа
         if symbol.isdigit():
             continue
+        
+        # Убираем символы, заканчивающиеся на _ или ^ или \ (некорректные)
+        if symbol.endswith('_') or symbol.endswith('^') or symbol.endswith('\\'):
+            continue
             
         filtered_symbols.add(symbol)
     
     return sorted(list(filtered_symbols))
 
 
-def create_symbol_if_not_exists(conn: Neo4jConnection, latex: str, description: str, source: str) -> str:
+def find_formulas_with_broken_symbols(conn: Neo4jConnection) -> list:
     """
-    Создает символ в графе, если он не существует.
-    Возвращает symbol_id.
+    Находит формулы, которые имеют связь с некорректными символами
+    (заканчиваются на _, ^, или \).
     """
-    symbol_id = generate_symbol_id(latex)
-    
     query = """
-    MERGE (s:Symbol {id: $symbol_id})
-    ON CREATE SET 
-        s.latex = $latex,
-        s.description = $description,
-        s.auto_generated = true,
-        s.source = $source,
-        s.created_at = datetime()
-    RETURN s.id as symbol_id
+    MATCH (f:Formula)-[:USES_SYMBOL]->(s:Symbol)
+    WHERE s.latex ENDS WITH '_' 
+       OR s.latex ENDS WITH '^'
+       OR s.latex ENDS WITH '\\\\'
+    RETURN DISTINCT f.id as formula_id,
+           f.latex as formula_latex,
+           collect(DISTINCT s.latex) as broken_symbols
+    ORDER BY f.id
     """
     
-    result = conn.execute_query(query, {
-        'symbol_id': symbol_id,
-        'latex': latex,
-        'description': description,
-        'source': source
-    })
-    
-    return symbol_id
+    return conn.execute_query(query)
 
 
-def link_formula_to_symbol(conn: Neo4jConnection, formula_id: str, symbol_id: str):
-    """Создает связь USES_SYMBOL между формулой и символом."""
-    query = """
-    MATCH (f:Formula {id: $formula_id})
-    MATCH (s:Symbol {id: $symbol_id})
-    MERGE (f)-[:USES_SYMBOL]->(s)
+def recreate_symbols_for_formula(conn: Neo4jConnection, formula_id: str, formula_latex: str):
+    """
+    Пересоздает символы для конкретной формулы:
+    1. Удаляет все старые связи USES_SYMBOL
+    2. Извлекает символы заново
+    3. Создает новые символы и связи
     """
     
-    conn.execute_query(query, {
-        'formula_id': formula_id,
-        'symbol_id': symbol_id
-    })
-
-
-def process_all_formulas(conn: Neo4jConnection, batch_size: int = 100):
+    # Удаляем старые связи
+    delete_query = """
+    MATCH (f:Formula {id: $formula_id})-[r:USES_SYMBOL]->()
+    DELETE r
     """
-    Обрабатывает все формулы в графе.
-    """
-    print("=" * 80)
-    print("Создание символов для ВСЕХ формул в графе")
-    print("=" * 80)
-    print()
+    conn.execute_query(delete_query, {'formula_id': formula_id})
     
-    # Получаем общее количество формул
-    count_query = """
-    MATCH (f:Formula)
-    RETURN count(f) as total
-    """
-    total_result = conn.execute_query(count_query)
-    total_formulas = total_result[0]['total'] if total_result else 0
+    # Извлекаем символы
+    symbols = extract_symbols_from_latex(formula_latex)
     
-    print(f"Всего формул в графе: {total_formulas}")
-    print()
+    if not symbols:
+        return 0
     
-    # Получаем формулы батчами
-    stats = {
-        'processed': 0,
-        'formulas_with_symbols': 0,
-        'formulas_without_symbols': 0,
-        'symbols_created': set(),
-        'links_created': 0,
-        'formulas_skipped': []
-    }
-    
-    skip = 0
-    
-    while skip < total_formulas:
-        # Получаем батч формул
-        query = """
-        MATCH (f:Formula)
-        OPTIONAL MATCH (p:Paragraph)-[:CONTAINS_FORMULA]->(f)
-        OPTIONAL MATCH (s:Section)-[:CONTAINS_PARAGRAPH]->(p)
-        RETURN f.id as formula_id, 
-               f.latex as latex,
-               s.title as section_title
-        ORDER BY f.id
-        SKIP $skip
-        LIMIT $limit
+    # Создаем новые символы и связи
+    links_created = 0
+    for symbol_latex in symbols:
+        symbol_id = generate_symbol_id(symbol_latex)
+        
+        # Создаем символ
+        create_query = """
+        MERGE (s:Symbol {id: $symbol_id})
+        ON CREATE SET 
+            s.latex = $latex,
+            s.description = "Автоматически извлечено из формул (обновлено)",
+            s.auto_generated = true,
+            s.source = "auto_extraction_v2",
+            s.created_at = datetime()
         """
         
-        batch = conn.execute_query(query, {'skip': skip, 'limit': batch_size})
+        conn.execute_query(create_query, {
+            'symbol_id': symbol_id,
+            'latex': symbol_latex
+        })
         
-        if not batch:
-            break
+        # Создаем связь
+        link_query = """
+        MATCH (f:Formula {id: $formula_id})
+        MATCH (s:Symbol {id: $symbol_id})
+        MERGE (f)-[:USES_SYMBOL]->(s)
+        """
         
-        for record in batch:
-            formula_id = record['formula_id']
-            latex = record['latex']
-            section_title = record.get('section_title', 'Неизвестный раздел')
-            
-            stats['processed'] += 1
-            
-            # Извлекаем символы
-            symbols = extract_symbols_from_latex(latex)
-            
-            if not symbols:
-                stats['formulas_without_symbols'] += 1
-                stats['formulas_skipped'].append({
-                    'id': formula_id,
-                    'latex': latex,
-                    'section': section_title
-                })
-                continue
-            
-            stats['formulas_with_symbols'] += 1
-            
-            # Создаем символы и связи
-            for symbol_latex in symbols:
-                symbol_id = create_symbol_if_not_exists(
-                    conn,
-                    latex=symbol_latex,
-                    description="Автоматически извлечено из формул",
-                    source="auto_extraction"
-                )
-                
-                stats['symbols_created'].add(symbol_id)
-                
-                # Создаем связь
-                link_formula_to_symbol(conn, formula_id, symbol_id)
-                stats['links_created'] += 1
-            
-            # Прогресс
-            if stats['processed'] % 100 == 0:
-                print(f"Обработано {stats['processed']}/{total_formulas} формул...")
+        conn.execute_query(link_query, {
+            'formula_id': formula_id,
+            'symbol_id': symbol_id
+        })
         
-        skip += batch_size
+        links_created += 1
     
-    return stats
+    return links_created
 
 
-def save_log(stats: dict):
-    """Сохраняет лог обработки."""
-    log_dir = "/Users/electrino/work/vibed/baziev_mkdocs/fixes-required"
-    os.makedirs(log_dir, exist_ok=True)
+def cleanup_orphaned_symbols(conn: Neo4jConnection) -> int:
+    """Удаляет символы, которые больше не используются ни одной формулой."""
+    query = """
+    MATCH (s:Symbol)
+    WHERE NOT EXISTS {(f:Formula)-[:USES_SYMBOL]->(s)}
+    WITH s
+    DELETE s
+    RETURN count(*) as deleted
+    """
     
-    log_file = os.path.join(log_dir, "all_symbols_extraction.md")
-    
-    with open(log_file, 'w', encoding='utf-8') as f:
-        f.write("# Автоматическое создание символов для всех формул\n\n")
-        f.write(f"Дата: {datetime.now().isoformat()}\n\n")
-        
-        f.write("## Статистика\n\n")
-        f.write(f"- Всего обработано формул: {stats['processed']}\n")
-        f.write(f"- Формул с извлеченными символами: {stats['formulas_with_symbols']}\n")
-        f.write(f"- Формул без символов: {stats['formulas_without_symbols']}\n")
-        f.write(f"- Создано уникальных символов: {len(stats['symbols_created'])}\n")
-        f.write(f"- Создано связей USES_SYMBOL: {stats['links_created']}\n\n")
-        
-        if stats['formulas_skipped']:
-            f.write(f"## Формулы без символов ({len(stats['formulas_skipped'])})\n\n")
-            for item in stats['formulas_skipped'][:50]:  # Первые 50
-                f.write(f"### ID: `{item['id']}`\n")
-                f.write(f"- **LaTeX**: `{item['latex']}`\n")
-                f.write(f"- **Раздел**: {item['section']}\n\n")
-            
-            if len(stats['formulas_skipped']) > 50:
-                f.write(f"*...и ещё {len(stats['formulas_skipped']) - 50} формул*\n\n")
-    
-    return log_file
+    result = conn.execute_query(query)
+    return result[0]['deleted'] if result else 0
 
 
 def main():
@@ -332,24 +259,54 @@ def main():
         database=neo4j_config.get("database", "neo4j")
     )
     
+    print("=" * 80)
+    print("Обновление некорректных символов")
+    print("=" * 80)
+    print()
+    
     try:
-        # Обрабатываем все формулы
-        stats = process_all_formulas(conn, batch_size=100)
+        # Находим формулы с проблемными символами
+        formulas_to_fix = find_formulas_with_broken_symbols(conn)
+        
+        print(f"Найдено формул с некорректными символами: {len(formulas_to_fix)}")
+        print()
+        
+        if not formulas_to_fix:
+            print("✅ Все символы корректны!")
+            return
+        
+        # Статистика
+        fixed_count = 0
+        total_links = 0
+        
+        for i, formula in enumerate(formulas_to_fix, 1):
+            formula_id = formula['formula_id']
+            formula_latex = formula['formula_latex']
+            broken_symbols = formula['broken_symbols']
+            
+            if i % 50 == 0:
+                print(f"Обработано {i}/{len(formulas_to_fix)} формул...")
+            
+            # Пересоздаем символы
+            links_created = recreate_symbols_for_formula(conn, formula_id, formula_latex)
+            
+            fixed_count += 1
+            total_links += links_created
         
         print()
         print("=" * 80)
         print("Результаты:")
-        print(f"  Обработано формул: {stats['processed']}")
-        print(f"  Формул с символами: {stats['formulas_with_symbols']}")
-        print(f"  Формул без символов: {stats['formulas_without_symbols']}")
-        print(f"  Создано уникальных символов: {len(stats['symbols_created'])}")
-        print(f"  Создано связей USES_SYMBOL: {stats['links_created']}")
+        print(f"  Исправлено формул: {fixed_count}")
+        print(f"  Создано новых связей: {total_links}")
         print("=" * 80)
         print()
         
-        # Сохраняем лог
-        log_file = save_log(stats)
-        print(f"Лог сохранён в: {log_file}")
+        # Удаляем потерянные символы
+        print("Удаление неиспользуемых символов...")
+        deleted = cleanup_orphaned_symbols(conn)
+        print(f"✓ Удалено неиспользуемых символов: {deleted}")
+        print()
+        
         print("✅ Готово!")
         
     finally:

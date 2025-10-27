@@ -1,0 +1,12 @@
+{
+  "name": "latex-symbol-parser",
+  "version": "1.0.0",
+  "description": "Parse LaTeX formulas and extract symbols using KaTeX",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "katex": "^0.16.9"
+  }
+}
