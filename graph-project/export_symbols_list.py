@@ -30,22 +30,40 @@ def get_all_symbols(neo4j_conn):
     """Получить все символы из базы данных"""
     query = """
     MATCH (s:Symbol)
-    RETURN s.latex as latex, s.definition as definition, s.id as id
+    RETURN s.id as id,
+           s.latex as latex,
+           s.symbol as symbol,
+           s.definition as definition,
+           s.description as description,
+           s.unit as unit,
+           s.source as source,
+           s.latex_corrected as latex_corrected,
+           s.latex_note as latex_note,
+           s.latex_context as latex_context,
+           s.context_note as context_note,
+           s.note as note,
+           s.confidence as confidence,
+           s.auto_generated as auto_generated,
+           s.created_at as created_at
     ORDER BY s.latex
     """
     
     results = neo4j_conn.execute_query(query)
     return results
 
-def escape_latex(latex_str):
-    """Экранирование LaTeX для Markdown"""
-    if not latex_str:
+def escape_markdown(text):
+    """Экранирование специальных символов для Markdown таблицы"""
+    if text is None:
         return ""
-    # В markdown между $ не нужно дополнительное экранирование
-    return latex_str
+    text = str(text)
+    # Заменяем символы, которые могут сломать таблицу
+    text = text.replace('|', '\\|')
+    text = text.replace('\n', ' ')
+    text = text.replace('\r', ' ')
+    return text
 
 def generate_markdown(symbols, output_file="symbols_list.md"):
-    """Генерация Markdown файла со списком символов"""
+    """Генерация Markdown файла со списком символов в виде таблицы"""
     
     with open(output_file, 'w', encoding='utf-8') as f:
         # Заголовок
@@ -53,15 +71,50 @@ def generate_markdown(symbols, output_file="symbols_list.md"):
         f.write(f"Всего символов: **{len(symbols)}**\n\n")
         f.write("---\n\n")
         
-        # Список символов
+        # Заголовок таблицы
+        headers = [
+            "ID",
+            "LaTeX",
+            "Symbol",
+            "Definition",
+            "Description",
+            "Unit",
+            "Source",
+            "LaTeX Corrected",
+            "LaTeX Note",
+            "LaTeX Context",
+            "Context Note",
+            "Note",
+            "Confidence",
+            "Auto Generated",
+            "Created At"
+        ]
+        
+        # Создаём таблицу
+        f.write("| " + " | ".join(headers) + " |\n")
+        f.write("| " + " | ".join(["---"] * len(headers)) + " |\n")
+        
+        # Данные таблицы
         for symbol in symbols:
-            latex = escape_latex(symbol.get('latex', ''))
-            definition = symbol.get('definition', 'нет определения')
-            symbol_id = symbol.get('id', 'нет id')
+            row = [
+                escape_markdown(symbol.get('id', '')),
+                f"${escape_markdown(symbol.get('latex', ''))}$" if symbol.get('latex') else '',
+                escape_markdown(symbol.get('symbol', '')),
+                escape_markdown(symbol.get('definition', '')),
+                escape_markdown(symbol.get('description', '')),
+                escape_markdown(symbol.get('unit', '')),
+                escape_markdown(symbol.get('source', '')),
+                f"${escape_markdown(symbol.get('latex_corrected', ''))}$" if symbol.get('latex_corrected') else '',
+                escape_markdown(symbol.get('latex_note', '')),
+                escape_markdown(symbol.get('latex_context', '')),
+                escape_markdown(symbol.get('context_note', '')),
+                escape_markdown(symbol.get('note', '')),
+                escape_markdown(symbol.get('confidence', '')),
+                escape_markdown(symbol.get('auto_generated', '')),
+                escape_markdown(symbol.get('created_at', ''))
+            ]
             
-            # Формат: * $latex$ - definition | id |
-            line = f"* ${latex}$ - {definition} | {symbol_id} |\n"
-            f.write(line)
+            f.write("| " + " | ".join(row) + " |\n")
     
     print(f"✅ Файл {output_file} успешно создан!")
     print(f"📊 Экспортировано символов: {len(symbols)}")
