@@ -29,12 +29,36 @@ Formula {id: "db996faeccc9", latex: "V"}
 Symbol {id: "5206560a306a", latex: "V", definition: "объем"}
 ```
 
-**Желаемое состояние:**
+**Желаемое состояние (простой символ):**
 ```
 Paragraph: "где {{symbol:5206560a306a}} — объем шара"
    |
    ↓ CONTAINS_SYMBOL
 Symbol {id: "5206560a306a", latex: "V", definition: "объем"}
+```
+
+**Пример с индексированным символом:**
+
+**Текущее состояние:**
+```
+Paragraph: "А каково значение {{formula:e8de5d5eecaa}}, следующее из классической теории?"
+   |
+   ↓ CONTAINS_FORMULA
+Formula {id: "e8de5d5eecaa", latex: "E_0"}
+   |
+   ├─ USES_SYMBOL → Symbol {id: "13a248d66e72", latex: "E_{0}", definition: "начальная энергия"}
+   └─ USES_SYMBOL → Symbol {id: "3a3ea00cfc35", latex: "E", definition: "энергия (общее обозначение)"}
+```
+
+**Желаемое состояние (индексированный символ):**
+```
+Paragraph: "А каково значение {{symbol:13a248d66e72}}, следующее из классической теории?"
+   |
+   ↓ CONTAINS_SYMBOL
+Symbol {id: "13a248d66e72", latex: "E_{0}", definition: "начальная энергия"}
+   |
+   ↓ USES_SYMBOL
+Symbol {id: "3a3ea00cfc35", latex: "E", definition: "энергия (общее обозначение)"}
 ```
 
 ## Структура Neo4j базы данных
@@ -143,8 +167,17 @@ ORDER BY f.id
 
 #### Этап 1.3: Определить формулы-символы в параграфе
 
+**ВАЖНОЕ УТОЧНЕНИЕ:** Формула считается формулой-символом в двух случаях:
+1. **Простой символ**: формула содержит один символ, и `formula.latex = symbol.latex` (или `symbol.latex_corrected`)
+2. **Индексированный символ**: формула связана с несколькими символами, но один из них является "основным" (его latex совпадает с formula.latex), а остальные - "вложенные" (используются в индексах)
+
+**Примеры:**
+- `V` → один символ `V` (объем) - простой случай
+- `E_0` → основной символ `E_{0}` (начальная энергия) + вложенный символ `E` (энергия) - индексированный случай
+- `\frac{E}{mc^2}` → формула из нескольких символов - НЕ формула-символ
+
 ```cypher
-// Найти все формулы-символы в параграфе
+// Найти все формулы-символы в параграфе (простые)
 MATCH (p:Paragraph {id: $paragraph_id})-[:CONTAINS_FORMULA]->(f:Formula)
 MATCH (f)-[:USES_SYMBOL]->(s:Symbol)
 WHERE (f.latex = s.latex OR f.latex = s.latex_corrected)
@@ -158,11 +191,33 @@ RETURN f.id as formula_id,
        s.latex_corrected as symbol_latex_corrected,
        s.definition as symbol_definition,
        s.unit as symbol_unit,
-       s.confidence as symbol_confidence
+       s.confidence as symbol_confidence,
+       [] as nested_symbols  // пустой список для совместимости
+ORDER BY f.id
+
+UNION
+
+// Найти все индексированные формулы-символы в параграфе
+MATCH (p:Paragraph {id: $paragraph_id})-[:CONTAINS_FORMULA]->(f:Formula)
+MATCH (f)-[:USES_SYMBOL]->(s:Symbol)
+WHERE (f.latex = s.latex OR f.latex = s.latex_corrected)
+WITH f, s, collect{(f)-[:USES_SYMBOL]->(other:Symbol) WHERE other.id <> s.id | other} as nested
+WHERE size(nested) > 0
+RETURN f.id as formula_id,
+       f.latex as formula_latex,
+       s.id as symbol_id,
+       s.latex as symbol_latex,
+       s.latex_corrected as symbol_latex_corrected,
+       s.definition as symbol_definition,
+       s.unit as symbol_unit,
+       s.confidence as symbol_confidence,
+       nested as nested_symbols
 ORDER BY f.id
 ```
 
-**Для агента:** Если результат пустой - формулы-символов нет, переходи к Этапу 4.2
+**Для агента:** 
+- Если результат пустой - формулы-символов нет, переходи к Этапу 4.2
+- Если `nested_symbols` не пустой - это индексированный символ, нужно создать связи между символами (см. Этап 3.1.1)
 
 ### Этап 2: Обработка формул-символов в параграфе
 
@@ -228,7 +283,7 @@ RETURN s
 **Для каждой формулы-символа из списка (Этап 1.3):**
 
 ```cypher
-// Создать связь между параграфом и символом
+// Создать связь между параграфом и основным символом
 MATCH (p:Paragraph {id: 'PARAGRAPH_ID'})
 MATCH (s:Symbol {id: 'SYMBOL_ID'})
 MERGE (p)-[:CONTAINS_SYMBOL]->(s)
@@ -236,6 +291,25 @@ RETURN p.id, s.id
 ```
 
 **Важно:** Используем `MERGE`, чтобы избежать дублирования связей.
+
+#### 3.1.1 Создание связей между символами для индексированных формул-символов
+
+**ТОЛЬКО если `nested_symbols` не пустой (из результата Этапа 1.3):**
+
+Для индексированных символов (например, `E_0` = основной символ `E_{0}` + вложенный `E`) нужно создать связи `USES_SYMBOL` между основным и вложенными символами.
+
+```cypher
+// Создать связь между основным символом и каждым вложенным
+MATCH (s_main:Symbol {id: 'MAIN_SYMBOL_ID'})
+MATCH (s_nested:Symbol {id: 'NESTED_SYMBOL_ID'})
+MERGE (s_main)-[:USES_SYMBOL]->(s_nested)
+RETURN s_main.latex as main_symbol, s_nested.latex as nested_symbol
+```
+
+**Для агента:**
+- Выполни этот запрос для КАЖДОГО вложенного символа из списка `nested_symbols`
+- Это сохраняет информацию о том, что индексированный символ содержит другие символы
+- Пример: `E_{0} -[:USES_SYMBOL]-> E` означает, что символ `E_0` использует символ `E` в своей записи
 
 #### 3.2 Замена референсов формул на символы в содержимом параграфа
 
@@ -370,7 +444,7 @@ RETURN processed as processed_paragraphs,
 - НЕ удалять связи или узлы до замены ВСЕХ формул-символов в `p.content`
 - НЕ пропускать проверку контекста символов
 - НЕ пропускать пометку параграфа как обработанного
-- НЕ изменять формулы, которые содержат более одного символа
+- НЕ изменять формулы, которые являются сложными выражениями (не формулами-символами)
 - НЕ выполнять Этап 5 (финальную очистку) до завершения всех параграфов
 - **НЕ изменять markdown файлы в директории `docs/` - только база данных!**
 
@@ -409,7 +483,8 @@ RETURN processed as processed_paragraphs,
    9.1. Проверить определение символа (Этап 2.2-2.3)
    9.2. При необходимости - обновить определение
    9.3. Создать связь CONTAINS_SYMBOL (Этап 3.1)
-   9.4. Заменить референс в p.content (Этап 3.2)
+   9.4. ЕСЛИ это индексированный символ - создать связи USES_SYMBOL между символами (Этап 3.1.1)
+   9.5. Заменить референс в p.content (Этап 3.2)
 10. Проверить корректность замен в p.content
 11. ДЛЯ КАЖДОЙ формулы-символа: удалить связь CONTAINS_FORMULA (Этап 4.1)
 12. Пометить параграф как обработанный (Этап 4.2)
@@ -470,6 +545,11 @@ LIMIT 1
 
 1. **latex vs latex_corrected**: Иногда правильное LaTeX представление находится в `symbol.latex_corrected`, а не в `symbol.latex`. При сравнении `formula.latex` с символом проверяй ОБА поля.
 
+1.1. **Индексированные символы**: Формула может быть связана с несколькими символами, если один из них является "основным" (совпадает с formula.latex), а другие - вложенные. Пример: формула `E_0` связана с символом `E_{0}` (основной) и `E` (вложенный). В таких случаях:
+   - Создай связь `Paragraph -[:CONTAINS_SYMBOL]-> Symbol(основной)`
+   - Создай связи `Symbol(основной) -[:USES_SYMBOL]-> Symbol(вложенный)` для каждого вложенного
+   - Замени `{{formula:id}}` на `{{symbol:id_основного}}`
+
 2. **Контекст символа**: Многие параграфы содержат ТОЛЬКО референсы формул без текста. В таких случаях:
    - Читай предыдущий параграф (`prev.content`)
    - Читай следующий параграф (`next.content`)
@@ -515,15 +595,23 @@ LIMIT 1
 
 [2025-10-31 10:01] Processing paragraph: chapter_глава-i_1-секция_p5
 [2025-10-31 10:01] - Found 3 formula-symbols in paragraph
-[2025-10-31 10:01] - Formula db996faeccc9 (V) -> Symbol 5206560a306a (объем) - definition OK
-[2025-10-31 10:01] - Formula ce2d9fa1df5e (ε) -> Symbol f8b1c5a729a0 (Энергия) - definition OK
-[2025-10-31 10:01] - Formula c5703f02a0e3 (r) -> Symbol 4b43b0aee356 (радius) - definition OK
+[2025-10-31 10:01] - Formula db996faeccc9 (V) -> Symbol 5206560a306a (объем) - SIMPLE, definition OK
+[2025-10-31 10:01] - Formula ce2d9fa1df5e (ε) -> Symbol f8b1c5a729a0 (Энергия) - SIMPLE, definition OK
+[2025-10-31 10:01] - Formula c5703f02a0e3 (r) -> Symbol 4b43b0aee356 (радиус) - SIMPLE, definition OK
 [2025-10-31 10:01] - p.content updated: 3 replacements in database ✓
 [2025-10-31 10:01] - All formula-symbols processed, paragraph marked as processed ✓
 
-[2025-10-31 10:02] Processing paragraph: chapter_глава-i_1-секция_p7
-[2025-10-31 10:02] - Found 0 formula-symbols in paragraph
+[2025-10-31 10:02] Processing paragraph: chapter_глава-i-система-новейших-фундаментальных-открытий_1-гиперчастотная-механика-или-механика-микромира_p19
+[2025-10-31 10:02] - Found 1 formula-symbol in paragraph
+[2025-10-31 10:02] - Formula e8de5d5eecaa (E_0) -> Symbol 13a248d66e72 (E_{0}) - INDEXED
+[2025-10-31 10:02]   └─ Nested symbols: [E (3a3ea00cfc35)]
+[2025-10-31 10:02]   └─ Created Symbol-to-Symbol link: E_{0} -[:USES_SYMBOL]-> E ✓
+[2025-10-31 10:02] - p.content updated: {{formula:e8de5d5eecaa}} -> {{symbol:13a248d66e72}} ✓
 [2025-10-31 10:02] - Paragraph marked as processed ✓
+
+[2025-10-31 10:03] Processing paragraph: chapter_глава-i_1-секция_p7
+[2025-10-31 10:03] - Found 0 formula-symbols in paragraph
+[2025-10-31 10:03] - Paragraph marked as processed ✓
 
 ...
 [2025-10-31 10:30] Session ended: 25 paragraphs processed
