@@ -604,6 +604,119 @@ LIMIT 1
 **Проблема**: Символ используется в разных значениях
 **Решение**: Это сложный случай - возможно нужно создать отдельные Symbol узлы для каждого значения (см. #file:fix-symbols.md п.8)
 
+## КРИТИЧЕСКИ ВАЖНОЕ УСЛОВИЕ: Эквивалентность записи символов
+
+### Правило соответствия символов
+
+ПРИ СВЯЗЫВАНИИ параграфа с символом (создание `CONTAINS_SYMBOL`) **ОБЯЗАТЕЛЬНО** проверяй:
+
+**Символ, с которым мы связываем параграф, должен быть эквивалентен по записи символу в формуле (formula.latex) или его скорректированной версии (symbol.latex_corrected).**
+
+### Что считается эквивалентным:
+
+1. **Точное совпадение**: 
+   - `formula.latex = symbol.latex` (например, `V` = `V`)
+   - `formula.latex = symbol.latex_corrected` (если latex был исправлен)
+
+2. **ИСКЛЮЧЕНИЕ - фигурные скобки в индексах**: Символы с индексами считаются эквивалентными независимо от наличия фигурных скобок:
+   - `A_i` ≡ `A_{i}` (эквивалентны)
+   - `E_0` ≡ `E_{0}` (эквивалентны)
+   - `\delta_{i1}` ≡ `\delta_i1` (эквивалентны, но это плохая запись - лучше добавить скобки)
+   - `m_i` ≡ `m_{i}` (эквивалентны)
+
+### Примеры применения:
+
+**✅ ПРАВИЛЬНО:**
+```
+Formula {latex: "E_0"} → Symbol {latex: "E_{0}"} 
+// Можно связать: E_0 эквивалентно E_{0}
+
+Formula {latex: "V"} → Symbol {latex: "V"}
+// Можно связать: точное совпадение
+
+Formula {latex: "m_i"} → Symbol {latex: "m_{i}"}
+// Можно связать: m_i эквивалентно m_{i}
+```
+
+**❌ НЕПРАВИЛЬНО:**
+```
+Formula {latex: "m_i"} → Symbol {latex: "m"}
+// НЕЛЬЗЯ связать: m_i НЕ эквивалентно m
+// Это разные символы! m - базовый, m_i - индексированный
+
+Formula {latex: "E_0"} → Symbol {latex: "E"}
+// НЕЛЬЗЯ связать: E_0 НЕ эквивалентно E
+// Нужен символ E_{0} или E_0
+
+Formula {latex: "\\rho_i"} → Symbol {latex: "\\rho"}
+// НЕЛЬЗЯ связать: ρ_i НЕ эквивалентно ρ
+```
+
+### Алгоритм проверки эквивалентности:
+
+```python
+def is_equivalent(formula_latex, symbol_latex, symbol_latex_corrected=None):
+    """
+    Проверка эквивалентности записи символов
+    """
+    # Нормализация: убираем фигурные скобки из индексов для сравнения
+    def normalize(latex):
+        import re
+        # Заменяем _{X} на _X и ^{X} на ^X для одиночных символов
+        latex = re.sub(r'_\{([^}])\}', r'_\1', latex)
+        latex = re.sub(r'\^\{([^}])\}', r'^\1', latex)
+        return latex
+    
+    formula_norm = normalize(formula_latex)
+    symbol_norm = normalize(symbol_latex)
+    
+    # Проверяем точное совпадение после нормализации
+    if formula_norm == symbol_norm:
+        return True
+    
+    # Проверяем с latex_corrected если он есть
+    if symbol_latex_corrected:
+        corrected_norm = normalize(symbol_latex_corrected)
+        if formula_norm == corrected_norm:
+            return True
+    
+    return False
+```
+
+### Что делать если эквивалентного символа нет:
+
+**Если формула `m_i` связана только с символом `m` (не эквивалентны!):**
+
+1. **ЭТО НЕСВЯЗАННЫЙ ИНДЕКСИРОВАННЫЙ СЛУЧАЙ** → используй Этап 1.4
+2. Изучи контекст использования формулы
+3. Поищи в базе символ с latex `m_i` или `m_{i}`
+4. Если не нашел:
+   - Создай новый Symbol с `latex: "m_{i}"` (с фигурными скобками)
+   - Определи значение из контекста
+   - Создай связи: Formula→Symbol(m_i), Symbol(m_i)→Symbol(m), Symbol(m_i)→Symbol(i)
+5. Теперь можно связать параграф с эквивалентным символом `m_{i}`
+
+### Проверка при обработке:
+
+**ПЕРЕД созданием связи `CONTAINS_SYMBOL` (Этап 3.1) ВСЕГДА проверяй:**
+
+```cypher
+// Проверить эквивалентность символа
+MATCH (f:Formula {id: 'FORMULA_ID'})
+MATCH (s:Symbol {id: 'SYMBOL_ID'})
+WITH f, s,
+     // Нормализация для сравнения
+     replace(replace(f.latex, '_{', '_'), '^{', '^') as f_norm,
+     replace(replace(s.latex, '_{', '_'), '^{', '^') as s_norm,
+     replace(replace(coalesce(s.latex_corrected, s.latex), '_{', '_'), '^{', '^') as s_corr_norm
+RETURN f.latex as formula_latex,
+       s.latex as symbol_latex,
+       s.latex_corrected as symbol_latex_corrected,
+       f_norm = s_norm OR f_norm = s_corr_norm as is_equivalent
+```
+
+Если `is_equivalent = false` → **НЕ СОЗДАВАЙ связь!** Используй Этап 1.4 для обработки.
+
 ## Прогресс выполнения
 
 ### Трекинг для AI-агента
