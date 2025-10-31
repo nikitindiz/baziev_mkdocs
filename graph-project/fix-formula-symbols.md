@@ -118,17 +118,15 @@ Symbol {id: "3a3ea00cfc35", latex: "E", definition: "энергия (общее 
 
 ```cypher
 // Узнать общий статус обработки
-MATCH (p:Paragraph)-[:CONTAINS_FORMULA]->(f:Formula)-[:USES_SYMBOL]->(s:Symbol)
-WHERE f.latex = s.latex OR f.latex = s.latex_corrected
-WITH f, s, count{(f)-[:USES_SYMBOL]->()} as sym_count
-WHERE sym_count = 1
-MATCH (p:Paragraph)-[:CONTAINS_FORMULA]->(f)
-WITH DISTINCT p
-WITH count(p) as total,
-     sum(CASE WHEN p.formula_symbols_processed = true THEN 1 ELSE 0 END) as processed
-RETURN total as total_paragraphs,
-       processed as processed_paragraphs,
-       total - processed as remaining_paragraphs
+MATCH (p:Paragraph)
+WHERE p.formula_symbols_processed IS NULL OR p.formula_symbols_processed = false
+WITH count(p) as remaining_paragraphs
+MATCH (p:Paragraph)
+WITH count(p) as total_paragraphs
+MATCH (p:Paragraph)
+WHERE p.formula_symbols_processed = true
+WITH count(p) as processed_paragraphs, total_paragraphs, remaining_paragraphs
+RETURN total_paragraphs, processed_paragraphs, remaining_paragraphs
 ```
 
 **Ожидаемый результат при первом запуске:**
@@ -158,8 +156,7 @@ LIMIT 1
 ```cypher
 // Получить все формулы параграфа
 MATCH (p:Paragraph {id: $paragraph_id})-[:CONTAINS_FORMULA]->(f:Formula)
-RETURN f.id as formula_id,
-       f.latex as formula_latex
+RETURN f.id as formula_id
 ORDER BY f.id
 ```
 
@@ -177,18 +174,14 @@ ORDER BY f.id
 - `\frac{E}{mc^2}` → формула из нескольких символов - НЕ формула-символ
 
 ```cypher
-// Найти все формулы-символы в параграфе (простые)
+// Найти все формулы-символы в параграфе
 MATCH (p:Paragraph {id: $paragraph_id})-[:CONTAINS_FORMULA]->(f:Formula)
 MATCH (f)-[:USES_SYMBOL]->(s:Symbol)
-WHERE (f.latex = s.latex OR f.latex = s.latex_corrected)
 WITH f, collect(s) as matching_symbols
 WHERE size(matching_symbols) = 1
 WITH f, matching_symbols[0] as s
 RETURN f.id as formula_id,
-       f.latex as formula_latex,
        s.id as symbol_id,
-       s.latex as symbol_latex,
-       s.latex_corrected as symbol_latex_corrected,
        s.definition as symbol_definition,
        s.unit as symbol_unit,
        s.confidence as symbol_confidence,
@@ -200,14 +193,10 @@ UNION
 // Найти все индексированные формулы-символы в параграфе
 MATCH (p:Paragraph {id: $paragraph_id})-[:CONTAINS_FORMULA]->(f:Formula)
 MATCH (f)-[:USES_SYMBOL]->(s:Symbol)
-WHERE (f.latex = s.latex OR f.latex = s.latex_corrected)
 WITH f, s, collect{(f)-[:USES_SYMBOL]->(other:Symbol) WHERE other.id <> s.id | other} as nested
 WHERE size(nested) > 0
 RETURN f.id as formula_id,
-       f.latex as formula_latex,
        s.id as symbol_id,
-       s.latex as symbol_latex,
-       s.latex_corrected as symbol_latex_corrected,
        s.definition as symbol_definition,
        s.unit as symbol_unit,
        s.confidence as symbol_confidence,
@@ -398,7 +387,7 @@ RETURN count(f) as deleted_formulas
 MATCH (f:Formula {id: 'FORMULA_ID'})
 MATCH (f)-[:USES_SYMBOL]->(s)
 RETURN count(s) as symbol_count,
-       collect(s.latex) as symbols
+       collect(s.id) as symbols
 ```
 
 Ожидаемо: `symbol_count = 1`
