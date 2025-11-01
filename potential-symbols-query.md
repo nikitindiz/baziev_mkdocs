@@ -58,5 +58,7 @@ WHERE f.latex IS NOT NULL
   AND NOT f.latex CONTAINS '≪'
   AND NOT f.latex CONTAINS '\\cdot'
   AND NOT f.latex CONTAINS '⋅'
+  AND f.is_symbol IS NULL
+  AND f.not_sure_if_this_is_symbol IS NULL
 RETURN count(f) as total_count
 ```
