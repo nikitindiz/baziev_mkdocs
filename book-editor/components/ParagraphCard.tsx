@@ -1,5 +1,8 @@
+'use client';
+
 import { Paragraph } from '@/types/paragraph';
 import Link from 'next/link';
+import { useState } from 'react';
 
 interface ParagraphCardProps {
   paragraph: Paragraph;
@@ -12,8 +15,20 @@ export function ParagraphCard({
   index, 
   showNavigation = true 
 }: ParagraphCardProps) {
+  const [copied, setCopied] = useState(false);
+
+  const copyLink = () => {
+    const url = `${window.location.origin}/reader?paragraph=${encodeURIComponent(paragraph.id)}`;
+    navigator.clipboard.writeText(url);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
   return (
-    <article className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 border border-gray-200 dark:border-gray-700 transition-all hover:shadow-lg">
+    <article 
+      id={paragraph.id}
+      className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 border border-gray-200 dark:border-gray-700 transition-all hover:shadow-lg"
+    >
       {/* Заголовок */}
       <div className="flex justify-between items-start mb-4">
         <div className="flex items-center gap-3">
@@ -25,6 +40,13 @@ export function ParagraphCard({
           <code className="text-xs bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded text-gray-600 dark:text-gray-300">
             {paragraph.id}
           </code>
+          <button
+            onClick={copyLink}
+            className="text-xs bg-blue-100 dark:bg-blue-900 hover:bg-blue-200 dark:hover:bg-blue-800 text-blue-800 dark:text-blue-200 px-2 py-1 rounded transition-colors"
+            title="Копировать ссылку на параграф"
+          >
+            {copied ? '✓ Скопировано' : '🔗 Ссылка'}
+          </button>
         </div>
         {paragraph.order !== undefined && (
           <span className="text-xs bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded">

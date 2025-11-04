@@ -2,7 +2,8 @@
 
 import { useParagraphs } from '@/hooks/useParagraphs';
 import { ParagraphCard } from './ParagraphCard';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 
 interface ParagraphsListProps {
   limit?: number;
@@ -15,6 +16,10 @@ export function ParagraphsList({
   sectionId, 
   chapterId 
 }: ParagraphsListProps) {
+  const searchParams = useSearchParams();
+  const targetParagraphId = searchParams.get('paragraph');
+  const [isLoadingTarget, setIsLoadingTarget] = useState(false);
+
   const {
     data,
     fetchNextPage,
@@ -26,6 +31,21 @@ export function ParagraphsList({
   } = useParagraphs(limit, sectionId, chapterId);
 
   const observerTarget = useRef<HTMLDivElement>(null);
+  const paragraphs = data?.paragraphs || [];
+
+  // Автоматическая загрузка до целевого параграфа
+  useEffect(() => {
+    if (targetParagraphId && !isLoading && paragraphs.length > 0) {
+      const targetExists = paragraphs.some(p => p.id === targetParagraphId);
+      
+      if (!targetExists && hasNextPage && !isFetchingNextPage && !isLoadingTarget) {
+        setIsLoadingTarget(true);
+        fetchNextPage().then(() => {
+          setIsLoadingTarget(false);
+        });
+      }
+    }
+  }, [targetParagraphId, paragraphs, hasNextPage, isFetchingNextPage, isLoading, fetchNextPage, isLoadingTarget]);
 
   // Intersection Observer для автоматической подгрузки
   useEffect(() => {
@@ -74,11 +94,19 @@ export function ParagraphsList({
     );
   }
 
-  const paragraphs = data?.paragraphs || [];
   const total = data?.total;
 
   return (
     <div className="space-y-6">
+      {/* Индикатор загрузки до целевого параграфа */}
+      {isLoadingTarget && (
+        <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-4 text-center">
+          <p className="text-blue-800 dark:text-blue-200">
+            Загрузка параграфов до целевого...
+          </p>
+        </div>
+      )}
+
       {/* Статистика */}
       <div className="bg-linear-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-lg p-4 border border-blue-200 dark:border-blue-800">
         <div className="flex items-center justify-between">

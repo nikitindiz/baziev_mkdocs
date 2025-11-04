@@ -2,10 +2,36 @@
 
 import { ParagraphsList } from '@/components/ParagraphsList';
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { useSearchParams } from 'next/navigation';
 
 export default function ReaderPage() {
   const [limit, setLimit] = useState(20);
+  const searchParams = useSearchParams();
+  const targetParagraphId = searchParams.get('paragraph');
+
+  // Прокрутка к параграфу после загрузки
+  useEffect(() => {
+    if (targetParagraphId) {
+      // Небольшая задержка для загрузки элементов
+      const timer = setTimeout(() => {
+        const element = document.getElementById(targetParagraphId);
+        if (element) {
+          element.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'center' 
+          });
+          // Подсветка целевого параграфа
+          element.classList.add('highlight-paragraph');
+          setTimeout(() => {
+            element.classList.remove('highlight-paragraph');
+          }, 3000);
+        }
+      }, 500);
+      
+      return () => clearTimeout(timer);
+    }
+  }, [targetParagraphId]);
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
@@ -60,10 +86,30 @@ export default function ReaderPage() {
           <p className="text-gray-600 dark:text-gray-400">
             Прокручивайте страницу вниз для автоматической загрузки следующих параграфов
           </p>
+          {targetParagraphId && (
+            <div className="mt-3 p-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg">
+              <p className="text-sm text-blue-800 dark:text-blue-200">
+                🎯 Поиск параграфа: <code className="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-xs">{targetParagraphId}</code>
+              </p>
+            </div>
+          )}
         </div>
 
         <ParagraphsList limit={limit} />
       </main>
+
+      {/* Стили для подсветки */}
+      <style jsx global>{`
+        @keyframes highlight {
+          0% { background-color: rgba(59, 130, 246, 0.3); }
+          100% { background-color: transparent; }
+        }
+        
+        .highlight-paragraph {
+          animation: highlight 3s ease-out;
+          border-left: 4px solid rgb(59, 130, 246) !important;
+        }
+      `}</style>
 
       {/* Футер */}
       <footer className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 mt-20">
