@@ -44,3 +44,4 @@ temp/
 *~
 
 .github/instructions
+node_modules
