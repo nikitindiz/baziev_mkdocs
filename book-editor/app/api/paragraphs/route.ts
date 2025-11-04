@@ -63,17 +63,17 @@ export async function GET(request: NextRequest) {
 
       return {
         id: p.id,
-        text: p.text || '',
+        text: p.content || p.text || '', // content - основное поле, text - запасное
         order: p.order ? parseInt(p.order) : undefined,
         section_id: p.section_id || undefined,
         chapter_id: p.chapter_id || undefined,
         previous: prev ? {
           id: prev.properties.id,
-          text: prev.properties.text || ''
+          text: prev.properties.content || prev.properties.text || ''
         } : null,
         next: next ? {
           id: next.properties.id,
-          text: next.properties.text || ''
+          text: next.properties.content || next.properties.text || ''
         } : null
       };
     });

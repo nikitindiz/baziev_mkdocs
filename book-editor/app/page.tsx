@@ -40,10 +40,17 @@ export default function Home() {
 
           <div className="flex flex-col gap-4 sm:flex-row">
             <Link
-              href="/demo"
+              href="/reader"
               className="flex h-14 items-center justify-center gap-2 rounded-lg bg-blue-600 hover:bg-blue-700 px-8 text-white font-semibold transition-colors shadow-lg"
             >
-              📱 Интерактивное демо
+              � Читать книгу
+            </Link>
+
+            <Link
+              href="/demo"
+              className="flex h-14 items-center justify-center gap-2 rounded-lg bg-green-600 hover:bg-green-700 px-8 text-white font-semibold transition-colors shadow-lg"
+            >
+              📱 API Demo
             </Link>
             
             <a
