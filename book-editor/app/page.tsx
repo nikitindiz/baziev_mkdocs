@@ -1,63 +1,75 @@
-import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <div className="flex min-h-screen items-center justify-center bg-linear-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800 font-sans">
+      <main className="w-full max-w-4xl px-8 py-16">
+        <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-12">
+          <div className="mb-8">
+            <h1 className="text-5xl font-bold text-gray-900 dark:text-white mb-4">
+              Book Editor API
+            </h1>
+            <p className="text-xl text-gray-600 dark:text-gray-300">
+              REST API для работы с параграфами книги Базиева из Neo4j базы данных
+            </p>
+          </div>
+
+          <div className="grid gap-6 md:grid-cols-2 mb-10">
+            <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6 border border-blue-200 dark:border-blue-800">
+              <h2 className="text-xl font-semibold text-blue-900 dark:text-blue-100 mb-3">
+                ✨ Возможности
+              </h2>
+              <ul className="space-y-2 text-gray-700 dark:text-gray-300">
+                <li>• Получение параграфов с пагинацией</li>
+                <li>• Связи previous & next</li>
+                <li>• Cursor-based navigation</li>
+                <li>• Фильтрация по главам и секциям</li>
+              </ul>
+            </div>
+
+            <div className="bg-green-50 dark:bg-green-900/20 rounded-lg p-6 border border-green-200 dark:border-green-800">
+              <h2 className="text-xl font-semibold text-green-900 dark:text-green-100 mb-3">
+                🚀 Endpoints
+              </h2>
+              <ul className="space-y-2 text-gray-700 dark:text-gray-300 font-mono text-sm">
+                <li>GET /api/paragraphs</li>
+                <li>GET /api/paragraphs/:id</li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="flex flex-col gap-4 sm:flex-row">
+            <Link
+              href="/demo"
+              className="flex h-14 items-center justify-center gap-2 rounded-lg bg-blue-600 hover:bg-blue-700 px-8 text-white font-semibold transition-colors shadow-lg"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
+              📱 Интерактивное демо
+            </Link>
+            
             <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+              href="/API_DOCUMENTATION.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex h-14 items-center justify-center gap-2 rounded-lg border-2 border-gray-300 dark:border-gray-600 px-8 font-semibold transition-colors hover:bg-gray-100 dark:hover:bg-gray-700"
             >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+              📖 Документация API
+            </a>
+          </div>
+
+          <div className="mt-10 p-6 bg-gray-50 dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700">
+            <h3 className="font-semibold text-gray-900 dark:text-white mb-3">
+              Быстрый старт:
+            </h3>
+            <div className="bg-gray-900 dark:bg-black rounded p-4 overflow-x-auto">
+              <code className="text-green-400 text-sm">
+                curl http://localhost:3000/api/paragraphs?limit=10
+              </code>
+            </div>
+          </div>
+
+          <div className="mt-8 text-center text-sm text-gray-500 dark:text-gray-400">
+            <p>Подключено к Neo4j • 69 иллюстраций • Полная навигация</p>
+          </div>
         </div>
       </main>
     </div>
