@@ -8,13 +8,15 @@ interface ParagraphProps {
   isTarget?: boolean;
   renderFormulas?: boolean;
   showFormulasContext?: boolean;
+    showParagraphId?: boolean;
 }
 
 export function Paragraph({
     paragraph,
     isTarget = false,
     renderFormulas = true,
-    showFormulasContext = false
+    showFormulasContext = false,
+    showParagraphId = false
 }: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы
   let paragraphContent = paragraph.content;
@@ -90,11 +92,13 @@ export function Paragraph({
       )}
 
       {/* Paragraph ID (for debugging) */}
-      <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
-        <span className="text-xs text-gray-400 dark:text-gray-600 font-mono">
-          {paragraph.id}
-        </span>
-      </div>
+      {showParagraphId && (
+        <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
+          <span className="text-xs text-gray-400 dark:text-gray-600 font-mono">
+            {paragraph.id}
+          </span>
+        </div>
+      )}
     </div>
   );
 }
