@@ -38,8 +38,9 @@ export function replaceFormulaPlaceholders(
   // Create a map for fast lookup
   const formulaMap = new Map(formulas.map((f) => [f.id, f]));
 
-  // Replace all {{formula:id}} with rendered KaTeX HTML
-  return content.replace(/\{\{formula:([a-f0-9]+)\}\}/g, (match, formulaId) => {
+  // Replace all {{formula:id}} or {{formula:id:(number)}} with rendered KaTeX HTML
+  // Regex matches: {{formula:hexid}} or {{formula:hexid:(12.11)}}
+  return content.replace(/\{\{formula:([a-f0-9]+)(?::\([^)]+\))?\}\}/g, (match, formulaId) => {
     const formula = formulaMap.get(formulaId);
     if (formula) {
       const renderedLatex = renderLatex(formula.latex, false); // inline mode
@@ -49,11 +50,12 @@ export function replaceFormulaPlaceholders(
                                       formula.symbol_parse_confidence === 'high';
       
       if (isHighConfidenceSymbol && formula.symbol_definition) {
-        // Wrap in a span with green border and tooltip
+        // Wrap in a span with green border and tooltip for high-confidence symbols
         return `<span class="symbol-formula" data-tooltip="${escapeHtml(formula.symbol_definition)}">${renderedLatex}</span>`;
+      } else {
+        // Wrap in a span with gray border for regular formulas
+        return `<span class="regular-formula">${renderedLatex}</span>`;
       }
-      
-      return renderedLatex;
     }
     // If formula not found, leave as is or show warning
     return `<span class="text-orange-500" title="Formula not found">${match}</span>`;

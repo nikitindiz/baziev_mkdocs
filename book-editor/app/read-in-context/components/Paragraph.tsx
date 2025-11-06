@@ -10,7 +10,12 @@ interface ParagraphProps {
   showFormulasContext?: boolean;
 }
 
-export function Paragraph({ paragraph, isTarget = false, renderFormulas = true, showFormulasContext = false }: ParagraphProps) {
+export function Paragraph({
+    paragraph,
+    isTarget = false,
+    renderFormulas = true,
+    showFormulasContext = true
+}: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы
   let paragraphContent = paragraph.content;
   
