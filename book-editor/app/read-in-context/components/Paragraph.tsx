@@ -1,6 +1,7 @@
 'use client';
 
 import { ParagraphWithReferences } from '@/types/paragraph-context';
+import { replaceFormulaPlaceholders, renderLatex } from '@/lib/latex-renderer';
 
 interface ParagraphProps {
   paragraph: ParagraphWithReferences;
@@ -9,7 +10,12 @@ interface ParagraphProps {
 }
 
 export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }: ParagraphProps) {
-  const paragraphContent = paragraph.content;
+  // Заменяем {{formula:id}} на LaTeX формулы
+  let paragraphContent = paragraph.content;
+  
+  if (renderFormulas && paragraph.formulas.length > 0) {
+    paragraphContent = replaceFormulaPlaceholders(paragraphContent, paragraph.formulas);
+  }
 
   return (
     <div
@@ -22,7 +28,7 @@ export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }
       {/* Paragraph Content */}
       <div 
         className="prose dark:prose-invert max-w-none mb-4"
-        dangerouslySetInnerHTML={{ __html: paragraph.content }}
+        dangerouslySetInnerHTML={{ __html: paragraphContent }}
       />
 
       {/* Tables */}
@@ -61,7 +67,7 @@ export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }
       )}
 
       {/* Formulas */}
-      {paragraph.formulas.length > 0 && (
+      {paragraph.formulas.length > 0 && renderFormulas && (
         <div className="mt-6 space-y-4">
           {paragraph.formulas.map((formula) => (
             <div 
@@ -70,7 +76,7 @@ export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }
             >
               <div 
                 className="inline-block"
-                dangerouslySetInnerHTML={{ __html: formula.latex }}
+                dangerouslySetInnerHTML={{ __html: renderLatex(formula.latex, true) }}
               />
             </div>
           ))}
