@@ -5,9 +5,12 @@ import { ParagraphWithReferences } from '@/types/paragraph-context';
 interface ParagraphProps {
   paragraph: ParagraphWithReferences;
   isTarget?: boolean;
+  renderFormulas?: boolean;
 }
 
-export function Paragraph({ paragraph, isTarget = false }: ParagraphProps) {
+export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }: ParagraphProps) {
+  const paragraphContent = paragraph.content;
+
   return (
     <div
       id={`paragraph-${paragraph.id}`}
