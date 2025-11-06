@@ -7,9 +7,10 @@ interface ParagraphProps {
   paragraph: ParagraphWithReferences;
   isTarget?: boolean;
   renderFormulas?: boolean;
+  showFormulasContext?: boolean;
 }
 
-export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }: ParagraphProps) {
+export function Paragraph({ paragraph, isTarget = false, renderFormulas = true, showFormulasContext = false }: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы
   let paragraphContent = paragraph.content;
   
@@ -67,7 +68,7 @@ export function Paragraph({ paragraph, isTarget = false, renderFormulas = true }
       )}
 
       {/* Formulas */}
-      {paragraph.formulas.length > 0 && renderFormulas && (
+      {showFormulasContext && paragraph.formulas.length > 0 && renderFormulas && (
         <div className="mt-6 space-y-4">
           {paragraph.formulas.map((formula) => (
             <div 
