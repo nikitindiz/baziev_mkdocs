@@ -4,6 +4,83 @@ REST API для работы с параграфами из Neo4j базы да�
 
 ## Endpoints
 
+### GET /api/paragraphs/meta
+
+Получить метаданные всех параграфов (только ID и базовая информация, без контента).
+
+**Назначение**: Используется для виртуализации списков — получаем структуру всей книги сразу, а контент загружаем только для видимых элементов.
+
+#### Response
+
+```json
+{
+  "data": [
+    {
+      "id": "paragraph-id",
+      "order": 1,
+      "section_id": "section-id",
+      "chapter_id": "chapter-id"
+    }
+  ],
+  "total": 6921
+}
+```
+
+#### Примеры использования
+
+```bash
+# Получить все ID параграфов
+curl http://localhost:3000/api/paragraphs/meta
+```
+
+---
+
+### POST /api/paragraphs/batch
+
+Получить контент нескольких параграфов по списку ID (batch request).
+
+**Назначение**: Эффективная загрузка контента только нужных параграфов для виртуального списка.
+
+#### Request Body
+
+```json
+{
+  "ids": ["paragraph-id-1", "paragraph-id-2", "paragraph-id-3"]
+}
+```
+
+**Ограничения**: Максимум 100 ID за один запрос.
+
+#### Response
+
+```json
+{
+  "data": [
+    {
+      "id": "paragraph-id-1",
+      "text": "Текст параграфа...",
+      "order": 1,
+      "section_id": "section-id",
+      "chapter_id": "chapter-id",
+      "previous": { "id": "...", "text": "..." },
+      "next": { "id": "...", "text": "..." }
+    }
+  ],
+  "total": 3
+}
+```
+
+#### Примеры использования
+
+```bash
+# Загрузить контент конкретных параграфов
+curl -X POST http://localhost:3000/api/paragraphs/batch \
+  -H "Content-Type: application/json" \
+  -d '{"ids": ["paragraph-1", "paragraph-2", "paragraph-3"]}'
+```
+
+---
+
 ### GET /api/paragraphs
 
 Получить список параграфов с пагинацией.

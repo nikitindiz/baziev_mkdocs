@@ -24,6 +24,8 @@ export default function Home() {
                 <li>• Связи previous & next</li>
                 <li>• Cursor-based navigation</li>
                 <li>• Фильтрация по главам и секциям</li>
+                <li>• Виртуализация списков</li>
+                <li>• Batch API для параграфов</li>
               </ul>
             </div>
 
@@ -34,18 +36,13 @@ export default function Home() {
               <ul className="space-y-2 text-gray-700 dark:text-gray-300 font-mono text-sm">
                 <li>GET /api/paragraphs</li>
                 <li>GET /api/paragraphs/:id</li>
+                <li>GET /api/paragraphs/meta</li>
+                <li>POST /api/paragraphs/batch</li>
               </ul>
             </div>
           </div>
 
           <div className="flex flex-col gap-4 sm:flex-row">
-            <Link
-              href="/reader"
-              className="flex h-14 items-center justify-center gap-2 rounded-lg bg-blue-600 hover:bg-blue-700 px-8 text-white font-semibold transition-colors shadow-lg"
-            >
-              � Читать книгу
-            </Link>
-
             <Link
               href="/demo"
               className="flex h-14 items-center justify-center gap-2 rounded-lg bg-green-600 hover:bg-green-700 px-8 text-white font-semibold transition-colors shadow-lg"

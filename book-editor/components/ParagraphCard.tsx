@@ -18,7 +18,7 @@ export function ParagraphCard({
   const [copied, setCopied] = useState(false);
 
   const copyLink = () => {
-    const url = `${window.location.origin}/reader?paragraph=${encodeURIComponent(paragraph.id)}`;
+    const url = `${window.location.origin}/reader-virtual?paragraph=${encodeURIComponent(paragraph.id)}`;
     navigator.clipboard.writeText(url);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
