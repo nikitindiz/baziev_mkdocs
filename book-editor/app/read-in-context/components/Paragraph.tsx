@@ -14,7 +14,7 @@ export function Paragraph({
     paragraph,
     isTarget = false,
     renderFormulas = true,
-    showFormulasContext = true
+    showFormulasContext = false
 }: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы
   let paragraphContent = paragraph.content;
