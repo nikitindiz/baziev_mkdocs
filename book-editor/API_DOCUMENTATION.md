@@ -180,6 +180,93 @@ curl http://localhost:3000/api/paragraphs/paragraph-id
 
 ---
 
+### GET /api/paragraphs/:id/context
+
+Получить полный контекст абзаца: главу, секцию, все абзацы секции со связями.
+
+**Назначение**: Загрузка всего контекста для отображения абзаца в контексте его секции, включая связанные таблицы, иллюстрации и формулы.
+
+#### Path Parameters
+
+| Параметр | Тип | Описание |
+|----------|-----|----------|
+| `id` | string | ID параграфа |
+
+#### Response
+
+```json
+{
+  "chapter": {
+    "id": "chapter-id",
+    "title": "Название главы",
+    "order": 1
+  },
+  "section": {
+    "id": "section-id",
+    "title": "Название секции",
+    "number": "§ 14",
+    "order": 14
+  },
+  "paragraphs": [
+    {
+      "id": "paragraph-id",
+      "content": "Текст абзаца...",
+      "order": 1,
+      "tables": [
+        {
+          "id": "table-id",
+          "content": "<table>...</table>",
+          "html_attributes": "class=\"data-table\"",
+          "type": "data"
+        }
+      ],
+      "illustrations": [
+        {
+          "id": "illustration-id",
+          "caption": "Рис. 1. Описание",
+          "svg_content": "<svg>...</svg>",
+          "wrapper_html": "<figure>...</figure>",
+          "type": "diagram"
+        }
+      ],
+      "formulas": [
+        {
+          "id": "formula-id",
+          "latex": "E = mc^2",
+          "wrapper_html": "<span>...</span>",
+          "type": "inline"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "previousChapter": {
+      "id": "prev-chapter-id",
+      "title": "Предыдущая глава",
+      "order": 0
+    },
+    "nextChapter": {
+      "id": "next-chapter-id",
+      "title": "Следующая глава",
+      "order": 2
+    }
+  }
+}
+```
+
+#### Примеры использования
+
+```bash
+# Получить полный контекст абзаца
+curl http://localhost:3000/api/paragraphs/paragraph-id/context
+
+# Краткая информация о контексте
+curl http://localhost:3000/api/paragraphs/paragraph-id/context | \
+  jq '{chapter: .chapter.title, section: .section.title, paragraphs: (.paragraphs | length)}'
+```
+
+---
+
 ## Типы данных
 
 ### Paragraph
@@ -212,6 +299,86 @@ interface ParagraphsResponse {
     hasMore: boolean;        // Есть ли еще параграфы
     total?: number;          // Общее количество (только в первом запросе)
   };
+}
+```
+
+### ParagraphContextResponse
+
+```typescript
+interface ParagraphContextResponse {
+  chapter: {
+    id: string;
+    title: string;
+    order: number;
+  };
+  section: {
+    id: string;
+    title: string;
+    number?: string;
+    order: number;
+  };
+  paragraphs: ParagraphWithReferences[];
+  metadata: {
+    previousChapter: ChapterMetadata | null;
+    nextChapter: ChapterMetadata | null;
+  };
+}
+```
+
+### ParagraphWithReferences
+
+```typescript
+interface ParagraphWithReferences {
+  id: string;
+  content: string;
+  order: number;
+  tables: TableReference[];
+  illustrations: IllustrationReference[];
+  formulas: FormulaReference[];
+}
+```
+
+### TableReference
+
+```typescript
+interface TableReference {
+  id: string;
+  content: string;
+  html_attributes?: string;
+  type?: string;
+}
+```
+
+### IllustrationReference
+
+```typescript
+interface IllustrationReference {
+  id: string;
+  caption?: string;
+  svg_content?: string;
+  wrapper_html?: string;
+  type?: string;
+}
+```
+
+### FormulaReference
+
+```typescript
+interface FormulaReference {
+  id: string;
+  latex: string;
+  wrapper_html?: string;
+  type?: string;  // 'inline' | 'display'
+}
+```
+
+### ChapterMetadata
+
+```typescript
+interface ChapterMetadata {
+  id: string;
+  title: string;
+  order: number;
 }
 ```
 
