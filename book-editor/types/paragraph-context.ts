@@ -18,6 +18,9 @@ export interface FormulaReference {
   latex: string;
   wrapper_html?: string;
   type?: string;
+  is_symbol?: boolean;
+  symbol_parse_confidence?: string;
+  symbol_definition?: string;
 }
 
 export interface ParagraphWithReferences {

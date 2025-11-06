@@ -24,3 +24,82 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Symbol formula styles */
+.symbol-formula {
+  position: relative;
+  display: inline-block;
+  padding: 2px 4px;
+  border: 2px solid #10b981; /* green-500 */
+  border-radius: 4px;
+  cursor: help;
+  transition: all 0.2s ease;
+}
+
+.symbol-formula:hover {
+  background-color: #d1fae5; /* green-100 */
+  border-color: #059669; /* green-600 */
+}
+
+@media (prefers-color-scheme: dark) {
+  .symbol-formula:hover {
+    background-color: #064e3b; /* green-900 */
+    border-color: #10b981; /* green-500 */
+  }
+}
+
+/* Tooltip for symbol definitions */
+.symbol-formula::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-8px);
+  padding: 8px 12px;
+  background-color: #1f2937; /* gray-800 */
+  color: #f9fafb; /* gray-50 */
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.4;
+  white-space: normal;
+  max-width: 300px;
+  width: max-content;
+  text-align: left;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+  z-index: 1000;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.symbol-formula::before {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1f2937; /* gray-800 */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+  z-index: 1001;
+}
+
+.symbol-formula:hover::after,
+.symbol-formula:hover::before {
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (prefers-color-scheme: dark) {
+  .symbol-formula::after {
+    background-color: #374151; /* gray-700 */
+    color: #f3f4f6; /* gray-100 */
+  }
+  
+  .symbol-formula::before {
+    border-top-color: #374151; /* gray-700 */
+  }
+}

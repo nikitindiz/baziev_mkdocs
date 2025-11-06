@@ -60,7 +60,10 @@ export async function GET(
           id: f.id,
           latex: f.latex,
           wrapper_html: f.wrapper_html,
-          type: f.type
+          type: f.type,
+          is_symbol: f.is_symbol,
+          symbol_parse_confidence: f.symbol_parse_confidence,
+          symbol_definition: f.symbol_definition
         }) as formulas,
         prevChapter.id as prevChapterId,
         prevChapter.title as prevChapterTitle,
@@ -171,6 +174,9 @@ export async function GET(
             latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
             wrapper_html: f.wrapper_html || undefined,
             type: f.type || undefined,
+            is_symbol: f.is_symbol || undefined,
+            symbol_parse_confidence: f.symbol_parse_confidence || undefined,
+            symbol_definition: f.symbol_definition || undefined,
           }));
 
         paragraphsMap.set(pId, {
