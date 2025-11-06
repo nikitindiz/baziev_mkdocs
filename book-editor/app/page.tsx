@@ -36,6 +36,7 @@ export default function Home() {
               <ul className="space-y-2 text-gray-700 dark:text-gray-300 font-mono text-sm">
                 <li>GET /api/paragraphs</li>
                 <li>GET /api/paragraphs/:id</li>
+                <li>GET /api/paragraphs/:id/context</li>
                 <li>GET /api/paragraphs/meta</li>
                 <li>POST /api/paragraphs/batch</li>
               </ul>
@@ -49,6 +50,13 @@ export default function Home() {
             >
               📱 API Demo
             </Link>
+
+            <Link
+              href="/read-in-context/chapter_глава-i-система-новейших-фундаментальных-открытий_1-гиперчастотная-механика-или-механика-микромира_p0"
+              className="flex h-14 items-center justify-center gap-2 rounded-lg bg-blue-600 hover:bg-blue-700 px-8 text-white font-semibold transition-colors shadow-lg"
+            >
+              📖 Читать книгу
+            </Link>
             
             <a
               href="/API_DOCUMENTATION.md"
@@ -56,7 +64,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="flex h-14 items-center justify-center gap-2 rounded-lg border-2 border-gray-300 dark:border-gray-600 px-8 font-semibold transition-colors hover:bg-gray-100 dark:hover:bg-gray-700"
             >
-              📖 Документация API
+              � Документация API
             </a>
           </div>
 

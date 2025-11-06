@@ -27,6 +27,10 @@ export async function GET(
       OPTIONAL MATCH (c)-[:PREVIOUS]->(prevChapter:Chapter)
       OPTIONAL MATCH (c)-[:NEXT]->(nextChapter:Chapter)
       
+      // Находим предыдущую и следующую секции
+      OPTIONAL MATCH (s)-[:PREVIOUS]->(prevSection:Section)
+      OPTIONAL MATCH (s)-[:NEXT]->(nextSection:Section)
+      
       // Возвращаем все данные
       RETURN 
         c.id as chapterId,
@@ -63,7 +67,15 @@ export async function GET(
         prevChapter.order as prevChapterOrder,
         nextChapter.id as nextChapterId,
         nextChapter.title as nextChapterTitle,
-        nextChapter.order as nextChapterOrder
+        nextChapter.order as nextChapterOrder,
+        prevSection.id as prevSectionId,
+        prevSection.title as prevSectionTitle,
+        prevSection.number as prevSectionNumber,
+        prevSection.order as prevSectionOrder,
+        nextSection.id as nextSectionId,
+        nextSection.title as nextSectionTitle,
+        nextSection.number as nextSectionNumber,
+        nextSection.order as nextSectionOrder
       ORDER BY sectionParagraph.order
     `;
 
@@ -91,6 +103,40 @@ export async function GET(
       number: firstRecord.get('sectionNumber') || undefined,
       order: firstRecord.get('sectionOrder')?.toNumber() || 0,
     };
+
+    // Получаем ID предыдущей и следующей секций
+    const prevSectionId = firstRecord.get('prevSectionId');
+    const nextSectionId = firstRecord.get('nextSectionId');
+
+    // Делаем отдельные запросы для получения первых абзацев prev/next секций
+    let prevSectionFirstParagraphId = null;
+    let nextSectionFirstParagraphId = null;
+
+    if (prevSectionId) {
+      const prevQuery = `
+        MATCH (s:Section {id: $sectionId})-[:HAS_PARAGRAPH]->(p:Paragraph)
+        RETURN p.id as paragraphId, p.order as paragraphOrder
+        ORDER BY p.order ASC
+        LIMIT 1
+      `;
+      const prevResult = await session.run(prevQuery, { sectionId: prevSectionId });
+      if (prevResult.records.length > 0) {
+        prevSectionFirstParagraphId = prevResult.records[0].get('paragraphId');
+      }
+    }
+
+    if (nextSectionId) {
+      const nextQuery = `
+        MATCH (s:Section {id: $sectionId})-[:HAS_PARAGRAPH]->(p:Paragraph)
+        RETURN p.id as paragraphId, p.order as paragraphOrder
+        ORDER BY p.order ASC
+        LIMIT 1
+      `;
+      const nextResult = await session.run(nextQuery, { sectionId: nextSectionId });
+      if (nextResult.records.length > 0) {
+        nextSectionFirstParagraphId = nextResult.records[0].get('paragraphId');
+      }
+    }
 
     // Собираем все абзацы с их связями
     const paragraphsMap = new Map();
@@ -122,7 +168,7 @@ export async function GET(
           .filter((f: any) => f.id !== null)
           .map((f: any) => ({
             id: f.id,
-            latex: f.latex || '',
+            latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
             wrapper_html: f.wrapper_html || undefined,
             type: f.type || undefined,
           }));
@@ -160,6 +206,20 @@ export async function GET(
           id: nextChapterId,
           title: firstRecord.get('nextChapterTitle'),
           order: firstRecord.get('nextChapterOrder')?.toNumber() || 0,
+        } : null,
+        previousSection: prevSectionId ? {
+          id: prevSectionId,
+          title: firstRecord.get('prevSectionTitle'),
+          number: firstRecord.get('prevSectionNumber') || undefined,
+          order: firstRecord.get('prevSectionOrder')?.toNumber() || 0,
+          firstParagraphId: prevSectionFirstParagraphId,
+        } : null,
+        nextSection: nextSectionId ? {
+          id: nextSectionId,
+          title: firstRecord.get('nextSectionTitle'),
+          number: firstRecord.get('nextSectionNumber') || undefined,
+          order: firstRecord.get('nextSectionOrder')?.toNumber() || 0,
+          firstParagraphId: nextSectionFirstParagraphId,
         } : null,
       },
     };

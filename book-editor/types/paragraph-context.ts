@@ -35,6 +35,14 @@ export interface ChapterMetadata {
   order: number;
 }
 
+export interface SectionMetadata {
+  id: string;
+  title: string;
+  number?: string;
+  order: number;
+  firstParagraphId: string;
+}
+
 export interface ParagraphContextResponse {
   chapter: {
     id: string;
@@ -51,5 +59,7 @@ export interface ParagraphContextResponse {
   metadata: {
     previousChapter: ChapterMetadata | null;
     nextChapter: ChapterMetadata | null;
+    previousSection: SectionMetadata | null;
+    nextSection: SectionMetadata | null;
   };
 }
