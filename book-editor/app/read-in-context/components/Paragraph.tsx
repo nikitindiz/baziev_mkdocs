@@ -8,7 +8,7 @@ interface ParagraphProps {
   isTarget?: boolean;
   renderFormulas?: boolean;
   showFormulasContext?: boolean;
-    showParagraphId?: boolean;
+  showParagraphId?: boolean;
 }
 
 export function Paragraph({

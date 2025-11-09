@@ -8,7 +8,7 @@ import { Navigation } from '../components/Navigation';
 
 export default function ReadInContextPage() {
   const params = useParams();
-  const paragraphId = params.id as string;
+  const paragraphId = decodeURI(params.id as string);
   
   const [context, setContext] = useState<ParagraphContextResponse | null>(null);
   const [loading, setLoading] = useState(true);
@@ -19,6 +19,8 @@ export default function ReadInContextPage() {
       try {
         setLoading(true);
         setError(null);
+
+        console.log('Fetching context for paragraph ID:', paragraphId);
         
         const response = await fetch(`/api/paragraphs/${paragraphId}/context`);
         
@@ -32,10 +34,12 @@ export default function ReadInContextPage() {
         // Scroll to the target paragraph after data is loaded
         setTimeout(() => {
           const targetElement = document.getElementById(`paragraph-${paragraphId}`);
+
+          console.log('Scrolling to paragraph element:', targetElement, `paragraph-${paragraphId}`);
           if (targetElement) {
             targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
-        }, 100);
+        }, 2000);
         
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Unknown error occurred');
