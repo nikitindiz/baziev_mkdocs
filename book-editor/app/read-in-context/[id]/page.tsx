@@ -39,7 +39,7 @@ export default function ReadInContextPage() {
           if (targetElement) {
             targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
-        }, 2000);
+        }, 100);
         
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Unknown error occurred');

@@ -2,6 +2,7 @@
 
 import { ParagraphWithReferences } from '@/types/paragraph-context';
 import { replaceFormulaPlaceholders, renderLatex } from '@/lib/latex-renderer';
+import Link from 'next/link';
 
 interface ParagraphProps {
   paragraph: ParagraphWithReferences;
@@ -90,6 +91,10 @@ export function Paragraph({
           ))}
         </div>
       )}
+
+      <Link href={`/read-in-context/${paragraph.id}`} className="text-sm text-blue-600 dark:text-blue-400 hover:underline">
+        Select
+      </Link>
 
       {/* Paragraph ID (for debugging) */}
       {showParagraphId && (
