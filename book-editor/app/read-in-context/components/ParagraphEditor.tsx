@@ -156,12 +156,6 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
             <div className="px-6 py-4 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50">
                 <div className="grid grid-cols-2 gap-4 text-sm">
                     <div>
-                        <label className="block text-gray-600 dark:text-gray-400 mb-1">ID</label>
-                        <div className="font-mono text-xs text-gray-500 dark:text-gray-500 break-all">
-                            {paragraph.id}
-                        </div>
-                    </div>
-                    <div>
                         <label htmlFor="order-input" className="block text-gray-600 dark:text-gray-400 mb-1">
                             Порядковый номер
                         </label>
@@ -173,18 +167,18 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
                             className="w-full px-3 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100"
                         />
                     </div>
-                </div>
-                <div className="mt-4">
-                    <label className="flex items-center gap-2 cursor-pointer">
-                        <input
-                            id="verified-checkbox"
-                            type="checkbox"
-                            checked={verified}
-                            onChange={(e) => setVerified(e.target.checked)}
-                            className="w-4 h-4 text-green-600 border-gray-300 rounded focus:ring-green-500"
-                        />
-                        <span className="text-sm text-gray-700 dark:text-gray-300">Проверен</span>
-                    </label>
+                    <div>
+                        <label className="flex items-center gap-2 cursor-pointer">
+                            <input
+                                id="verified-checkbox"
+                                type="checkbox"
+                                checked={verified}
+                                onChange={(e) => setVerified(e.target.checked)}
+                                className="w-4 h-4 text-green-600 border-gray-300 rounded focus:ring-green-500"
+                            />
+                            <span className="text-sm text-gray-700 dark:text-gray-300">Проверен</span>
+                        </label>
+                    </div>
                 </div>
             </div>
 

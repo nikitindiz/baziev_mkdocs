@@ -32,7 +32,7 @@ export function Paragraph({
       className={`
         mb-8 p-6 rounded-lg transition-all
         ${isTarget ? 'bg-yellow-100 dark:bg-yellow-900/30 ring-2 ring-yellow-500' : 'bg-gray-50 dark:bg-gray-800/50'}
-        ${paragraph.verified ? 'ring-2 ring-green-500 dark:ring-green-400' : ''}
+        ${paragraph.verified ? 'ring-2 ring-green-500 dark:ring-green-400 dark:bg-green-900/30 text-white/20' : ''}
       `}
     >
       {/* Paragraph Content */}

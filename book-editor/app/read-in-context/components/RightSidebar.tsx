@@ -10,7 +10,7 @@ interface RightSidebarProps {
 
 const MIN_WIDTH = 300;
 const MAX_WIDTH = 800;
-const DEFAULT_WIDTH = 400;
+const DEFAULT_WIDTH = 800;
 
 export function RightSidebar({ children }: RightSidebarProps) {
   const router = useRouter();
