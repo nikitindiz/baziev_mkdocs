@@ -43,6 +43,7 @@ export async function GET(
         sectionParagraph.id as paragraphId,
         sectionParagraph.content as paragraphContent,
         sectionParagraph.order as paragraphOrder,
+        sectionParagraph.verified as paragraphVerified,
         collect(DISTINCT {
           id: t.id,
           content: t.content,
@@ -183,6 +184,7 @@ export async function GET(
           id: pId,
           content: record.get('paragraphContent') || '',
           order: record.get('paragraphOrder')?.toNumber() || 0,
+          verified: record.get('paragraphVerified') || false,
           tables,
           illustrations,
           formulas,

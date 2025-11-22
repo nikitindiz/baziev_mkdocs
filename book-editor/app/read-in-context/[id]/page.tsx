@@ -6,11 +6,12 @@ import { ParagraphContextResponse } from '@/types/paragraph-context';
 import { Paragraph } from '../components/Paragraph';
 import { Navigation } from '../components/Navigation';
 import { RightSidebar } from '../components/RightSidebar';
+import { ParagraphEditor } from '../components/ParagraphEditor';
 
 export default function ReadInContextPage() {
   const params = useParams();
   const paragraphId = decodeURI(params.id as string);
-  
+
   const [context, setContext] = useState<ParagraphContextResponse | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -22,16 +23,16 @@ export default function ReadInContextPage() {
         setError(null);
 
         console.log('Fetching context for paragraph ID:', paragraphId);
-        
+
         const response = await fetch(`/api/paragraphs/${paragraphId}/context`);
-        
+
         if (!response.ok) {
           throw new Error(`Failed to fetch context: ${response.statusText}`);
         }
-        
+
         const data = await response.json();
         setContext(data);
-        
+
         // Scroll to the target paragraph after data is loaded
         setTimeout(() => {
           const targetElement = document.getElementById(`paragraph-${paragraphId}`);
@@ -41,7 +42,7 @@ export default function ReadInContextPage() {
             targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
         }, 100);
-        
+
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Unknown error occurred');
       } finally {
@@ -132,11 +133,15 @@ export default function ReadInContextPage() {
 
       {/* Right Sidebar */}
       <RightSidebar>
-        <div className="space-y-4">
-          <p className="text-gray-600 dark:text-gray-400">
-            Здесь будут располагаться формы для редактирования
-          </p>
-        </div>
+        {paragraphId ? (
+          <ParagraphEditor paragraphId={paragraphId} />
+        ) : (
+          <div className="flex items-center justify-center h-full">
+            <div className="text-center text-gray-500 dark:text-gray-400">
+              <p>Параграф не выбран</p>
+            </div>
+          </div>
+        )}
       </RightSidebar>
     </>
   );

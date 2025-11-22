@@ -13,15 +13,15 @@ interface ParagraphProps {
 }
 
 export function Paragraph({
-    paragraph,
-    isTarget = false,
-    renderFormulas = true,
-    showFormulasContext = false,
-    showParagraphId = false
+  paragraph,
+  isTarget = false,
+  renderFormulas = true,
+  showFormulasContext = false,
+  showParagraphId = false
 }: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы
   let paragraphContent = paragraph.content;
-  
+
   if (renderFormulas && paragraph.formulas.length > 0) {
     paragraphContent = replaceFormulaPlaceholders(paragraphContent, paragraph.formulas);
   }
@@ -32,10 +32,11 @@ export function Paragraph({
       className={`
         mb-8 p-6 rounded-lg transition-all
         ${isTarget ? 'bg-yellow-100 dark:bg-yellow-900/30 ring-2 ring-yellow-500' : 'bg-gray-50 dark:bg-gray-800/50'}
+        ${paragraph.verified ? 'ring-2 ring-green-500 dark:ring-green-400' : ''}
       `}
     >
       {/* Paragraph Content */}
-      <div 
+      <div
         className="prose dark:prose-invert max-w-none mb-4"
         dangerouslySetInnerHTML={{ __html: paragraphContent }}
       />
@@ -45,7 +46,7 @@ export function Paragraph({
         <div className="mt-6 space-y-4">
           {paragraph.tables.map((table) => (
             <div key={table.id} className="border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
-              <div 
+              <div
                 className="overflow-x-auto"
                 dangerouslySetInnerHTML={{ __html: table.content }}
               />
@@ -60,7 +61,7 @@ export function Paragraph({
           {paragraph.illustrations.map((illustration) => (
             <figure key={illustration.id} className="text-center">
               {illustration.svg_content && (
-                <div 
+                <div
                   className="inline-block"
                   dangerouslySetInnerHTML={{ __html: illustration.svg_content }}
                 />
@@ -79,11 +80,11 @@ export function Paragraph({
       {showFormulasContext && paragraph.formulas.length > 0 && renderFormulas && (
         <div className="mt-6 space-y-4">
           {paragraph.formulas.map((formula) => (
-            <div 
-              key={formula.id} 
+            <div
+              key={formula.id}
               className="text-center p-4 bg-white dark:bg-gray-900 rounded border border-gray-200 dark:border-gray-700"
             >
-              <div 
+              <div
                 className="inline-block"
                 dangerouslySetInnerHTML={{ __html: renderLatex(formula.latex, true) }}
               />

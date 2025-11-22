@@ -1,7 +1,8 @@
 'use client';
 
 import { useEffect, useState, useRef } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useRouter, useSearchParams, useParams } from 'next/navigation';
+import { ParagraphEditor } from './ParagraphEditor';
 
 interface RightSidebarProps {
   children?: React.ReactNode;
@@ -14,11 +15,15 @@ const DEFAULT_WIDTH = 400;
 export function RightSidebar({ children }: RightSidebarProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const params = useParams();
   const [width, setWidth] = useState(DEFAULT_WIDTH);
   const [isResizing, setIsResizing] = useState(false);
   const sidebarRef = useRef<HTMLDivElement>(null);
-  
+
+  const paragraphId = params.id ? decodeURI(params.id as string) : null;
   const isOpen = searchParams.get('show-editor') === 'true';
+
+  console.log('Sidebar paragraphId:', paragraphId);
 
   const toggleSidebar = () => {
     const params = new URLSearchParams(searchParams.toString());
@@ -93,9 +98,8 @@ export function RightSidebar({ children }: RightSidebarProps) {
       {/* Sidebar */}
       <div
         ref={sidebarRef}
-        className={`fixed right-0 top-0 h-full bg-white dark:bg-gray-800 shadow-2xl transition-transform duration-300 z-50 ${
-          isOpen ? 'translate-x-0' : 'translate-x-full'
-        }`}
+        className={`fixed right-0 top-0 h-full bg-white dark:bg-gray-800 shadow-2xl transition-transform duration-300 z-50 ${isOpen ? 'translate-x-0' : 'translate-x-full'
+          }`}
         style={{ width: `${width}px` }}
       >
         {/* Resize Handle */}
@@ -139,12 +143,8 @@ export function RightSidebar({ children }: RightSidebarProps) {
           </div>
 
           {/* Body */}
-          <div className="flex-1 overflow-y-auto p-4">
-            {children || (
-              <div className="text-center text-gray-500 dark:text-gray-400 mt-8">
-                <p>Содержимое сайдбара</p>
-              </div>
-            )}
+          <div className="flex-1 overflow-y-auto">
+            {children}
           </div>
         </div>
       </div>
