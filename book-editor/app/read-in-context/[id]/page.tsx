@@ -5,6 +5,7 @@ import { useParams } from 'next/navigation';
 import { ParagraphContextResponse } from '@/types/paragraph-context';
 import { Paragraph } from '../components/Paragraph';
 import { Navigation } from '../components/Navigation';
+import { RightSidebar } from '../components/RightSidebar';
 
 export default function ReadInContextPage() {
   const params = useParams();
@@ -55,7 +56,7 @@ export default function ReadInContextPage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen overflow-hidden flex items-center justify-center">
         <div className="text-center">
           <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mb-4"></div>
           <p className="text-gray-600 dark:text-gray-400">Загрузка...</p>
@@ -66,7 +67,7 @@ export default function ReadInContextPage() {
 
   if (error) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen overflow-hidden flex items-center justify-center">
         <div className="text-center max-w-md p-8 bg-red-50 dark:bg-red-900/20 rounded-lg">
           <h2 className="text-xl font-bold text-red-600 dark:text-red-400 mb-2">Ошибка</h2>
           <p className="text-gray-700 dark:text-gray-300">{error}</p>
@@ -77,7 +78,7 @@ export default function ReadInContextPage() {
 
   if (!context) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen overflow-hidden flex items-center justify-center">
         <div className="text-center">
           <p className="text-gray-600 dark:text-gray-400">Контекст не найден</p>
         </div>
@@ -86,46 +87,57 @@ export default function ReadInContextPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <div className="max-w-4xl mx-auto py-8 px-4">
-        {/* Top Navigation */}
-        <div className="mb-8">
-          <Navigation
-            previousSection={context.metadata.previousSection}
-            nextSection={context.metadata.nextSection}
-          />
-        </div>
-
-        {/* Chapter Title */}
-        <header className="mb-8 text-center">
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
-            {context.chapter.title}
-          </h1>
-          <h2 className="text-xl font-semibold text-gray-700 dark:text-gray-300">
-            {context.section.number && `§${context.section.number} `}
-            {context.section.title}
-          </h2>
-        </header>
-
-        {/* Paragraphs */}
-        <main className="space-y-6">
-          {context.paragraphs.map((paragraph) => (
-            <Paragraph
-              key={paragraph.id}
-              paragraph={paragraph}
-              isTarget={paragraph.id === paragraphId}
+    <>
+      <div className="min-h-screen overflow-hidden bg-gray-50 dark:bg-gray-900">
+        <div className="max-w-4xl mx-auto py-8 px-4">
+          {/* Top Navigation */}
+          <div className="mb-8">
+            <Navigation
+              previousSection={context.metadata.previousSection}
+              nextSection={context.metadata.nextSection}
             />
-          ))}
-        </main>
+          </div>
 
-        {/* Bottom Navigation */}
-        <div className="mt-8">
-          <Navigation
-            previousSection={context.metadata.previousSection}
-            nextSection={context.metadata.nextSection}
-          />
+          {/* Chapter Title */}
+          <header className="mb-8 text-center">
+            <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
+              {context.chapter.title}
+            </h1>
+            <h2 className="text-xl font-semibold text-gray-700 dark:text-gray-300">
+              {context.section.number && `§${context.section.number} `}
+              {context.section.title}
+            </h2>
+          </header>
+
+          {/* Paragraphs */}
+          <main className="space-y-6">
+            {context.paragraphs.map((paragraph) => (
+              <Paragraph
+                key={paragraph.id}
+                paragraph={paragraph}
+                isTarget={paragraph.id === paragraphId}
+              />
+            ))}
+          </main>
+
+          {/* Bottom Navigation */}
+          <div className="mt-8">
+            <Navigation
+              previousSection={context.metadata.previousSection}
+              nextSection={context.metadata.nextSection}
+            />
+          </div>
         </div>
       </div>
-    </div>
+
+      {/* Right Sidebar */}
+      <RightSidebar>
+        <div className="space-y-4">
+          <p className="text-gray-600 dark:text-gray-400">
+            Здесь будут располагаться формы для редактирования
+          </p>
+        </div>
+      </RightSidebar>
+    </>
   );
 }
