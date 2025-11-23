@@ -21,7 +21,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         // Remove selected-formula query parameter
         const url = new URL(window.location.href);
         url.searchParams.delete('selected-formula');
-        router.push(url.pathname + url.search);
+        router.push(url.pathname + url.search, { scroll: false });
     };
 
     if (loading) {

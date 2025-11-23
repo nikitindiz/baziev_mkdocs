@@ -81,7 +81,7 @@ export default function ReadInContextPage() {
         // Update URL with selected-formula query parameter
         const newUrl = new URL(window.location.href);
         newUrl.searchParams.set('selected-formula', formulaId);
-        router.push(newUrl.pathname + newUrl.search);
+        router.push(newUrl.pathname + newUrl.search, { scroll: false });
       }
     };
 
