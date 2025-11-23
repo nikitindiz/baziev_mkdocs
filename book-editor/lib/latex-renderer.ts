@@ -7,16 +7,16 @@ import katex from 'katex';
  * @returns HTML string with rendered formula
  */
 export function renderLatex(latex: string, displayMode: boolean = false): string {
-  try {
-    return katex.renderToString(latex, {
-      displayMode,
-      throwOnError: false,
-      strict: false,
-    });
-  } catch (error) {
-    console.error('Error rendering LaTeX:', error);
-    return `<span class="text-red-500">Error: ${latex}</span>`;
-  }
+    try {
+        return katex.renderToString(latex, {
+            displayMode,
+            throwOnError: false,
+            strict: false,
+        });
+    } catch (error) {
+        console.error('Error rendering LaTeX:', error);
+        return `<span class="text-red-500">Error: ${latex}</span>`;
+    }
 }
 
 /**
@@ -26,52 +26,89 @@ export function renderLatex(latex: string, displayMode: boolean = false): string
  * @returns HTML content with rendered formulas
  */
 export function replaceFormulaPlaceholders(
-  content: string,
-  formulas: Array<{ 
-    id: string; 
-    latex: string;
-    is_symbol?: boolean;
-    symbol_parse_confidence?: string;
-    symbol_definition?: string;
-  }>
+    content: string,
+    formulas: Array<{
+        id: string;
+        latex: string;
+        is_symbol?: boolean;
+        symbol_parse_confidence?: string;
+        symbol_definition?: string;
+    }>,
 ): string {
-  // Create a map for fast lookup
-  const formulaMap = new Map(formulas.map((f) => [f.id, f]));
+    // Create a map for fast lookup
+    const formulaMap = new Map(formulas.map((f) => [f.id, f]));
 
-  // Replace all {{formula:id}} or {{formula:id:(number)}} with rendered KaTeX HTML
-  // Regex matches: {{formula:hexid}} or {{formula:hexid:(12.11)}}
-  return content.replace(/\{\{formula:([a-f0-9]+)(?::\([^)]+\))?\}\}/g, (match, formulaId) => {
-    const formula = formulaMap.get(formulaId);
-    if (formula) {
-      const renderedLatex = renderLatex(formula.latex, false); // inline mode
-      
-      // Check if it's a high-confidence symbol
-      const isHighConfidenceSymbol = formula.is_symbol === true && 
-                                      formula.symbol_parse_confidence === 'high';
-      
-      if (isHighConfidenceSymbol && formula.symbol_definition) {
-        // Wrap in a span with green border and tooltip for high-confidence symbols
-        return `<span class="symbol-formula" data-tooltip="${escapeHtml(formula.symbol_definition)}">${renderedLatex}</span>`;
-      } else {
-        // Wrap in a span with gray border for regular formulas
-        return `<span class="regular-formula">${renderedLatex}</span>`;
-      }
-    }
-    // If formula not found, leave as is or show warning
-    return `<span class="text-orange-500" title="Formula not found">${match}</span>`;
-  });
+    // Replace all {{formula:id}} or {{formula:id:(number)}} with rendered KaTeX HTML
+    // Regex matches: {{formula:hexid}} or {{formula:hexid:(12.11)}}
+    return content.replace(/\{\{formula:([a-f0-9]+)(?::\([^)]+\))?\}\}/g, (match, formulaId) => {
+        const formula = formulaMap.get(formulaId);
+        if (formula) {
+            const renderedLatex = renderLatex(formula.latex, false); // inline mode
+
+            // Check if it's a high-confidence symbol
+            const isHighConfidenceSymbol =
+                formula.is_symbol === true && formula.symbol_parse_confidence === 'high';
+
+            if (isHighConfidenceSymbol && formula.symbol_definition) {
+                // Wrap in a span with green border and tooltip for high-confidence symbols
+                return `<span class="symbol-formula" data-tooltip="${escapeHtml(formula.symbol_definition)}">${renderedLatex}</span>`;
+            } else {
+                // Wrap in a span with gray border for regular formulas
+                return `<span class="regular-formula">${renderedLatex}</span>`;
+            }
+        }
+        // If formula not found, leave as is or show warning
+        return `<span class="text-orange-500" title="Formula not found">${match}</span>`;
+    });
 }
 
 /**
  * Escapes HTML special characters
  */
 function escapeHtml(text: string): string {
-  const map: Record<string, string> = {
-    '&': '&amp;',
-    '<': '&lt;',
-    '>': '&gt;',
-    '"': '&quot;',
-    "'": '&#039;'
-  };
-  return text.replace(/[&<>"']/g, (m) => map[m]);
+    const map: Record<string, string> = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;',
+    };
+    return text.replace(/[&<>"']/g, (m) => map[m]);
+}
+
+/**
+ * Replaces {{literature:id}} placeholders with links to literature pages
+ * @param content - HTML content with literature placeholders
+ * @param literature - Array of literature objects with id and number
+ * @returns HTML content with literature links
+ */
+export function replaceLiteraturePlaceholders(
+    content: string,
+    literature: Array<{
+        id: string;
+        number?: number;
+        text?: string;
+    }>,
+): string {
+    // Create a map for fast lookup
+    const literatureMap = new Map(literature.map((lit) => [lit.id, lit]));
+
+    // Replace all {{literature:id}} with links
+    return content.replace(/\{\{literature:([a-f0-9]+)\}\}/g, (match, literatureId) => {
+        const lit = literatureMap.get(literatureId);
+
+        if (lit) {
+            const displayText = lit.number !== undefined ? `[${lit.number}]` : `[?]`;
+            const tooltip = lit.text || 'Литература';
+
+            console.log('lit 1', lit, displayText, tooltip);
+
+            return `<a href="/literature/${lit.id}" target="_blank" rel="noopener noreferrer" class="literature-link" title="${escapeHtml(tooltip)}">${displayText}</a>`;
+        }
+
+        console.log('lit 2', match);
+
+        // If literature not found, leave as is or show warning
+        return `<span class="text-orange-500" title="Literature not found">${match}</span>`;
+    });
 }

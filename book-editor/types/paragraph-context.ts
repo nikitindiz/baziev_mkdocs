@@ -23,6 +23,12 @@ export interface FormulaReference {
     symbol_definition?: string;
 }
 
+export interface LiteratureReference {
+    id: string;
+    number?: number;
+    text?: string;
+}
+
 export interface ParagraphWithReferences {
     id: string;
     content: string;
@@ -31,6 +37,7 @@ export interface ParagraphWithReferences {
     tables: TableReference[];
     illustrations: IllustrationReference[];
     formulas: FormulaReference[];
+    literature: LiteratureReference[];
 }
 
 export interface ChapterMetadata {

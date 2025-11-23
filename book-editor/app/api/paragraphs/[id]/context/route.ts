@@ -19,6 +19,7 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_TABLE]->(t:Table)
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_ILLUSTRATION]->(i:Illustration)
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(f:Formula)
+      OPTIONAL MATCH (sectionParagraph)-[:CITES]->(l:Literature)
       
       // Находим предыдущую и следующую главы
       OPTIONAL MATCH (c)-[:PREVIOUS]->(prevChapter:Chapter)
@@ -63,6 +64,11 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           symbol_parse_confidence: f.symbol_parse_confidence,
           symbol_definition: f.symbol_definition
         }) as formulas,
+        collect(DISTINCT {
+          id: l.id,
+          number: l.number,
+          text: l.text
+        }) as literature,
         prevChapter.id as prevChapterId,
         prevChapter.title as prevChapterTitle,
         prevChapter.order as prevChapterOrder,
@@ -180,6 +186,15 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                         symbol_definition: f.symbol_definition || undefined,
                     }));
 
+                const literature = record
+                    .get('literature')
+                    .filter((lit: any) => lit.id !== null)
+                    .map((lit: any) => ({
+                        id: lit.id,
+                        number: lit.number ? lit.number.toNumber() : undefined,
+                        text: lit.text || undefined,
+                    }));
+
                 paragraphsMap.set(pId, {
                     id: pId,
                     content: record.get('paragraphContent') || '',
@@ -188,6 +203,7 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                     tables,
                     illustrations,
                     formulas,
+                    literature,
                 });
             }
         });

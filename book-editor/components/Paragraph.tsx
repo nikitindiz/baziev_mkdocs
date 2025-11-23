@@ -1,7 +1,7 @@
 'use client';
 
 import { ParagraphWithReferences } from '@/types/paragraph-context';
-import { replaceFormulaPlaceholders, renderLatex } from '@/lib/latex-renderer';
+import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders } from '@/lib/latex-renderer';
 import Link from 'next/link';
 
 interface ParagraphProps {
@@ -24,6 +24,11 @@ export function Paragraph({
 
   if (renderFormulas && paragraph.formulas.length > 0) {
     paragraphContent = replaceFormulaPlaceholders(paragraphContent, paragraph.formulas);
+  }
+
+  // Заменяем {{literature:id}} на ссылки
+  if (paragraph.literature?.length > 0) {
+    paragraphContent = replaceLiteraturePlaceholders(paragraphContent, paragraph.literature);
   }
 
   return (
