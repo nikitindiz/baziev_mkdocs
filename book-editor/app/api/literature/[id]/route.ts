@@ -2,12 +2,11 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getSession } from '@/lib/neo4j';
 import { LiteratureResponse } from '@/types/literature';
 
-export async function GET(request: NextRequest, { params }: { params: { id: string } }) {
+export async function GET(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
     const session = getSession();
+    const { id } = await params;
 
     try {
-        const { id } = params;
-
         if (!id) {
             return NextResponse.json({ error: 'Literature ID is required' }, { status: 400 });
         }
