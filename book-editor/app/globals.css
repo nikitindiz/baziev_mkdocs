@@ -35,8 +35,14 @@ body {
     padding: 2px 4px;
     border: 2px solid #10b981; /* green-500 */
     border-radius: 4px;
-    cursor: help;
+    cursor: pointer;
     transition: all 0.2s ease;
+}
+
+.symbol-formula.selected {
+    background-color: #fef08a; /* yellow-200 */
+    border-color: #eab308; /* yellow-500 */
+    box-shadow: 0 0 0 3px rgba(234, 179, 8, 0.3);
 }
 
 .symbol-formula:hover {
@@ -50,7 +56,14 @@ body {
     padding: 2px 4px;
     border: 1px solid #9ca3af; /* gray-400 */
     border-radius: 4px;
+    cursor: pointer;
     transition: all 0.2s ease;
+}
+
+.regular-formula.selected {
+    background-color: #fef08a; /* yellow-200 */
+    border-color: #eab308; /* yellow-500 */
+    box-shadow: 0 0 0 3px rgba(234, 179, 8, 0.3);
 }
 
 .regular-formula:hover {
@@ -64,6 +77,12 @@ body {
         border-color: #10b981; /* green-500 */
     }
 
+    .symbol-formula.selected {
+        background-color: #713f12; /* yellow-900 */
+        border-color: #eab308; /* yellow-500 */
+        box-shadow: 0 0 0 3px rgba(234, 179, 8, 0.2);
+    }
+
     .regular-formula {
         border-color: #6b7280; /* gray-500 */
     }
@@ -71,6 +90,12 @@ body {
     .regular-formula:hover {
         background-color: #374151; /* gray-700 */
         border-color: #9ca3af; /* gray-400 */
+    }
+
+    .regular-formula.selected {
+        background-color: #713f12; /* yellow-900 */
+        border-color: #eab308; /* yellow-500 */
+        box-shadow: 0 0 0 3px rgba(234, 179, 8, 0.2);
     }
 }
 

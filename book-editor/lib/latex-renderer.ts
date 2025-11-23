@@ -51,10 +51,10 @@ export function replaceFormulaPlaceholders(
 
             if (isHighConfidenceSymbol && formula.symbol_definition) {
                 // Wrap in a span with green border and tooltip for high-confidence symbols
-                return `<span class="symbol-formula" data-tooltip="${escapeHtml(formula.symbol_definition)}">${renderedLatex}</span>`;
+                return `<span class="symbol-formula" data-formula-id="${formula.id}" data-tooltip="${escapeHtml(formula.symbol_definition)}">${renderedLatex}</span>`;
             } else {
                 // Wrap in a span with gray border for regular formulas
-                return `<span class="regular-formula">${renderedLatex}</span>`;
+                return `<span class="regular-formula" data-formula-id="${formula.id}">${renderedLatex}</span>`;
             }
         }
         // If formula not found, leave as is or show warning

@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import { ParagraphContextResponse } from '@/types/paragraph-context';
 import { Paragraph } from '../../../components/Paragraph';
 import { Navigation } from '../../../components/Navigation';
@@ -10,7 +10,10 @@ import { ParagraphEditor } from '../../../components/ParagraphEditor';
 
 export default function ReadInContextPage() {
   const params = useParams();
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const paragraphId = decodeURI(params.id as string);
+  const selectedFormulaId = searchParams.get('selected-formula');
 
   const [context, setContext] = useState<ParagraphContextResponse | null>(null);
   const [loading, setLoading] = useState(true);
@@ -54,6 +57,75 @@ export default function ReadInContextPage() {
       fetchContext();
     }
   }, [paragraphId]);
+
+  // Handle formula clicks - only allow clicking formulas in the selected paragraph
+  useEffect(() => {
+    const handleFormulaClick = (e: MouseEvent) => {
+      const target = e.target as HTMLElement;
+      const formulaElement = target.closest('.symbol-formula, .regular-formula');
+
+      if (!formulaElement) return;
+
+      // Check if the formula is within the selected paragraph
+      const paragraphElement = formulaElement.closest(`#paragraph-${paragraphId}`);
+
+      if (!paragraphElement) {
+        // Formula is not in the selected paragraph, ignore click
+        return;
+      }
+
+      const formulaId = formulaElement.getAttribute('data-formula-id');
+
+      if (formulaId) {
+        // Update URL with selected-formula query parameter
+        const newUrl = new URL(window.location.href);
+        newUrl.searchParams.set('selected-formula', formulaId);
+        router.push(newUrl.pathname + newUrl.search);
+      }
+    };
+
+    document.addEventListener('click', handleFormulaClick);
+
+    return () => {
+      document.removeEventListener('click', handleFormulaClick);
+    };
+  }, [paragraphId, router]);
+
+  // Apply 'selected' class to the selected formula
+  useEffect(() => {
+    // Wait for context to load before applying selection
+    if (!context) return;
+
+    if (!selectedFormulaId) {
+      // Remove all 'selected' classes
+      document.querySelectorAll('.symbol-formula.selected, .regular-formula.selected').forEach(el => {
+        el.classList.remove('selected');
+      });
+      return;
+    }
+
+    // Remove all 'selected' classes first
+    document.querySelectorAll('.symbol-formula.selected, .regular-formula.selected').forEach(el => {
+      el.classList.remove('selected');
+    });
+
+    // Add 'selected' class to the selected formula after a slight delay
+    // to ensure DOM is fully rendered
+    setTimeout(() => {
+      const selectedFormula = document.querySelector(
+        `[data-formula-id="${selectedFormulaId}"]`
+      );
+
+      if (selectedFormula) {
+        selectedFormula.classList.add('selected');
+
+        // Scroll to the selected formula
+        setTimeout(() => {
+          selectedFormula.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 100);
+      }
+    }, 150);
+  }, [selectedFormulaId, context]);
 
   if (loading) {
     return (
