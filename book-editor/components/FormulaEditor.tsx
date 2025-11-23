@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import { useQueryClient } from '@tanstack/react-query';
 import { Formula } from '@/types/formula';
 import dynamic from 'next/dynamic';
 
@@ -14,6 +15,7 @@ interface FormulaEditorProps {
 
 export function FormulaEditor({ formulaId }: FormulaEditorProps) {
     const router = useRouter();
+    const queryClient = useQueryClient();
     const [loading, setLoading] = useState(true);
     const [saving, setSaving] = useState(false);
     const [error, setError] = useState<string | null>(null);
@@ -95,6 +97,11 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
 
             const updatedFormula: Formula = await response.json();
             setFormula(updatedFormula);
+
+            // Инвалидируем кеш параграфов для обновления связанных компонентов
+            queryClient.invalidateQueries({ queryKey: ['paragraphs'] });
+            // Инвалидируем все контексты параграфов для обновления страниц read-in-context
+            queryClient.invalidateQueries({ queryKey: ['paragraph-context'] });
 
             // Закрываем редактор после успешного сохранения
             handleCancel();

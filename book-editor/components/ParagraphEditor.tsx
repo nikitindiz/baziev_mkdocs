@@ -40,7 +40,10 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
         onSuccess: () => {
             // Инвалидируем кеш для обновления данных
             queryClient.invalidateQueries({ queryKey: ['paragraph', paragraphId] });
+            // Инвалидируем все запросы параграфов для обновления списков
             queryClient.invalidateQueries({ queryKey: ['paragraphs'] });
+            // Инвалидируем контекст параграфа для обновления страницы read-in-context
+            queryClient.invalidateQueries({ queryKey: ['paragraph-context', paragraphId] });
             setIsDirty(false);
         },
     });

@@ -1,13 +1,26 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
+import { useQuery } from '@tanstack/react-query';
 import { ParagraphContextResponse } from '@/types/paragraph-context';
 import { Paragraph } from '../../../components/Paragraph';
 import { Navigation } from '../../../components/Navigation';
 import { RightSidebar } from '../../../components/RightSidebar';
 import { ParagraphEditor } from '../../../components/ParagraphEditor';
 import { FormulaEditor } from '../../../components/FormulaEditor';
+
+async function fetchParagraphContext(paragraphId: string): Promise<ParagraphContextResponse> {
+  console.log('Fetching context for paragraph ID:', paragraphId);
+
+  const response = await fetch(`/api/paragraphs/${paragraphId}/context`);
+
+  if (!response.ok) {
+    throw new Error(`Failed to fetch context: ${response.statusText}`);
+  }
+
+  return response.json();
+}
 
 export default function ReadInContextPage() {
   const params = useParams();
@@ -16,48 +29,25 @@ export default function ReadInContextPage() {
   const paragraphId = decodeURI(params.id as string);
   const selectedFormulaId = searchParams.get('selected-formula');
 
-  const [context, setContext] = useState<ParagraphContextResponse | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  // Используем React Query для получения контекста параграфа
+  const { data: context, isLoading: loading, error } = useQuery({
+    queryKey: ['paragraph-context', paragraphId],
+    queryFn: () => fetchParagraphContext(paragraphId),
+    enabled: !!paragraphId,
+  });
 
+  // Scroll to the target paragraph after data is loaded
   useEffect(() => {
-    async function fetchContext() {
-      try {
-        setLoading(true);
-        setError(null);
+    if (!context) return;
 
-        console.log('Fetching context for paragraph ID:', paragraphId);
-
-        const response = await fetch(`/api/paragraphs/${paragraphId}/context`);
-
-        if (!response.ok) {
-          throw new Error(`Failed to fetch context: ${response.statusText}`);
-        }
-
-        const data = await response.json();
-        setContext(data);
-
-        // Scroll to the target paragraph after data is loaded
-        setTimeout(() => {
-          const targetElement = document.getElementById(`paragraph-${paragraphId}`);
-
-          console.log('Scrolling to paragraph element:', targetElement, `paragraph-${paragraphId}`);
-          if (targetElement) {
-            targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          }
-        }, 100);
-
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Unknown error occurred');
-      } finally {
-        setLoading(false);
+    setTimeout(() => {
+      const targetElement = document.getElementById(`paragraph-${paragraphId}`);
+      console.log('Scrolling to paragraph element:', targetElement, `paragraph-${paragraphId}`);
+      if (targetElement) {
+        targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
-    }
-
-    if (paragraphId) {
-      fetchContext();
-    }
-  }, [paragraphId]);
+    }, 100);
+  }, [context, paragraphId]);
 
   // Handle formula clicks - only allow clicking formulas in the selected paragraph
   useEffect(() => {
@@ -144,7 +134,7 @@ export default function ReadInContextPage() {
       <div className="min-h-screen overflow-hidden flex items-center justify-center">
         <div className="text-center max-w-md p-8 bg-red-50 dark:bg-red-900/20 rounded-lg">
           <h2 className="text-xl font-bold text-red-600 dark:text-red-400 mb-2">Ошибка</h2>
-          <p className="text-gray-700 dark:text-gray-300">{error}</p>
+          <p className="text-gray-700 dark:text-gray-300">{error instanceof Error ? error.message : 'Unknown error'}</p>
         </div>
       </div>
     );
