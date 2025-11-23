@@ -7,6 +7,7 @@ import { Paragraph } from '../../../components/Paragraph';
 import { Navigation } from '../../../components/Navigation';
 import { RightSidebar } from '../../../components/RightSidebar';
 import { ParagraphEditor } from '../../../components/ParagraphEditor';
+import { FormulaEditor } from '../../../components/FormulaEditor';
 
 export default function ReadInContextPage() {
   const params = useParams();
@@ -205,7 +206,9 @@ export default function ReadInContextPage() {
 
       {/* Right Sidebar */}
       <RightSidebar>
-        {paragraphId ? (
+        {selectedFormulaId ? (
+          <FormulaEditor formulaId={selectedFormulaId} />
+        ) : paragraphId ? (
           <ParagraphEditor paragraphId={paragraphId} />
         ) : (
           <div className="flex items-center justify-center h-full">
