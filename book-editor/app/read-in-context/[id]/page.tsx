@@ -3,10 +3,10 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import { ParagraphContextResponse } from '@/types/paragraph-context';
-import { Paragraph } from '../components/Paragraph';
-import { Navigation } from '../components/Navigation';
-import { RightSidebar } from '../components/RightSidebar';
-import { ParagraphEditor } from '../components/ParagraphEditor';
+import { Paragraph } from '../../../components/Paragraph';
+import { Navigation } from '../../../components/Navigation';
+import { RightSidebar } from '../../../components/RightSidebar';
+import { ParagraphEditor } from '../../../components/ParagraphEditor';
 
 export default function ReadInContextPage() {
   const params = useParams();
