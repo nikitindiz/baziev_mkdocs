@@ -101,14 +101,33 @@ export function replaceLiteraturePlaceholders(
             const displayText = lit.number !== undefined ? `[${lit.number}]` : `[?]`;
             const tooltip = lit.text || 'Литература';
 
-            console.log('lit 1', lit, displayText, tooltip);
-
             return `<a href="/literature/${lit.id}" target="_blank" rel="noopener noreferrer" class="literature-link" title="${escapeHtml(tooltip)}">${displayText}</a>`;
         }
-
-        console.log('lit 2', match);
 
         // If literature not found, leave as is or show warning
         return `<span class="text-orange-500" title="Literature not found">${match}</span>`;
     });
+}
+
+/**
+ * Replaces Markdown-style links with HTML links
+ * Supports [text](url){:target="_blank"} syntax
+ * @param content - Content with Markdown links
+ * @returns Content with HTML links
+ */
+export function replaceMarkdownLinks(content: string): string {
+    // Replace [text](url){:target="_blank"} with <a href="url" target="_blank">text</a>
+    content = content.replace(
+        /\[([^\]]+)\]\(([^)]+)\)\{:target="_blank"\}/g,
+        (match, text, url) => {
+            return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="markdown-link">${text}</a>`;
+        },
+    );
+
+    // Replace regular [text](url) with <a href="url">text</a>
+    content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, text, url) => {
+        return `<a href="${escapeHtml(url)}" class="markdown-link">${text}</a>`;
+    });
+
+    return content;
 }

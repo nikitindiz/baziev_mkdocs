@@ -166,3 +166,29 @@ body {
         background-color: #1e3a8a; /* blue-900 */
     }
 }
+
+/* Markdown link styles */
+.markdown-link {
+    color: #2563eb; /* blue-600 */
+    text-decoration: underline;
+    text-decoration-color: #93c5fd; /* blue-300 */
+    text-underline-offset: 2px;
+    transition: all 0.2s ease;
+}
+
+.markdown-link:hover {
+    color: #1d4ed8; /* blue-700 */
+    text-decoration-color: #2563eb; /* blue-600 */
+}
+
+@media (prefers-color-scheme: dark) {
+    .markdown-link {
+        color: #60a5fa; /* blue-400 */
+        text-decoration-color: #3b82f6; /* blue-500 */
+    }
+
+    .markdown-link:hover {
+        color: #93c5fd; /* blue-300 */
+        text-decoration-color: #60a5fa; /* blue-400 */
+    }
+}

@@ -1,7 +1,7 @@
 'use client';
 
 import { ParagraphWithReferences } from '@/types/paragraph-context';
-import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders } from '@/lib/latex-renderer';
+import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders, replaceMarkdownLinks } from '@/lib/latex-renderer';
 import Link from 'next/link';
 
 interface ParagraphProps {
@@ -30,6 +30,9 @@ export function Paragraph({
   if (paragraph.literature?.length > 0) {
     paragraphContent = replaceLiteraturePlaceholders(paragraphContent, paragraph.literature);
   }
+
+  // Заменяем Markdown ссылки на HTML
+  paragraphContent = replaceMarkdownLinks(paragraphContent);
 
   return (
     <div
