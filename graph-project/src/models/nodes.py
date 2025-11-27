@@ -69,15 +69,6 @@ class Formula:
 
 
 @dataclass
-class Symbol:
-    """Символ/Обозначение"""
-    id: str
-    latex: str
-    description: str
-    metadata: Dict[str, Any]
-
-
-@dataclass
 class Illustration:
     """Иллюстрация"""
     id: str
