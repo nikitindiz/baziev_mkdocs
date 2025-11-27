@@ -30,6 +30,13 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
     const [error, setError] = useState<string | null>(null);
     const [searchQuery, setSearchQuery] = useState('');
 
+    // Form state for new symbol
+    const [newLatex, setNewLatex] = useState('');
+    const [newDescription, setNewDescription] = useState('');
+    const [newUnits, setNewUnits] = useState('');
+    const [newValue, setNewValue] = useState('');
+    const [creating, setCreating] = useState(false);
+
     // Загружаем символы при открытии модального окна
     useEffect(() => {
         if (isOpen && formulaId) {
@@ -87,6 +94,56 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
 
     const handleSymbolClick = (symbol: SymbolData) => {
         onSelect(`{{symbol:${symbol.id}}}`);
+    };
+
+    const handleCreateSymbol = async () => {
+        if (!newLatex.trim()) {
+            setError('LaTeX код обязателен');
+            return;
+        }
+
+        setCreating(true);
+        setError(null);
+
+        try {
+            const response = await fetch('/api/symbols', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    latex: newLatex.trim(),
+                    description: newDescription.trim() || undefined,
+                    units: newUnits.trim() || undefined,
+                    value: newValue.trim() || undefined,
+                }),
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to create symbol');
+            }
+
+            const newSymbol: SymbolData = await response.json();
+
+            // Добавляем новый символ в список
+            setSymbols([...symbols, newSymbol]);
+
+            // Вставляем символ в формулу
+            onSelect(`{{symbol:${newSymbol.id}}}`);
+
+            // Очищаем форму
+            setNewLatex('');
+            setNewDescription('');
+            setNewUnits('');
+            setNewValue('');
+
+            // Переключаемся на таб с доступными символами
+            setActiveTab('available');
+        } catch (err) {
+            setError(err instanceof Error ? err.message : 'Unknown error');
+        } finally {
+            setCreating(false);
+        }
     };
 
     if (!isOpen) return null;
@@ -216,8 +273,92 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
                     )}
 
                     {activeTab === 'new' && (
-                        <div className="flex items-center justify-center h-32 text-gray-500 dark:text-gray-400 text-sm">
-                            Форма создания нового символа (в разработке)
+                        <div className="h-full flex flex-col space-y-4">
+                            <div className="space-y-4">
+                                {/* LaTeX Input */}
+                                <div className="space-y-1">
+                                    <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                                        LaTeX код <span className="text-red-500">*</span>
+                                    </label>
+                                    <input
+                                        type="text"
+                                        className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 font-mono text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                        placeholder="Например: c или \alpha"
+                                        value={newLatex}
+                                        onChange={(e) => setNewLatex(e.target.value)}
+                                    />
+                                </div>
+
+                                {/* Description Input */}
+                                <div className="space-y-1">
+                                    <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                                        Описание
+                                    </label>
+                                    <input
+                                        type="text"
+                                        className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                        placeholder="Например: скорость света"
+                                        value={newDescription}
+                                        onChange={(e) => setNewDescription(e.target.value)}
+                                    />
+                                </div>
+
+                                {/* Value Input */}
+                                <div className="space-y-1">
+                                    <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                                        Значение
+                                    </label>
+                                    <input
+                                        type="text"
+                                        className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                        placeholder="Например: 299792458"
+                                        value={newValue}
+                                        onChange={(e) => setNewValue(e.target.value)}
+                                    />
+                                </div>
+
+                                {/* Units Input */}
+                                <div className="space-y-1">
+                                    <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                                        Единицы измерения
+                                    </label>
+                                    <input
+                                        type="text"
+                                        className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                        placeholder="Например: м/с"
+                                        value={newUnits}
+                                        onChange={(e) => setNewUnits(e.target.value)}
+                                    />
+                                </div>
+
+                                {/* Preview */}
+                                {newLatex && (
+                                    <div className="space-y-1">
+                                        <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                                            Предварительный просмотр
+                                        </label>
+                                        <div className="p-3 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 flex items-center justify-center">
+                                            <InlineMath math={newLatex} />
+                                        </div>
+                                    </div>
+                                )}
+
+                                {/* Error Message */}
+                                {error && (
+                                    <div className="bg-red-50 dark:bg-red-900/20 rounded-lg p-3">
+                                        <p className="text-sm text-red-600 dark:text-red-400">{error}</p>
+                                    </div>
+                                )}
+
+                                {/* Create Button */}
+                                <button
+                                    onClick={handleCreateSymbol}
+                                    disabled={creating || !newLatex.trim()}
+                                    className="w-full px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium text-sm transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                                >
+                                    {creating ? 'Создание...' : 'Создать и вставить'}
+                                </button>
+                            </div>
                         </div>
                     )}
                 </div>
