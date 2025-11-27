@@ -167,10 +167,10 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
             return symbol ? symbol.latex : match;
         });
 
-        return previewLatex;
-    };
+        console.log('Preview LaTeX before render:', previewLatex);
 
-    if (loading) {
+        return previewLatex;
+    }; if (loading) {
         return (
             <div className="flex items-center justify-center h-full">
                 <div className="text-center">
