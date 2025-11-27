@@ -118,16 +118,23 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         // Вставляем символ в текущую позицию курсора
         const textarea = document.querySelector('textarea') as HTMLTextAreaElement;
         if (textarea) {
-            const start = textarea.selectionStart;
-            const end = textarea.selectionEnd;
-            const newValue = latex.substring(0, start) + symbol + latex.substring(end);
-            setLatex(newValue);
+            textarea.focus();
 
-            // Возвращаем фокус и устанавливаем курсор после вставленного символа
-            setTimeout(() => {
-                textarea.focus();
-                textarea.setSelectionRange(start + symbol.length, start + symbol.length);
-            }, 0);
+            // Используем execCommand для сохранения истории отмены
+            // Если не поддерживается, fallback на ручную вставку
+            const success = document.execCommand('insertText', false, symbol);
+
+            if (!success) {
+                // Fallback для браузеров, где execCommand устарел
+                const start = textarea.selectionStart;
+                const end = textarea.selectionEnd;
+                const newValue = latex.substring(0, start) + symbol + latex.substring(end);
+                setLatex(newValue);
+
+                setTimeout(() => {
+                    textarea.setSelectionRange(start + symbol.length, start + symbol.length);
+                }, 0);
+            }
         }
         setIsSymbolPickerOpen(false);
     };
