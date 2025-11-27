@@ -134,19 +134,21 @@ export function replaceSymbolPlaceholders(
         if (symbol) {
             const renderedLatex = renderLatex(symbol.latex, false); // inline mode
 
-            // Add tooltip with description and units if available
-            let tooltip = '';
+            // Build tooltip with all fields except latex
+            const tooltipParts: string[] = [];
             if (symbol.description) {
-                tooltip += symbol.description;
+                tooltipParts.push(symbol.description);
             }
             if (symbol.units) {
-                tooltip += tooltip ? ` (${symbol.units})` : symbol.units;
+                tooltipParts.push(symbol.units);
             }
+            const tooltip = tooltipParts.join(', ');
 
+            // Use symbol-formula class for pink border (same as high-confidence symbol formulas)
             if (tooltip) {
-                return `<span class="symbol-inline" data-symbol-id="${symbol.id}" title="${escapeHtml(tooltip)}">${renderedLatex}</span>`;
+                return `<span class="symbol-formula pink" data-symbol-id="${symbol.id}" data-tooltip="${escapeHtml(tooltip)}">${renderedLatex}</span>`;
             } else {
-                return `<span class="symbol-inline" data-symbol-id="${symbol.id}">${renderedLatex}</span>`;
+                return `<span class="symbol-formula pink" data-symbol-id="${symbol.id}">${renderedLatex}</span>`;
             }
         }
         // If symbol not found, leave as is or show warning

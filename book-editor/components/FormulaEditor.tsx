@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { useQueryClient } from '@tanstack/react-query';
 import { Formula } from '@/types/formula';
 import dynamic from 'next/dynamic';
+import { SymbolPickerModal } from './SymbolPickerModal';
 
 const BlockMath = dynamic(() => import('react-katex').then((mod) => mod.BlockMath), { ssr: false });
 const InlineMath = dynamic(() => import('react-katex').then((mod) => mod.InlineMath), { ssr: false });
@@ -30,6 +31,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
     const [symbolUnits, setSymbolUnits] = useState('');
     const [symbolConfidence, setSymbolConfidence] = useState<'high' | 'medium' | 'low' | ''>('');
     const [notSureIfSymbol, setNotSureIfSymbol] = useState(false);
+    const [isSymbolPickerOpen, setIsSymbolPickerOpen] = useState(false);
 
     useEffect(() => {
         async function fetchFormula() {
@@ -112,6 +114,24 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         }
     };
 
+    const handleSymbolSelect = (symbol: string) => {
+        // Вставляем символ в текущую позицию курсора
+        const textarea = document.querySelector('textarea') as HTMLTextAreaElement;
+        if (textarea) {
+            const start = textarea.selectionStart;
+            const end = textarea.selectionEnd;
+            const newValue = latex.substring(0, start) + symbol + latex.substring(end);
+            setLatex(newValue);
+
+            // Возвращаем фокус и устанавливаем курсор после вставленного символа
+            setTimeout(() => {
+                textarea.focus();
+                textarea.setSelectionRange(start + symbol.length, start + symbol.length);
+            }, 0);
+        }
+        setIsSymbolPickerOpen(false);
+    };
+
     if (loading) {
         return (
             <div className="flex items-center justify-center h-full">
@@ -170,9 +190,18 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
 
                 {/* LaTeX Input */}
                 <div className="space-y-2">
-                    <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                        LaTeX
-                    </label>
+                    <div className="flex items-center justify-between">
+                        <label className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                            LaTeX
+                        </label>
+                        <button
+                            type="button"
+                            onClick={() => setIsSymbolPickerOpen(true)}
+                            className="px-3 py-1 text-xs font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors"
+                        >
+                            Symbol
+                        </button>
+                    </div>
                     <textarea
                         className="w-full h-24 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 font-mono text-sm resize-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                         placeholder="Введите LaTeX код..."
@@ -394,6 +423,13 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
                     Отмена
                 </button>
             </div>
+
+            {/* Symbol Picker Modal */}
+            <SymbolPickerModal
+                isOpen={isSymbolPickerOpen}
+                onClose={() => setIsSymbolPickerOpen(false)}
+                onSelect={handleSymbolSelect}
+            />
         </div>
     );
 }
