@@ -20,13 +20,16 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
             MATCH (p:Paragraph)-[:CONTAINS_FORMULA]->(f)
             MATCH (s:Section)-[:HAS_PARAGRAPH]->(p)
             
-            // Получаем все параграфы этой секции
+            // Получаем все параграфы этой секции плюс саму формулу
             MATCH (s)-[:HAS_PARAGRAPH]->(sectionParagraph:Paragraph)
             
-            // Извлекаем ID символов из содержимого параграфов
-            WITH sectionParagraph,
+            // Извлекаем ID символов из содержимого параграфов и формул
+            WITH sectionParagraph, f,
                  [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 | 
-                  CASE WHEN x =~ '^[0-9]+.*' THEN split(split(x, '}}')[0], ':')[0] ELSE null END
+                  CASE WHEN x =~ '^[0-9]+.*' THEN split(x, '}}')[0] ELSE null END
+                 ] + 
+                 [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 | 
+                  CASE WHEN x =~ '^[0-9]+.*' THEN split(x, '}}')[0] ELSE null END
                  ] as symbolIds
             
             // Получаем Symbol сущности по найденным ID

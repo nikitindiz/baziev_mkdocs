@@ -81,7 +81,7 @@ export function replaceFormulaPlaceholders(
  * @param symbols - Array of symbol objects
  * @returns LaTeX string with replaced symbols
  */
-function replaceSymbolsInLatex(
+export function replaceSymbolsInLatex(
     latex: string,
     symbols: Array<{
         id: string;

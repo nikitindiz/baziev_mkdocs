@@ -6,7 +6,7 @@ import { useQueryClient } from '@tanstack/react-query';
 import { Formula } from '@/types/formula';
 import dynamic from 'next/dynamic';
 import { SymbolPickerModal } from './SymbolPickerModal';
-import { renderLatex } from '@/lib/latex-renderer';
+import { renderLatex, replaceSymbolsInLatex } from '@/lib/latex-renderer';
 
 const BlockMath = dynamic(() => import('react-katex').then((mod) => mod.BlockMath), { ssr: false });
 const InlineMath = dynamic(() => import('react-katex').then((mod) => mod.InlineMath), { ssr: false });
@@ -70,6 +70,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
             fetch(`/api/formulas/${formulaId}/symbols`)
                 .then((res) => res.json())
                 .then((data) => {
+                    console.log('Loaded symbols:', data.symbols);
                     setSymbols(data.symbols || []);
                 })
                 .catch((err) => {
@@ -159,14 +160,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
     const getPreviewLatex = () => {
         if (!latex) return '';
 
-        let previewLatex = latex;
-        const symbolMap = new Map(symbols.map((s) => [s.id, s]));
-
-        previewLatex = previewLatex.replace(/\{\{symbol:([0-9]+)\}\}/g, (match, symbolId) => {
-            const symbol = symbolMap.get(symbolId);
-            return symbol ? symbol.latex : match;
-        });
-
+        const previewLatex = replaceSymbolsInLatex(latex, symbols);
         console.log('Preview LaTeX before render:', previewLatex);
 
         return previewLatex;
