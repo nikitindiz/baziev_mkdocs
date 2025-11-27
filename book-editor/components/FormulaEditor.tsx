@@ -429,6 +429,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
                 isOpen={isSymbolPickerOpen}
                 onClose={() => setIsSymbolPickerOpen(false)}
                 onSelect={handleSymbolSelect}
+                formulaId={formulaId}
             />
         </div>
     );

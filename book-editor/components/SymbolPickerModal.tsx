@@ -1,21 +1,65 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import dynamic from 'next/dynamic';
+
+const InlineMath = dynamic(() => import('react-katex').then((mod) => mod.InlineMath), { ssr: false });
+
+interface SymbolData {
+    id: string;
+    latex: string;
+    description?: string;
+    units?: string;
+    value?: string;
+}
 
 interface SymbolPickerModalProps {
     isOpen: boolean;
     onClose: () => void;
     onSelect: (symbol: string) => void;
+    formulaId: string;
 }
 
-export function SymbolPickerModal({ isOpen, onClose, onSelect }: SymbolPickerModalProps) {
-    const inputRef = useRef<HTMLInputElement>(null);
+type Tab = 'available' | 'new';
+
+export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: SymbolPickerModalProps) {
+    const searchInputRef = useRef<HTMLInputElement>(null);
+    const [activeTab, setActiveTab] = useState<Tab>('available');
+    const [symbols, setSymbols] = useState<SymbolData[]>([]);
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState<string | null>(null);
+    const [searchQuery, setSearchQuery] = useState('');
+
+    // Загружаем символы при открытии модального окна
+    useEffect(() => {
+        if (isOpen && formulaId) {
+            setLoading(true);
+            setError(null);
+
+            fetch(`/api/formulas/${formulaId}/symbols`)
+                .then((res) => {
+                    if (!res.ok) {
+                        throw new Error('Failed to fetch symbols');
+                    }
+                    return res.json();
+                })
+                .then((data) => {
+                    setSymbols(data.symbols || []);
+                })
+                .catch((err) => {
+                    setError(err.message);
+                })
+                .finally(() => {
+                    setLoading(false);
+                });
+        }
+    }, [isOpen, formulaId]);
 
     useEffect(() => {
-        if (isOpen && inputRef.current) {
-            inputRef.current.focus();
+        if (isOpen && activeTab === 'available' && searchInputRef.current) {
+            searchInputRef.current.focus();
         }
-    }, [isOpen]);
+    }, [isOpen, activeTab]);
 
     useEffect(() => {
         const handleEscape = (e: KeyboardEvent) => {
@@ -28,6 +72,23 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect }: SymbolPickerMod
         return () => document.removeEventListener('keydown', handleEscape);
     }, [isOpen, onClose]);
 
+    // Фильтруем символы по поисковому запросу
+    const filteredSymbols = symbols.filter((symbol) => {
+        if (!searchQuery) return true;
+
+        const query = searchQuery.toLowerCase();
+        return (
+            symbol.latex.toLowerCase().includes(query) ||
+            symbol.description?.toLowerCase().includes(query) ||
+            symbol.value?.toLowerCase().includes(query) ||
+            symbol.units?.toLowerCase().includes(query)
+        );
+    });
+
+    const handleSymbolClick = (symbol: SymbolData) => {
+        onSelect(symbol.latex);
+    };
+
     if (!isOpen) return null;
 
     return (
@@ -39,8 +100,9 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect }: SymbolPickerMod
             />
 
             {/* Modal */}
-            <div className="relative bg-white dark:bg-gray-800 rounded-lg shadow-xl w-full max-w-md mx-4 p-6">
-                <div className="flex items-center justify-between mb-4">
+            <div className="relative bg-white dark:bg-gray-800 rounded-lg shadow-xl w-full max-w-2xl mx-4 flex flex-col max-h-[80vh]">
+                {/* Header */}
+                <div className="flex items-center justify-between p-4 border-b border-gray-200 dark:border-gray-700">
                     <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100">
                         Выбор символа
                     </h3>
@@ -54,13 +116,110 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect }: SymbolPickerMod
                     </button>
                 </div>
 
-                <div className="space-y-4">
-                    <input
-                        ref={inputRef}
-                        type="text"
-                        className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                        placeholder="Введите символ..."
-                    />
+                {/* Tabs */}
+                <div className="flex border-b border-gray-200 dark:border-gray-700">
+                    <button
+                        onClick={() => setActiveTab('available')}
+                        className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${activeTab === 'available'
+                                ? 'text-blue-600 dark:text-blue-400 border-b-2 border-blue-600 dark:border-blue-400'
+                                : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200'
+                            }`}
+                    >
+                        Доступные символы
+                    </button>
+                    <button
+                        onClick={() => setActiveTab('new')}
+                        className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${activeTab === 'new'
+                                ? 'text-blue-600 dark:text-blue-400 border-b-2 border-blue-600 dark:border-blue-400'
+                                : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200'
+                            }`}
+                    >
+                        Новый символ
+                    </button>
+                </div>
+
+                {/* Content */}
+                <div className="flex-1 overflow-hidden p-4">
+                    {activeTab === 'available' && (
+                        <div className="h-full flex flex-col space-y-4">
+                            {/* Search Input */}
+                            <input
+                                ref={searchInputRef}
+                                type="text"
+                                className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                placeholder="Поиск по символам..."
+                                value={searchQuery}
+                                onChange={(e) => setSearchQuery(e.target.value)}
+                            />
+
+                            {/* Symbols List */}
+                            <div className="flex-1 overflow-y-auto">
+                                {loading && (
+                                    <div className="flex items-center justify-center h-32">
+                                        <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+                                    </div>
+                                )}
+
+                                {error && (
+                                    <div className="bg-red-50 dark:bg-red-900/20 rounded-lg p-3">
+                                        <p className="text-sm text-red-600 dark:text-red-400">{error}</p>
+                                    </div>
+                                )}
+
+                                {!loading && !error && filteredSymbols.length === 0 && (
+                                    <div className="text-center py-8 text-gray-500 dark:text-gray-400 text-sm">
+                                        {searchQuery ? 'Символы не найдены' : 'Нет доступных символов в текущей секции'}
+                                    </div>
+                                )}
+
+                                {!loading && !error && filteredSymbols.length > 0 && (
+                                    <div className="space-y-2">
+                                        {filteredSymbols.map((symbol) => (
+                                            <button
+                                                key={symbol.id}
+                                                onClick={() => handleSymbolClick(symbol)}
+                                                className="w-full text-left p-3 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-colors"
+                                            >
+                                                <div className="flex items-start gap-3">
+                                                    <div className="shrink-0 w-16 h-10 flex items-center justify-center bg-gray-50 dark:bg-gray-900 rounded border border-gray-200 dark:border-gray-700">
+                                                        <InlineMath math={symbol.latex} />
+                                                    </div>
+                                                    <div className="flex-1 min-w-0">
+                                                        {symbol.description && (
+                                                            <div className="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">
+                                                                {symbol.description}
+                                                            </div>
+                                                        )}
+                                                        <div className="flex items-center gap-2 mt-1">
+                                                            {symbol.value && (
+                                                                <span className="text-xs text-gray-600 dark:text-gray-400">
+                                                                    {symbol.value}
+                                                                </span>
+                                                            )}
+                                                            {symbol.units && (
+                                                                <span className="text-xs text-gray-500 dark:text-gray-500">
+                                                                    {symbol.units}
+                                                                </span>
+                                                            )}
+                                                        </div>
+                                                        <div className="text-xs text-gray-400 dark:text-gray-500 font-mono mt-1">
+                                                            {symbol.latex}
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </button>
+                                        ))}
+                                    </div>
+                                )}
+                            </div>
+                        </div>
+                    )}
+
+                    {activeTab === 'new' && (
+                        <div className="flex items-center justify-center h-32 text-gray-500 dark:text-gray-400 text-sm">
+                            Форма создания нового символа (в разработке)
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
