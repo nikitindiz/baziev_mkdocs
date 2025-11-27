@@ -86,7 +86,7 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
     });
 
     const handleSymbolClick = (symbol: SymbolData) => {
-        onSelect(symbol.latex);
+        onSelect(`{{symbol:${symbol.id}}}`);
     };
 
     if (!isOpen) return null;
