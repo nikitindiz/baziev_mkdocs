@@ -1,7 +1,7 @@
 'use client';
 
 import { ParagraphWithReferences } from '@/types/paragraph-context';
-import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders, replaceMarkdownLinks } from '@/lib/latex-renderer';
+import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders, replaceSymbolPlaceholders, replaceMarkdownLinks } from '@/lib/latex-renderer';
 import Link from 'next/link';
 
 interface ParagraphProps {
@@ -19,11 +19,20 @@ export function Paragraph({
   showFormulasContext = false,
   showParagraphId = false
 }: ParagraphProps) {
-  // Заменяем {{formula:id}} на LaTeX формулы
+  // Заменяем {{formula:id}} на LaTeX формулы (с подстановкой символов в формулы)
   let paragraphContent = paragraph.content;
 
   if (renderFormulas && paragraph.formulas.length > 0) {
-    paragraphContent = replaceFormulaPlaceholders(paragraphContent, paragraph.formulas);
+    paragraphContent = replaceFormulaPlaceholders(
+      paragraphContent,
+      paragraph.formulas,
+      paragraph.symbols // передаем символы для замены внутри формул
+    );
+  }
+
+  // Заменяем {{symbol:id}} на LaTeX символы в тексте (после замены формул!)
+  if (paragraph.symbols?.length > 0) {
+    paragraphContent = replaceSymbolPlaceholders(paragraphContent, paragraph.symbols);
   }
 
   // Заменяем {{literature:id}} на ссылки

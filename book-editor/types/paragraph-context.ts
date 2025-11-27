@@ -29,6 +29,13 @@ export interface LiteratureReference {
     text?: string;
 }
 
+export interface SymbolReference {
+    id: string;
+    latex: string;
+    description?: string;
+    units?: string;
+}
+
 export interface ParagraphWithReferences {
     id: string;
     content: string;
@@ -38,6 +45,7 @@ export interface ParagraphWithReferences {
     illustrations: IllustrationReference[];
     formulas: FormulaReference[];
     literature: LiteratureReference[];
+    symbols: SymbolReference[];
 }
 
 export interface ChapterMetadata {

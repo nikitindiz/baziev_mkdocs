@@ -23,6 +23,7 @@ export function renderLatex(latex: string, displayMode: boolean = false): string
  * Replaces {{formula:id}} placeholders with rendered inline LaTeX formulas
  * @param content - HTML content with formula placeholders
  * @param formulas - Array of formula objects with id and latex
+ * @param symbols - Optional array of symbol objects for replacing symbols in formulas
  * @returns HTML content with rendered formulas
  */
 export function replaceFormulaPlaceholders(
@@ -34,6 +35,12 @@ export function replaceFormulaPlaceholders(
         symbol_parse_confidence?: string;
         symbol_definition?: string;
     }>,
+    symbols?: Array<{
+        id: string;
+        latex: string;
+        description?: string;
+        units?: string;
+    }>,
 ): string {
     // Create a map for fast lookup
     const formulaMap = new Map(formulas.map((f) => [f.id, f]));
@@ -43,7 +50,13 @@ export function replaceFormulaPlaceholders(
     return content.replace(/\{\{formula:([a-f0-9]+)(?::\([^)]+\))?\}\}/g, (match, formulaId) => {
         const formula = formulaMap.get(formulaId);
         if (formula) {
-            const renderedLatex = renderLatex(formula.latex, false); // inline mode
+            // Replace symbols in formula latex if symbols array is provided
+            let formulaLatex = formula.latex;
+            if (symbols && symbols.length > 0) {
+                formulaLatex = replaceSymbolsInLatex(formulaLatex, symbols);
+            }
+
+            const renderedLatex = renderLatex(formulaLatex, false); // inline mode
 
             // Check if it's a high-confidence symbol
             const isHighConfidenceSymbol =
@@ -63,6 +76,27 @@ export function replaceFormulaPlaceholders(
 }
 
 /**
+ * Helper function to replace symbol placeholders in LaTeX strings
+ * @param latex - LaTeX string with symbol placeholders
+ * @param symbols - Array of symbol objects
+ * @returns LaTeX string with replaced symbols
+ */
+function replaceSymbolsInLatex(
+    latex: string,
+    symbols: Array<{
+        id: string;
+        latex: string;
+    }>,
+): string {
+    const symbolMap = new Map(symbols.map((s) => [s.id, s]));
+
+    return latex.replace(/\{\{symbol:([0-9]+)\}\}/g, (match, symbolId) => {
+        const symbol = symbolMap.get(symbolId);
+        return symbol ? symbol.latex : match;
+    });
+}
+
+/**
  * Escapes HTML special characters
  */
 function escapeHtml(text: string): string {
@@ -74,6 +108,50 @@ function escapeHtml(text: string): string {
         "'": '&#039;',
     };
     return text.replace(/[&<>"']/g, (m) => map[m]);
+}
+
+/**
+ * Replaces {{symbol:id}} placeholders with rendered inline LaTeX symbols
+ * @param content - HTML content with symbol placeholders
+ * @param symbols - Array of symbol objects with id and latex
+ * @returns HTML content with rendered symbols
+ */
+export function replaceSymbolPlaceholders(
+    content: string,
+    symbols: Array<{
+        id: string;
+        latex: string;
+        description?: string;
+        units?: string;
+    }>,
+): string {
+    // Create a map for fast lookup
+    const symbolMap = new Map(symbols.map((s) => [s.id, s]));
+
+    // Replace all {{symbol:id}} with rendered KaTeX HTML
+    return content.replace(/\{\{symbol:([0-9]+)\}\}/g, (match, symbolId) => {
+        const symbol = symbolMap.get(symbolId);
+        if (symbol) {
+            const renderedLatex = renderLatex(symbol.latex, false); // inline mode
+
+            // Add tooltip with description and units if available
+            let tooltip = '';
+            if (symbol.description) {
+                tooltip += symbol.description;
+            }
+            if (symbol.units) {
+                tooltip += tooltip ? ` (${symbol.units})` : symbol.units;
+            }
+
+            if (tooltip) {
+                return `<span class="symbol-inline" data-symbol-id="${symbol.id}" title="${escapeHtml(tooltip)}">${renderedLatex}</span>`;
+            } else {
+                return `<span class="symbol-inline" data-symbol-id="${symbol.id}">${renderedLatex}</span>`;
+            }
+        }
+        // If symbol not found, leave as is or show warning
+        return `<span class="text-orange-500" title="Symbol not found">${match}</span>`;
+    });
 }
 
 /**

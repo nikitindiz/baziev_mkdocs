@@ -21,6 +21,24 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(f:Formula)
       OPTIONAL MATCH (sectionParagraph)-[:CITES]->(l:Literature)
       
+      // Извлекаем ID символов из параграфов и формул
+      WITH c, s, sectionParagraph, t, i, f, l,
+           [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 | 
+            CASE WHEN x =~ '^[0-9]+.*' THEN split(split(x, '}}')[0], ':')[0] ELSE null END
+           ] + 
+           CASE WHEN f.latex IS NOT NULL THEN
+             [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 | 
+              CASE WHEN x =~ '^[0-9]+.*' THEN split(split(x, '}}')[0], ':')[0] ELSE null END
+             ]
+           ELSE []
+           END as symbolIds
+      
+      // Получаем символы по найденным ID
+      UNWIND CASE WHEN size([sid IN symbolIds WHERE sid IS NOT NULL]) > 0 
+                  THEN [sid IN symbolIds WHERE sid IS NOT NULL] 
+                  ELSE [null] END as symbolId
+      OPTIONAL MATCH (sym:Symbol {id: symbolId})
+      
       // Находим предыдущую и следующую главы
       OPTIONAL MATCH (c)-[:PREVIOUS]->(prevChapter:Chapter)
       OPTIONAL MATCH (c)-[:NEXT]->(nextChapter:Chapter)
@@ -69,6 +87,12 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           number: l.number,
           text: l.text
         }) as literature,
+        collect(DISTINCT {
+          id: sym.id,
+          latex: sym.latex,
+          description: sym.description,
+          units: sym.units
+        }) as symbols,
         prevChapter.id as prevChapterId,
         prevChapter.title as prevChapterTitle,
         prevChapter.order as prevChapterOrder,
@@ -195,6 +219,16 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                         text: lit.text || undefined,
                     }));
 
+                const symbols = record
+                    .get('symbols')
+                    .filter((sym: any) => sym.id !== null)
+                    .map((sym: any) => ({
+                        id: sym.id,
+                        latex: sym.latex || '',
+                        description: sym.description || undefined,
+                        units: sym.units || undefined,
+                    }));
+
                 paragraphsMap.set(pId, {
                     id: pId,
                     content: record.get('paragraphContent') || '',
@@ -204,6 +238,7 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                     illustrations,
                     formulas,
                     literature,
+                    symbols,
                 });
             }
         });
