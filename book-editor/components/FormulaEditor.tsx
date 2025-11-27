@@ -6,6 +6,7 @@ import { useQueryClient } from '@tanstack/react-query';
 import { Formula } from '@/types/formula';
 import dynamic from 'next/dynamic';
 import { SymbolPickerModal } from './SymbolPickerModal';
+import { renderLatex } from '@/lib/latex-renderer';
 
 const BlockMath = dynamic(() => import('react-katex').then((mod) => mod.BlockMath), { ssr: false });
 const InlineMath = dynamic(() => import('react-katex').then((mod) => mod.InlineMath), { ssr: false });
@@ -32,6 +33,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
     const [symbolConfidence, setSymbolConfidence] = useState<'high' | 'medium' | 'low' | ''>('');
     const [notSureIfSymbol, setNotSureIfSymbol] = useState(false);
     const [isSymbolPickerOpen, setIsSymbolPickerOpen] = useState(false);
+    const [symbols, setSymbols] = useState<Array<{ id: string; latex: string }>>([]);
 
     useEffect(() => {
         async function fetchFormula() {
@@ -60,6 +62,20 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         }
 
         fetchFormula();
+    }, [formulaId]);
+
+    // Загружаем символы секции для предпросмотра
+    useEffect(() => {
+        if (formulaId) {
+            fetch(`/api/formulas/${formulaId}/symbols`)
+                .then((res) => res.json())
+                .then((data) => {
+                    setSymbols(data.symbols || []);
+                })
+                .catch((err) => {
+                    console.error('Failed to load symbols:', err);
+                });
+        }
     }, [formulaId]);
 
     const handleCancel = () => {
@@ -139,6 +155,21 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         setIsSymbolPickerOpen(false);
     };
 
+    // Заменяем {{symbol:id}} на LaTeX для предпросмотра
+    const getPreviewLatex = () => {
+        if (!latex) return '';
+
+        let previewLatex = latex;
+        const symbolMap = new Map(symbols.map((s) => [s.id, s]));
+
+        previewLatex = previewLatex.replace(/\{\{symbol:([0-9]+)\}\}/g, (match, symbolId) => {
+            const symbol = symbolMap.get(symbolId);
+            return symbol ? symbol.latex : match;
+        });
+
+        return previewLatex;
+    };
+
     if (loading) {
         return (
             <div className="flex items-center justify-center h-full">
@@ -182,11 +213,11 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
                     </label>
                     <div className="bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 rounded-lg p-4 text-center min-h-20 flex items-center justify-center">
                         {latex ? (
-                            formulaType === 'display' ? (
-                                <BlockMath math={latex} />
-                            ) : (
-                                <InlineMath math={latex} />
-                            )
+                            <div
+                                dangerouslySetInnerHTML={{
+                                    __html: renderLatex(getPreviewLatex(), formulaType === 'display')
+                                }}
+                            />
                         ) : (
                             <div className="text-gray-400 dark:text-gray-500 text-sm">
                                 Формула будет отображаться здесь
