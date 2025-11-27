@@ -29,6 +29,7 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const [searchQuery, setSearchQuery] = useState('');
+    const [searchAllSections, setSearchAllSections] = useState(false);
 
     // Form state for new symbol
     const [newLatex, setNewLatex] = useState('');
@@ -37,13 +38,17 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
     const [newValue, setNewValue] = useState('');
     const [creating, setCreating] = useState(false);
 
-    // Загружаем символы при открытии модального окна
+    // Загружаем символы при открытии модального окна или при изменении режима поиска
     useEffect(() => {
-        if (isOpen && formulaId) {
+        if (isOpen) {
             setLoading(true);
             setError(null);
 
-            fetch(`/api/formulas/${formulaId}/symbols`)
+            const endpoint = searchAllSections
+                ? '/api/symbols/all'
+                : `/api/formulas/${formulaId}/symbols`;
+
+            fetch(endpoint)
                 .then((res) => {
                     if (!res.ok) {
                         throw new Error('Failed to fetch symbols');
@@ -60,7 +65,7 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
                     setLoading(false);
                 });
         }
-    }, [isOpen, formulaId]);
+    }, [isOpen, formulaId, searchAllSections]);
 
     useEffect(() => {
         if (isOpen && activeTab === 'available' && searchInputRef.current) {
@@ -199,15 +204,28 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
                 <div className="flex-1 overflow-hidden p-4">
                     {activeTab === 'available' && (
                         <div className="h-full flex flex-col space-y-4">
-                            {/* Search Input */}
-                            <input
-                                ref={searchInputRef}
-                                type="text"
-                                className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                                placeholder="Поиск по символам..."
-                                value={searchQuery}
-                                onChange={(e) => setSearchQuery(e.target.value)}
-                            />
+                            {/* Search Controls */}
+                            <div className="space-y-2">
+                                <input
+                                    ref={searchInputRef}
+                                    type="text"
+                                    className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 text-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                                    placeholder="Поиск по символам..."
+                                    value={searchQuery}
+                                    onChange={(e) => setSearchQuery(e.target.value)}
+                                />
+                                <label className="flex items-center gap-2 cursor-pointer">
+                                    <input
+                                        type="checkbox"
+                                        className="rounded"
+                                        checked={searchAllSections}
+                                        onChange={(e) => setSearchAllSections(e.target.checked)}
+                                    />
+                                    <span className="text-sm text-gray-700 dark:text-gray-300">
+                                        Искать по всем секциям
+                                    </span>
+                                </label>
+                            </div>
 
                             {/* Symbols List */}
                             <div className="flex-1 overflow-y-auto">
