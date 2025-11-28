@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useParagraph } from '@/hooks/useParagraphs';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
+import { SymbolPickerModal } from './SymbolPickerModal';
 
 interface ParagraphEditorProps {
     paragraphId: string;
@@ -31,6 +32,7 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
     const [order, setOrder] = useState<number | undefined>();
     const [verified, setVerified] = useState(false);
     const [isDirty, setIsDirty] = useState(false);
+    const [isSymbolPickerOpen, setIsSymbolPickerOpen] = useState(false);
 
     const queryClient = useQueryClient();
 
@@ -97,6 +99,30 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
             setVerified(paragraph.verified || false);
             setIsDirty(false);
         }
+    };
+
+    const handleSymbolSelect = (symbol: string) => {
+        // Вставляем символ в текущую позицию курсора
+        const textarea = document.getElementById('content-textarea') as HTMLTextAreaElement;
+        if (textarea) {
+            textarea.focus();
+
+            // Используем execCommand для сохранения истории отмены
+            const success = document.execCommand('insertText', false, symbol);
+
+            if (!success) {
+                // Fallback для браузеров, где execCommand устарел
+                const start = textarea.selectionStart;
+                const end = textarea.selectionEnd;
+                const newValue = content.substring(0, start) + symbol + content.substring(end);
+                setContent(newValue);
+
+                setTimeout(() => {
+                    textarea.setSelectionRange(start + symbol.length, start + symbol.length);
+                }, 0);
+            }
+        }
+        setIsSymbolPickerOpen(false);
     };
 
     if (isLoading) {
@@ -187,9 +213,18 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
 
             {/* Editor */}
             <div className="flex-1 overflow-y-auto px-6 py-4">
-                <label htmlFor="content-textarea" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
-                    Содержимое параграфа
-                </label>
+                <div className="flex items-center justify-between mb-2">
+                    <label htmlFor="content-textarea" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                        Содержимое параграфа
+                    </label>
+                    <button
+                        type="button"
+                        onClick={() => setIsSymbolPickerOpen(true)}
+                        className="px-3 py-1 text-xs font-medium text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors"
+                    >
+                        Symbol
+                    </button>
+                </div>
                 <textarea
                     id="content-textarea"
                     value={content}
@@ -219,6 +254,14 @@ export const ParagraphEditor = ({ paragraphId }: ParagraphEditorProps) => {
                     </div>
                 </div>
             )}
+
+            {/* Symbol Picker Modal */}
+            <SymbolPickerModal
+                isOpen={isSymbolPickerOpen}
+                onClose={() => setIsSymbolPickerOpen(false)}
+                onSelect={handleSymbolSelect}
+                formulaId={paragraphId}
+            />
         </div>
     );
 };
