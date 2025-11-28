@@ -64,8 +64,8 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
         fetchFormula();
     }, [formulaId]);
 
-    // Загружаем символы секции для предпросмотра
-    useEffect(() => {
+    // Функция для загрузки символов
+    const loadSymbols = () => {
         if (formulaId) {
             fetch(`/api/formulas/${formulaId}/symbols`)
                 .then((res) => res.json())
@@ -77,6 +77,11 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
                     console.error('Failed to load symbols:', err);
                 });
         }
+    };
+
+    // Загружаем символы секции для предпросмотра
+    useEffect(() => {
+        loadSymbols();
     }, [formulaId]);
 
     const handleCancel = () => {
@@ -462,6 +467,7 @@ export function FormulaEditor({ formulaId }: FormulaEditorProps) {
                 onClose={() => setIsSymbolPickerOpen(false)}
                 onSelect={handleSymbolSelect}
                 formulaId={formulaId}
+                onSymbolCreated={loadSymbols}
             />
         </div>
     );

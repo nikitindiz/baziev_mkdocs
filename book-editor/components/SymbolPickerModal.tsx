@@ -18,11 +18,12 @@ interface SymbolPickerModalProps {
     onClose: () => void;
     onSelect: (symbol: string) => void;
     formulaId: string;
+    onSymbolCreated?: () => void;
 }
 
 type Tab = 'available' | 'new';
 
-export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: SymbolPickerModalProps) {
+export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId, onSymbolCreated }: SymbolPickerModalProps) {
     const searchInputRef = useRef<HTMLInputElement>(null);
     const [activeTab, setActiveTab] = useState<Tab>('available');
     const [symbols, setSymbols] = useState<SymbolData[]>([]);
@@ -132,6 +133,9 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId }: Symb
 
             // Добавляем новый символ в список
             setSymbols([...symbols, newSymbol]);
+
+            // Вызываем колбэк для обновления символов в родительском компоненте
+            onSymbolCreated?.();
 
             // Вставляем символ в формулу
             onSelect(`{{symbol:${newSymbol.id}}}`);
