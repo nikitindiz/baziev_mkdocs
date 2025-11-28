@@ -10,6 +10,7 @@ interface ParagraphProps {
   renderFormulas?: boolean;
   showFormulasContext?: boolean;
   showParagraphId?: boolean;
+  showSymbols?: boolean;
 }
 
 export function Paragraph({
@@ -17,7 +18,8 @@ export function Paragraph({
   isTarget = false,
   renderFormulas = true,
   showFormulasContext = false,
-  showParagraphId = false
+  showParagraphId = false,
+  showSymbols = true,
 }: ParagraphProps) {
   // Заменяем {{formula:id}} на LaTeX формулы (с подстановкой символов в формулы)
   let paragraphContent = paragraph.content;
@@ -122,6 +124,10 @@ export function Paragraph({
           </span>
         </div>
       )}
+
+      {showSymbols && <div>
+        {/* Symbols content here */}
+      </div>}
     </div>
   );
 }
