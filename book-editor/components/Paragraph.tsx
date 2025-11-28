@@ -125,9 +125,49 @@ export function Paragraph({
         </div>
       )}
 
-      {showSymbols && <div>
-        {/* Symbols content here */}
-      </div>}
+      {showSymbols && paragraph.symbols && paragraph.symbols.length > 0 && (
+        <div className="mt-6 pt-4 border-t border-gray-200 dark:border-gray-700">
+          <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-3">
+            Используемые символы
+          </h4>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {paragraph.symbols.map((symbol) => (
+              <div
+                key={symbol.id}
+                className="flex items-start gap-3 p-3 bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-700"
+              >
+                <div className="shrink-0 w-12 h-10 flex items-center justify-center bg-gray-50 dark:bg-gray-800 rounded border border-gray-200 dark:border-gray-600">
+                  <div dangerouslySetInnerHTML={{ __html: renderLatex(symbol.latex, false) }} />
+                </div>
+                <div className="flex-1 min-w-0">
+                  {symbol.description && (
+                    <div className="text-sm font-medium text-gray-900 dark:text-gray-100">
+                      {symbol.description}
+                    </div>
+                  )}
+                  <div className="flex flex-wrap items-center gap-2 mt-1">
+                    {symbol.value && (
+                      <span className="text-xs text-gray-600 dark:text-gray-400">
+                        {symbol.value}
+                      </span>
+                    )}
+                    {symbol.units && (
+                      <span className="text-xs text-gray-500 dark:text-gray-500 bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded">
+                        {symbol.units}
+                      </span>
+                    )}
+                  </div>
+                  {!symbol.description && !symbol.value && !symbol.units && (
+                    <div className="text-xs text-gray-400 dark:text-gray-500 font-mono">
+                      {symbol.latex}
+                    </div>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

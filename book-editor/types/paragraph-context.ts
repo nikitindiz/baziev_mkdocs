@@ -34,6 +34,7 @@ export interface SymbolReference {
     latex: string;
     description?: string;
     units?: string;
+    value?: string;
 }
 
 export interface ParagraphWithReferences {
