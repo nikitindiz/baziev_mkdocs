@@ -21,6 +21,10 @@ export interface FormulaReference {
     is_symbol?: boolean;
     symbol_parse_confidence?: string;
     symbol_definition?: string;
+    metadata?: {
+        equation_number?: string;
+        [key: string]: any;
+    };
 }
 
 export interface LiteratureReference {

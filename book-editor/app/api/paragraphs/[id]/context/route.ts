@@ -80,7 +80,8 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           type: f.type,
           is_symbol: f.is_symbol,
           symbol_parse_confidence: f.symbol_parse_confidence,
-          symbol_definition: f.symbol_definition
+          symbol_definition: f.symbol_definition,
+          metadata: f.metadata
         }) as formulas,
         collect(DISTINCT {
           id: l.id,
@@ -200,15 +201,29 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                 const formulas = record
                     .get('formulas')
                     .filter((f: any) => f.id !== null)
-                    .map((f: any) => ({
-                        id: f.id,
-                        latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
-                        wrapper_html: f.wrapper_html || undefined,
-                        type: f.type || undefined,
-                        is_symbol: f.is_symbol || undefined,
-                        symbol_parse_confidence: f.symbol_parse_confidence || undefined,
-                        symbol_definition: f.symbol_definition || undefined,
-                    }));
+                    .map((f: any) => {
+                        let metadata = undefined;
+                        if (f.metadata) {
+                            try {
+                                metadata =
+                                    typeof f.metadata === 'string'
+                                        ? JSON.parse(f.metadata)
+                                        : f.metadata;
+                            } catch (e) {
+                                console.error('Failed to parse formula metadata:', e);
+                            }
+                        }
+                        return {
+                            id: f.id,
+                            latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
+                            wrapper_html: f.wrapper_html || undefined,
+                            type: f.type || undefined,
+                            is_symbol: f.is_symbol || undefined,
+                            symbol_parse_confidence: f.symbol_parse_confidence || undefined,
+                            symbol_definition: f.symbol_definition || undefined,
+                            metadata,
+                        };
+                    });
 
                 const literature = record
                     .get('literature')

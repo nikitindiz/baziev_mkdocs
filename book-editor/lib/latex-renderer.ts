@@ -34,6 +34,11 @@ export function replaceFormulaPlaceholders(
         is_symbol?: boolean;
         symbol_parse_confidence?: string;
         symbol_definition?: string;
+        type?: string;
+        metadata?: {
+            equation_number?: string;
+            [key: string]: any;
+        };
     }>,
     symbols?: Array<{
         id: string;
@@ -56,7 +61,19 @@ export function replaceFormulaPlaceholders(
                 formulaLatex = replaceSymbolsInLatex(formulaLatex, symbols);
             }
 
-            const renderedLatex = renderLatex(formulaLatex, false); // inline mode
+            const isDisplayMode = formula.type === 'display';
+            const renderedLatex = renderLatex(formulaLatex, isDisplayMode);
+
+            // Check if it's a display formula with equation number
+            if (isDisplayMode && formula.metadata?.equation_number) {
+                // Display formula with equation number
+                return `<div class="display-formula-container regular-formula" data-formula-id="${formula.id}" style="display: flex; align-items: center; justify-content: center; gap: 1rem; margin: 1rem 0; cursor: pointer;"><div class="formula-content" style="flex: 1; text-align: center;">${renderedLatex}</div><span class="equation-number" style="color: #6b7280; font-size: 0.875rem; white-space: nowrap; pointer-events: none;">${escapeHtml(formula.metadata.equation_number)}</span></div>`;
+            }
+
+            // Display formula without equation number
+            if (isDisplayMode) {
+                return `<div class="display-formula-container regular-formula" data-formula-id="${formula.id}" style="text-align: center; margin: 1rem 0; cursor: pointer;">${renderedLatex}</div>`;
+            }
 
             // Check if it's a high-confidence symbol
             const isHighConfidenceSymbol =
