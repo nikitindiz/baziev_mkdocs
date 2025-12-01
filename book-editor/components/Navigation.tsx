@@ -42,7 +42,7 @@ export function Navigation({ previousSection, nextSection }: NavigationProps) {
             <div className="text-right">
               <div className="text-xs opacity-80">Следующая секция</div>
               <div className="font-medium text-sm">
-                {nextSection.number && `§${nextSection.number} `}
+                {nextSection.number && `${nextSection.number} `}
                 {nextSection.title}
               </div>
             </div>
