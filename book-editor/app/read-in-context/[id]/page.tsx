@@ -168,8 +168,8 @@ export default function ReadInContextPage() {
               {context.chapter.title}
             </h1>
             <h2 className="text-xl font-semibold text-gray-700 dark:text-gray-300">
-              {context.section.number && `§${context.section.number} `}
-              {context.section.title}
+              {/* {context.section.number && `${context.section.number} `} */}
+              §{context.section.title}
             </h2>
           </header>
 
