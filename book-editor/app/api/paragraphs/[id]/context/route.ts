@@ -23,12 +23,12 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       
       // Извлекаем ID символов из параграфов и формул
       WITH c, s, sectionParagraph, t, i, f, l,
-           [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 | 
-            CASE WHEN x =~ '^[0-9]+.*' THEN split(split(x, '}}')[0], ':')[0] ELSE null END
+           [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+            split(x, '}}')[0]
            ] + 
            CASE WHEN f.latex IS NOT NULL THEN
-             [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 | 
-              CASE WHEN x =~ '^[0-9]+.*' THEN split(split(x, '}}')[0], ':')[0] ELSE null END
+             [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+              split(x, '}}')[0]
              ]
            ELSE []
            END as symbolIds

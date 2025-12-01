@@ -25,11 +25,11 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
             
             // Извлекаем ID символов из содержимого параграфов и формул
             WITH sectionParagraph, f,
-                 [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 | 
-                  CASE WHEN x =~ '^[0-9]+.*' THEN split(x, '}}')[0] ELSE null END
+                 [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+                  split(x, '}}')[0]
                  ] + 
-                 [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 | 
-                  CASE WHEN x =~ '^[0-9]+.*' THEN split(x, '}}')[0] ELSE null END
+                 [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+                  split(x, '}}')[0]
                  ] as symbolIds
             
             // Получаем Symbol сущности по найденным ID
