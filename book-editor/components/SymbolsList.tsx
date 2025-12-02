@@ -35,9 +35,25 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
     const selectedSymbolId = searchParams.get('selected-symbol');
 
     const [searchText, setSearchText] = useState('');
-    const [filterBySection, setFilterBySection] = useState(false);
-    const [filterByChapter, setFilterByChapter] = useState(false);
-    const [sortBy, setSortBy] = useState<'latex' | 'created'>('latex');
+    const [filterBySection, setFilterBySection] = useState(() => {
+        if (typeof window !== 'undefined') {
+            return localStorage.getItem('symbolsList.filterBySection') === 'true';
+        }
+        return false;
+    });
+    const [filterByChapter, setFilterByChapter] = useState(() => {
+        if (typeof window !== 'undefined') {
+            return localStorage.getItem('symbolsList.filterByChapter') === 'true';
+        }
+        return false;
+    });
+    const [sortBy, setSortBy] = useState<'latex' | 'created'>(() => {
+        if (typeof window !== 'undefined') {
+            const saved = localStorage.getItem('symbolsList.sortBy');
+            return (saved === 'created' ? 'created' : 'latex') as 'latex' | 'created';
+        }
+        return 'latex';
+    });
 
     // Определяем фильтры для запроса
     const filters: SymbolsListFilters = useMemo(
@@ -60,19 +76,25 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
     };
 
     const toggleFilterBySection = () => {
-        if (!filterBySection && filterByChapter) {
+        const newValue = !filterBySection;
+        if (newValue && filterByChapter) {
             // Если включаем фильтр по секции, то отключаем фильтр по главе
             setFilterByChapter(false);
+            localStorage.setItem('symbolsList.filterByChapter', 'false');
         }
-        setFilterBySection(!filterBySection);
+        setFilterBySection(newValue);
+        localStorage.setItem('symbolsList.filterBySection', String(newValue));
     };
 
     const toggleFilterByChapter = () => {
-        if (!filterByChapter && filterBySection) {
+        const newValue = !filterByChapter;
+        if (newValue && filterBySection) {
             // Если включаем фильтр по главе, то отключаем фильтр по секции
             setFilterBySection(false);
+            localStorage.setItem('symbolsList.filterBySection', 'false');
         }
-        setFilterByChapter(!filterByChapter);
+        setFilterByChapter(newValue);
+        localStorage.setItem('symbolsList.filterByChapter', String(newValue));
     };
 
     const symbols = data?.symbols || [];
@@ -157,7 +179,11 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                     </label>
                     <select
                         value={sortBy}
-                        onChange={(e) => setSortBy(e.target.value as 'latex' | 'created')}
+                        onChange={(e) => {
+                            const newValue = e.target.value as 'latex' | 'created';
+                            setSortBy(newValue);
+                            localStorage.setItem('symbolsList.sortBy', newValue);
+                        }}
                         className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md 
                        bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100
                        focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400"
