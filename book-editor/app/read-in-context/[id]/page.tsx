@@ -10,6 +10,7 @@ import { RightSidebar } from '../../../components/RightSidebar';
 import { LeftSidebar } from '../../../components/LeftSidebar';
 import { ParagraphEditor } from '../../../components/ParagraphEditor';
 import { FormulaEditor } from '../../../components/FormulaEditor';
+import { SymbolsList } from '../../../components/SymbolsList';
 
 async function fetchParagraphContext(paragraphId: string): Promise<ParagraphContextResponse> {
   console.log('Fetching context for paragraph ID:', paragraphId);
@@ -197,11 +198,10 @@ export default function ReadInContextPage() {
 
       {/* Left Sidebar */}
       <LeftSidebar>
-        <div className="flex items-center justify-center h-full">
-          <div className="text-center text-gray-500 dark:text-gray-400">
-            <p>Редактор символов (в разработке)</p>
-          </div>
-        </div>
+        <SymbolsList
+          currentChapterId={context?.chapter.id}
+          currentSectionId={context?.section.id}
+        />
       </LeftSidebar>
 
       {/* Right Sidebar */}
