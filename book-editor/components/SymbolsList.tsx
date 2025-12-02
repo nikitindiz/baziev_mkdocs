@@ -5,6 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { useQuery } from '@tanstack/react-query';
 import { SymbolsListResponse, SymbolsListFilters } from '@/types/symbol-list';
 import { BlockMath } from 'react-katex';
+import { SymbolEditorCompact } from './SymbolEditorCompact';
 import 'katex/dist/katex.min.css';
 
 interface SymbolsListProps {
@@ -35,6 +36,7 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
     const selectedSymbolId = searchParams.get('selected-symbol');
 
     const [searchText, setSearchText] = useState('');
+    const [editingSymbolId, setEditingSymbolId] = useState<string | null>(null);
     const [filterBySection, setFilterBySection] = useState(() => {
         if (typeof window !== 'undefined') {
             return localStorage.getItem('symbolsList.filterBySection') === 'true';
@@ -105,6 +107,14 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
         router.push(newUrl.pathname + newUrl.search, { scroll: false });
     };
 
+    const handleSymbolDoubleClick = (symbolId: string) => {
+        setEditingSymbolId(symbolId);
+    };
+
+    const handleCloseEditor = () => {
+        setEditingSymbolId(null);
+    };
+
     // Scroll to selected symbol when it's selected
     useEffect(() => {
         if (!selectedSymbolId || symbols.length === 0) return;
@@ -119,6 +129,11 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
 
     return (
         <div className="flex flex-col h-full">
+            {/* Compact Editor */}
+            {editingSymbolId && (
+                <SymbolEditorCompact symbolId={editingSymbolId} onClose={handleCloseEditor} />
+            )}
+
             {/* Заголовок */}
             <div className="p-4 border-b border-gray-200 dark:border-gray-700">
                 <h2 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-3">
@@ -223,14 +238,40 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                                     key={symbol.id}
                                     id={`symbol-${symbol.id}`}
                                     onClick={() => handleSymbolClick(symbol.id)}
+                                    onDoubleClick={() => handleSymbolDoubleClick(symbol.id)}
                                     className={`p-3 border rounded-lg hover:shadow-md transition-all cursor-pointer ${isSelected
                                         ? 'bg-blue-50 dark:bg-blue-900/30 border-blue-500 dark:border-blue-400 ring-2 ring-blue-500 dark:ring-blue-400'
                                         : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700'
                                         }`}
+                                    title="Двойной клик для редактирования"
                                 >
-                                    {/* LaTeX формула */}
-                                    <div className="mb-2 text-center bg-gray-50 dark:bg-gray-900 p-2 rounded">
-                                        <BlockMath math={symbol.latex} />
+                                    {/* LaTeX формула с кнопкой редактирования */}
+                                    <div className="mb-2 relative">
+                                        <div className="text-center bg-gray-50 dark:bg-gray-900 p-2 rounded">
+                                            <BlockMath math={symbol.latex} />
+                                        </div>
+                                        <button
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                handleSymbolDoubleClick(symbol.id);
+                                            }}
+                                            className="absolute top-1 right-1 p-1 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded hover:bg-gray-100 dark:hover:bg-gray-700"
+                                            title="Редактировать"
+                                        >
+                                            <svg
+                                                className="w-4 h-4 text-gray-600 dark:text-gray-400"
+                                                fill="none"
+                                                stroke="currentColor"
+                                                viewBox="0 0 24 24"
+                                            >
+                                                <path
+                                                    strokeLinecap="round"
+                                                    strokeLinejoin="round"
+                                                    strokeWidth={2}
+                                                    d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+                                                />
+                                            </svg>
+                                        </button>
                                     </div>
 
                                     {/* Описание */}
@@ -254,9 +295,31 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                                         </div>
                                     )}
 
+                                    {/* ID символа */}
+                                    <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
+                                        <div className="flex items-center gap-1">
+                                            <span className="font-semibold">ID:</span>
+                                            <code className="px-1 py-0.5 bg-gray-100 dark:bg-gray-900 rounded font-mono text-[10px]">
+                                                {symbol.id}
+                                            </code>
+                                            <button
+                                                onClick={(e) => {
+                                                    e.stopPropagation();
+                                                    navigator.clipboard.writeText(symbol.id);
+                                                }}
+                                                className="p-0.5 hover:bg-gray-200 dark:hover:bg-gray-700 rounded"
+                                                title="Копировать ID"
+                                            >
+                                                <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                                                </svg>
+                                            </button>
+                                        </div>
+                                    </div>
+
                                     {/* Контекст (глава/секция) */}
                                     {(symbol.chapterTitle || symbol.sectionTitle) && (
-                                        <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
+                                        <div className="text-xs text-gray-500 dark:text-gray-500 mt-1 pt-1 border-t border-gray-200 dark:border-gray-700">
                                             {symbol.chapterTitle && (
                                                 <div className="truncate" title={symbol.chapterTitle}>
                                                     📖 {symbol.chapterTitle}
