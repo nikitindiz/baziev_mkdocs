@@ -35,12 +35,15 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
     const [sortBy, setSortBy] = useState<'latex' | 'created'>('latex');
 
     // Определяем фильтры для запроса
-    const filters: SymbolsListFilters = useMemo(() => ({
-        search: searchText,
-        chapterId: filterByChapter ? currentChapterId : undefined,
-        sectionId: filterBySection ? currentSectionId : undefined,
-        sortBy,
-    }), [searchText, filterByChapter, filterBySection, sortBy, currentChapterId, currentSectionId]);
+    const filters: SymbolsListFilters = useMemo(
+        () => ({
+            search: searchText,
+            chapterId: filterByChapter ? currentChapterId : undefined,
+            sectionId: filterBySection ? currentSectionId : undefined,
+            sortBy,
+        }),
+        [searchText, filterByChapter, filterBySection, sortBy, currentChapterId, currentSectionId],
+    );
 
     const { data, isLoading, error } = useQuery({
         queryKey: ['symbols-list', filters],

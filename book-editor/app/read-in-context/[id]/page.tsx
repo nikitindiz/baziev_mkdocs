@@ -199,8 +199,8 @@ export default function ReadInContextPage() {
       {/* Left Sidebar */}
       <LeftSidebar>
         <SymbolsList
-          currentChapterId={context?.chapter.id}
-          currentSectionId={context?.section.id}
+          currentChapterId={context.chapter.id}
+          currentSectionId={context.section.id}
         />
       </LeftSidebar>
 

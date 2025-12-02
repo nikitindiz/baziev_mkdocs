@@ -23,35 +23,11 @@ export async function GET(request: NextRequest) {
         const sectionId = searchParams.get('sectionId');
         const sortBy = searchParams.get('sortBy') || 'latex'; // 'latex' or 'created'
 
-        // Построение запроса с фильтрами
-        let whereConditions: string[] = [];
+        // Параметры для запроса
         const params: Record<string, any> = {};
-
-        // Фильтр по тексту (поиск в latex, description, units, value)
-        if (searchText) {
-            whereConditions.push(`(
-                toLower(s.latex) CONTAINS toLower($searchText) OR
-                toLower(COALESCE(s.description, '')) CONTAINS toLower($searchText) OR
-                toLower(COALESCE(s.units, '')) CONTAINS toLower($searchText) OR
-                toLower(COALESCE(s.value, '')) CONTAINS toLower($searchText)
-            )`);
-            params.searchText = searchText;
-        }
-
-        // Фильтр по главе
-        if (chapterId) {
-            whereConditions.push('c.id = $chapterId');
-            params.chapterId = chapterId;
-        }
-
-        // Фильтр по секции
-        if (sectionId) {
-            whereConditions.push('sec.id = $sectionId');
-            params.sectionId = sectionId;
-        }
-
-        const whereClause =
-            whereConditions.length > 0 ? `WHERE ${whereConditions.join(' AND ')}` : '';
+        if (searchText) params.searchText = searchText;
+        if (chapterId) params.chapterId = chapterId;
+        if (sectionId) params.sectionId = sectionId;
 
         // Определение сортировки
         const orderClause =
@@ -59,25 +35,82 @@ export async function GET(request: NextRequest) {
                 ? 'ORDER BY s.id DESC' // id содержит timestamp
                 : 'ORDER BY s.latex ASC';
 
-        const query = `
-            MATCH (s:Symbol)
-            OPTIONAL MATCH (s)<-[:HAS_SYMBOL]-(f:Formula)
-            OPTIONAL MATCH (f)<-[:HAS_FORMULA]-(p:Paragraph)
-            OPTIONAL MATCH (p)-[:BELONGS_TO_SECTION]->(sec:Section)
-            OPTIONAL MATCH (sec)-[:BELONGS_TO_CHAPTER]->(c:Chapter)
-            ${whereClause}
-            WITH DISTINCT s, c, sec
-            RETURN s.id as id,
-                   s.latex as latex,
-                   s.description as description,
-                   s.units as units,
-                   s.value as value,
-                   c.id as chapterId,
-                   c.title as chapterTitle,
-                   sec.id as sectionId,
-                   sec.title as sectionTitle
-            ${orderClause}
-        `;
+        // Строим запрос в зависимости от фильтров
+        let query = '';
+
+        if (sectionId) {
+            // Фильтр по секции - ищем символы, которые используются в формулах этой секции
+            query = `
+                MATCH (sec:Section {id: $sectionId})
+                MATCH (sec)<-[:HAS_SECTION]-(c:Chapter)
+                MATCH (sec)-[:HAS_PARAGRAPH]->(p:Paragraph)
+                MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
+                WHERE f.latex CONTAINS '{{symbol:'
+                WITH f, c, sec, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIds
+                UNWIND symbolIds as symbolId
+                MATCH (s:Symbol {id: symbolId})
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                WITH DISTINCT s, c, sec
+                RETURN s.id as id,
+                       s.latex as latex,
+                       s.description as description,
+                       s.units as units,
+                       s.value as value,
+                       c.id as chapterId,
+                       c.title as chapterTitle,
+                       sec.id as sectionId,
+                       sec.title as sectionTitle
+                ${orderClause}
+            `;
+        } else if (chapterId) {
+            // Фильтр по главе - ищем символы, которые используются в формулах этой главы
+            query = `
+                MATCH (c:Chapter {id: $chapterId})
+                MATCH (c)-[:HAS_SECTION]->(sec:Section)
+                MATCH (sec)-[:HAS_PARAGRAPH]->(p:Paragraph)
+                MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
+                WHERE f.latex CONTAINS '{{symbol:'
+                WITH f, c, sec, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIds
+                UNWIND symbolIds as symbolId
+                MATCH (s:Symbol {id: symbolId})
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                WITH DISTINCT s, c, sec
+                RETURN s.id as id,
+                       s.latex as latex,
+                       s.description as description,
+                       s.units as units,
+                       s.value as value,
+                       c.id as chapterId,
+                       c.title as chapterTitle,
+                       sec.id as sectionId,
+                       sec.title as sectionTitle
+                ${orderClause}
+            `;
+        } else {
+            // Без фильтров по главе/секции - показываем все символы
+            query = `
+                MATCH (s:Symbol)
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                OPTIONAL MATCH (f:Formula)
+                WHERE f.latex CONTAINS ('{{symbol:' + s.id + '}}')
+                OPTIONAL MATCH (f)<-[:CONTAINS_FORMULA]-(p:Paragraph)
+                OPTIONAL MATCH (p)<-[:HAS_PARAGRAPH]-(sec:Section)
+                OPTIONAL MATCH (sec)<-[:HAS_SECTION]-(c:Chapter)
+                WITH DISTINCT s, 
+                     head(collect(DISTINCT c)) as c, 
+                     head(collect(DISTINCT sec)) as sec
+                RETURN s.id as id,
+                       s.latex as latex,
+                       s.description as description,
+                       s.units as units,
+                       s.value as value,
+                       c.id as chapterId,
+                       c.title as chapterTitle,
+                       sec.id as sectionId,
+                       sec.title as sectionTitle
+                ${orderClause}
+            `;
+        }
 
         const result = await session.run(query, params);
 
