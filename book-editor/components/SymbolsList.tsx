@@ -1,6 +1,7 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { useQuery } from '@tanstack/react-query';
 import { SymbolsListResponse, SymbolsListFilters } from '@/types/symbol-list';
 import { BlockMath } from 'react-katex';
@@ -29,6 +30,10 @@ async function fetchSymbolsList(filters: SymbolsListFilters): Promise<SymbolsLis
 }
 
 export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListProps) {
+    const router = useRouter();
+    const searchParams = useSearchParams();
+    const selectedSymbolId = searchParams.get('selected-symbol');
+
     const [searchText, setSearchText] = useState('');
     const [filterBySection, setFilterBySection] = useState(false);
     const [filterByChapter, setFilterByChapter] = useState(false);
@@ -71,6 +76,24 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
     };
 
     const symbols = data?.symbols || [];
+
+    const handleSymbolClick = (symbolId: string) => {
+        const newUrl = new URL(window.location.href);
+        newUrl.searchParams.set('selected-symbol', symbolId);
+        router.push(newUrl.pathname + newUrl.search, { scroll: false });
+    };
+
+    // Scroll to selected symbol when it's selected
+    useEffect(() => {
+        if (!selectedSymbolId || symbols.length === 0) return;
+
+        setTimeout(() => {
+            const element = document.getElementById(`symbol-${selectedSymbolId}`);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+        }, 100);
+    }, [selectedSymbolId, symbols]);
 
     return (
         <div className="flex flex-col h-full">
@@ -167,55 +190,62 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
 
                 {!isLoading && !error && symbols.length > 0 && (
                     <div className="space-y-3">
-                        {symbols.map((symbol) => (
-                            <div
-                                key={symbol.id}
-                                className="p-3 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 
-                           rounded-lg hover:shadow-md transition-shadow cursor-pointer"
-                            >
-                                {/* LaTeX формула */}
-                                <div className="mb-2 text-center bg-gray-50 dark:bg-gray-900 p-2 rounded">
-                                    <BlockMath math={symbol.latex} />
+                        {symbols.map((symbol) => {
+                            const isSelected = symbol.id === selectedSymbolId;
+                            return (
+                                <div
+                                    key={symbol.id}
+                                    id={`symbol-${symbol.id}`}
+                                    onClick={() => handleSymbolClick(symbol.id)}
+                                    className={`p-3 border rounded-lg hover:shadow-md transition-all cursor-pointer ${isSelected
+                                        ? 'bg-blue-50 dark:bg-blue-900/30 border-blue-500 dark:border-blue-400 ring-2 ring-blue-500 dark:ring-blue-400'
+                                        : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700'
+                                        }`}
+                                >
+                                    {/* LaTeX формула */}
+                                    <div className="mb-2 text-center bg-gray-50 dark:bg-gray-900 p-2 rounded">
+                                        <BlockMath math={symbol.latex} />
+                                    </div>
+
+                                    {/* Описание */}
+                                    {symbol.description && (
+                                        <div className="text-sm text-gray-700 dark:text-gray-300 mb-1">
+                                            <span className="font-semibold">Описание:</span> {symbol.description}
+                                        </div>
+                                    )}
+
+                                    {/* Единицы измерения */}
+                                    {symbol.units && (
+                                        <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
+                                            <span className="font-semibold">Единицы:</span> {symbol.units}
+                                        </div>
+                                    )}
+
+                                    {/* Значение */}
+                                    {symbol.value && (
+                                        <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
+                                            <span className="font-semibold">Значение:</span> {symbol.value}
+                                        </div>
+                                    )}
+
+                                    {/* Контекст (глава/секция) */}
+                                    {(symbol.chapterTitle || symbol.sectionTitle) && (
+                                        <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
+                                            {symbol.chapterTitle && (
+                                                <div className="truncate" title={symbol.chapterTitle}>
+                                                    📖 {symbol.chapterTitle}
+                                                </div>
+                                            )}
+                                            {symbol.sectionTitle && (
+                                                <div className="truncate" title={symbol.sectionTitle}>
+                                                    § {symbol.sectionTitle}
+                                                </div>
+                                            )}
+                                        </div>
+                                    )}
                                 </div>
-
-                                {/* Описание */}
-                                {symbol.description && (
-                                    <div className="text-sm text-gray-700 dark:text-gray-300 mb-1">
-                                        <span className="font-semibold">Описание:</span> {symbol.description}
-                                    </div>
-                                )}
-
-                                {/* Единицы измерения */}
-                                {symbol.units && (
-                                    <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                        <span className="font-semibold">Единицы:</span> {symbol.units}
-                                    </div>
-                                )}
-
-                                {/* Значение */}
-                                {symbol.value && (
-                                    <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                        <span className="font-semibold">Значение:</span> {symbol.value}
-                                    </div>
-                                )}
-
-                                {/* Контекст (глава/секция) */}
-                                {(symbol.chapterTitle || symbol.sectionTitle) && (
-                                    <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-                                        {symbol.chapterTitle && (
-                                            <div className="truncate" title={symbol.chapterTitle}>
-                                                📖 {symbol.chapterTitle}
-                                            </div>
-                                        )}
-                                        {symbol.sectionTitle && (
-                                            <div className="truncate" title={symbol.sectionTitle}>
-                                                § {symbol.sectionTitle}
-                                            </div>
-                                        )}
-                                    </div>
-                                )}
-                            </div>
-                        ))}
+                            );
+                        })}
                     </div>
                 )}
             </div>

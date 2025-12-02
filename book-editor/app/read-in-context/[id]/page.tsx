@@ -11,6 +11,7 @@ import { LeftSidebar } from '../../../components/LeftSidebar';
 import { ParagraphEditor } from '../../../components/ParagraphEditor';
 import { FormulaEditor } from '../../../components/FormulaEditor';
 import { SymbolsList } from '../../../components/SymbolsList';
+import { SymbolEditor } from '../../../components/SymbolEditor';
 
 async function fetchParagraphContext(paragraphId: string): Promise<ParagraphContextResponse> {
   console.log('Fetching context for paragraph ID:', paragraphId);
@@ -30,6 +31,7 @@ export default function ReadInContextPage() {
   const searchParams = useSearchParams();
   const paragraphId = decodeURI(params.id as string);
   const selectedFormulaId = searchParams.get('selected-formula');
+  const selectedSymbolId = searchParams.get('selected-symbol');
 
   // Используем React Query для получения контекста параграфа
   const { data: context, isLoading: loading, error } = useQuery({
@@ -206,7 +208,9 @@ export default function ReadInContextPage() {
 
       {/* Right Sidebar */}
       <RightSidebar>
-        {selectedFormulaId ? (
+        {selectedSymbolId ? (
+          <SymbolEditor symbolId={selectedSymbolId} />
+        ) : selectedFormulaId ? (
           <FormulaEditor formulaId={selectedFormulaId} />
         ) : paragraphId ? (
           <ParagraphEditor paragraphId={paragraphId} />
