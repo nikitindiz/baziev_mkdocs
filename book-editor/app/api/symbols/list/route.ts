@@ -40,15 +40,25 @@ export async function GET(request: NextRequest) {
         let query = '';
 
         if (sectionId) {
-            // Фильтр по секции - ищем символы, которые используются в формулах этой секции
+            // Фильтр по секции - ищем символы, которые используются в формулах или параграфах этой секции
             query = `
                 MATCH (sec:Section {id: $sectionId})
                 MATCH (sec)<-[:HAS_SECTION]-(c:Chapter)
                 MATCH (sec)-[:HAS_PARAGRAPH]->(p:Paragraph)
-                MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
+                
+                // Собираем символы из формул
+                OPTIONAL MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
                 WHERE f.latex CONTAINS '{{symbol:'
-                WITH f, c, sec, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIds
-                UNWIND symbolIds as symbolId
+                WITH c, sec, p, f, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIdsInFormula
+                
+                // Собираем символы из параграфов
+                WITH c, sec, p, symbolIdsInFormula, 
+                     CASE WHEN p.content CONTAINS '{{symbol:' 
+                          THEN [x IN split(p.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]]
+                          ELSE [] END as symbolIdsInParagraph
+                
+                // Объединяем все символы
+                UNWIND (symbolIdsInFormula + symbolIdsInParagraph) as symbolId
                 MATCH (s:Symbol {id: symbolId})
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
                 WITH s, c, sec, count(symbolId) as usageCount
@@ -65,15 +75,25 @@ export async function GET(request: NextRequest) {
                 ${orderClause}
             `;
         } else if (chapterId) {
-            // Фильтр по главе - ищем символы, которые используются в формулах этой главы
+            // Фильтр по главе - ищем символы, которые используются в формулах или параграфах этой главы
             query = `
                 MATCH (c:Chapter {id: $chapterId})
                 MATCH (c)-[:HAS_SECTION]->(sec:Section)
                 MATCH (sec)-[:HAS_PARAGRAPH]->(p:Paragraph)
-                MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
+                
+                // Собираем символы из формул
+                OPTIONAL MATCH (p)-[:CONTAINS_FORMULA]->(f:Formula)
                 WHERE f.latex CONTAINS '{{symbol:'
-                WITH f, c, sec, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIds
-                UNWIND symbolIds as symbolId
+                WITH c, sec, p, f, [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]] as symbolIdsInFormula
+                
+                // Собираем символы из параграфов
+                WITH c, sec, p, symbolIdsInFormula, 
+                     CASE WHEN p.content CONTAINS '{{symbol:' 
+                          THEN [x IN split(p.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | split(x, '}}')[0]]
+                          ELSE [] END as symbolIdsInParagraph
+                
+                // Объединяем все символы
+                UNWIND (symbolIdsInFormula + symbolIdsInParagraph) as symbolId
                 MATCH (s:Symbol {id: symbolId})
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
                 WITH s, c, sec, count(symbolId) as usageCount
@@ -94,16 +114,26 @@ export async function GET(request: NextRequest) {
             query = `
                 MATCH (s:Symbol)
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                
+                // Считаем использование в формулах
                 OPTIONAL MATCH (f:Formula)
                 WHERE f.latex CONTAINS ('{{symbol:' + s.id + '}}')
-                WITH s, f
-                OPTIONAL MATCH (f)<-[:CONTAINS_FORMULA]-(p:Paragraph)
-                OPTIONAL MATCH (p)<-[:HAS_PARAGRAPH]-(sec:Section)
+                WITH s, collect(DISTINCT f) as formulas
+                
+                // Считаем использование в параграфах
+                OPTIONAL MATCH (p:Paragraph)
+                WHERE p.content CONTAINS ('{{symbol:' + s.id + '}}')
+                WITH s, formulas, collect(DISTINCT p) as paragraphs
+                
+                // Берем первый параграф для получения главы/секции
+                WITH s, formulas, paragraphs, head(paragraphs) as firstParagraph
+                OPTIONAL MATCH (firstParagraph)<-[:HAS_PARAGRAPH]-(sec:Section)
                 OPTIONAL MATCH (sec)<-[:HAS_SECTION]-(c:Chapter)
+                
                 WITH s,
-                     head(collect(DISTINCT c)) as c, 
-                     head(collect(DISTINCT sec)) as sec,
-                     size([formula IN collect(DISTINCT f) WHERE formula IS NOT NULL]) as usageCount
+                     c, 
+                     sec,
+                     size([f IN formulas WHERE f IS NOT NULL]) + size([p IN paragraphs WHERE p IS NOT NULL]) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
                        s.description as description,
@@ -130,7 +160,9 @@ export async function GET(request: NextRequest) {
             chapterTitle: record.get('chapterTitle') || undefined,
             sectionId: record.get('sectionId') || undefined,
             sectionTitle: record.get('sectionTitle') || undefined,
-            usageCount: record.get('usageCount')?.toNumber ? record.get('usageCount').toNumber() : record.get('usageCount') || 0,
+            usageCount: record.get('usageCount')?.toNumber
+                ? record.get('usageCount').toNumber()
+                : record.get('usageCount') || 0,
         }));
 
         return NextResponse.json({ symbols });

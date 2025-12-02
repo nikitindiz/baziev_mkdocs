@@ -318,15 +318,14 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                                         {symbol.usageCount !== undefined && (
                                             <div className="flex items-center gap-1">
                                                 <span className="font-semibold">Использований:</span>
-                                                <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${
-                                                    symbol.usageCount === 0
+                                                <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${symbol.usageCount === 0
                                                         ? 'bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400'
                                                         : symbol.usageCount < 5
-                                                        ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300'
-                                                        : symbol.usageCount < 10
-                                                        ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300'
-                                                        : 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300'
-                                                }`}>
+                                                            ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300'
+                                                            : symbol.usageCount < 10
+                                                                ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300'
+                                                                : 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300'
+                                                    }`}>
                                                     {symbol.usageCount}
                                                 </span>
                                             </div>
