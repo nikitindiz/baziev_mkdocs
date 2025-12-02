@@ -7,6 +7,7 @@ import { ParagraphContextResponse } from '@/types/paragraph-context';
 import { Paragraph } from '../../../components/Paragraph';
 import { Navigation } from '../../../components/Navigation';
 import { RightSidebar } from '../../../components/RightSidebar';
+import { LeftSidebar } from '../../../components/LeftSidebar';
 import { ParagraphEditor } from '../../../components/ParagraphEditor';
 import { FormulaEditor } from '../../../components/FormulaEditor';
 
@@ -193,6 +194,15 @@ export default function ReadInContextPage() {
           </div>
         </div>
       </div>
+
+      {/* Left Sidebar */}
+      <LeftSidebar>
+        <div className="flex items-center justify-center h-full">
+          <div className="text-center text-gray-500 dark:text-gray-400">
+            <p>Редактор символов (в разработке)</p>
+          </div>
+        </div>
+      </LeftSidebar>
 
       {/* Right Sidebar */}
       <RightSidebar>
