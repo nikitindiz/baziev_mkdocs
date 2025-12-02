@@ -11,6 +11,7 @@ export interface SymbolListItem {
     chapterTitle?: string;
     sectionId?: string;
     sectionTitle?: string;
+    usageCount?: number;
 }
 
 export async function GET(request: NextRequest) {
@@ -50,7 +51,7 @@ export async function GET(request: NextRequest) {
                 UNWIND symbolIds as symbolId
                 MATCH (s:Symbol {id: symbolId})
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
-                WITH DISTINCT s, c, sec
+                WITH s, c, sec, count(symbolId) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
                        s.description as description,
@@ -59,7 +60,8 @@ export async function GET(request: NextRequest) {
                        c.id as chapterId,
                        c.title as chapterTitle,
                        sec.id as sectionId,
-                       sec.title as sectionTitle
+                       sec.title as sectionTitle,
+                       usageCount
                 ${orderClause}
             `;
         } else if (chapterId) {
@@ -74,7 +76,7 @@ export async function GET(request: NextRequest) {
                 UNWIND symbolIds as symbolId
                 MATCH (s:Symbol {id: symbolId})
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
-                WITH DISTINCT s, c, sec
+                WITH s, c, sec, count(symbolId) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
                        s.description as description,
@@ -83,7 +85,8 @@ export async function GET(request: NextRequest) {
                        c.id as chapterId,
                        c.title as chapterTitle,
                        sec.id as sectionId,
-                       sec.title as sectionTitle
+                       sec.title as sectionTitle,
+                       usageCount
                 ${orderClause}
             `;
         } else {
@@ -93,12 +96,14 @@ export async function GET(request: NextRequest) {
                 ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
                 OPTIONAL MATCH (f:Formula)
                 WHERE f.latex CONTAINS ('{{symbol:' + s.id + '}}')
+                WITH s, f
                 OPTIONAL MATCH (f)<-[:CONTAINS_FORMULA]-(p:Paragraph)
                 OPTIONAL MATCH (p)<-[:HAS_PARAGRAPH]-(sec:Section)
                 OPTIONAL MATCH (sec)<-[:HAS_SECTION]-(c:Chapter)
-                WITH DISTINCT s, 
+                WITH s,
                      head(collect(DISTINCT c)) as c, 
-                     head(collect(DISTINCT sec)) as sec
+                     head(collect(DISTINCT sec)) as sec,
+                     size([formula IN collect(DISTINCT f) WHERE formula IS NOT NULL]) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
                        s.description as description,
@@ -107,7 +112,8 @@ export async function GET(request: NextRequest) {
                        c.id as chapterId,
                        c.title as chapterTitle,
                        sec.id as sectionId,
-                       sec.title as sectionTitle
+                       sec.title as sectionTitle,
+                       usageCount
                 ${orderClause}
             `;
         }
@@ -124,6 +130,7 @@ export async function GET(request: NextRequest) {
             chapterTitle: record.get('chapterTitle') || undefined,
             sectionId: record.get('sectionId') || undefined,
             sectionTitle: record.get('sectionTitle') || undefined,
+            usageCount: record.get('usageCount')?.toNumber ? record.get('usageCount').toNumber() : record.get('usageCount') || 0,
         }));
 
         return NextResponse.json({ symbols });

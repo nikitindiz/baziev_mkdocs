@@ -8,6 +8,7 @@ export interface SymbolListItem {
     chapterTitle?: string;
     sectionId?: string;
     sectionTitle?: string;
+    usageCount?: number;
 }
 
 export interface SymbolsListResponse {

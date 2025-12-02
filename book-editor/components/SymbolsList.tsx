@@ -295,8 +295,8 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                                         </div>
                                     )}
 
-                                    {/* ID символа */}
-                                    <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
+                                    {/* ID символа и статистика */}
+                                    <div className="text-xs text-gray-500 dark:text-gray-500 mt-2 pt-2 border-t border-gray-200 dark:border-gray-700 space-y-1">
                                         <div className="flex items-center gap-1">
                                             <span className="font-semibold">ID:</span>
                                             <code className="px-1 py-0.5 bg-gray-100 dark:bg-gray-900 rounded font-mono text-[10px]">
@@ -315,6 +315,22 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
                                                 </svg>
                                             </button>
                                         </div>
+                                        {symbol.usageCount !== undefined && (
+                                            <div className="flex items-center gap-1">
+                                                <span className="font-semibold">Использований:</span>
+                                                <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${
+                                                    symbol.usageCount === 0
+                                                        ? 'bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400'
+                                                        : symbol.usageCount < 5
+                                                        ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300'
+                                                        : symbol.usageCount < 10
+                                                        ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300'
+                                                        : 'bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300'
+                                                }`}>
+                                                    {symbol.usageCount}
+                                                </span>
+                                            </div>
+                                        )}
                                     </div>
 
                                     {/* Контекст (глава/секция) */}
@@ -340,9 +356,14 @@ export function SymbolsList({ currentChapterId, currentSectionId }: SymbolsListP
             </div>
 
             {/* Статистика */}
-            {!isLoading && !error && (
-                <div className="p-3 border-t border-gray-200 dark:border-gray-700 text-xs text-gray-500 dark:text-gray-400 text-center">
-                    Найдено символов: {symbols.length}
+            {!isLoading && !error && symbols.length > 0 && (
+                <div className="p-3 border-t border-gray-200 dark:border-gray-700 text-xs text-gray-500 dark:text-gray-400">
+                    <div className="flex justify-between items-center">
+                        <span>Найдено символов: {symbols.length}</span>
+                        <span>
+                            Всего использований: {symbols.reduce((sum, s) => sum + (s.usageCount || 0), 0)}
+                        </span>
+                    </div>
                 </div>
             )}
         </div>
