@@ -46,6 +46,9 @@ export interface ParagraphWithReferences {
     content: string;
     order: number;
     verified?: boolean;
+    subsectionId?: string | null;
+    subsectionTitle?: string | null;
+    subsectionOrder?: number | null;
     tables: TableReference[];
     illustrations: IllustrationReference[];
     formulas: FormulaReference[];

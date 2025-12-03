@@ -179,13 +179,30 @@ export default function ReadInContextPage() {
 
           {/* Paragraphs */}
           <main className="space-y-6">
-            {context.paragraphs.map((paragraph) => (
-              <Paragraph
-                key={paragraph.id}
-                paragraph={paragraph}
-                isTarget={paragraph.id === paragraphId}
-              />
-            ))}
+            {context.paragraphs.map((paragraph, index) => {
+              // Проверяем, нужно ли показывать заголовок subsection
+              const isFirstInSubsection = paragraph.subsectionId && (
+                index === 0 ||
+                context.paragraphs[index - 1].subsectionId !== paragraph.subsectionId
+              );
+
+              return (
+                <div key={paragraph.id}>
+                  {/* Subsection Title */}
+                  {isFirstInSubsection && paragraph.subsectionTitle && (
+                    <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-4 mt-8">
+                      {paragraph.subsectionTitle}
+                    </h3>
+                  )}
+
+                  {/* Paragraph */}
+                  <Paragraph
+                    paragraph={paragraph}
+                    isTarget={paragraph.id === paragraphId}
+                  />
+                </div>
+              );
+            })}
           </main>
 
           {/* Bottom Navigation */}

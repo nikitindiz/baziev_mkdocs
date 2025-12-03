@@ -16,13 +16,17 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       
       // Находим все абзацы секции с их связями
       MATCH (s)-[:HAS_PARAGRAPH]->(sectionParagraph:Paragraph)
+      
+      // Проверяем, принадлежит ли параграф какой-то подсекции
+      OPTIONAL MATCH (subsec:Subsection)-[:CONTAINS_PARAGRAPH]->(sectionParagraph)
+      
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_TABLE]->(t:Table)
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_ILLUSTRATION]->(i:Illustration)
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(f:Formula)
       OPTIONAL MATCH (sectionParagraph)-[:CITES]->(l:Literature)
       
       // Извлекаем ID символов из параграфов и формул
-      WITH c, s, sectionParagraph, t, i, f, l,
+      WITH c, s, sectionParagraph, subsec, t, i, f, l,
            [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
             split(x, '}}')[0]
            ] + 
@@ -60,6 +64,9 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
         sectionParagraph.content as paragraphContent,
         sectionParagraph.order as paragraphOrder,
         sectionParagraph.verified as paragraphVerified,
+        subsec.id as subsectionId,
+        subsec.title as subsectionTitle,
+        subsec.order as subsectionOrder,
         collect(DISTINCT {
           id: t.id,
           content: t.content,
@@ -241,7 +248,6 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                         id: sym.id,
                         latex: sym.latex || '',
                         description: sym.description || undefined,
-                        units: sym.units || undefined,
                     }));
 
                 paragraphsMap.set(pId, {
@@ -249,6 +255,9 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                     content: record.get('paragraphContent') || '',
                     order: record.get('paragraphOrder')?.toNumber() || 0,
                     verified: record.get('paragraphVerified') || false,
+                    subsectionId: record.get('subsectionId') || null,
+                    subsectionTitle: record.get('subsectionTitle') || null,
+                    subsectionOrder: record.get('subsectionOrder')?.toNumber() || null,
                     tables,
                     illustrations,
                     formulas,
