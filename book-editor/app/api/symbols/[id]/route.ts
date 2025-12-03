@@ -97,3 +97,69 @@ export async function PATCH(request: NextRequest, { params }: { params: Promise<
         await session.close();
     }
 }
+
+export async function DELETE(
+    request: NextRequest,
+    { params }: { params: Promise<{ id: string }> },
+) {
+    const session = getSession();
+    const { id } = await params;
+
+    try {
+        // Проверяем использование символа в формулах
+        const checkFormulasQuery = `
+            MATCH (f:Formula)
+            WHERE f.latex CONTAINS ('{{symbol:' + $id + '}}')
+            RETURN count(f) as formulasCount
+        `;
+
+        const formulasResult = await session.run(checkFormulasQuery, { id });
+        const formulasCount = formulasResult.records[0].get('formulasCount').toNumber();
+
+        // Проверяем использование символа в параграфах
+        const checkParagraphsQuery = `
+            MATCH (p:Paragraph)
+            WHERE p.content CONTAINS ('{{symbol:' + $id + '}}')
+            RETURN count(p) as paragraphsCount
+        `;
+
+        const paragraphsResult = await session.run(checkParagraphsQuery, { id });
+        const paragraphsCount = paragraphsResult.records[0].get('paragraphsCount').toNumber();
+
+        // Если символ используется, запрещаем удаление
+        if (formulasCount > 0 || paragraphsCount > 0) {
+            return NextResponse.json(
+                {
+                    error: 'Symbol is in use',
+                    details: {
+                        formulasCount,
+                        paragraphsCount,
+                        totalUsages: formulasCount + paragraphsCount,
+                    },
+                },
+                { status: 409 },
+            );
+        }
+
+        // Удаляем символ
+        const deleteQuery = `
+            MATCH (s:Symbol {id: $id})
+            DELETE s
+            RETURN count(s) as deletedCount
+        `;
+
+        const deleteResult = await session.run(deleteQuery, { id });
+        const deletedCount = deleteResult.records[0].get('deletedCount').toNumber();
+
+        if (deletedCount === 0) {
+            return NextResponse.json({ error: 'Symbol not found' }, { status: 404 });
+        }
+
+        return NextResponse.json({ success: true, message: 'Symbol deleted successfully' });
+    } catch (error) {
+        console.error('Error deleting symbol:', error);
+        return NextResponse.json({ error: 'Failed to delete symbol' }, { status: 500 });
+    } finally {
+        await session.close();
+    }
+}

@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useQueryClient } from '@tanstack/react-query';
 import dynamic from 'next/dynamic';
+import { ConfirmModal } from './ConfirmModal';
 
 const InlineMath = dynamic(() => import('react-katex').then((mod) => mod.InlineMath), {
     ssr: false,
@@ -14,6 +15,7 @@ interface Symbol {
     description?: string;
     units?: string;
     value?: string;
+    usageCount?: number;
 }
 
 interface SymbolEditorCompactProps {
@@ -25,8 +27,11 @@ export function SymbolEditorCompact({ symbolId, onClose }: SymbolEditorCompactPr
     const queryClient = useQueryClient();
     const [loading, setLoading] = useState(true);
     const [saving, setSaving] = useState(false);
+    const [deleting, setDeleting] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const [symbol, setSymbol] = useState<Symbol | null>(null);
+    const [showDeleteModal, setShowDeleteModal] = useState(false);
+    const [usageCount, setUsageCount] = useState<number>(0);
 
     // Form state
     const [latex, setLatex] = useState('');
@@ -49,6 +54,17 @@ export function SymbolEditorCompact({ symbolId, onClose }: SymbolEditorCompactPr
                 setDescription(data.description || '');
                 setUnits(data.units || '');
                 setValue(data.value || '');
+
+                // Получаем статистику использования
+                try {
+                    const statsResponse = await fetch(`/api/symbols/${symbolId}/usage`);
+                    if (statsResponse.ok) {
+                        const stats = await statsResponse.json();
+                        setUsageCount(stats.totalUsages || 0);
+                    }
+                } catch (err) {
+                    console.error('Failed to fetch usage stats:', err);
+                }
 
                 setLoading(false);
             } catch (err) {
@@ -97,6 +113,51 @@ export function SymbolEditorCompact({ symbolId, onClose }: SymbolEditorCompactPr
             setError(err instanceof Error ? err.message : 'Unknown error');
         } finally {
             setSaving(false);
+        }
+    };
+
+    const handleDeleteClick = () => {
+        setShowDeleteModal(true);
+    };
+
+    const handleDeleteConfirm = async () => {
+        if (!symbol) return;
+
+        setShowDeleteModal(false);
+        setDeleting(true);
+        setError(null);
+
+        try {
+            const response = await fetch(`/api/symbols/${symbolId}`, {
+                method: 'DELETE',
+            });
+
+            const data = await response.json();
+
+            if (!response.ok) {
+                if (response.status === 409) {
+                    // Symbol is in use
+                    const { formulasCount, paragraphsCount, totalUsages } = data.details;
+                    throw new Error(
+                        `Символ используется в ${totalUsages} местах:\n` +
+                        `- Формулы: ${formulasCount}\n` +
+                        `- Параграфы: ${paragraphsCount}\n\n` +
+                        `Удалите все ссылки на символ перед его удалением.`
+                    );
+                }
+                throw new Error(data.error || 'Failed to delete symbol');
+            }
+
+            // Invalidate queries to refetch data
+            queryClient.invalidateQueries({ queryKey: ['symbols-list'] });
+            queryClient.invalidateQueries({ queryKey: ['paragraph-context'] });
+
+            // Close editor after successful delete
+            onClose();
+        } catch (err) {
+            setError(err instanceof Error ? err.message : 'Unknown error');
+        } finally {
+            setDeleting(false);
         }
     };
 
@@ -257,7 +318,7 @@ export function SymbolEditorCompact({ symbolId, onClose }: SymbolEditorCompactPr
                 <div className="flex gap-2 pt-2">
                     <button
                         onClick={handleSave}
-                        disabled={saving || !latex}
+                        disabled={saving || deleting || !latex}
                         className="flex-1 px-3 py-1.5 text-sm bg-blue-600 text-white rounded
                                  hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed
                                  focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
@@ -266,15 +327,49 @@ export function SymbolEditorCompact({ symbolId, onClose }: SymbolEditorCompactPr
                     </button>
                     <button
                         onClick={onClose}
-                        disabled={saving}
+                        disabled={saving || deleting}
                         className="px-3 py-1.5 text-sm bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded
                                  hover:bg-gray-300 dark:hover:bg-gray-600
                                  disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                         Отмена
                     </button>
+                    <button
+                        onClick={handleDeleteClick}
+                        disabled={saving || deleting || usageCount > 0}
+                        className="px-3 py-1.5 text-sm bg-red-600 text-white rounded
+                                 hover:bg-red-700 disabled:bg-gray-400 disabled:cursor-not-allowed
+                                 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+                        title={usageCount > 0 ? `Символ используется в ${usageCount} местах` : 'Удалить символ'}
+                    >
+                        {deleting ? (
+                            <span className="flex items-center gap-1">
+                                <svg className="animate-spin h-4 w-4" fill="none" viewBox="0 0 24 24">
+                                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                                </svg>
+                                Удаление...
+                            </span>
+                        ) : (
+                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                            </svg>
+                        )}
+                    </button>
                 </div>
             </div>
+
+            {/* Confirm Delete Modal */}
+            <ConfirmModal
+                isOpen={showDeleteModal}
+                title="Удаление символа"
+                message={`Вы уверены, что хотите удалить символ "${symbol.latex}"?\n\nЭто действие нельзя отменить.`}
+                confirmLabel="Удалить"
+                cancelLabel="Отмена"
+                onConfirm={handleDeleteConfirm}
+                onCancel={() => setShowDeleteModal(false)}
+                variant="danger"
+            />
         </div>
     );
 }
