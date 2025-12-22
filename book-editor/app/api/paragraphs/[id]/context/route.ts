@@ -25,7 +25,7 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(f:Formula)
       OPTIONAL MATCH (sectionParagraph)-[:CITES]->(l:Literature)
       
-      // Извлекаем ID символов/формул из параграфов, формул и заголовков подсекций
+      // Извлекаем ID символов/формул из параграфов, формул, заголовков подсекций и таблиц
       WITH c, s, sectionParagraph, subsec, t, i, f, l,
            [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
             split(x, '}}')[0]
@@ -44,6 +44,15 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
               split(x, '}}')[0]
              ] +
              [x IN split(subsec.title, '{{formula:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+              split(split(x, '}}')[0], ':(')[0]
+             ]
+           ELSE []
+           END +
+           CASE WHEN t.content IS NOT NULL THEN
+             [x IN split(t.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+              split(x, '}}')[0]
+             ] +
+             [x IN split(t.content, '{{formula:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
               split(split(x, '}}')[0], ':(')[0]
              ]
            ELSE []

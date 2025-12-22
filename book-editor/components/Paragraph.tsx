@@ -45,6 +45,91 @@ export function Paragraph({
   // Заменяем Markdown ссылки на HTML
   paragraphContent = replaceMarkdownLinks(paragraphContent);
 
+  // Функция для обработки текста с формулами и символами
+  const processText = (text: string): string => {
+    let processed = text;
+
+    // Заменяем {{formula:id}} на LaTeX формулы
+    if (renderFormulas && paragraph.formulas.length > 0) {
+      processed = replaceFormulaPlaceholders(
+        processed,
+        paragraph.formulas,
+        paragraph.symbols
+      );
+    }
+
+    // Заменяем {{symbol:id}} на LaTeX символы
+    if (paragraph.symbols?.length > 0) {
+      processed = replaceSymbolPlaceholders(processed, paragraph.symbols);
+    }
+
+    // Заменяем {{literature:id}} на ссылки
+    if (paragraph.literature?.length > 0) {
+      processed = replaceLiteraturePlaceholders(processed, paragraph.literature);
+    }
+
+    // Заменяем Markdown ссылки на HTML
+    processed = replaceMarkdownLinks(processed);
+
+    return processed;
+  };
+
+  // Функция для конвертации JSON таблицы в HTML
+  const convertTableJsonToHtml = (tableContent: string): string => {
+    try {
+      const tableData = JSON.parse(tableContent);
+
+      if (!tableData.headers || !tableData.rows) {
+        return tableContent; // Если это не JSON с таблицей, возвращаем как есть
+      }
+
+      let html = '<table class="min-w-full divide-y divide-gray-300 dark:divide-gray-600">';
+
+      // Header - обрабатываем заголовки перед вставкой
+      html += '<thead class="bg-gray-50 dark:bg-gray-800">';
+      html += '<tr>';
+      tableData.headers.forEach((header: string) => {
+        const processedHeader = processText(header);
+        html += `<th scope="col" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900 dark:text-gray-100">${processedHeader}</th>`;
+      });
+      html += '</tr>';
+      html += '</thead>';
+
+      // Body - обрабатываем ячейки перед вставкой
+      html += '<tbody class="divide-y divide-gray-200 dark:divide-gray-700 bg-white dark:bg-gray-900">';
+      tableData.rows.forEach((row: string[]) => {
+        html += '<tr>';
+        row.forEach((cell: string, index: number) => {
+          const processedCell = processText(cell);
+          if (index === 0) {
+            html += `<td class="whitespace-nowrap px-3 py-4 text-sm font-medium text-gray-900 dark:text-gray-100">${processedCell}</td>`;
+          } else {
+            html += `<td class="whitespace-nowrap px-3 py-4 text-sm text-gray-700 dark:text-gray-300">${processedCell}</td>`;
+          }
+        });
+        html += '</tr>';
+      });
+      html += '</tbody>';
+      html += '</table>';
+
+      return html;
+    } catch (e) {
+      // Если это не JSON или парсинг не удался, возвращаем как есть
+      return tableContent;
+    }
+  };
+
+  // Обрабатываем таблицы: конвертируем JSON в HTML с обработкой формул
+  const processedTables = paragraph.tables.map(table => {
+    // Конвертируем JSON в HTML таблицу (внутри уже обрабатываются формулы)
+    const tableContent = convertTableJsonToHtml(table.content);
+
+    return {
+      ...table,
+      processedContent: tableContent
+    };
+  });
+
   return (
     <div
       id={`paragraph-${paragraph.id}`}
@@ -61,13 +146,13 @@ export function Paragraph({
       />
 
       {/* Tables */}
-      {paragraph.tables.length > 0 && (
+      {processedTables.length > 0 && (
         <div className="mt-6 space-y-4">
-          {paragraph.tables.map((table) => (
+          {processedTables.map((table) => (
             <div key={table.id} className="border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
               <div
-                className="overflow-x-auto"
-                dangerouslySetInnerHTML={{ __html: table.content }}
+                className="overflow-x-auto prose dark:prose-invert max-w-none"
+                dangerouslySetInnerHTML={{ __html: table.processedContent }}
               />
             </div>
           ))}
