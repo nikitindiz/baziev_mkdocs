@@ -1,0 +1,9 @@
+{
+    "chat.agent.maxRequests": 500,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.configPath": "/Users/electrino/work/vibed/baziev_mkdocs/book-editor/.prettierrc.json",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
