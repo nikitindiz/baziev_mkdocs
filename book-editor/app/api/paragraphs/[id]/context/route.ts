@@ -25,23 +25,36 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(f:Formula)
       OPTIONAL MATCH (sectionParagraph)-[:CITES]->(l:Literature)
       
-      // Извлекаем ID символов из параграфов и формул
+      // Извлекаем ID символов/формул из параграфов, формул и заголовков подсекций
       WITH c, s, sectionParagraph, subsec, t, i, f, l,
            [x IN split(sectionParagraph.content, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
             split(x, '}}')[0]
            ] + 
+           [x IN split(sectionParagraph.content, '{{formula:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+            split(split(x, '}}')[0], ':(')[0]
+           ] +
            CASE WHEN f.latex IS NOT NULL THEN
              [x IN split(f.latex, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
               split(x, '}}')[0]
              ]
            ELSE []
-           END as symbolIds
+           END +
+           CASE WHEN subsec.title IS NOT NULL THEN
+             [x IN split(subsec.title, '{{symbol:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+              split(x, '}}')[0]
+             ] +
+             [x IN split(subsec.title, '{{formula:') WHERE size(x) > 0 AND size(split(x, '}}')) > 0 | 
+              split(split(x, '}}')[0], ':(')[0]
+             ]
+           ELSE []
+           END as allIds
       
-      // Получаем символы по найденным ID
-      UNWIND CASE WHEN size([sid IN symbolIds WHERE sid IS NOT NULL]) > 0 
-                  THEN [sid IN symbolIds WHERE sid IS NOT NULL] 
-                  ELSE [null] END as symbolId
-      OPTIONAL MATCH (sym:Symbol {id: symbolId})
+      // Получаем символы и формулы по найденным ID
+      UNWIND CASE WHEN size([aid IN allIds WHERE aid IS NOT NULL]) > 0 
+                  THEN [aid IN allIds WHERE aid IS NOT NULL] 
+                  ELSE [null] END as itemId
+      OPTIONAL MATCH (sym:Symbol {id: itemId})
+      OPTIONAL MATCH (formula:Formula {id: itemId})
       
       // Находим предыдущую и следующую главы
       OPTIONAL MATCH (c)-[:PREVIOUS]->(prevChapter:Chapter)
@@ -89,7 +102,17 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           symbol_parse_confidence: f.symbol_parse_confidence,
           symbol_definition: f.symbol_definition,
           metadata: f.metadata
-        }) as formulas,
+        }) as formulasFromParagraph,
+        collect(DISTINCT {
+          id: formula.id,
+          latex: formula.latex,
+          wrapper_html: formula.wrapper_html,
+          type: formula.type,
+          is_symbol: formula.is_symbol,
+          symbol_parse_confidence: formula.symbol_parse_confidence,
+          symbol_definition: formula.symbol_definition,
+          metadata: formula.metadata
+        }) as formulasFromSubsection,
         collect(DISTINCT {
           id: l.id,
           number: l.number,
@@ -205,32 +228,45 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                         type: i.type || undefined,
                     }));
 
-                const formulas = record
-                    .get('formulas')
-                    .filter((f: any) => f.id !== null)
-                    .map((f: any) => {
-                        let metadata = undefined;
-                        if (f.metadata) {
-                            try {
-                                metadata =
-                                    typeof f.metadata === 'string'
-                                        ? JSON.parse(f.metadata)
-                                        : f.metadata;
-                            } catch (e) {
-                                console.error('Failed to parse formula metadata:', e);
-                            }
+                // Объединяем формулы из параграфа и из подсекции
+                const formulasFromParagraph = record
+                    .get('formulasFromParagraph')
+                    .filter((f: any) => f.id !== null);
+                const formulasFromSubsection = record
+                    .get('formulasFromSubsection')
+                    .filter((f: any) => f.id !== null);
+
+                // Создаём Map для удаления дубликатов
+                const formulasMap = new Map();
+                [...formulasFromParagraph, ...formulasFromSubsection].forEach((f: any) => {
+                    if (f.id) {
+                        formulasMap.set(f.id, f);
+                    }
+                });
+
+                const formulas = Array.from(formulasMap.values()).map((f: any) => {
+                    let metadata = undefined;
+                    if (f.metadata) {
+                        try {
+                            metadata =
+                                typeof f.metadata === 'string'
+                                    ? JSON.parse(f.metadata)
+                                    : f.metadata;
+                        } catch (e) {
+                            console.error('Failed to parse formula metadata:', e);
                         }
-                        return {
-                            id: f.id,
-                            latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
-                            wrapper_html: f.wrapper_html || undefined,
-                            type: f.type || undefined,
-                            is_symbol: f.is_symbol || undefined,
-                            symbol_parse_confidence: f.symbol_parse_confidence || undefined,
-                            symbol_definition: f.symbol_definition || undefined,
-                            metadata,
-                        };
-                    });
+                    }
+                    return {
+                        id: f.id,
+                        latex: f.latex.replace(/^\$+(.*?)\$+(.*?)/g, '$1 $2') || '',
+                        wrapper_html: f.wrapper_html || undefined,
+                        type: f.type || undefined,
+                        is_symbol: f.is_symbol || undefined,
+                        symbol_parse_confidence: f.symbol_parse_confidence || undefined,
+                        symbol_definition: f.symbol_definition || undefined,
+                        metadata,
+                    };
+                });
 
                 const literature = record
                     .get('literature')

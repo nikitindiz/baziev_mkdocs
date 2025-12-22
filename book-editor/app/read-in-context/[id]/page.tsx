@@ -12,6 +12,7 @@ import { ParagraphEditor } from '../../../components/ParagraphEditor';
 import { FormulaEditor } from '../../../components/FormulaEditor';
 import { SymbolsList } from '../../../components/SymbolsList';
 import { SymbolEditor } from '../../../components/SymbolEditor';
+import { replaceFormulaPlaceholders, replaceSymbolPlaceholders, replaceLiteraturePlaceholders, replaceMarkdownLinks } from '@/lib/latex-renderer';
 
 async function fetchParagraphContext(paragraphId: string): Promise<ParagraphContextResponse> {
   console.log('Fetching context for paragraph ID:', paragraphId);
@@ -190,9 +191,45 @@ export default function ReadInContextPage() {
                 <div key={paragraph.id}>
                   {/* Subsection Title */}
                   {isFirstInSubsection && paragraph.subsectionTitle && (
-                    <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-4 mt-8">
-                      {paragraph.subsectionTitle}
-                    </h3>
+                    <h3
+                      className="text-lg font-semibold text-gray-800 dark:text-gray-200 mb-4 mt-8"
+                      dangerouslySetInnerHTML={{
+                        __html: (() => {
+                          // Обрабатываем subsectionTitle так же, как и содержимое параграфа
+                          // Важно: используем ВСЕ формулы и символы из контекста, а не только из текущего параграфа
+                          let processedTitle = paragraph.subsectionTitle;
+
+                          // Собираем все формулы и символы из всех параграфов
+                          const allFormulas = context.paragraphs.flatMap(p => p.formulas);
+                          const allSymbols = context.paragraphs.flatMap(p => p.symbols);
+                          const allLiterature = context.paragraphs.flatMap(p => p.literature);
+
+                          // Заменяем {{formula:id}} на LaTeX формулы
+                          if (allFormulas.length > 0) {
+                            processedTitle = replaceFormulaPlaceholders(
+                              processedTitle,
+                              allFormulas,
+                              allSymbols
+                            );
+                          }
+
+                          // Заменяем {{symbol:id}} на LaTeX символы
+                          if (allSymbols.length > 0) {
+                            processedTitle = replaceSymbolPlaceholders(processedTitle, allSymbols);
+                          }
+
+                          // Заменяем {{literature:id}} на ссылки
+                          if (allLiterature.length > 0) {
+                            processedTitle = replaceLiteraturePlaceholders(processedTitle, allLiterature);
+                          }
+
+                          // Заменяем Markdown ссылки на HTML
+                          processedTitle = replaceMarkdownLinks(processedTitle);
+
+                          return processedTitle;
+                        })()
+                      }}
+                    />
                   )}
 
                   {/* Paragraph */}
