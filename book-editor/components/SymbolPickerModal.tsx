@@ -93,8 +93,8 @@ export function SymbolPickerModal({ isOpen, onClose, onSelect, formulaId, onSymb
         return (
             symbol.latex.toLowerCase().includes(query) ||
             symbol.description?.toLowerCase().includes(query) ||
-            symbol.value?.toLowerCase().includes(query) ||
-            symbol.units?.toLowerCase().includes(query)
+            `${symbol.value}`.toLowerCase().includes(query) ||
+            `${symbol.units}`.toLowerCase().includes(query)
         );
     });
 
