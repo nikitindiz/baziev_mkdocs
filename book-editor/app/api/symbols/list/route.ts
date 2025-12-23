@@ -60,7 +60,7 @@ export async function GET(request: NextRequest) {
                 // Объединяем все символы
                 UNWIND (symbolIdsInFormula + symbolIdsInParagraph) as symbolId
                 MATCH (s:Symbol {id: symbolId})
-                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(toString(COALESCE(s.value, ""))) CONTAINS toLower($searchText))' : ''}
                 WITH s, c, sec, count(symbolId) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
@@ -95,7 +95,7 @@ export async function GET(request: NextRequest) {
                 // Объединяем все символы
                 UNWIND (symbolIdsInFormula + symbolIdsInParagraph) as symbolId
                 MATCH (s:Symbol {id: symbolId})
-                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(toString(COALESCE(s.value, ""))) CONTAINS toLower($searchText))' : ''}
                 WITH s, c, sec, count(symbolId) as usageCount
                 RETURN s.id as id,
                        s.latex as latex,
@@ -113,7 +113,7 @@ export async function GET(request: NextRequest) {
             // Без фильтров по главе/секции - показываем все символы
             query = `
                 MATCH (s:Symbol)
-                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.value, "")) CONTAINS toLower($searchText))' : ''}
+                ${searchText ? 'WHERE (toLower(s.latex) CONTAINS toLower($searchText) OR toLower(COALESCE(s.description, "")) CONTAINS toLower($searchText) OR toLower(COALESCE(s.units, "")) CONTAINS toLower($searchText) OR toLower(toString(COALESCE(s.value, ""))) CONTAINS toLower($searchText))' : ''}
                 
                 // Считаем использование в формулах
                 OPTIONAL MATCH (f:Formula)

@@ -45,6 +45,11 @@ export function Paragraph({
   // Заменяем Markdown ссылки на HTML
   paragraphContent = replaceMarkdownLinks(paragraphContent);
 
+  // Преобразуем переводы строк в <br> теги
+  paragraphContent = paragraphContent.replace(/\n/g, '<br>');
+
+  console.log('Final paragraph content:', paragraphContent);
+
   // Функция для обработки текста с формулами и символами
   const processText = (text: string): string => {
     let processed = text;
@@ -71,8 +76,11 @@ export function Paragraph({
     // Заменяем Markdown ссылки на HTML
     processed = replaceMarkdownLinks(processed);
 
+    console.log('Processed text:', processed);
+
     return processed;
   };
+
 
   // Функция для конвертации JSON таблицы в HTML
   const convertTableJsonToHtml = (tableContent: string): string => {

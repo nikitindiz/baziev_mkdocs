@@ -58,12 +58,41 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
            ELSE []
            END as allIds
       
+      // Получаем символы двумя способами:
+      // 1) Парсим из текста (allIds already collected above)
+      // 2) Напрямую через связи CONTAINS_SYMBOL
+      
+      // Сохраняем формулы
+      WITH c, s, sectionParagraph, subsec, t, i, collect(DISTINCT f) as formulas, l, allIds
+      
+      // СЕЙЧАС ищем символы через связи - но уже НЕТ связи paragraph→formula в контексте!
+      // Нужно заново найти эту связь
+      
+      OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(linkedFormula:Formula)
+      OPTIONAL MATCH (linkedFormula)-[:CONTAINS_SYMBOL]->(linkedSymbol:Symbol)
+      
+      // Собираем ID символов
+      WITH c, s, sectionParagraph, subsec, t, i, formulas, l, allIds,
+           collect(DISTINCT linkedSymbol.id) as linkedSymbolIds
+      
+      // Объединяем
+      WITH c, s, sectionParagraph, subsec, t, i, formulas, l,
+           allIds + linkedSymbolIds as combinedIds
+      
       // Получаем символы и формулы по найденным ID
-      UNWIND CASE WHEN size([aid IN allIds WHERE aid IS NOT NULL]) > 0 
-                  THEN [aid IN allIds WHERE aid IS NOT NULL] 
+      UNWIND CASE WHEN size(combinedIds) > 0 
+                  THEN combinedIds
                   ELSE [null] END as itemId
       OPTIONAL MATCH (sym:Symbol {id: itemId})
       OPTIONAL MATCH (formula:Formula {id: itemId})
+      
+      // Собираем все символы и формулы в коллекции
+      WITH c, s, sectionParagraph, subsec, t, i, formulas, l,
+           collect(DISTINCT sym) as symbols,
+           collect(DISTINCT formula) as formulasById
+      
+      // Разворачиваем формулы для финального возврата
+      UNWIND CASE WHEN size(formulas) > 0 THEN formulas ELSE [null] END as singleFormula
       
       // Находим предыдущую и следующую главы
       OPTIONAL MATCH (c)-[:PREVIOUS]->(prevChapter:Chapter)
@@ -103,6 +132,16 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           type: i.type
         }) as illustrations,
         collect(DISTINCT {
+          id: singleFormula.id,
+          latex: singleFormula.latex,
+          wrapper_html: singleFormula.wrapper_html,
+          type: singleFormula.type,
+          is_symbol: singleFormula.is_symbol,
+          symbol_parse_confidence: singleFormula.symbol_parse_confidence,
+          symbol_definition: singleFormula.symbol_definition,
+          metadata: singleFormula.metadata
+        }) as formulasFromParagraph,
+        [f IN formulasById WHERE f IS NOT NULL | {
           id: f.id,
           latex: f.latex,
           wrapper_html: f.wrapper_html,
@@ -111,28 +150,18 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
           symbol_parse_confidence: f.symbol_parse_confidence,
           symbol_definition: f.symbol_definition,
           metadata: f.metadata
-        }) as formulasFromParagraph,
-        collect(DISTINCT {
-          id: formula.id,
-          latex: formula.latex,
-          wrapper_html: formula.wrapper_html,
-          type: formula.type,
-          is_symbol: formula.is_symbol,
-          symbol_parse_confidence: formula.symbol_parse_confidence,
-          symbol_definition: formula.symbol_definition,
-          metadata: formula.metadata
-        }) as formulasFromSubsection,
+        }] as formulasFromSubsection,
         collect(DISTINCT {
           id: l.id,
           number: l.number,
           text: l.text
         }) as literature,
-        collect(DISTINCT {
-          id: sym.id,
-          latex: sym.latex,
-          description: sym.description,
-          units: sym.units
-        }) as symbols,
+        [s IN symbols WHERE s IS NOT NULL | {
+          id: s.id,
+          latex: s.latex,
+          description: s.description,
+          units: s.units
+        }] as symbolsList,
         prevChapter.id as prevChapterId,
         prevChapter.title as prevChapterTitle,
         prevChapter.order as prevChapterOrder,
@@ -151,6 +180,15 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
     `;
 
         const result = await session.run(query, { paragraphId: id });
+
+        // Логирование для отладки
+        if (id.includes('_p34')) {
+            console.log('=== DEBUG p34 ===');
+            console.log('Total records:', result.records.length);
+            const firstRecord = result.records[0];
+            console.log('Symbols count:', firstRecord?.get('symbolsList')?.length || 0);
+            console.log('Formulas count:', firstRecord?.get('formulasFromParagraph')?.length || 0);
+        }
 
         if (result.records.length === 0) {
             return NextResponse.json(
@@ -287,7 +325,7 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
                     }));
 
                 const symbols = record
-                    .get('symbols')
+                    .get('symbolsList')
                     .filter((sym: any) => sym.id !== null)
                     .map((sym: any) => ({
                         id: sym.id,
