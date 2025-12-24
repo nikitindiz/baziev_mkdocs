@@ -71,17 +71,24 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
       OPTIONAL MATCH (sectionParagraph)-[:CONTAINS_FORMULA]->(linkedFormula:Formula)
       OPTIONAL MATCH (linkedFormula)-[:CONTAINS_SYMBOL]->(linkedSymbol:Symbol)
       
-      // Собираем ID символов
+      // Собираем ID символов из связей
       WITH c, s, sectionParagraph, subsec, t, i, formulas, l, allIds,
            collect(DISTINCT linkedSymbol.id) as linkedSymbolIds
       
-      // Объединяем
+      // Объединяем - здесь важно: allIds уже содержит и символы, и формулы!
+      // Разделяем на два списка: символы и формулы
       WITH c, s, sectionParagraph, subsec, t, i, formulas, l,
-           allIds + linkedSymbolIds as combinedIds
+           [id IN allIds WHERE id IS NOT NULL] + linkedSymbolIds as allSymbolAndFormulaIds
+      
+      // Получаем уникальные ID символов и формул
+      WITH c, s, sectionParagraph, subsec, t, i, formulas, l,
+           reduce(acc = [], id IN allSymbolAndFormulaIds | 
+             CASE WHEN NOT id IN acc THEN acc + [id] ELSE acc END
+           ) as uniqueIds
       
       // Получаем символы и формулы по найденным ID
-      UNWIND CASE WHEN size(combinedIds) > 0 
-                  THEN combinedIds
+      UNWIND CASE WHEN size(uniqueIds) > 0 
+                  THEN uniqueIds
                   ELSE [null] END as itemId
       OPTIONAL MATCH (sym:Symbol {id: itemId})
       OPTIONAL MATCH (formula:Formula {id: itemId})
