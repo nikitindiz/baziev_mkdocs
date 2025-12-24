@@ -24,6 +24,9 @@ export function Paragraph({
   // Заменяем {{formula:id}} на LaTeX формулы (с подстановкой символов в формулы)
   let paragraphContent = paragraph.content;
 
+  // Преобразуем переводы строк в <br> теги ДО рендеринга формул
+  paragraphContent = paragraphContent.replace(/\n/g, '<br>');
+
   if (renderFormulas && paragraph.formulas.length > 0) {
     paragraphContent = replaceFormulaPlaceholders(
       paragraphContent,
@@ -44,9 +47,6 @@ export function Paragraph({
 
   // Заменяем Markdown ссылки на HTML
   paragraphContent = replaceMarkdownLinks(paragraphContent);
-
-  // Преобразуем переводы строк в <br> теги
-  paragraphContent = paragraphContent.replace(/\n/g, '<br>');
 
   console.log('Final paragraph content:', paragraphContent);
 
