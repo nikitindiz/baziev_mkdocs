@@ -3,6 +3,7 @@
 import { ParagraphWithReferences } from '@/types/paragraph-context';
 import { replaceFormulaPlaceholders, renderLatex, replaceLiteraturePlaceholders, replaceSymbolPlaceholders, replaceMarkdownLinks } from '@/lib/latex-renderer';
 import Link from 'next/link';
+import { useState } from 'react';
 
 interface ParagraphProps {
   paragraph: ParagraphWithReferences;
@@ -18,9 +19,10 @@ export function Paragraph({
   isTarget = false,
   renderFormulas = true,
   showFormulasContext = false,
-  showParagraphId = false,
+  showParagraphId = true,
   showSymbols = true,
 }: ParagraphProps) {
+  const [copied, setCopied] = useState(false);
   // Заменяем {{formula:id}} на LaTeX формулы (с подстановкой символов в формулы)
   let paragraphContent = paragraph.content;
 
@@ -211,10 +213,23 @@ export function Paragraph({
 
       {/* Paragraph ID (for debugging) */}
       {showParagraphId && (
-        <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
-          <span className="text-xs text-gray-400 dark:text-gray-600 font-mono">
+        <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700 flex items-center gap-2">
+          <button
+            onClick={() => {
+              navigator.clipboard.writeText(`Проанализируй ${paragraph.id}`);
+              setCopied(true);
+              setTimeout(() => setCopied(false), 2000);
+            }}
+            className="text-xs text-gray-400 dark:text-gray-600 font-mono hover:text-blue-500 dark:hover:text-blue-400 transition-colors cursor-pointer"
+            title="Нажмите, чтобы скопировать ID"
+          >
             {paragraph.id}
-          </span>
+          </button>
+          {copied && (
+            <span className="text-xs text-green-600 dark:text-green-400 font-medium animate-fade-in">
+              Скопировано!
+            </span>
+          )}
         </div>
       )}
 
