@@ -1,0 +1,9 @@
+{
+    "timestamp": "20260129_020639",
+    "date": "2026-01-28T22:06:53Z",
+    "deployment_type": "local",
+    "compressed": true,
+    "backup_dir": "/Users/electrino/work/vibed/baziev_mkdocs/graph-project/backups",
+    "hostname": "electrinos-MacBook-Pro.local",
+    "neo4j_version": "2025.09.0"
+}
